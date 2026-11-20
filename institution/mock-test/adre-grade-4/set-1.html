@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+  <meta name="googlebot" content="noindex, nofollow" />
+  <title>ADRE 3.0 Grade IV — Full Paper Set 1 | axomexam</title>
+  <meta name="theme-color" content="#4f46e5" />
+  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+Bengali:wght@400;600;700&display=swap" media="print" onload="this.media='all'" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+Bengali:wght@400;600;700&display=swap" /></noscript>
+  <script>
+    (function () {
+      try {
+        if (localStorage.getItem("axomexam-theme") === "dark") {
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <style>
+:root {
+  --brand: #4f46e5;
+  --brand-soft: #eef2ff;
+  --brand-line: #c7d2fe;
+  --ink: #0f172a;
+  --ink-soft: #475569;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --line-soft: #f1f5f9;
+  --bg: #ffffff;
+  --bg-soft: #f8fafc;
+  --ok: #059669;
+  --ok-soft: #ecfdf5;
+  --bad: #dc2626;
+  --bad-soft: #fef2f2;
+  --warn: #d97706;
+  --shadow: 0 1px 2px rgba(15,23,42,.05), 0 8px 24px -12px rgba(15,23,42,.18);
+}
+[data-theme="dark"] {
+  --brand: #818cf8;
+  --brand-soft: #1e1b4b;
+  --brand-line: #3730a3;
+  --ink: #f1f5f9;
+  --ink-soft: #cbd5e1;
+  --muted: #94a3b8;
+  --line: #1e293b;
+  --line-soft: #172033;
+  --bg: #0b1220;
+  --bg-soft: #0f172a;
+  --ok: #34d399;
+  --ok-soft: #052e26;
+  --bad: #f87171;
+  --bad-soft: #3f1d1d;
+  --warn: #fbbf24;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 32px -16px rgba(0,0,0,.8);
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg-soft); color: var(--ink);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  line-height: 1.55; font-size: 15px;
+}
+.as, [lang="as"] { font-family: "Noto Sans Bengali", "Noto Serif Bengali", sans-serif; }
+a { color: inherit; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+
+/* ---------- header ---------- */
+.hdr { background: var(--bg); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
+.hdr-in { display: flex; align-items: center; gap: 14px; height: 60px; }
+.brand { display: flex; align-items: center; gap: 9px; text-decoration: none; font-weight: 800; letter-spacing: -.3px; }
+.brand-mark {
+  width: 30px; height: 30px; border-radius: 9px; background: var(--brand); color: #fff;
+  display: grid; place-items: center; font-size: 16px; font-weight: 800; flex: 0 0 auto;
+}
+.brand-txt { font-size: 16px; color: var(--ink); }
+.hdr-tag {
+  font-size: 11px; font-weight: 700; letter-spacing: .8px; text-transform: uppercase;
+  color: var(--brand); background: var(--brand-soft); border: 1px solid var(--brand-line);
+  padding: 3px 8px; border-radius: 999px;
+}
+.hdr-sp { flex: 1; }
+.hdr a.back { font-size: 13.5px; font-weight: 600; color: var(--ink-soft); text-decoration: none; padding: 7px 12px; border-radius: 9px; border: 1px solid var(--line); }
+.hdr a.back:hover { border-color: var(--brand-line); color: var(--brand); }
+.tgl {
+  width: 36px; height: 36px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg);
+  color: var(--ink-soft); cursor: pointer; display: grid; place-items: center; flex: 0 0 auto;
+}
+.tgl:hover { color: var(--brand); border-color: var(--brand-line); }
+.tgl svg { width: 17px; height: 17px; }
+[data-theme="dark"] .i-sun { display: none; }
+:root:not([data-theme="dark"]) .i-moon { display: none; }
+
+/* ---------- hero ---------- */
+.hero { padding: 30px 0 18px; }
+.hero h1 { margin: 0 0 8px; font-size: clamp(23px, 4vw, 31px); letter-spacing: -.8px; line-height: 1.2; }
+.hero p { margin: 0; color: var(--ink-soft); max-width: 66ch; font-size: 15px; }
+.hero-stats { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+.stat {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
+  padding: 9px 14px; font-size: 13px; color: var(--muted); box-shadow: var(--shadow);
+}
+.stat b { display: block; font-size: 18px; color: var(--ink); letter-spacing: -.4px; line-height: 1.25; }
+
+/* ---------- set picker ---------- */
+.exam-block { margin-bottom: 30px; }
+.exam-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin: 0 0 4px; }
+.exam-head h2 { margin: 0; font-size: 19px; letter-spacing: -.3px; }
+.exam-head .as { font-size: 14px; color: var(--muted); }
+.exam-sub { margin: 0 0 14px; font-size: 13.5px; color: var(--muted); }
+.sets { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+.set {
+  display: flex; gap: 12px; align-items: flex-start; text-decoration: none;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 14px;
+  box-shadow: var(--shadow); transition: border-color .15s, transform .15s;
+}
+.set:hover { border-color: var(--brand); transform: translateY(-1px); }
+.set .ic { flex: 0 0 36px; height: 36px; border-radius: 10px; display: grid; place-items: center; background: var(--brand-soft); color: var(--brand); }
+.set .ic svg { width: 19px; height: 19px; }
+.set .nm { font-weight: 700; font-size: 14.5px; line-height: 1.35; }
+.set .sub { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
+.set .go { font-size: 11.5px; font-weight: 800; letter-spacing: .5px; text-transform: uppercase; color: var(--brand); margin-top: 7px; }
+
+/* ---------- setup screen ---------- */
+.setup { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 22px; box-shadow: var(--shadow); margin-bottom: 26px; }
+.setup h1 { margin: 0 0 6px; font-size: clamp(20px, 3.4vw, 26px); letter-spacing: -.5px; }
+.setup .lead { margin: 0 0 18px; color: var(--ink-soft); font-size: 14px; }
+.setup-row { margin-bottom: 18px; }
+.setup-lbl { font-size: 12px; font-weight: 800; letter-spacing: .7px; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+.seg { display: inline-flex; gap: 6px; background: var(--bg-soft); border: 1px solid var(--line); border-radius: 11px; padding: 4px; }
+.seg button {
+  border: 0; background: transparent; font: inherit; font-size: 13.5px; font-weight: 600;
+  color: var(--muted); padding: 8px 16px; border-radius: 8px; cursor: pointer; white-space: nowrap;
+}
+.seg button[aria-pressed="true"] { background: var(--brand); color: #fff; }
+.rules { margin: 0; padding-left: 20px; color: var(--ink-soft); font-size: 13.5px; }
+.rules li { margin-bottom: 6px; }
+.start-btn {
+  display: inline-flex; align-items: center; gap: 8px; border: 0; cursor: pointer;
+  background: var(--brand); color: #fff; font: inherit; font-weight: 700; font-size: 15px;
+  padding: 13px 26px; border-radius: 12px; box-shadow: var(--shadow);
+}
+.start-btn:hover { filter: brightness(1.06); }
+.start-btn:focus-visible { outline: 2px solid var(--brand); outline-offset: 3px; }
+.start-btn:disabled, .start-btn:disabled:hover {
+  opacity: .45; cursor: not-allowed; filter: grayscale(.35); box-shadow: none;
+}
+.agree {
+  display: flex; gap: 11px; align-items: flex-start; margin: 0 0 8px;
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 12px;
+  padding: 12px 14px; font-size: 13.5px; color: var(--ink-soft); line-height: 1.5;
+  transition: border-color .15s ease, background .15s ease;
+}
+.agree:has(input:checked), .agree.on { border-color: var(--brand); background: var(--brand-soft); }
+.agree-txt { cursor: pointer; }
+.agree:focus-within { border-color: var(--brand-line); }
+.agree input {
+  flex: 0 0 auto; width: 18px; height: 18px; margin: 1px 0 0;
+  accent-color: var(--brand); cursor: pointer;
+}
+.lnk {
+  border: 0; background: none; padding: 0; font: inherit; font-size: 13px;
+  color: var(--brand); font-weight: 700; text-decoration: underline; cursor: pointer;
+}
+.lnk:hover { filter: brightness(1.1); }
+.terms { margin: 0 0 6px; padding-left: 18px; font-size: 13.5px; color: var(--ink-soft); line-height: 1.55; }
+.terms li { margin-bottom: 7px; }
+
+/* ---------- runner ---------- */
+.runner { display: none; }
+.runner.on { display: block; }
+.paper-top {
+  position: sticky; top: 60px; z-index: 15; background: var(--bg);
+  border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px;
+  box-shadow: var(--shadow); margin-bottom: 14px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 12px;
+}
+.timer {
+  font-variant-numeric: tabular-nums; font-weight: 800; font-size: 19px; letter-spacing: -.5px;
+  display: inline-flex; align-items: center; padding: 6px 12px 6px 33px;
+  background-color: var(--bg-soft); border: 1px solid var(--line); border-radius: 10px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M12 7.5v5l3 2'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: 10px center; background-size: 16px;
+}
+.timer.low { color: var(--bad); border-color: var(--bad); background-color: var(--bad-soft); }
+.paper-meta { font-size: 12.5px; color: var(--muted); }
+.paper-sp { flex: 1; }
+.pbtn {
+  border: 1px solid var(--line); background: var(--bg); color: var(--ink-soft);
+  font: inherit; font-size: 13px; font-weight: 600; padding: 8px 14px; border-radius: 9px; cursor: pointer;
+}
+.pbtn:hover { border-color: var(--brand-line); color: var(--brand); }
+.pbtn.primary { background: var(--brand); border-color: var(--brand); color: #fff; }
+.pbtn.primary:hover { filter: brightness(1.06); color: #fff; }
+.pbtn:disabled { opacity: .5; cursor: not-allowed; }
+.pbtn.quit { color: var(--bad); border-color: var(--line); }
+.pbtn.quit:hover { background: var(--bad-soft); border-color: var(--bad); color: var(--bad); }
+.bar-track { height: 5px; background: var(--line-soft); border-radius: 999px; overflow: hidden; flex: 1 1 100%; }
+.bar-fill { height: 100%; background: var(--brand); width: 0; transition: width .2s; }
+
+.qwrap { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 20px; box-shadow: var(--shadow); }
+.qhead { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+.qno { font-size: 12px; font-weight: 800; letter-spacing: .6px; text-transform: uppercase; color: var(--brand); }
+.qflag { margin-left: auto; border: 1px solid var(--line); background: var(--bg); color: var(--muted); font: inherit; font-size: 12px; font-weight: 600; padding: 6px 11px; border-radius: 8px; cursor: pointer; }
+.qflag[aria-pressed="true"] { background: #fef3c7; border-color: #fcd34d; color: #92400e; }
+[data-theme="dark"] .qflag[aria-pressed="true"] { background: #422006; border-color: #a16207; color: #fcd34d; }
+.qtext { margin: 0 0 14px; font-size: 16px; font-weight: 600; line-height: 1.5; }
+.qfig { margin: 0 0 14px; text-align: center; }
+.qfig svg, .qfig img { width: 100%; max-width: 340px; height: auto; max-height: 260px; }
+.opts { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.opts.fig { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 640px) {
+  .opts.fig { grid-template-columns: repeat(2, 1fr); }
+  /* keep the runner bar at two rows so the sticky header stays short */
+  .paper-top { gap: 8px; padding: 10px 12px; top: 52px; }
+  .timer { font-size: 17px; padding: 5px 10px 5px 29px; background-position: 8px center; }
+  .paper-meta { font-size: 11.5px; }
+  .paper-sp { display: none; }
+  .pbtn { font-size: 12.5px; padding: 7px 11px; }
+  #prevbtn, #nextbtn { flex: 1 1 auto; }
+  #submitbtn { flex: 1 1 46%; }
+  #quitbtn { flex: 1 1 46%; }
+}
+.opt {
+  position: relative;
+  display: flex; gap: 13px; align-items: center; width: 100%; text-align: left;
+  background: var(--bg); border: 1.5px solid var(--line); border-radius: 14px; padding: 14px 16px;
+  font: inherit; color: inherit; cursor: pointer;
+  transition: border-color .16s ease, background .16s ease, box-shadow .16s ease, transform .16s ease;
+}
+.opt:hover {
+  border-color: var(--brand-line); background: var(--brand-soft);
+  transform: translateY(-1px); box-shadow: 0 6px 16px -10px rgba(79,70,229,.5);
+}
+.opt:active { transform: translateY(0); }
+.opt:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+.opt[aria-pressed="true"] {
+  border-color: var(--brand); background: var(--brand-soft);
+  box-shadow: inset 0 0 0 1px var(--brand), 0 8px 20px -12px rgba(79,70,229,.65);
+}
+.opt .k {
+  flex: 0 0 30px; height: 30px; border-radius: 10px; background: var(--line-soft); color: var(--muted);
+  display: grid; place-items: center; font-size: 13px; font-weight: 800;
+  transition: background .16s ease, color .16s ease, transform .16s ease;
+}
+.opt[aria-pressed="true"] .k { background: var(--brand); color: #fff; transform: scale(1.05); }
+/* On the dark theme --brand is a light indigo, so white on it is too weak. */
+[data-theme="dark"] .opt[aria-pressed="true"] .k { color: #1e1b4b; }
+.opt .t { flex: 1; min-width: 0; font-size: 14.5px; line-height: 1.5; }
+.opt::after {
+  content: ""; flex: 0 0 22px; width: 22px; height: 22px; border-radius: 50%;
+  border: 1.5px solid var(--line); background: transparent;
+  transition: background .16s ease, border-color .16s ease, transform .16s ease;
+}
+[data-theme="dark"] .opt[aria-pressed="true"]::after {
+  border-color: var(--brand);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%231e1b4b' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m5 12.5 4.2 4.2L19 7'/%3E%3C/svg%3E");
+}
+.opt[aria-pressed="true"]::after {
+  border-color: var(--brand); transform: scale(1.02);
+  background: var(--brand) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m5 12.5 4.2 4.2L19 7'/%3E%3C/svg%3E") center/13px no-repeat;
+}
+.opts.fig .opt { flex-direction: column; align-items: stretch; gap: 10px; padding: 14px; }
+.opts.fig .opt .k { align-self: flex-start; }
+.opts.fig .opt .t { text-align: center; }
+.opts.fig .opt::after { display: none; }
+.opts.fig .opt[aria-pressed="true"] { box-shadow: inset 0 0 0 2px var(--brand), 0 10px 24px -14px rgba(79,70,229,.7); }
+.opt .f { width: 100%; }
+.opt .f svg, .opt .f img { width: 100%; height: auto; max-height: 110px; display: block; }
+.opt.review-right { border-color: var(--ok); background: var(--ok-soft); box-shadow: none; }
+.opt.review-right .k { background: var(--ok); color: #fff; }
+.opt.review-right::after {
+  border-color: var(--ok); background: var(--ok) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m5 12.5 4.2 4.2L19 7'/%3E%3C/svg%3E") center/13px no-repeat;
+}
+.opt.review-wrong { border-color: var(--bad); background: var(--bad-soft); box-shadow: none; }
+.opt.review-wrong .k { background: var(--bad); color: #fff; }
+.opt.review-wrong::after {
+  border-color: var(--bad); background: var(--bad) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 6l12 12M18 6 6 18'/%3E%3C/svg%3E") center/11px no-repeat;
+}
+.opts.fig .opt.review-right::after, .opts.fig .opt.review-wrong::after { display: none; }
+.opts.fig .opt.review-right { box-shadow: inset 0 0 0 2px var(--ok); }
+.opts.fig .opt.review-wrong { box-shadow: inset 0 0 0 2px var(--bad); }
+.explain { margin-top: 14px; padding: 12px 14px; border-left: 3px solid var(--brand); background: var(--bg-soft); border-radius: 0 10px 10px 0; font-size: 13.5px; color: var(--ink-soft); }
+.explain b { color: var(--ink); }
+.qnav { display: flex; gap: 10px; margin-top: 16px; flex-wrap: wrap; }
+
+/* ---------- palette ---------- */
+.palette { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 16px; margin-top: 14px; box-shadow: var(--shadow); }
+.palette h3 { margin: 0 0 4px; font-size: 14px; }
+.palette .legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 12px; color: var(--muted); margin-bottom: 12px; }
+.palette .legend i { display: inline-block; width: 11px; height: 11px; border-radius: 4px; margin-right: 5px; vertical-align: -1px; }
+.pgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(40px, 1fr)); gap: 7px; }
+.pcell {
+  aspect-ratio: 1; border-radius: 9px; border: 1.5px solid var(--line); background: var(--bg);
+  color: var(--ink-soft); font: inherit; font-size: 12.5px; font-weight: 700; cursor: pointer;
+  display: grid; place-items: center;
+}
+.pcell.done { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+.pcell.marked { background: #fef3c7; border-color: #fcd34d; color: #92400e; }
+[data-theme="dark"] .pcell.marked { background: #422006; border-color: #a16207; color: #fcd34d; }
+.pcell.cur { outline: 2px solid var(--brand); outline-offset: 1px; }
+
+/* ---------- result ---------- */
+.result { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 24px; box-shadow: var(--shadow); }
+.result h2 { margin: 0 0 4px; font-size: 21px; letter-spacing: -.4px; }
+.result .rsub { margin: 0 0 18px; color: var(--muted); font-size: 13.5px; }
+.score-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin-bottom: 20px; }
+.score {
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
+}
+.score b { display: block; font-size: 22px; letter-spacing: -.6px; line-height: 1.2; }
+.score span { font-size: 12px; color: var(--muted); }
+.score.ok b { color: var(--ok); }
+.score.bad b { color: var(--bad); }
+.score.warn b { color: var(--warn); }
+.result-acts { display: flex; gap: 10px; flex-wrap: wrap; }
+
+/* ---------- 3-2-1 countdown ---------- */
+.cd {
+  position: fixed; inset: 0; z-index: 95; display: grid; place-items: center; text-align: center;
+  background: rgba(15,23,42,.74); backdrop-filter: blur(9px); -webkit-backdrop-filter: blur(9px);
+  opacity: 0; transition: opacity .18s ease;
+}
+.cd[hidden] { display: none; }
+.cd.on { opacity: 1; }
+.cd-num {
+  font-size: clamp(76px, 22vw, 150px); font-weight: 800; color: #fff; line-height: 1;
+  letter-spacing: -4px; font-variant-numeric: tabular-nums;
+  text-shadow: 0 18px 60px rgba(79,70,229,.7);
+}
+.cd-num.pop { animation: cdpop .78s cubic-bezier(.2,.9,.3,1.18); }
+@keyframes cdpop {
+  0% { transform: scale(.5); opacity: 0; }
+  42% { transform: scale(1.08); opacity: 1; }
+  100% { transform: scale(1); opacity: .94; }
+}
+.cd-num.go { font-size: clamp(56px, 15vw, 100px); letter-spacing: 2px; color: #a5f3c9; text-shadow: 0 18px 60px rgba(16,185,129,.7); }
+.cd-hint { margin-top: 16px; color: #cbd5e1; font-size: 13.5px; letter-spacing: .2px; }
+@media (prefers-reduced-motion: reduce) { .cd-num.pop { animation: none; } }
+
+/* ---------- modal (submit / retake confirmations) ---------- */
+.modal {
+  position: fixed; inset: 0; z-index: 90; display: grid; place-items: center; padding: 20px;
+  background: rgba(15,23,42,.62); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px);
+  opacity: 0; pointer-events: none; transition: opacity .18s ease;
+}
+.modal[hidden] { display: none; }
+.modal.on { opacity: 1; pointer-events: auto; }
+.modal-card {
+  width: 100%; max-width: 460px; background: var(--bg); color: var(--ink);
+  border: 1px solid var(--line); border-radius: 22px; padding: 26px;
+  box-shadow: 0 32px 80px -20px rgba(15,23,42,.5), 0 0 0 1px rgba(255,255,255,.04);
+  max-height: calc(100vh - 40px); overflow-y: auto;
+  transform: translateY(14px) scale(.97); opacity: 0;
+  transition: transform .22s cubic-bezier(.2,.9,.3,1.1), opacity .2s ease;
+  position: relative; overflow: hidden;
+}
+.modal.on .modal-card { transform: translateY(0) scale(1); opacity: 1; }
+.modal-card::before {
+  content: ""; position: absolute; inset: 0 0 auto 0; height: 4px;
+  background: linear-gradient(90deg, var(--brand), #818cf8, #a5b4fc);
+}
+.modal-ic {
+  width: 52px; height: 52px; border-radius: 16px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand); margin-bottom: 16px;
+}
+.modal-ic svg { width: 25px; height: 25px; }
+.modal-ic.warn { background: #fef3c7; color: #b45309; }
+[data-theme="dark"] .modal-ic.warn { background: #422006; color: #fbbf24; }
+.modal-card h2 { margin: 0 0 6px; font-size: 19px; letter-spacing: -.35px; line-height: 1.3; }
+.modal-card p { margin: 0 0 6px; font-size: 14px; color: var(--ink-soft); line-height: 1.55; }
+.modal-stats {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 16px 0 20px;
+}
+.modal-stat {
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 12px;
+  padding: 10px 12px; text-align: center;
+}
+.modal-stat b { display: block; font-size: 19px; letter-spacing: -.5px; line-height: 1.25; }
+.modal-stat span { font-size: 11.5px; color: var(--muted); }
+.modal-stat.warn b { color: var(--warn); }
+.modal-acts { display: flex; gap: 10px; flex-wrap: wrap; }
+.modal-acts .pbtn { flex: 1; justify-content: center; text-align: center; padding: 12px 18px; font-size: 14px; }
+.modal-acts .pbtn.primary { background: var(--brand); border-color: var(--brand); color: #fff; }
+.modal-acts .pbtn.primary:hover { filter: brightness(1.08); color: #fff; }
+@media (max-width: 480px) {
+  .modal-card { padding: 20px; border-radius: 18px; }
+  .modal-acts { flex-direction: column-reverse; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .modal, .modal-card { transition: none; }
+  .modal-card { transform: none; }
+}
+
+.ftr { border-top: 1px solid var(--line); background: var(--bg); padding: 22px 0; margin-top: 34px; }
+.ftr-in { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; font-size: 13px; color: var(--muted); }
+.ftr a { color: var(--brand); text-decoration: none; font-weight: 600; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+@media (max-width: 620px) {
+  .hdr-tag, .hdr a.back { display: none; }
+  .paper-top { top: 60px; }
+  .qwrap, .setup, .result { padding: 16px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+  <header class="hdr">
+    <div class="wrap hdr-in">
+      <a class="brand" href="/" aria-label="axomexam home">
+        <span class="brand-mark">A</span>
+        <span class="brand-txt">axomexam.in</span>
+      </a>
+      <span class="hdr-tag">Mock Test</span>
+      <span class="hdr-sp"></span>
+      <a class="back" href="/institution/">Library</a>
+      <button class="tgl" id="axo-theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg><svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
+      </button>
+    </div>
+  </header>
+  <main class="wrap">
+    <div id="setup" class="setup" style="margin-top:22px">
+      <h1>ADRE 3.0 Grade IV — Full Paper Set 1</h1>
+      <p class="lead">135 questions · 150 minutes · 135 marks · 0.25 negative marking</p>
+
+      <div class="setup-row">
+        <div class="setup-lbl">Question language</div>
+        <div class="seg" id="langseg" role="group" aria-label="Question language">
+          <button type="button" data-lang="en" aria-pressed="true">English</button>
+          <button type="button" data-lang="as" aria-pressed="false">অসমীয়া</button>
+        </div>
+      </div>
+
+      <div class="setup-row">
+        <div class="setup-lbl">Instructions</div>
+        <ul class="rules">
+          <li>The timer starts the moment you press Start and does not pause.</li>
+          <li>Each question carries 1 mark; 0.25 mark is deducted for a wrong answer.</li>
+          <li>Use the question palette to jump around. You can change any answer before submitting.</li>
+          <li>Submit at any time to see your score, the correct answers and explanations.</li>
+        </ul>
+      </div>
+
+      <div class="setup-row">
+        <div class="agree" id="agreewrap">
+          <input type="checkbox" id="agree" />
+          <label class="agree-txt" for="agree">I have read and accept the terms &amp; conditions for this test.</label>
+        </div>
+        <button class="lnk" type="button" id="termslink">Read the terms &amp; conditions</button>
+      </div>
+
+      <button class="start-btn" id="startbtn" type="button" disabled>Start test →</button>
+    </div>
+
+    <div id="runner" class="runner">
+      <div class="paper-top">
+        <span class="timer" id="timer">--:--</span>
+        <span class="paper-meta" id="progress"></span>
+        <span class="paper-sp"></span>
+        <button class="pbtn" id="prevbtn" type="button">← Previous</button>
+        <button class="pbtn" id="nextbtn" type="button">Next →</button>
+        <button class="pbtn primary" id="submitbtn" type="button">Submit</button>
+        <button class="pbtn quit" id="quitbtn" type="button">Quit</button>
+        <div class="bar-track"><div class="bar-fill" id="barfill"></div></div>
+      </div>
+
+      <div class="qwrap">
+        <div class="qhead">
+          <span class="qno" id="qno"></span>
+          <button class="qflag" id="flagbtn" type="button" aria-pressed="false">Mark for review</button>
+        </div>
+        <p class="qtext" id="qtext"></p>
+        <div class="qfig" id="qfig"></div>
+        <ul class="opts" id="opts"></ul>
+        <div class="explain" id="explain" hidden></div>
+        <div class="qnav">
+          <button class="pbtn" id="prevbtn2" type="button">← Previous</button>
+          <button class="pbtn" id="nextbtn2" type="button">Next →</button>
+        </div>
+      </div>
+
+      <div class="palette">
+        <h3>Question palette</h3>
+        <div class="legend">
+          <span><i style="background:var(--ok)"></i>Answered</span>
+          <span><i style="background:#fcd34d"></i>Marked</span>
+          <span><i style="background:var(--line)"></i>Not answered</span>
+        </div>
+        <div class="pgrid" id="pgrid"></div>
+      </div>
+    </div>
+
+    <div id="result" class="result" hidden></div>
+  </main>
+
+  <div class="cd" id="axo-cd" role="status" aria-live="assertive" hidden>
+    <div>
+      <div class="cd-num" id="axo-cd-num">3</div>
+      <div class="cd-hint" id="axo-cd-hint">Get ready — the timer starts after 1</div>
+    </div>
+  </div>
+
+  <div class="modal" id="axo-modal" role="dialog" aria-modal="true" aria-labelledby="axo-modal-title" hidden>
+    <div class="modal-card" role="document">
+      <div class="modal-ic" id="axo-modal-ic"></div>
+      <h2 id="axo-modal-title"></h2>
+      <p id="axo-modal-body"></p>
+      <div class="modal-stats" id="axo-modal-stats"></div>
+      <div class="modal-acts">
+        <button class="pbtn" type="button" id="axo-modal-cancel">Cancel</button>
+        <button class="pbtn primary" type="button" id="axo-modal-ok">Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <script id="paper" type="application/json">{"exam":"adre-grade-4","title":"ADRE 3.0 Grade IV","set":1,"minutes":150,"negative":0.25,"questions":[{"en":"The Indus river finally drains into which water body?","as":"সিন্ধু নদী অৱশেষত কোন জলভাগত পৰে?","fig":"","opts":[{"en":"Bay of Bengal","as":"বংগোপসাগৰ","fig":""},{"en":"Arabian Sea","as":"আৰব সাগৰ","fig":""},{"en":"Caspian Sea","as":"কেছ্পিয়ান সাগৰ","fig":""},{"en":"Black Sea","as":"কৃষ্ণ সাগৰ","fig":""}],"correct":1,"expEn":"The Indus drains into the Arabian Sea.","expAs":"সিন্ধু নদী আৰব সাগৰত পৰে।"},{"en":"After how many years does the calendar of a leap year repeat?","as":"এটা অধিবৰ্ষৰ কেলেণ্ডাৰ কিমান বছৰৰ পিছত পুনৰাবৃত্তি হয়?","fig":"","opts":[{"en":"28 years","as":"২৮ বছৰ","fig":""},{"en":"11 years","as":"১১ বছৰ","fig":""},{"en":"6 years","as":"৬ বছৰ","fig":""},{"en":"7 years","as":"৭ বছৰ","fig":""}],"correct":0,"expEn":"The calendar of a leap year repeats after 28 years.","expAs":"অধিবৰ্ষৰ কেলেণ্ডাৰ ২৮ বছৰৰ পিছত পুনৰাবৃত্তি হয়।"},{"en":"Fill in the blank: If it ___ tomorrow, we will cancel the match.","as":"ৰিক্ত স্থান পূৰণ কৰক: If it ___ tomorrow, we will cancel the match.","fig":"","opts":[{"en":"rain","as":"rain (বৰষে - বহুবচনৰ ৰূপ)","fig":""},{"en":"rained","as":"rained (বৰষিছিল)","fig":""},{"en":"raining","as":"raining (বৰষি থকা)","fig":""},{"en":"rains","as":"rains (বৰষে)","fig":""}],"correct":3,"expEn":"In the first conditional, the if-clause uses the simple present tense.","expAs":"First conditional ত if-clause ত simple present tense ব্যৱহাৰ হয়।"},{"en":"In the figure analogy below, A is related to B in a certain way. Following the same rule, which figure should replace the question mark?","as":"তলৰ চিত্ৰ-সাদৃশ্যত A ৰ সৈতে B এটা নিৰ্দিষ্ট নিয়মত সম্পৰ্কিত। একেই নিয়ম অনুসৰণ কৰি প্ৰশ্নবোধক চিহ্নৰ ঠাইত কোনটো চিত্ৰ বহিব?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 250\">\u003crect x=\"2\" y=\"2\" width=\"316\" height=\"246\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003cline x1=\"37.3\" y1=\"58.9\" x2=\"86.7\" y2=\"58.9\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"37.3\" y1=\"73.2\" x2=\"86.7\" y2=\"73.2\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003ctext x=\"160.0\" y=\"78.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">:\u003c/text>\u003cline x1=\"233.3\" y1=\"51.7\" x2=\"282.7\" y2=\"51.7\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"233.3\" y1=\"66.0\" x2=\"282.7\" y2=\"66.0\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"233.3\" y1=\"80.3\" x2=\"282.7\" y2=\"80.3\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"54.9\" y1=\"163.9\" x2=\"54.9\" y2=\"208.1\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"69.2\" y1=\"163.9\" x2=\"69.2\" y2=\"208.1\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003ctext x=\"160.0\" y=\"198.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">:\u003c/text>\u003ctext x=\"258.0\" y=\"198.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">?\u003c/text>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"21.5\" y1=\"33.5\" x2=\"78.5\" y2=\"33.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"21.5\" y1=\"50.0\" x2=\"78.5\" y2=\"50.0\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"21.5\" y1=\"66.5\" x2=\"78.5\" y2=\"66.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"33.5\" y1=\"24.5\" x2=\"33.5\" y2=\"75.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"50.0\" y1=\"24.5\" x2=\"50.0\" y2=\"75.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"66.5\" y1=\"24.5\" x2=\"66.5\" y2=\"75.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"41.8\" y1=\"24.5\" x2=\"41.8\" y2=\"75.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.2\" y1=\"24.5\" x2=\"58.2\" y2=\"75.5\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"21.5\" y1=\"41.8\" x2=\"78.5\" y2=\"41.8\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"21.5\" y1=\"58.2\" x2=\"78.5\" y2=\"58.2\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"}],"correct":1,"expEn":"The number of lines increases by one.","expAs":"ৰেখাৰ সংখ্যা এটা বৃদ্ধি পায়।"},{"en":"The 'Sattriya Nritya' is associated with:","as":"'সত্ৰীয়া নৃত্য' কিসৰ সৈতে জড়িত?","fig":"","opts":[{"en":"Mughal court","as":"মোগল দৰবাৰ","fig":""},{"en":"Sankardeva tradition","as":"শংকৰদেৱ পৰম্পৰা","fig":""},{"en":"Buddhism","as":"বৌদ্ধ ধৰ্ম","fig":""},{"en":"British","as":"ব্ৰিটিছ","fig":""}],"correct":1,"expEn":"Sattriya Nritya is associated with the Sankardeva tradition.","expAs":"সত্ৰীয়া নৃত্য শংকৰদেৱ পৰম্পৰাৰ সৈতে জড়িত।"},{"en":"International Migrants Day is observed on —","as":"আন্তৰ্জাতিক প্ৰব্ৰজনকাৰী দিৱস কেতিয়া পালন কৰা হয় —","fig":"","opts":[{"en":"18 November","as":"১৮ নৱেম্বৰ","fig":""},{"en":"18 December","as":"১৮ ডিচেম্বৰ","fig":""},{"en":"18 January","as":"১৮ জানুৱাৰী","fig":""},{"en":"18 October","as":"১৮ অক্টোবৰ","fig":""}],"correct":1,"expEn":"International Migrants Day is observed on 18 December.","expAs":"১৮ ডিচেম্বৰত আন্তৰ্জাতিক প্ৰব্ৰজনকাৰী দিৱস পালন কৰা হয়।"},{"en":"Which level of government is Panchayati Raj associated with?","as":"পঞ্চায়তী ৰাজ চৰকাৰৰ কোনটো স্তৰৰ সৈতে জড়িত?","fig":"","opts":[{"en":"Local level","as":"স্থানীয় স্তৰ","fig":""},{"en":"State level","as":"ৰাজ্য স্তৰ","fig":""},{"en":"Union level","as":"সংঘ স্তৰ","fig":""},{"en":"International level","as":"আন্তৰ্জাতিক স্তৰ","fig":""}],"correct":0,"expEn":"Panchayati Raj is associated with the local level of government.","expAs":"পঞ্চায়তী ৰাজ চৰকাৰৰ স্থানীয় স্তৰৰ সৈতে জড়িত।"},{"en":"Composer : Music :: Choreographer : ?","as":"সংগীত ৰচয়িতা : সংগীত :: নৃত্যপৰিচালক : ?","fig":"","opts":[{"en":"Dancer","as":"নৰ্তকী","fig":""},{"en":"Stage","as":"মঞ্চ","fig":""},{"en":"Dance","as":"নৃত্য","fig":""},{"en":"Song","as":"গীত","fig":""}],"correct":2,"expEn":"A Composer creates a Music; in the same way a Choreographer creates a Dance.","expAs":"সংগীত ৰচয়িতা এ সংগীত সৃষ্টি কৰে; সেইদৰে নৃত্যপৰিচালক এ নৃত্য সৃষ্টি কৰে।"},{"en":"One who loves women is called —","as":"মহিলাক ভাল পোৱা পুৰুষক কি বোলা হয় —","fig":"","opts":[{"en":"Misogynist","as":"Misogynist","fig":""},{"en":"Misogamist","as":"Misogamist","fig":""},{"en":"Philanthropist","as":"Philanthropist","fig":""},{"en":"Philogynist","as":"Philogynist","fig":""}],"correct":3,"expEn":"One who loves women is called 'Philogynist'.","expAs":"ইংৰাজীত ইয়াক Philogynist বুলি কোৱা হয়।"},{"en":"A train 150 m long is running at 10 m/s. How long will it take to cross a platform 250 m long?","as":"150 মি. দীঘল এখন ৰে'ল 10 মি./ছেকেণ্ড বেগত চলিছে। 250 মি. দীঘল প্লেটফৰ্ম অতিক্ৰম কৰিবলৈ কিমান সময় লাগিব?","fig":"","opts":[{"en":"30 s","as":"৩০ ছেকেণ্ড","fig":""},{"en":"25 s","as":"২৫ ছেকেণ্ড","fig":""},{"en":"35 s","as":"৩৫ ছেকেণ্ড","fig":""},{"en":"40 s","as":"৪০ ছেকেণ্ড","fig":""}],"correct":3,"expEn":"Total distance = 150 + 250 = 400 m; Time = 400 / 10 = 40 s.","expAs":"মুঠ দূৰত্ব = 150 + 250 = 400 মি.; সময় = 400 / 10 = 40 ছেকেণ্ড।"},{"en":"Which of the following numbers is divisible by 4?","as":"তলৰ কোনটো সংখ্যা 4 ৰে বিভাজ্য?","fig":"","opts":[{"en":"126","as":"১২৬","fig":""},{"en":"138","as":"১৩৮","fig":""},{"en":"144","as":"১৪৪","fig":""},{"en":"150","as":"১৫০","fig":""}],"correct":2,"expEn":"144 = 4 × 36, so it is divisible by 4.","expAs":"144 = 4 × 36, গতিকে ই 4 ৰে বিভাজ্য।"},{"en":"In the figure analogy below, A is related to B in a certain way. Following the same rule, which figure should replace the question mark?","as":"তলৰ চিত্ৰ-সাদৃশ্যত A ৰ সৈতে B এটা নিৰ্দিষ্ট নিয়মত সম্পৰ্কিত। একেই নিয়ম অনুসৰণ কৰি প্ৰশ্নবোধক চিহ্নৰ ঠাইত কোনটো চিত্ৰ বহিব?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 250\">\u003crect x=\"2\" y=\"2\" width=\"316\" height=\"246\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003ccircle cx=\"62.0\" cy=\"66.0\" r=\"26.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 62.0 92.0 A 26.0 26.0 0 0 1 62.0 40.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003ctext x=\"160.0\" y=\"78.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">:\u003c/text>\u003ccircle cx=\"258.0\" cy=\"66.0\" r=\"26.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 232.0 66.0 A 26.0 26.0 0 0 1 284.0 66.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003ccircle cx=\"62.0\" cy=\"186.0\" r=\"26.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 88.0 186.0 A 26.0 26.0 0 0 1 36.0 186.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003ctext x=\"160.0\" y=\"198.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">:\u003c/text>\u003ctext x=\"258.0\" y=\"198.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">?\u003c/text>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"30.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 20.0 50.0 A 30.0 30.0 0 0 1 80.0 50.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"30.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 50.0 20.0 A 30.0 30.0 0 0 1 50.0 80.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"30.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 80.0 50.0 A 30.0 30.0 0 0 1 20.0 50.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"30.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003cpath d=\"M 50.0 80.0 A 30.0 30.0 0 0 1 50.0 20.0 Z\" fill=\"#475569\" stroke=\"#334155\" stroke-width=\"2\"/>\u003c/svg>"}],"correct":3,"expEn":"The figure (with its shaded half) rotates 90° clockwise.","expAs":"চিত্ৰটো (ৰঙিন আধা অংশসহ) ৯০° ঘড়ীৰ দিশত ঘূৰে।"},{"en":"Which title is correctly matched with the writer?","as":"কোনটো উপাধি লেখকৰ সৈতে শুদ্ধভাৱে মিলে?","fig":"","opts":[{"en":"Axom Keshari - Ambikagiri Raichoudhury","as":"অসম কেশৰী - অম্বিকাগিৰি ৰায়চৌধুৰী","fig":""},{"en":"Axom Keshari - Bishnu Prasad Rabha","as":"অসম কেশৰী - বিষ্ণুপ্ৰসাদ ৰাভা","fig":""},{"en":"Axom Keshari - Nalini Bala Devi","as":"অসম কেশৰী - নলিনীবালা দেৱী","fig":""},{"en":"Axom Keshari - Padmanath Gohain Baruah","as":"অসম কেশৰী - পদ্মনাথ গোহাঞি বৰুৱা","fig":""}],"correct":0,"expEn":"Axom Keshari is the title of Ambikagiri Raichoudhury.","expAs":"অসম কেশৰী অম্বিকাগিৰি ৰায়চৌধুৰীৰ উপাধি।"},{"en":"Under the Constitution, a Panchayat may be dissolved:","as":"সংবিধানৰ অধীনত এটা পঞ্চায়ত ভংগ কৰিব পাৰি:","fig":"","opts":[{"en":"Only by the President","as":"কেৱল ৰাষ্ট্ৰপতিৰ দ্বাৰা","fig":""},{"en":"Never","as":"কেতিয়াও নহয়","fig":""},{"en":"As per the law of the State Legislature","as":"ৰাজ্য বিধানমণ্ডলৰ আইন অনুসৰি","fig":""},{"en":"Only by the Supreme Court","as":"কেৱল উচ্চতম ন্যায়ালয়ৰ দ্বাৰা","fig":""}],"correct":2,"expEn":"Panchayats may be dissolved as provided by the State Legislature.","expAs":"ৰাজ্য বিধানমণ্ডলে যি ব্যৱস্থা কৰে সেই অনুসৰি পঞ্চায়ত ভংগ কৰিব পাৰি।"},{"en":"Which Assamese festival is celebrated with a traditional 'barter' system among communities?","as":"কোন অসমীয়া উৎসৱ সম্প্ৰদায়সমূহৰ মাজত পৰম্পৰাগত 'বিনিময়' প্ৰথাৰ সৈতে পালন কৰা হয়?","fig":"","opts":[{"en":"Bohag Bihu","as":"ব'হাগ বিহু","fig":""},{"en":"Jonbeel Mela","as":"জনবিল মেলা","fig":""},{"en":"Magh Bihu","as":"মাঘ বিহু","fig":""},{"en":"Raas","as":"ৰাস","fig":""}],"correct":1,"expEn":"Jonbeel Mela is celebrated with a traditional barter system.","expAs":"জনবিল মেলা পৰম্পৰাগত বিনিময় প্ৰথাৰ সৈতে পালন কৰা হয়।"},{"en":"The 'Talatal Ghar' is located at:","as":"'তলাতল ঘৰ' ক'ত অৱস্থিত?","fig":"","opts":[{"en":"Dibrugarh","as":"ডিব্ৰুগড়","fig":""},{"en":"Sibsagar","as":"শিৱসাগৰ","fig":""},{"en":"Guwahati","as":"গুৱাহাটী","fig":""},{"en":"Tezpur","as":"তেজপুৰ","fig":""}],"correct":1,"expEn":"The Talatal Ghar is located at Sibsagar.","expAs":"তলাতল ঘৰ শিৱসাগৰত অৱস্থিত।"},{"en":"Who is the chairman of Reliance Industries?","as":"ৰিলায়েন্স ইণ্ডাষ্ট্ৰিজৰ অধ্যক্ষ কোন?","fig":"","opts":[{"en":"Gautam Adani","as":"গৌতম আদানি","fig":""},{"en":"Anil Ambani","as":"অনিল আম্বানি","fig":""},{"en":"Mukesh Ambani","as":"মুকেশ আম্বানি","fig":""},{"en":"Ratan Tata","as":"ৰতন টাটা","fig":""}],"correct":2,"expEn":"Mukesh Ambani is the chairman of Reliance Industries.","expAs":"মুকেশ আম্বানি ৰিলায়েন্স ইণ্ডাষ্ট্ৰিজৰ অধ্যক্ষ।"},{"en":"The Pradhan Mantri Matsya Sampada Yojana is related to —","as":"প্ৰধানমন্ত্ৰী মৎস্য সম্পদ যোজনা কিৰ সৈতে জড়িত —","fig":"","opts":[{"en":"Forestry","as":"বন","fig":""},{"en":"Mining","as":"খনন","fig":""},{"en":"Textiles","as":"বস্ত্ৰ","fig":""},{"en":"Fisheries","as":"মৎস্য","fig":""}],"correct":3,"expEn":"PM Matsya Sampada Yojana is related to fisheries.","expAs":"পিএম মৎস্য সম্পদ যোজনা মৎস্যৰ সৈতে জড়িত।"},{"en":"The British annexation of Assam in 1838 was formally carried out under —","as":"1838 চনত অসমৰ ব্ৰিটিছ সংযুক্তি আনুষ্ঠানিকভাৱে কাৰ অধীনত সম্পন্ন হৈছিল —","fig":"","opts":[{"en":"Warren Hastings","as":"ৱাৰেন হেষ্টিংছ","fig":""},{"en":"Lord Amherst","as":"লৰ্ড আমহাৰ্ষ্ট","fig":""},{"en":"Lord Dalhousie","as":"লৰ্ড ডালহৌছি","fig":""},{"en":"Francis Jenkins as Commissioner","as":"কমিছনাৰ ফ্ৰান্সিছ জেনকিন্স","fig":""}],"correct":3,"expEn":"The annexation was carried out under Commissioner Francis Jenkins.","expAs":"সংযুক্তি কমিছনাৰ ফ্ৰান্সিছ জেনকিন্সৰ অধীনত সম্পন্ন হৈছিল।"},{"en":"A train 240 m long is running at 20 m/s. How long will it take to cross a tunnel 360 m long?","as":"240 মি. দীঘল এখন ৰে'ল 20 মি./ছেকেণ্ড বেগত চলিছে। 360 মি. দীঘল এটা সুৰংগ অতিক্ৰম কৰিবলৈ কিমান সময় লাগিব?","fig":"","opts":[{"en":"25 s","as":"২৫ ছেকেণ্ড","fig":""},{"en":"28 s","as":"২৮ ছেকেণ্ড","fig":""},{"en":"32 s","as":"৩২ ছেকেণ্ড","fig":""},{"en":"30 s","as":"৩০ ছেকেণ্ড","fig":""}],"correct":3,"expEn":"Total distance = 240 + 360 = 600 m; Time = 600 / 20 = 30 s.","expAs":"মুঠ দূৰত্ব = 240 + 360 = 600 মি.; সময় = 600 / 20 = 30 ছেকেণ্ড।"},{"en":"Simplify: 14/21 in its simplest form","as":"সৰল কৰক: 14/21 ৰ সৰলতম ৰূপ","fig":"","opts":[{"en":"7/10","as":"৭/১০","fig":""},{"en":"2/3","as":"২/৩","fig":""},{"en":"3/4","as":"৩/৪","fig":""},{"en":"1/2","as":"১/২","fig":""}],"correct":1,"expEn":"14/21 = 2/3 (dividing by 7).","expAs":"14/21 = 2/3 (7 ৰে হৰণ কৰি)।"},{"en":"One who works with iron is called —","as":"লো-পাতে কাম কৰা মানুহক কি বোলা হয় —","fig":"","opts":[{"en":"Blacksmith","as":"Blacksmith","fig":""},{"en":"Mason","as":"Mason","fig":""},{"en":"Carpenter","as":"Carpenter","fig":""},{"en":"Goldsmith","as":"Goldsmith","fig":""}],"correct":0,"expEn":"One who works with iron is called 'Blacksmith'.","expAs":"ইংৰাজীত ইয়াক Blacksmith বুলি কোৱা হয়।"},{"en":"Statements: All cats are animals. All animals are living things. Conclusions: I. All cats are living things. II. Some living things are cats.","as":"বিবৃতি: সকলো মেকুৰী প্ৰাণী। সকলো প্ৰাণী জীৱ। সিদ্ধান্ত: I. সকলো মেকুৰী জীৱ। II. কিছুমান জীৱ মেকুৰী।","fig":"","opts":[{"en":"Only I follows","as":"কেৱল I সঠিক","fig":""},{"en":"Only II follows","as":"কেৱল II সঠিক","fig":""},{"en":"Both I and II follow","as":"I আৰু II দুয়োটাই সঠিক","fig":""},{"en":"Neither follows","as":"কোনোটোৱেই নহয়","fig":""}],"correct":2,"expEn":"Cats are inside animals which are inside living things, so both conclusions follow.","expAs":"মেকুৰী প্ৰাণীৰ ভিতৰত আৰু প্ৰাণী জীৱৰ ভিতৰত, গতিকে দুয়োটা সিদ্ধান্ত সঠিক।"},{"en":"The price of an article rises by 50%. By what percentage should consumption be reduced so that the expenditure remains the same?","as":"এটা সামগ্ৰীৰ দাম 50% বৃদ্ধি হয়। খৰচ একে ৰাখিবলৈ ব্যৱহাৰ কিমান শতাংশ কমাব লাগিব?","fig":"","opts":[{"en":"33⅓%","as":"৩৩⅓%","fig":""},{"en":"25%","as":"২৫%","fig":""},{"en":"50%","as":"৫০%","fig":""},{"en":"30%","as":"৩০%","fig":""}],"correct":0,"expEn":"Reduction % = (50 / 150) × 100 = 33⅓%.","expAs":"হ্ৰাস % = (50 / 150) × 100 = 33⅓%।"},{"en":"Who was the first Chief Minister of Assam after independence?","as":"স্বাধীনতাৰ পিছত অসমৰ প্ৰথম মুখ্যমন্ত্ৰী কোন আছিল?","fig":"","opts":[{"en":"Sarat Chandra Sinha","as":"সৰৎ চন্দ্ৰ সিনহা","fig":""},{"en":"Bishnu Ram Medhi","as":"বিষ্ণুৰাম মেধি","fig":""},{"en":"Bimala Prasad Chaliha","as":"বিমলা প্ৰসাদ চলিহা","fig":""},{"en":"Gopinath Bordoloi","as":"গোপীনাথ বৰদলৈ","fig":""}],"correct":3,"expEn":"Gopinath Bordoloi was the first Chief Minister of Assam after independence.","expAs":"গোপীনাথ বৰদলৈ স্বাধীনতাৰ পিছত অসমৰ প্ৰথম মুখ্যমন্ত্ৰী আছিল।"},{"en":"Garampani Wildlife Sanctuary is known for:","as":"গৰমপানী বন্যপ্ৰাণী অভয়াৰণ্য কাৰ বাবে জনা যায়?","fig":"","opts":[{"en":"Hot water springs","as":"গৰম পানীৰ উঁহ","fig":""},{"en":"Snow peaks","as":"বৰফৰ শিখৰ","fig":""},{"en":"Deserts","as":"মৰুভূমি","fig":""},{"en":"Coral reefs","as":"প্ৰবাল প্ৰাচীৰ","fig":""}],"correct":0,"expEn":"Garampani Sanctuary is known for its natural hot water springs.","expAs":"গৰমপানী অভয়াৰণ্য ইয়াৰ প্ৰাকৃতিক গৰম পানীৰ উঁহৰ বাবে জনা যায়।"},{"en":"Which of the following is the correct match of author and work?","as":"তলৰ কোনটো লেখক আৰু ৰচনাৰ শুদ্ধ মিল?","fig":"","opts":[{"en":"Hemkosh - Nathan Brown","as":"হেমকোষ - নাথান ব্ৰাউন","fig":""},{"en":"Hemkosh - Hemchandra Barua","as":"হেমকোষ - হেমচন্দ্ৰ বৰুৱা","fig":""},{"en":"Hemkosh - Gunabhiram Barua","as":"হেমকোষ - গুণাভিৰাম বৰুৱা","fig":""},{"en":"Hemkosh - Anandaram Dhekial Phukan","as":"হেমকোষ - আনন্দৰাম ঢেকিয়াল ফুকন","fig":""}],"correct":1,"expEn":"Hemkosh was compiled by Hemchandra Barua.","expAs":"হেমকোষ হেমচন্দ্ৰ বৰুৱাই সংকলন কৰিছিল।"},{"en":"An article with cost price ₹900 is marked at ₹1200. What discount percentage gives a profit of 20%?","as":"900 টকা ক্ৰয়মূল্যৰ বস্তু 1200 টকাত চিহ্নিত কৰা হ'ল। 20% লাভৰ বাবে কিমান ৰেহাই দিব লাগিব?","fig":"","opts":[{"en":"12%","as":"১২%","fig":""},{"en":"15%","as":"১৫%","fig":""},{"en":"8%","as":"৮%","fig":""},{"en":"10%","as":"১০%","fig":""}],"correct":3,"expEn":"SP = 900 × 1.20 = ₹1080; Discount % = (1200 − 1080) / 1200 × 100 = 10%.","expAs":"বিক্ৰয়মূল্য = 900 × 1.20 = 1080 টকা; ৰেহাই % = (1200 − 1080) / 1200 × 100 = 10%।"},{"en":"In which year was Bhupen Hazarika posthumously awarded the Bharat Ratna?","as":"ভূপেন হাজৰিকাক কোন বছৰত মৰণোত্তৰভাৱে ভাৰত ৰত্ন প্ৰদান কৰা হৈছিল?","fig":"","opts":[{"en":"2019","as":"২০১৯","fig":""},{"en":"2017","as":"২০১৭","fig":""},{"en":"2015","as":"২০১৫","fig":""},{"en":"2021","as":"২০২১","fig":""}],"correct":0,"expEn":"Bhupen Hazarika was posthumously awarded the Bharat Ratna in 2019.","expAs":"ভূপেন হাজৰিকাক ২০১৯ চনত মৰণোত্তৰভাৱে ভাৰত ৰত্ন প্ৰদান কৰা হৈছিল।"},{"en":"Gopinath Bordoloi was born in which year?","as":"গোপীনাথ বৰদলৈৰ জন্ম কোন বছৰত হৈছিল?","fig":"","opts":[{"en":"1892","as":"1892","fig":""},{"en":"1890","as":"1890","fig":""},{"en":"1888","as":"1888","fig":""},{"en":"1895","as":"1895","fig":""}],"correct":1,"expEn":"Gopinath Bordoloi was born in 1890.","expAs":"গোপীনাথ বৰদলৈৰ জন্ম 1890 চনত হৈছিল।"},{"en":"The Montreal Protocol was signed in which year?","as":"মণ্ট্ৰিয়াল প্ৰ'টোকল কোন বছৰত স্বাক্ষৰিত হৈছিল?","fig":"","opts":[{"en":"1987","as":"১৯৮৭","fig":""},{"en":"1972","as":"১৯৭২","fig":""},{"en":"1992","as":"১৯৯২","fig":""},{"en":"1997","as":"১৯৯৭","fig":""}],"correct":0,"expEn":"The Montreal Protocol was signed in 1987 to protect the ozone layer.","expAs":"ওজোন স্তৰ সুৰক্ষাৰ বাবে ১৯৮৭ চনত মণ্ট্ৰিয়াল প্ৰ'টোকল স্বাক্ষৰিত হৈছিল।"},{"en":"Which of the following words can be formed from the letters of the word 'TELEVISION'?","as":"'TELEVISION' শব্দটোৰ আখৰবোৰৰ পৰা তলৰ কোনটো শব্দ গঠন কৰিব পাৰি?","fig":"","opts":[{"en":"LESSON","as":"LESSON","fig":""},{"en":"MOTION","as":"MOTION","fig":""},{"en":"VISION","as":"VISION","fig":""},{"en":"SILENCE","as":"SILENCE","fig":""}],"correct":2,"expEn":"'VISION' uses V, I, S, I, O, N, all of which are present in TELEVISION.","expAs":"'VISION' য়ে V, I, S, I, O, N ব্যৱহাৰ কৰে, যিবোৰ TELEVISION ত আছে।"},{"en":"A is the sister of B's father. How is A related to B?","as":"A হৈছে B ৰ দেউতাকৰ ভনী। A ৰ লগত B ৰ সম্পৰ্ক কি?","fig":"","opts":[{"en":"Mother","as":"মাক","fig":""},{"en":"Sister","as":"ভনী","fig":""},{"en":"Aunt","as":"খুৰী/মাহী","fig":""},{"en":"Grandmother","as":"আইতা/নানী","fig":""}],"correct":2,"expEn":"The sister of B's father is B's paternal aunt.","expAs":"B ৰ দেউতাকৰ ভনী হৈছে B ৰ খুৰী/পেহী।"},{"en":"The Bhopal gas tragedy occurred in which year?","as":"ভূপাল গেছ ট্ৰেজেডী কোন বছৰত সংঘটিত হৈছিল?","fig":"","opts":[{"en":"1974","as":"১৯৭৪","fig":""},{"en":"1994","as":"১৯৯৪","fig":""},{"en":"2004","as":"২০০৪","fig":""},{"en":"1984","as":"১৯৮৪","fig":""}],"correct":3,"expEn":"The Bhopal gas tragedy occurred on the night of 2-3 December 1984.","expAs":"ভূপাল গেছ ট্ৰেজেডী ১৯৮৪ চনৰ ২-৩ ডিচেম্বৰৰ ৰাতি সংঘটিত হৈছিল।"},{"en":"Choose the correct determiner: He has ___ friends, so he is lonely.","as":"শুদ্ধ determiner বাছনি কৰক: He has ___ friends, so he is lonely.","fig":"","opts":[{"en":"little","as":"little","fig":""},{"en":"few","as":"few","fig":""},{"en":"the few","as":"the few","fig":""},{"en":"a few","as":"a few","fig":""}],"correct":1,"expEn":"'Few' has a negative sense and means 'hardly any'.","expAs":"'Few' য়ে নঞৰ্থক অৰ্থ দিয়ে, অৰ্থাৎ 'প্ৰায় নাই'।"},{"en":"What is the average of the first 25 natural numbers?","as":"প্ৰথম 25 টা স্বাভাৱিক সংখ্যাৰ গড় কিমান?","fig":"","opts":[{"en":"13","as":"১৩","fig":""},{"en":"12","as":"১২","fig":""},{"en":"13.5","as":"১৩.৫","fig":""},{"en":"12.5","as":"১২.৫","fig":""}],"correct":0,"expEn":"Average of 1 to n = (1 + n) / 2 = (1 + 25) / 2 = 13.","expAs":"1 ৰ পৰা n লৈ গড় = (1 + n) / 2 = (1 + 25) / 2 = 13।"},{"en":"Which is the state tree of Assam?","as":"অসমৰ ৰাজ্যিক বৃক্ষ কোনটো?","fig":"","opts":[{"en":"Hollong","as":"হলং","fig":""},{"en":"Neem","as":"নীম","fig":""},{"en":"Banyan","as":"বট","fig":""},{"en":"Peepal","as":"আঁহত","fig":""}],"correct":0,"expEn":"Hollong is the state tree of Assam and is a valuable timber species.","expAs":"হলং অসমৰ ৰাজ্যিক বৃক্ষ আৰু ই এটা মূল্যৱান কাঠৰ প্ৰজাতি।"},{"en":"Choose the correctly spelt word.","as":"শুদ্ধ বানানৰ শব্দটো বাছনি কৰা।","fig":"","opts":[{"en":"Business","as":"Business","fig":""},{"en":"Buisness","as":"Buisness","fig":""},{"en":"Bussiness","as":"Bussiness","fig":""},{"en":"Busines","as":"Busines","fig":""}],"correct":0,"expEn":"The correct spelling is 'Business'.","expAs":"শুদ্ধ বানান হ'ল 'Business'।"},{"en":"Which state is called the 'Kashmir of the South'?","as":"কোনখন ৰাজ্যক 'দক্ষিণৰ কাশ্মীৰ' বুলি জনা যায়?","fig":"","opts":[{"en":"Kerala","as":"কেৰালা","fig":""},{"en":"Tamil Nadu","as":"তামিলনাডু","fig":""},{"en":"Karnataka","as":"কৰ্ণাটক","fig":""},{"en":"Andhra Pradesh","as":"অন্ধ্ৰ প্ৰদেশ","fig":""}],"correct":0,"expEn":"Kerala is sometimes called the Kashmir of the South.","expAs":"কেৰালাক কেতিয়াবা দক্ষিণৰ কাশ্মীৰ বুলি কোৱা হয়।"},{"en":"If '+' means '×' and '−' means '+', then 12 + 6 − 7 = ?","as":"যদি '+' ৰ অৰ্থ '×' আৰু '−' ৰ অৰ্থ '+' হয়, তেন্তে 12 + 6 − 7 = ?","fig":"","opts":[{"en":"80","as":"৮০","fig":""},{"en":"79","as":"৭৯","fig":""},{"en":"78","as":"৭৮","fig":""},{"en":"81","as":"৮১","fig":""}],"correct":1,"expEn":"After replacing the signs: 12 × 6 + 7 = 79.","expAs":"চিহ্ন সলনি কৰাৰ পিছত: 12 × 6 + 7 = 79।"},{"en":"Clock : Time :: Speedometer : ?","as":"ঘড়ী : সময় :: গতি মাপক : ?","fig":"","opts":[{"en":"Distance","as":"দূৰত্ব","fig":""},{"en":"Speed","as":"গতি","fig":""},{"en":"Fuel","as":"ইন্ধন","fig":""},{"en":"Engine","as":"ইঞ্জিন","fig":""}],"correct":1,"expEn":"A Clock measures Time; in the same way a Speedometer measures Speed.","expAs":"ঘড়ী এ সময় জুখে; সেইদৰে গতি মাপক এ গতি জুখে।"},{"en":"The ages of two persons are in the ratio 3 : 5 and their sum is 64 years. What is the age of the younger person?","as":"দুজন ব্যক্তিৰ বয়সৰ অনুপাত 3 : 5 আৰু যোগফল 64 বছৰ। সৰু ব্যক্তিজনৰ বয়স কিমান?","fig":"","opts":[{"en":"20 years","as":"২০ বছৰ","fig":""},{"en":"28 years","as":"২৮ বছৰ","fig":""},{"en":"24 years","as":"২৪ বছৰ","fig":""},{"en":"40 years","as":"৪০ বছৰ","fig":""}],"correct":2,"expEn":"3x + 5x = 64 → 8x = 64 → x = 8; younger = 3x = 24 years.","expAs":"3x + 5x = 64 → 8x = 64 → x = 8; সৰু = 3x = 24 বছৰ।"},{"en":"The Revolt of 1857 began at:","as":"১৮৫৭ চনৰ বিদ্ৰোহ ক'ত আৰম্ভ হৈছিল?","fig":"","opts":[{"en":"Kanpur","as":"কানপুৰ","fig":""},{"en":"Meerut","as":"মিৰাট","fig":""},{"en":"Delhi","as":"দিল্লী","fig":""},{"en":"Jhansi","as":"ঝাঁচী","fig":""}],"correct":1,"expEn":"The Revolt of 1857 began at Meerut on 10 May 1857.","expAs":"১৮৫৭ চনৰ বিদ্ৰোহ ১০ মে' ১৮৫৭ত মিৰাটত আৰম্ভ হৈছিল।"},{"en":"Which of the following is a major source of marine plastic pollution?","as":"সাগৰীয় প্লাষ্টিক প্ৰদূষণৰ এটা প্ৰধান উৎস কোনটো?","fig":"","opts":[{"en":"Cotton clothes","as":"বাঁহ-কাপোৰ","fig":""},{"en":"Jute bags","as":"পাটৰ মোনা","fig":""},{"en":"Single-use plastic items","as":"এবাৰ ব্যৱহাৰৰ প্লাষ্টিক সামগ্ৰী","fig":""},{"en":"Clay pots","as":"মাটিৰ পাত্ৰ","fig":""}],"correct":2,"expEn":"Single-use plastics often end up in oceans, harming marine life.","expAs":"এবাৰ ব্যৱহাৰৰ প্লাষ্টিক প্ৰায়ে সাগৰত পৰি সাগৰীয় জীৱনৰ ক্ষতি কৰে।"},{"en":"What was the main court language of the Varman dynasty?","as":"বৰ্মন বংশৰ প্ৰধান ৰাজসভাৰ ভাষা কি আছিল?","fig":"","opts":[{"en":"Sanskrit","as":"সংস্কৃত","fig":""},{"en":"Assamese","as":"অসমীয়া","fig":""},{"en":"Prakrit","as":"প্ৰাকৃত","fig":""},{"en":"Pali","as":"পালি","fig":""}],"correct":0,"expEn":"Sanskrit was the main court and official language under the Varman kings.","expAs":"বৰ্মন ৰজাৰ সময়ত সংস্কৃত প্ৰধান ৰাজসভা আৰু চৰকাৰী ভাষা আছিল।"},{"en":"One who has expert knowledge of art or taste is called —","as":"শিল্প বা ৰুচিৰ বিশেষজ্ঞ মানুহক কি বোলা হয় —","fig":"","opts":[{"en":"Novice","as":"Novice","fig":""},{"en":"Amateur","as":"Amateur","fig":""},{"en":"Connoisseur","as":"Connoisseur","fig":""},{"en":"Dilettante","as":"Dilettante","fig":""}],"correct":2,"expEn":"One who has expert knowledge of art or taste is called 'Connoisseur'.","expAs":"ইংৰাজীত ইয়াক Connoisseur বুলি কোৱা হয়।"},{"en":"A man covers 15 km in 3 hours on foot and returns by cycle at 15 km/h. Find the total time taken.","as":"এজন মানুহে 3 ঘণ্টাত 15 কিমি খোজ কাঢ়ি যায় আৰু চাইকেলত 15 কিমি/ঘণ্টা বেগত উভতি আহে। মুঠ সময় নিৰ্ণয় কৰক।","fig":"","opts":[{"en":"3 hours","as":"৩ ঘণ্টা","fig":""},{"en":"4 hours","as":"৪ ঘণ্টা","fig":""},{"en":"5 hours","as":"৫ ঘণ্টা","fig":""},{"en":"6 hours","as":"৬ ঘণ্টা","fig":""}],"correct":1,"expEn":"Walking time = 3 hours; return time = 15 / 15 = 1 hour; total = 4 hours.","expAs":"খোজ কঢ়াৰ সময় = 3 ঘণ্টা; উভতি অহাৰ সময় = 15 / 15 = 1 ঘণ্টা; মুঠ = 4 ঘণ্টা।"},{"en":"Find the value of a scooter costing ₹40,000 after 2 years if it depreciates at 5% per annum.","as":"40,000 টকা দামৰ এটা স্কুটাৰ বছৰি 5% হাৰত অৱক্ষয় হ'লে 2 বছৰৰ পিছত মূল্য নিৰ্ণয় কৰক।","fig":"","opts":[{"en":"₹36,000","as":"৩৬,০০০ টকা","fig":""},{"en":"₹36,200","as":"৩৬,২০০ টকা","fig":""},{"en":"₹36,400","as":"৩৬,৪০০ টকা","fig":""},{"en":"₹36,100","as":"৩৬,১০০ টকা","fig":""}],"correct":3,"expEn":"Value = 40000 × (0.95)² = ₹36,100.","expAs":"মূল্য = 40000 × (0.95)² = 36,100 টকা।"},{"en":"Choose the word that is most opposite in meaning to 'Gentle'.","as":"'Gentle' ৰ অৰ্থৰ বিপৰীত অৰ্থৰ শব্দটো বাছনি কৰক।","fig":"","opts":[{"en":"Mild","as":"কোমল","fig":""},{"en":"Market","as":"বজাৰ","fig":""},{"en":"Harsh","as":"কঠোৰ","fig":""},{"en":"Doctor","as":"চিকিৎসক","fig":""}],"correct":2,"expEn":"'Harsh' is an antonym of 'Gentle'; it has the opposite meaning.","expAs":"'Harsh' হৈছে 'Gentle' ৰ বিপৰীত অৰ্থৰ শব্দ।"},{"en":"Choose the word that is most opposite in meaning to 'Patient'.","as":"'Patient' ৰ অৰ্থৰ বিপৰীত অৰ্থৰ শব্দটো বাছনি কৰক।","fig":"","opts":[{"en":"Tolerant","as":"সহনশীল","fig":""},{"en":"Umbrella","as":"ছাতি","fig":""},{"en":"Impatient","as":"অধৈৰ্য","fig":""},{"en":"Bridge","as":"দলং","fig":""}],"correct":2,"expEn":"'Impatient' is an antonym of 'Patient'; it has the opposite meaning.","expAs":"'Impatient' হৈছে 'Patient' ৰ বিপৰীত অৰ্থৰ শব্দ।"},{"en":"In which year was the National Green Hydrogen Mission launched?","as":"ৰাষ্ট্ৰীয় সেউজ হাইড্ৰ'জেন মিছন কোন বছৰত আৰম্ভ কৰা হৈছিল?","fig":"","opts":[{"en":"2024","as":"২০২৪","fig":""},{"en":"2022","as":"২০২২","fig":""},{"en":"2023","as":"২০২৩","fig":""},{"en":"2021","as":"২০২১","fig":""}],"correct":2,"expEn":"The National Green Hydrogen Mission was launched in 2023.","expAs":"ৰাষ্ট্ৰীয় সেউজ হাইড্ৰ'জেন মিছন ২০২৩ চনত আৰম্ভ কৰা হৈছিল।"},{"en":"20% of 150 is —","as":"150 ৰ 20% —","fig":"","opts":[{"en":"25","as":"২৫","fig":""},{"en":"30","as":"৩০","fig":""},{"en":"35","as":"৩৫","fig":""},{"en":"45","as":"৪৫","fig":""}],"correct":1,"expEn":"150 × 20/100 = 30.","expAs":"150 × 20/100 = 30।"},{"en":"Which ancient Assam king is known to have exchanged envoys with China?","as":"চীনৰ সৈতে দূত বিনিময় কৰা প্ৰাচীন অসমৰ ৰজা কোন?","fig":"","opts":[{"en":"Tyagasimha","as":"ত্যাগসিংহ","fig":""},{"en":"Brahmapala","as":"ব্ৰহ্মপাল","fig":""},{"en":"Bhaskarvarman","as":"ভাস্কৰৱৰ্মন","fig":""},{"en":"Pushyavarman","as":"পুশ্যৱৰ্মন","fig":""}],"correct":2,"expEn":"Bhaskarvarman is known to have exchanged envoys with China.","expAs":"ভাস্কৰৱৰ্মনে চীনৰ সৈতে দূত বিনিময় কৰিছিল বুলি জনা যায়।"},{"en":"One who is hard to please is called —","as":"সন্তুষ্ট কৰিবলৈ টান মানুহক কি বোলা হয় —","fig":"","opts":[{"en":"Stubborn","as":"Stubborn","fig":""},{"en":"Fickle","as":"Fickle","fig":""},{"en":"Fastidious","as":"Fastidious","fig":""},{"en":"Arrogant","as":"Arrogant","fig":""}],"correct":2,"expEn":"One who is hard to please is called 'Fastidious'.","expAs":"ইংৰাজীত ইয়াক Fastidious বুলি কোৱা হয়।"},{"en":"Eri silk is also known as:","as":"এৰী ৰেচমক আন কি নামেৰে জনা যায়?","fig":"","opts":[{"en":"Golden silk","as":"সোণালী ৰেচম","fig":""},{"en":"Ahimsa silk","as":"অহিংসা ৰেচম","fig":""},{"en":"Wild silk","as":"বনৰীয়া ৰেচম","fig":""},{"en":"Sea silk","as":"সামুদ্ৰিক ৰেচম","fig":""}],"correct":1,"expEn":"Eri silk is called ahimsa silk as it is produced without killing the silkworm.","expAs":"এৰী ৰেচমক অহিংসা ৰেচম বোলা হয় কাৰণ ই পলু নমৰাকৈ উৎপাদন কৰা হয়।"},{"en":"A man walks 7 km towards West and then 7 km towards North. In which direction is he from the starting point?","as":"এজন মানুহে ৭ কিমি পশ্চিমলৈ আৰু তাৰপিছত ৭ কিমি উত্তৰলৈ খোজ কাঢ়িল। তেওঁ আৰম্ভণিৰ স্থানৰপৰা কোন দিশত?","fig":"","opts":[{"en":"North-West","as":"উত্তৰ-পশ্চিম","fig":""},{"en":"North-East","as":"উত্তৰ-পূব","fig":""},{"en":"South-West","as":"দক্ষিণ-পশ্চিম","fig":""},{"en":"South-East","as":"দক্ষিণ-পূব","fig":""}],"correct":0,"expEn":"Moving West and then North places him to the North-West of the start.","expAs":"পশ্চিমলৈ আৰু তাৰপিছত উত্তৰলৈ গলে তেওঁ আৰম্ভণিৰ উত্তৰ-পশ্চিমত থাকে।"},{"en":"Identify the part of speech of the word 'We' in the sentence: We are going to school.","as":"বাক্যটোত 'We' শব্দটোৰ Parts of Speech চিনাক্ত কৰক: We are going to school.","fig":"","opts":[{"en":"Noun","as":"Noun","fig":""},{"en":"Adjective","as":"Adjective","fig":""},{"en":"Pronoun","as":"Pronoun","fig":""},{"en":"Adverb","as":"Adverb","fig":""}],"correct":2,"expEn":"'We' is used in place of the names of the speakers, so it is a pronoun.","expAs":"'We' এ কওঁতাসকলৰ নামৰ সলনি ব্যৱহাৰ হয়, গতিকে ই এটা Pronoun।"},{"en":"Which state of India is known as the 'Powerhouse of India'?","as":"কোনখন ভাৰতীয় ৰাজ্যক 'ভাৰতৰ শক্তি গৃহ' বুলি জনা যায়?","fig":"","opts":[{"en":"Jharkhand","as":"ঝাৰখণ্ড","fig":""},{"en":"Odisha","as":"ওড়িশা","fig":""},{"en":"Chhattisgarh","as":"ছত্তীশগড়","fig":""},{"en":"West Bengal","as":"পশ্চিম বংগ","fig":""}],"correct":0,"expEn":"Jharkhand is known as the Powerhouse of India due to its mineral wealth.","expAs":"খনিজ সম্পদৰ বাবে ঝাৰখণ্ডক ভাৰতৰ শক্তি গৃহ বুলি জনা যায়।"},{"en":"Wangala is a harvest festival of which community?","as":"ৱানগালা কোন সম্প্ৰদায়ৰ শস্য-উৎসৱ?","fig":"","opts":[{"en":"Bodo","as":"বড়ো","fig":""},{"en":"Karbi","as":"কাৰ্বি","fig":""},{"en":"Garo","as":"গাৰো","fig":""},{"en":"Mishing","as":"মিচিং","fig":""}],"correct":2,"expEn":"Wangala is the harvest festival of the Garo community.","expAs":"ৱানগালা গাৰো সম্প্ৰদায়ৰ শস্য-উৎসৱ।"},{"en":"The PESA Act applies to areas covered under which Schedule?","as":"PESA আইনে কোন অনুসূচীৰ অধীনৰ এলেকাত প্ৰযোজ্য?","fig":"","opts":[{"en":"Fifth Schedule","as":"পঞ্চম অনুসূচী","fig":""},{"en":"Ninth Schedule","as":"নৱম অনুসূচী","fig":""},{"en":"Seventh Schedule","as":"সপ্তম অনুসূচী","fig":""},{"en":"Sixth Schedule","as":"ষষ্ঠ অনুসূচী","fig":""}],"correct":0,"expEn":"PESA applies to Fifth Schedule (Scheduled) areas.","expAs":"PESA পঞ্চম অনুসূচী (অনুসূচিত) এলেকাত প্ৰযোজ্য।"},{"en":"Find the error in the sentence: She gave me some good advices.","as":"বাক্যটোত থকা ভুলটো বিচাৰি উলিয়াওক: She gave me some good advices.","fig":"","opts":[{"en":"gave","as":"gave","fig":""},{"en":"some","as":"some","fig":""},{"en":"advices","as":"advices","fig":""},{"en":"good","as":"good","fig":""}],"correct":2,"expEn":"'Advice' is uncountable; the plural 'advices' is incorrect. Say 'some good advice'.","expAs":"'Advice' uncountable; plural 'advices' ভুল। কওক 'some good advice'।"},{"en":"The holy book of the Sikhs is:","as":"শিখসকলৰ পবিত্ৰ গ্ৰন্থ কি?","fig":"","opts":[{"en":"Bible","as":"বাইবেল","fig":""},{"en":"Zend Avesta","as":"জেন্দ আভেস্তা","fig":""},{"en":"Granth Sahib","as":"গ্ৰন্থ চাহেব","fig":""},{"en":"Tripitaka","as":"ত্ৰিপিটক","fig":""}],"correct":2,"expEn":"The Guru Granth Sahib is the holy book of the Sikhs.","expAs":"গুৰু গ্ৰন্থ চাহিব শিখসকলৰ পবিত্ৰ গ্ৰন্থ।"},{"en":"Which is the largest district of India by area?","as":"মাটিকালিৰ ভিত্তিত ভাৰতৰ আটাইতকৈ ডাঙৰ জিলা কোনখন?","fig":"","opts":[{"en":"Leh","as":"লেহ","fig":""},{"en":"Kutch","as":"কচ্ছ","fig":""},{"en":"Barmer","as":"বাৰমেৰ","fig":""},{"en":"Jaisalmer","as":"জয়ছালমেৰ","fig":""}],"correct":0,"expEn":"Leh district is the largest district of India by area.","expAs":"মাটিকালিৰ ভিত্তিত লেহ জিলা ভাৰতৰ আটাইতকৈ ডাঙৰ জিলা।"},{"en":"Which of the following is a perfect cube?","as":"তলৰ কোনটো এটা পূৰ্ণঘন?","fig":"","opts":[{"en":"16","as":"১৬","fig":""},{"en":"27","as":"২৭","fig":""},{"en":"24","as":"২৪","fig":""},{"en":"36","as":"৩৬","fig":""}],"correct":1,"expEn":"27 = 3 × 3 × 3, so it is a perfect cube.","expAs":"27 = 3 × 3 × 3, গতিকে ই এটা পূৰ্ণঘন।"},{"en":"If the profit is 20% of the selling price, find the profit percentage on the cost price.","as":"যদি লাভ বিক্ৰয়মূল্যৰ 20% হয়, ক্ৰয়মূল্যৰ ওপৰত লাভৰ শতাংশ উলিয়াওক।","fig":"","opts":[{"en":"20%","as":"২০%","fig":""},{"en":"25%","as":"২৫%","fig":""},{"en":"30%","as":"৩০%","fig":""},{"en":"15%","as":"১৫%","fig":""}],"correct":1,"expEn":"Profit = 20% of SP, so CP = 80% of SP. Profit % on CP = (20 / 80) × 100 = 25%.","expAs":"লাভ = বিক্ৰয়মূল্যৰ 20%, গতিকে ক্ৰয়মূল্য = বিক্ৰয়মূল্যৰ 80%। লাভ % = (20 / 80) × 100 = 25%।"},{"en":"Choose the word that is most opposite in meaning to 'Gather'.","as":"'Gather' ৰ অৰ্থৰ বিপৰীত অৰ্থৰ শব্দটো বাছনি কৰক।","fig":"","opts":[{"en":"Collect","as":"সংগ্ৰহ কৰা","fig":""},{"en":"Hammer","as":"হাতুৰী","fig":""},{"en":"Scatter","as":"ছিন্নভিন্ন কৰা","fig":""},{"en":"Temple","as":"মন্দিৰ","fig":""}],"correct":2,"expEn":"'Scatter' is an antonym of 'Gather'; it has the opposite meaning.","expAs":"'Scatter' হৈছে 'Gather' ৰ বিপৰীত অৰ্থৰ শব্দ।"},{"en":"The idiom 'to walk on air' means —","as":"'to walk on air' বাক্যৰীতিটোৰ অৰ্থ —","fig":"","opts":[{"en":"to waste time","as":"সময় নষ্ট কৰা","fig":""},{"en":"to be extremely happy","as":"অতি আনন্দিত হোৱা","fig":""},{"en":"to give up easily","as":"সহজে হাৰ মানি লোৱা","fig":""},{"en":"to discourage someone","as":"কাকোবা নিৰুৎসাহিত কৰা","fig":""}],"correct":1,"expEn":"'To walk on air' means to be extremely happy.","expAs":"'to walk on air' ৰ অৰ্থ হৈছে অতি আনন্দিত হোৱা।"},{"en":"40% as a fraction is —","as":"40% ভগ্নাংশ হিচাপে —","fig":"","opts":[{"en":"1/4","as":"1/4","fig":""},{"en":"2/5","as":"2/5","fig":""},{"en":"2/3","as":"2/3","fig":""},{"en":"4/5","as":"4/5","fig":""}],"correct":1,"expEn":"40% = 40/100 = 2/5.","expAs":"40% = 40/100 = 2/5।"},{"en":"Which one of the following figures is embedded in the given figure?","as":"তলৰ কোনটো চিত্ৰ দিয়া চিত্ৰটোত সন্নিবিষ্ট (লুকাই) আছে?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003cline x1=\"67.00\" y1=\"14.00\" x2=\"133.00\" y2=\"14.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"133.00\" y1=\"14.00\" x2=\"133.00\" y2=\"146.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"133.00\" y1=\"146.00\" x2=\"67.00\" y2=\"146.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"67.00\" y1=\"146.00\" x2=\"67.00\" y2=\"14.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"67.00\" y1=\"14.00\" x2=\"133.00\" y2=\"146.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"42.00\" y1=\"26.00\" x2=\"74.00\" y2=\"58.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"74.00\" y1=\"58.00\" x2=\"58.00\" y2=\"74.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"74.00\" x2=\"26.00\" y2=\"42.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"26.00\" y1=\"42.00\" x2=\"42.00\" y2=\"26.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"42.00\" y1=\"18.00\" x2=\"58.00\" y2=\"18.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"18.00\" x2=\"58.00\" y2=\"82.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"82.00\" x2=\"42.00\" y2=\"82.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"42.00\" y1=\"82.00\" x2=\"42.00\" y2=\"18.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"42.00\" y1=\"34.00\" x2=\"58.00\" y2=\"34.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"34.00\" x2=\"58.00\" y2=\"66.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"66.00\" x2=\"42.00\" y2=\"66.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"42.00\" y1=\"66.00\" x2=\"42.00\" y2=\"34.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cline x1=\"42.00\" y1=\"26.00\" x2=\"58.00\" y2=\"26.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"26.00\" x2=\"58.00\" y2=\"74.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"58.00\" y1=\"74.00\" x2=\"42.00\" y2=\"74.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003cline x1=\"42.00\" y1=\"74.00\" x2=\"42.00\" y2=\"26.00\" stroke=\"#334155\" stroke-width=\"2.6\" stroke-linecap=\"round\"/>\u003c/svg>"}],"correct":2,"expEn":"The rectangle is embedded in the given figure.","expAs":"দিয়া চিত্ৰটোত আয়ত সন্নিবিষ্ট হৈ আছে।"},{"en":"Which is the largest district of Assam by area?","as":"মাটিকালিৰে অসমৰ আটাইতকৈ ডাঙৰ জিলা কোনখন?","fig":"","opts":[{"en":"Kamrup","as":"কামৰূপ","fig":""},{"en":"Sonitpur","as":"শোণিতপুৰ","fig":""},{"en":"Karbi Anglong","as":"কাৰ্বি আংলং","fig":""},{"en":"Dibrugarh","as":"ডিব্ৰুগড়","fig":""}],"correct":2,"expEn":"Karbi Anglong is the largest district of Assam by area.","expAs":"মাটিকালিৰে কাৰ্বি আংলং অসমৰ আটাইতকৈ ডাঙৰ জিলা।"},{"en":"Which is the easternmost state of India?","as":"ভাৰতৰ আটাইতকৈ পূবৰ ৰাজ্য কোনখন?","fig":"","opts":[{"en":"Arunachal Pradesh","as":"অৰুণাচল প্ৰদেশ","fig":""},{"en":"Nagaland","as":"নাগালেণ্ড","fig":""},{"en":"Manipur","as":"মণিপুৰ","fig":""},{"en":"Mizoram","as":"মিজোৰাম","fig":""}],"correct":0,"expEn":"Arunachal Pradesh is the easternmost state of India.","expAs":"অৰুণাচল প্ৰদেশ ভাৰতৰ আটাইতকৈ পূবৰ ৰাজ্য।"},{"en":"The Preamble is often described as the:","as":"প্ৰস্তাৱনাক প্ৰায়ে বৰ্ণনা কৰা হয়:","fig":"","opts":[{"en":"Soul of the Constitution","as":"সংবিধানৰ আত্মা","fig":""},{"en":"Heart of the Constitution","as":"সংবিধানৰ হৃদয়","fig":""},{"en":"Body of the Constitution","as":"সংবিধানৰ শৰীৰ","fig":""},{"en":"Backbone of the Constitution","as":"সংবিধানৰ মেৰুদণ্ড","fig":""}],"correct":0,"expEn":"The Preamble is called the soul and identity card of the Constitution.","expAs":"প্ৰস্তাৱনাক সংবিধানৰ আত্মা আৰু পৰিচয়-পত্ৰ বুলি কোৱা হয়।"},{"en":"Who was the first woman Chief Minister of Assam?","as":"অসমৰ প্ৰথম মহিলা মুখ্যমন্ত্ৰী কোন আছিল?","fig":"","opts":[{"en":"Chandraprabha Saikiani","as":"চন্দ্ৰপ্ৰভা শইকীয়ানী","fig":""},{"en":"Syeda Anwara Taimur","as":"ছৈয়দা আনোৱাৰা তৈমুৰ","fig":""},{"en":"Mamoni Raisom Goswami","as":"মামণি ৰয়ছম গোস্বামী","fig":""},{"en":"Sushmita Dev","as":"সুষ্মিতা দেৱ","fig":""}],"correct":1,"expEn":"Syeda Anwara Taimur was the first woman Chief Minister of Assam.","expAs":"ছৈয়দা আনোৱাৰা তৈমুৰ অসমৰ প্ৰথম মহিলা মুখ্যমন্ত্ৰী আছিল।"},{"en":"In the figure analogy below, A is related to B in a certain way. Following the same rule, which figure should replace the question mark?","as":"তলৰ চিত্ৰ-সাদৃশ্যত A ৰ সৈতে B এটা নিৰ্দিষ্ট নিয়মত সম্পৰ্কিত। একেই নিয়ম অনুসৰণ কৰি প্ৰশ্নবোধক চিহ্নৰ ঠাইত কোনটো চিত্ৰ বহিব?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 250\">\u003crect x=\"2\" y=\"2\" width=\"316\" height=\"246\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003ccircle cx=\"62.0\" cy=\"66.0\" r=\"26.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003ctext x=\"160.0\" y=\"78.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">:\u003c/text>\u003ccircle cx=\"258.0\" cy=\"66.0\" r=\"26.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003ccircle cx=\"258.0\" cy=\"66.0\" r=\"4.2\" fill=\"#475569\"/>\u003cpolygon points=\"80.4,167.6 80.4,204.4 43.6,204.4 43.6,167.6\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/>\u003ctext x=\"160.0\" y=\"198.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">:\u003c/text>\u003ctext x=\"258.0\" y=\"198.0\" font-size=\"36\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">?\u003c/text>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"30.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cpolygon points=\"71.2,28.8 71.2,71.2 28.8,71.2 28.8,28.8\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/>\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"4.8\" fill=\"#475569\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"30.0\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\"/>\u003ccircle cx=\"50.0\" cy=\"50.0\" r=\"4.8\" fill=\"#475569\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003cpolygon points=\"71.2,28.8 71.2,71.2 28.8,71.2 28.8,28.8\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/>\u003c/svg>"}],"correct":1,"expEn":"A dot is added inside the figure.","expAs":"চিত্ৰটোৰ ভিতৰত এটা বিন্দু যোগ কৰা হয়।"},{"en":"Which national park of Assam is the largest by area?","as":"কালিৰ ফালৰ পৰা অসমৰ সৰ্ববৃহৎ ৰাষ্ট্ৰীয় উদ্যান কোনখন?","fig":"","opts":[{"en":"Kaziranga","as":"কাজিৰঙা","fig":""},{"en":"Manas","as":"মানস","fig":""},{"en":"Nameri","as":"নামেৰী","fig":""},{"en":"Orang","as":"ওৰাং","fig":""}],"correct":0,"expEn":"Kaziranga, at about 1090 square kilometres, is the largest national park of Assam.","expAs":"কাজিৰঙা, প্ৰায় ১০৯০ বৰ্গ কিলোমিটাৰ, অসমৰ সৰ্ববৃহৎ ৰাষ্ট্ৰীয় উদ্যান।"},{"en":"Choose the word that is most opposite in meaning to 'Bright'.","as":"'Bright' ৰ অৰ্থৰ বিপৰীত অৰ্থৰ শব্দটো বাছনি কৰক।","fig":"","opts":[{"en":"Shining","as":"উজ্জ্বল","fig":""},{"en":"Island","as":"দ্বীপ","fig":""},{"en":"Dull","as":"নিষ্প্ৰভ","fig":""},{"en":"Ticket","as":"টিকট","fig":""}],"correct":2,"expEn":"'Dull' is an antonym of 'Bright'; it has the opposite meaning.","expAs":"'Dull' হৈছে 'Bright' ৰ বিপৰীত অৰ্থৰ শব্দ।"},{"en":"A group of dancers is called —","as":"নৃত্যশিল্পীৰ দলক কি বোলা হয় —","fig":"","opts":[{"en":"Troupe","as":"Troupe","fig":""},{"en":"Choir","as":"Choir","fig":""},{"en":"Orchestra","as":"Orchestra","fig":""},{"en":"Band","as":"Band","fig":""}],"correct":0,"expEn":"A group of dancers is called 'Troupe'.","expAs":"ইংৰাজীত ইয়াক Troupe বুলি কোৱা হয়।"},{"en":"Which Venn diagram best represents the relationship among Doctors, Men, Fathers?","as":"কোনটো ভেন চিত্ৰই ডাক্তৰ, পুৰুষ, পিতৃ ৰ মাজৰ সম্পৰ্ক সঠিকভাৱে দেখুৱায়?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003crect x=\"28\" y=\"25\" width=\"144\" height=\"34\" rx=\"8\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.4\"/>\u003ctext x=\"100\" y=\"48\" font-size=\"14\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#1e293b\">Doctors\u003c/text>\u003crect x=\"28\" y=\"63\" width=\"144\" height=\"34\" rx=\"8\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.4\"/>\u003ctext x=\"100\" y=\"86\" font-size=\"14\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#1e293b\">Men\u003c/text>\u003crect x=\"28\" y=\"101\" width=\"144\" height=\"34\" rx=\"8\" fill=\"none\" stroke=\"#1e293b\" stroke-width=\"1.4\"/>\u003ctext x=\"100\" y=\"124\" font-size=\"14\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"600\" text-anchor=\"middle\" fill=\"#1e293b\">Fathers\u003c/text>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003ccircle cx=\"82\" cy=\"58\" r=\"42\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\u003ccircle cx=\"118\" cy=\"58\" r=\"42\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\u003ccircle cx=\"100\" cy=\"94\" r=\"42\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003ccircle cx=\"100\" cy=\"80\" r=\"62\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\"/>\u003ccircle cx=\"100\" cy=\"80\" r=\"44\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\u003ccircle cx=\"100\" cy=\"80\" r=\"26\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003ccircle cx=\"40\" cy=\"80\" r=\"26\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\u003ccircle cx=\"100\" cy=\"80\" r=\"26\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\u003ccircle cx=\"160\" cy=\"80\" r=\"26\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\"/>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003ccircle cx=\"100\" cy=\"80\" r=\"60\" fill=\"none\" stroke=\"#16a34a\" stroke-width=\"2\"/>\u003ccircle cx=\"72\" cy=\"80\" r=\"24\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\"/>\u003ccircle cx=\"128\" cy=\"80\" r=\"24\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\u003c/svg>"}],"correct":0,"expEn":"Some doctors are men, some fathers are doctors; the three sets overlap.","expAs":"কিছুমান ডাক্তৰ পুৰুষ, কিছুমান পিতৃ ডাক্তৰ; তিনিওটা সংহতি জড়িত।"},{"en":"Which scheme provides free cooking gas connections to poor women?","as":"কোন আঁচনিয়ে দৰিদ্ৰ মহিলাক বিনামূলীয়া ৰন্ধন গেছ সংযোগ প্ৰদান কৰে?","fig":"","opts":[{"en":"Ayushman Bharat","as":"আয়ুষ্মান ভাৰত","fig":""},{"en":"Saubhagya","as":"সৌভাগ্য","fig":""},{"en":"Pradhan Mantri Ujjwala Yojana","as":"প্ৰধানমন্ত্ৰী উজ্জ্বলা যোজনা","fig":""},{"en":"Swachh Bharat","as":"স্বচ্ছ ভাৰত","fig":""}],"correct":2,"expEn":"PM Ujjwala Yojana provides free LPG connections to poor women.","expAs":"পিএম উজ্জ্বলা যোজনাই দৰিদ্ৰ মহিলাক বিনামূলীয়া এলপিজি সংযোগ প্ৰদান কৰে।"},{"en":"The average of 3 numbers is 10. If a number 18 is added, what is the new average?","as":"3 টা সংখ্যাৰ গড় 10। যদি এটা সংখ্যা 18 যোগ কৰা হয়, নতুন গড় কিমান হ'ব?","fig":"","opts":[{"en":"11","as":"১১","fig":""},{"en":"13","as":"১৩","fig":""},{"en":"12","as":"১২","fig":""},{"en":"14","as":"১৪","fig":""}],"correct":2,"expEn":"Old sum = 30; new sum = 30 + 18 = 48; new average = 48 / 4 = 12.","expAs":"পুৰণি সমষ্টি = 30; নতুন সমষ্টি = 30 + 18 = 48; নতুন গড় = 48 / 4 = 12।"},{"en":"Choose the correct option: I ___ never been to London.","as":"শুদ্ধ বিকল্পটো বাছনি কৰক: I ___ never been to London.","fig":"","opts":[{"en":"have","as":"have","fig":""},{"en":"has","as":"has","fig":""},{"en":"had","as":"had","fig":""},{"en":"am","as":"am","fig":""}],"correct":0,"expEn":"The present perfect with 'I' uses 'have been'.","expAs":"'I' ৰ সৈতে present perfect ত 'have been' ব্যৱহাৰ হয়।"},{"en":"What is the average of 18, 24, 30, 36 and 42?","as":"18, 24, 30, 36 আৰু 42 ৰ গড় কিমান?","fig":"","opts":[{"en":"26","as":"২৬","fig":""},{"en":"28","as":"২৮","fig":""},{"en":"30","as":"৩০","fig":""},{"en":"34","as":"৩৪","fig":""}],"correct":2,"expEn":"Sum = 150; average = 150 / 5 = 30.","expAs":"সমষ্টি = 150; গড় = 150 / 5 = 30।"},{"en":"The Kirtan Ghosha was written by:","as":"কীৰ্তন ঘোষা কে লিখিছিল?","fig":"","opts":[{"en":"Bhattadeva","as":"ভট্টদেৱ","fig":""},{"en":"Madhavdeva","as":"মাধৱদেৱ","fig":""},{"en":"Ram Saraswati","as":"ৰাম সৰস্বতী","fig":""},{"en":"Srimanta Sankardeva","as":"শ্ৰীমন্ত শংকৰদেৱ","fig":""}],"correct":3,"expEn":"The Kirtan Ghosha was written by Srimanta Sankardeva.","expAs":"কীৰ্তন ঘোষা শ্ৰীমন্ত শংকৰদেৱে লিখিছিল।"},{"en":"Which of the following figures does not belong to the group?","as":"তলৰ কোনটো চিত্ৰ এই দলটোৰ অন্তৰ্ভুক্ত নহয়?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 160\">\u003crect x=\"2\" y=\"2\" width=\"196\" height=\"156\" rx=\"10\" fill=\"none\" stroke=\"#e2e8f0\"/>\u003cline x1=\"38.00\" y1=\"32.00\" x2=\"66.00\" y2=\"60.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"38.00\" y1=\"60.00\" x2=\"66.00\" y2=\"32.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"134.00\" y1=\"32.00\" x2=\"162.00\" y2=\"60.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"134.00\" y1=\"60.00\" x2=\"162.00\" y2=\"32.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"36.00\" y1=\"105.00\" x2=\"68.00\" y2=\"105.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"36.00\" y1=\"123.00\" x2=\"68.00\" y2=\"123.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"134.00\" y1=\"100.00\" x2=\"162.00\" y2=\"128.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003cline x1=\"134.00\" y1=\"128.00\" x2=\"162.00\" y2=\"100.00\" stroke=\"#334155\" stroke-width=\"2.2\" stroke-linecap=\"round\"/>\u003ctext x=\"27\" y=\"51\" font-size=\"15\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" fill=\"#64748b\" text-anchor=\"middle\">1\u003c/text>\u003ctext x=\"121\" y=\"51\" font-size=\"15\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" fill=\"#64748b\" text-anchor=\"middle\">2\u003c/text>\u003ctext x=\"27\" y=\"119\" font-size=\"15\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" fill=\"#64748b\" text-anchor=\"middle\">3\u003c/text>\u003ctext x=\"121\" y=\"119\" font-size=\"15\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" fill=\"#64748b\" text-anchor=\"middle\">4\u003c/text>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ctext x=\"50\" y=\"70\" font-size=\"56\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">1\u003c/text>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ctext x=\"50\" y=\"70\" font-size=\"56\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">2\u003c/text>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ctext x=\"50\" y=\"70\" font-size=\"56\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">3\u003c/text>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\">\u003ctext x=\"50\" y=\"70\" font-size=\"56\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">4\u003c/text>\u003c/svg>"}],"correct":2,"expEn":"The two lines cross each other in all the figures except one.","expAs":"একেটাত বাদে বাকী সকলো চিত্ৰত দুডাল ৰেখাই কটাকটি কৰিছে।"},{"en":"If 3, x and 12 are in continued proportion, find x.","as":"যদি 3, x আৰু 12 অবিৰত অনুপাতত থাকে, x উলিয়াওক।","fig":"","opts":[{"en":"4","as":"৪","fig":""},{"en":"6","as":"৬","fig":""},{"en":"9","as":"৯","fig":""},{"en":"5","as":"৫","fig":""}],"correct":1,"expEn":"x² = 3 × 12 = 36 ⇒ x = 6.","expAs":"x² = 3 × 12 = 36 ⇒ x = 6।"},{"en":"Simplify: 2.5 + 3.75 − 1.25","as":"সৰল কৰক: 2.5 + 3.75 − 1.25","fig":"","opts":[{"en":"5","as":"৫","fig":""},{"en":"5.5","as":"৫.৫","fig":""},{"en":"4.75","as":"৪.৭৫","fig":""},{"en":"6","as":"৬","fig":""}],"correct":0,"expEn":"2.5 + 3.75 = 6.25; 6.25 − 1.25 = 5.","expAs":"2.5 + 3.75 = 6.25; 6.25 − 1.25 = 5।"},{"en":"The Assamese newspaper 'Assam Bandhu' was started in which year?","as":"অসমীয়া বাতৰি কাকত 'অসম বন্ধু' কোন বছৰত আৰম্ভ হৈছিল?","fig":"","opts":[{"en":"1889","as":"1889","fig":""},{"en":"1846","as":"1846","fig":""},{"en":"1885","as":"1885","fig":""},{"en":"1873","as":"1873","fig":""}],"correct":2,"expEn":"'Assam Bandhu' was started in 1885.","expAs":"'অসম বন্ধু' 1885 চনত আৰম্ভ হৈছিল।"},{"en":"In a class of 30 students, A ranks 14th. B ranks 3 places above A. What is B's rank?","as":"৩০ জন ছাত্ৰৰ এটা শ্ৰেণীত A ৰ স্থান ১৪ নম্বৰ। B, A ৰ তকৈ ৩ স্থান ওপৰত। B ৰ স্থান কিমান?","fig":"","opts":[{"en":"12th","as":"১২ নম্বৰ","fig":""},{"en":"10th","as":"১০ নম্বৰ","fig":""},{"en":"17th","as":"১৭ নম্বৰ","fig":""},{"en":"11th","as":"১১ নম্বৰ","fig":""}],"correct":3,"expEn":"B's rank = 14 - 3 = 11.","expAs":"B ৰ স্থান = ১৪ - ৩ = ১১।"},{"en":"A mother is three times as old as her daughter. If the sum of their ages is 48 years, what is the daughter's age?","as":"এগৰাকী মাতৃৰ বয়স তেওঁৰ জীয়ৰীৰ তিনিগুণ। তেওঁলোকৰ বয়সৰ যোগফল 48 বছৰ হ'লে, জীয়ৰীৰ বয়স কিমান?","fig":"","opts":[{"en":"12 years","as":"১২ বছৰ","fig":""},{"en":"10 years","as":"১০ বছৰ","fig":""},{"en":"14 years","as":"১৪ বছৰ","fig":""},{"en":"16 years","as":"১৬ বছৰ","fig":""}],"correct":0,"expEn":"x + 3x = 48 → 4x = 48 → x = 12.","expAs":"x + 3x = 48 → 4x = 48 → x = 12।"},{"en":"Who compiled 'Hemkosh', the standard Assamese dictionary?","as":"মানক অসমীয়া অভিধান 'হেমকোষ' কে সংকলন কৰিছিল?","fig":"","opts":[{"en":"Gunabhiram Barua","as":"গুণাভিৰাম বৰুৱা","fig":""},{"en":"Hemchandra Barua","as":"হেমচন্দ্ৰ বৰুৱা","fig":""},{"en":"Lakshminath Bezbaroa","as":"লক্ষ্মীনাথ বেজবৰুৱা","fig":""},{"en":"Chandrakumar Agarwala","as":"চন্দ্ৰকুমাৰ আগৰৱালা","fig":""}],"correct":1,"expEn":"Hemkosh was compiled by Hemchandra Barua.","expAs":"হেমকোষ হেমচন্দ্ৰ বৰুৱাই সংকলন কৰিছিল।"},{"en":"The idiom 'to turn the tables' means —","as":"'to turn the tables' বাক্যৰীতিটোৰ অৰ্থ —","fig":"","opts":[{"en":"to improve one's behaviour","as":"নিজৰ আচৰণ উন্নত কৰা","fig":""},{"en":"to reverse the situation","as":"পৰিস্থিতি ওলোটা কৰা","fig":""},{"en":"to be very young","as":"অতি কম বয়সীয়া হোৱা","fig":""},{"en":"to take care of someone","as":"কাৰোবাৰ যত্ন লোৱা","fig":""}],"correct":1,"expEn":"'To turn the tables' means to reverse the situation.","expAs":"'to turn the tables' ৰ অৰ্থ হৈছে পৰিস্থিতি ওলোটা কৰা।"},{"en":"Which officer assists the Gram Panchayat in administrative matters?","as":"প্ৰশাসনিক বিষয়ত গাঁও পঞ্চায়তক কোন বিষয়াই সহায় কৰে?","fig":"","opts":[{"en":"Panchayat Secretary","as":"পঞ্চায়ত সচিব","fig":""},{"en":"Chief Minister","as":"মুখ্যমন্ত্ৰী","fig":""},{"en":"District Collector","as":"জিলা সংগ্ৰাহক","fig":""},{"en":"Governor","as":"ৰাজ্যপাল","fig":""}],"correct":0,"expEn":"The Panchayat Secretary assists the Gram Panchayat in administration.","expAs":"পঞ্চায়ত সচিবে প্ৰশাসনত গাঁও পঞ্চায়তক সহায় কৰে।"},{"en":"Which Article provides for the State Election Commission?","as":"ৰাজ্য নিৰ্বাচন আয়োগৰ ব্যৱস্থা কোন অনুচ্ছেদে কৰে?","fig":"","opts":[{"en":"Article 243K","as":"অনুচ্ছেদ ২৪৩K","fig":""},{"en":"Article 243J","as":"অনুচ্ছেদ ২৪৩J","fig":""},{"en":"Article 243L","as":"অনুচ্ছেদ ২৪৩L","fig":""},{"en":"Article 243I","as":"অনুচ্ছেদ ২৪৩I","fig":""}],"correct":0,"expEn":"Article 243K provides for a State Election Commission to conduct Panchayat elections.","expAs":"অনুচ্ছেদ ২৪৩K-য়ে পঞ্চায়ত নিৰ্বাচন পৰিচালনাৰ বাবে ৰাজ্য নিৰ্বাচন আয়োগৰ ব্যৱস্থা কৰে।"},{"en":"Which mineral resource of Assam is a source of energy?","as":"অসমৰ কোনটো খনিজ সম্পদ শক্তিৰ উৎস?","fig":"","opts":[{"en":"Silica sand","as":"ছিলিকা বালি","fig":""},{"en":"Limestone","as":"চূণশিল","fig":""},{"en":"Coal","as":"কয়লা","fig":""},{"en":"Clay","as":"পংক","fig":""}],"correct":2,"expEn":"Coal is a fossil fuel and an important source of energy.","expAs":"কয়লা এটা জীৱাশ্ম ইন্ধন আৰু শক্তিৰ এটা গুৰুত্বপূৰ্ণ উৎস।"},{"en":"The repo rate is the rate at which:","as":"ৰেপ' ৰেট হৈছে সেই হাৰ য'ত:","fig":"","opts":[{"en":"Banks lend to customers","as":"বেংকে গ্ৰাহকক ঋণ দিয়ে","fig":""},{"en":"RBI borrows from banks","as":"আৰ বি আই য়ে বেংকৰ পৰা ঋণ লয়","fig":""},{"en":"RBI lends money to commercial banks","as":"আৰ বি আই য়ে বাণিজ্যিক বেংকক ঋণ দিয়ে","fig":""},{"en":"Banks lend to each other","as":"বেংকে ইজনে সিজনক ঋণ দিয়ে","fig":""}],"correct":2,"expEn":"Repo rate is the rate at which the RBI lends short-term funds to commercial banks.","expAs":"ৰেপ' ৰেট হৈছে সেই হাৰ য'ত আৰ বি আই য়ে বাণিজ্যিক বেংকক স্বল্পকালীন ধন ঋণ দিয়ে।"},{"en":"Panini was famous for his work on:","as":"পাণিনি কিসৰ ওপৰত তেওঁৰ গ্ৰন্থৰ বাবে বিখ্যাত?","fig":"","opts":[{"en":"Politics","as":"ৰাজনীতি","fig":""},{"en":"Astronomy","as":"জ্যোতিৰ্বিজ্ঞান","fig":""},{"en":"Medicine","as":"চিকিৎসা","fig":""},{"en":"Sanskrit grammar","as":"সংস্কৃত ব্যাকৰণ","fig":""}],"correct":3,"expEn":"Panini wrote a famous Sanskrit grammar (Ashtadhyayi).","expAs":"পাণিনিয়ে বিখ্যাত সংস্কৃত ব্যাকৰণ (অষ্টাধ্যায়ী) লিখিছিল।"},{"en":"Statements: Some men are honest. All honest are respected. Conclusions: I. Some men are respected. II. Some respected are men.","as":"বিবৃতি: কিছুমান মানুহ সৎ। সকলো সৎ সন্মানিত। সিদ্ধান্ত: I. কিছুমান মানুহ সন্মানিত। II. কিছুমান সন্মানিত মানুহ।","fig":"","opts":[{"en":"Only I follows","as":"কেৱল I সঠিক","fig":""},{"en":"Only II follows","as":"কেৱল II সঠিক","fig":""},{"en":"Both I and II follow","as":"I আৰু II দুয়োটাই সঠিক","fig":""},{"en":"Neither follows","as":"কোনোটোৱেই নহয়","fig":""}],"correct":2,"expEn":"The honest men are respected, giving both some men are respected and some respected are men.","expAs":"সৎ মানুহসকল সন্মানিত, গতিকে কিছুমান মানুহ সন্মানিত আৰু কিছুমান সন্মানিত মানুহ দুয়োটাই সঠিক।"},{"en":"'Vande Mataram' was written by:","as":"'বন্দে মাতৰম' কোনে লিখিছিল?","fig":"","opts":[{"en":"Sarojini Naidu","as":"সৰোজিনী নাইডু","fig":""},{"en":"Rabindranath Tagore","as":"ৰবীন্দ্ৰনাথ ঠাকুৰ","fig":""},{"en":"Muhammad Iqbal","as":"মুহম্মদ ইকবাল","fig":""},{"en":"Bankim Chandra Chatterjee","as":"বঙ্কিমচন্দ্ৰ চট্টোপাধ্যায়","fig":""}],"correct":3,"expEn":"Bankim Chandra Chatterjee wrote Vande Mataram.","expAs":"বঙ্কিমচন্দ্ৰ চট্টোপাধ্যায়ে বন্দে মাতৰম লিখিছিল।"},{"en":"How many Lok Sabha seats does Assam have?","as":"অসমত কেইটা লোকসভা আসন আছে?","fig":"","opts":[{"en":"14","as":"১৪","fig":""},{"en":"12","as":"১২","fig":""},{"en":"16","as":"১৬","fig":""},{"en":"18","as":"১৮","fig":""}],"correct":0,"expEn":"Assam has 14 Lok Sabha seats.","expAs":"অসমত ১৪টা লোকসভা আসন আছে।"},{"en":"Choose the word that is most opposite in meaning to 'Fearful'.","as":"'Fearful' ৰ অৰ্থৰ বিপৰীত অৰ্থৰ শব্দটো বাছনি কৰক।","fig":"","opts":[{"en":"Afraid","as":"ভীত","fig":""},{"en":"Flower","as":"ফুল","fig":""},{"en":"Bold","as":"সাহসী","fig":""},{"en":"Camera","as":"কেমেৰা","fig":""}],"correct":2,"expEn":"'Bold' is an antonym of 'Fearful'; it has the opposite meaning.","expAs":"'Bold' হৈছে 'Fearful' ৰ বিপৰীত অৰ্থৰ শব্দ।"},{"en":"Which of the following is an indicator of economic development?","as":"অৰ্থনৈতিক উন্নয়নৰ এটা সূচক তলৰ কোনটো?","fig":"","opts":[{"en":"Per capita income and literacy rate","as":"মুৰি আয় আৰু সাক্ষৰতাৰ হাৰ","fig":""},{"en":"Number of deserts","as":"মৰুভূমিৰ সংখ্যা","fig":""},{"en":"Rainfall only","as":"কেৱল বৰষুণ","fig":""},{"en":"Number of mountains","as":"পৰ্বতৰ সংখ্যা","fig":""}],"correct":0,"expEn":"Per capita income, literacy and health are key indicators of development.","expAs":"মুৰি আয়, সাক্ষৰতা আৰু স্বাস্থ্য উন্নয়নৰ প্ৰধান সূচক।"},{"en":"The Brahmaputra river finally drains into which water body?","as":"ব্ৰহ্মপুত্ৰ নদী অৱশেষত কোন জলভাগত পৰে?","fig":"","opts":[{"en":"Arabian Sea","as":"আৰব সাগৰ","fig":""},{"en":"Red Sea","as":"লোহিত সাগৰ","fig":""},{"en":"Andaman Sea","as":"আন্দামান সাগৰ","fig":""},{"en":"Bay of Bengal","as":"বংগোপসাগৰ","fig":""}],"correct":3,"expEn":"The Brahmaputra drains into the Bay of Bengal.","expAs":"ব্ৰহ্মপুত্ৰ নদী বংগোপসাগৰত পৰে।"},{"en":"The greatest number that divides 18, 24 and 30 exactly is —","as":"18, 24 আৰু 30 ক সম্পূৰ্ণৰূপে ভাগ কৰা আটাইতকৈ ডাঙৰ সংখ্যা —","fig":"","opts":[{"en":"2","as":"২","fig":""},{"en":"3","as":"৩","fig":""},{"en":"6","as":"৬","fig":""},{"en":"12","as":"১২","fig":""}],"correct":2,"expEn":"HCF of 18, 24 and 30 = 6.","expAs":"18, 24 আৰু 30 ৰ গ.সা.গু. = 6।"},{"en":"In which year did India play its first Test match?","as":"ভাৰতে কোন বছৰত প্ৰথম টেষ্ট খেল খেলিছিল?","fig":"","opts":[{"en":"1932","as":"১৯৩২","fig":""},{"en":"1934","as":"১৯৩৪","fig":""},{"en":"1936","as":"১৯৩৬","fig":""},{"en":"1930","as":"১৯৩০","fig":""}],"correct":0,"expEn":"India played its first Test match in 1932 against England.","expAs":"ভাৰতে ১৯৩২ চনত ইংলেণ্ডৰ বিৰুদ্ধে প্ৰথম টেষ্ট খেল খেলিছিল।"},{"en":"One who studies plants is called —","as":"উদ্ভিদ অধ্যয়ন কৰা মানুহক কি বোলা হয় —","fig":"","opts":[{"en":"Florist","as":"Florist","fig":""},{"en":"Zoologist","as":"Zoologist","fig":""},{"en":"Botanist","as":"Botanist","fig":""},{"en":"Biologist","as":"Biologist","fig":""}],"correct":2,"expEn":"One who studies plants is called 'Botanist'.","expAs":"ইংৰাজীত ইয়াক Botanist বুলি কোৱা হয়।"},{"en":"Manas National Park is located in which state?","as":"মানস ৰাষ্ট্ৰীয় উদ্যান কোন ৰাজ্যত অৱস্থিত?","fig":"","opts":[{"en":"Arunachal Pradesh","as":"অৰুণাচল প্ৰদেশ","fig":""},{"en":"Nagaland","as":"নাগালেণ্ড","fig":""},{"en":"Meghalaya","as":"মেঘালয়","fig":""},{"en":"Assam","as":"অসম","fig":""}],"correct":3,"expEn":"Manas National Park is in Assam.","expAs":"মানস ৰাষ্ট্ৰীয় উদ্যান অসমত অৱস্থিত।"},{"en":"Government by officials is called —","as":"বিষয়া-কৰ্মচাৰীৰ শাসনক কি বোলা হয় —","fig":"","opts":[{"en":"Aristocracy","as":"Aristocracy","fig":""},{"en":"Democracy","as":"Democracy","fig":""},{"en":"Bureaucracy","as":"Bureaucracy","fig":""},{"en":"Autocracy","as":"Autocracy","fig":""}],"correct":2,"expEn":"Government by officials is called 'Bureaucracy'.","expAs":"ইংৰাজীত ইয়াক Bureaucracy বুলি কোৱা হয়।"},{"en":"The 'Assam University' is located at:","as":"'অসম বিশ্ববিদ্যালয়' ক'ত অৱস্থিত?","fig":"","opts":[{"en":"Dibrugarh","as":"ডিব্ৰুগড়","fig":""},{"en":"Guwahati","as":"গুৱাহাটী","fig":""},{"en":"Tezpur","as":"তেজপুৰ","fig":""},{"en":"Silchar","as":"শিলচৰ","fig":""}],"correct":3,"expEn":"Assam University is located at Silchar.","expAs":"অসম বিশ্ববিদ্যালয় শিলচৰত অৱস্থিত।"},{"en":"The 2020 Tokyo Olympics were postponed by one year due to —","as":"২০২০ চনৰ টকিঅ' অলিম্পিক কি কাৰণত এবছৰ পিছলৈ ঠেলি দিয়া হৈছিল —","fig":"","opts":[{"en":"COVID-19 pandemic","as":"ক'ভিড-১৯ মাহামাৰী","fig":""},{"en":"An earthquake","as":"ভূমিকম্প","fig":""},{"en":"Financial crisis","as":"বিত্তীয় সংকট","fig":""},{"en":"Political unrest","as":"ৰাজনৈতিক অস্থিৰতা","fig":""}],"correct":0,"expEn":"The 2020 Tokyo Olympics were postponed due to the COVID-19 pandemic.","expAs":"ক'ভিড-১৯ মাহামাৰীৰ বাবে ২০২০ চনৰ টকিঅ' অলিম্পিক পিছলৈ ঠেলি দিয়া হৈছিল।"},{"en":"Which of the following is the correct mirror image of the given figure?","as":"তলৰ কোনটো দিয়া চিত্ৰৰ শুদ্ধ দাপোণ প্ৰতিবিম্ব?","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 130\">\u003crect x=\"1\" y=\"1\" width=\"248\" height=\"128\" rx=\"10\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\u003ctext x=\"125.0\" y=\"85\" font-size=\"58\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">2\u003c/text>\u003c/svg>","opts":[{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 190 110\">\u003crect x=\"1\" y=\"1\" width=\"188\" height=\"108\" rx=\"10\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\u003cg transform=\"translate(190,110) scale(-1,-1)\">\u003ctext x=\"95.0\" y=\"75\" font-size=\"58\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">2\u003c/text>\u003c/g>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 190 110\">\u003crect x=\"1\" y=\"1\" width=\"188\" height=\"108\" rx=\"10\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\u003cg transform=\"translate(190,0) scale(-1,1)\">\u003ctext x=\"95.0\" y=\"75\" font-size=\"58\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">2\u003c/text>\u003c/g>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 190 110\">\u003crect x=\"1\" y=\"1\" width=\"188\" height=\"108\" rx=\"10\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\u003ctext x=\"95.0\" y=\"75\" font-size=\"58\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">2\u003c/text>\u003c/svg>"},{"en":"","as":"","fig":"\u003csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 190 110\">\u003crect x=\"1\" y=\"1\" width=\"188\" height=\"108\" rx=\"10\" fill=\"#ffffff\" stroke=\"#e2e8f0\"/>\u003cg transform=\"translate(0,110) scale(1,-1)\">\u003ctext x=\"95.0\" y=\"75\" font-size=\"58\" font-family=\"Arial, Helvetica, sans-serif\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#334155\">2\u003c/text>\u003c/g>\u003c/svg>"}],"correct":1,"expEn":"A mirror image is a left-right reversal of the figure, so the correct option is the horizontally flipped figure.","expAs":"দাপোণ প্ৰতিবিম্বত চিত্ৰখন বাওঁ-সোঁ ওলোটাই দিয়া হয়, সেয়ে শুদ্ধ উত্তৰটো অনুভূমিকভাৱে ওলোটানো চিত্ৰ।"},{"en":"'Charit Puthi' in Assamese literature refers to:","as":"অসমীয়া সাহিত্যত 'চৰিত পুথি'ই কাক সূচায়?","fig":"","opts":[{"en":"Biographies of saints","as":"গুৰু-সন্তসকলৰ জীৱনী","fig":""},{"en":"Grammar books","as":"ব্যাকৰণ পুথি","fig":""},{"en":"Folk songs","as":"লোকগীত","fig":""},{"en":"Epic poems","as":"মহাকাব্য","fig":""}],"correct":0,"expEn":"Charit Puthi refers to biographies of Vaishnavite saints.","expAs":"চৰিত পুথিয়ে বৈষ্ণৱ গুৰু-সন্তসকলৰ জীৱনী সূচায়।"},{"en":"In which year was the POSHAN Abhiyaan launched?","as":"পোষণ অভিযান কোন বছৰত আৰম্ভ কৰা হৈছিল?","fig":"","opts":[{"en":"2017","as":"২০১৭","fig":""},{"en":"2018","as":"২০১৮","fig":""},{"en":"2019","as":"২০১৯","fig":""},{"en":"2016","as":"২০১৬","fig":""}],"correct":1,"expEn":"POSHAN Abhiyaan was launched in 2018.","expAs":"পোষণ অভিযান ২০১৮ চনত আৰম্ভ কৰা হৈছিল।"},{"en":"After Sankardeva, who led the Vaishnavite order?","as":"শংকৰদেৱৰ পিছত বৈষ্ণৱ সম্প্ৰদায়ৰ নেতৃত্ব ক'লৈ গৈছিল?","fig":"","opts":[{"en":"Madhavdeva","as":"মাধৱদেৱ","fig":""},{"en":"Ananta Kandali","as":"অনন্ত কন্দলী","fig":""},{"en":"Bhattadeva","as":"ভট্টদেৱ","fig":""},{"en":"Gopaladeva","as":"গোপালদেৱ","fig":""}],"correct":0,"expEn":"Madhavdeva led the order after Sankardeva.","expAs":"শংকৰদেৱৰ পিছত মাধৱদেৱে সম্প্ৰদায়ৰ নেতৃত্ব দিছিল।"},{"en":"The 'Brahmaputra' is one of the:","as":"'ব্ৰহ্মপুত্ৰ' কি?","fig":"","opts":[{"en":"Mountains","as":"পৰ্বত","fig":""},{"en":"Deserts","as":"মৰুভূমি","fig":""},{"en":"Longest rivers in the world","as":"বিশ্বৰ দীৰ্ঘতম নদীসমূহৰ এটা","fig":""},{"en":"Lakes","as":"হ্ৰদ","fig":""}],"correct":2,"expEn":"The Brahmaputra is one of the longest rivers in the world.","expAs":"ব্ৰহ্মপুত্ৰ বিশ্বৰ দীৰ্ঘতম নদীসমূহৰ এটা।"},{"en":"A train travels at an average speed of 65 km/h. How far will it travel in 4 hours?","as":"এখন ৰে'লে ঘণ্টাত গড়ে 65 কিমি বেগত চলে। 4 ঘণ্টাত কিমান দূৰ যাব?","fig":"","opts":[{"en":"240 km","as":"২৪০ কিমি","fig":""},{"en":"250 km","as":"২৫০ কিমি","fig":""},{"en":"260 km","as":"২৬০ কিমি","fig":""},{"en":"270 km","as":"২৭০ কিমি","fig":""}],"correct":2,"expEn":"Distance = 65 × 4 = 260 km.","expAs":"দূৰত্ব = 65 × 4 = 260 কিমি।"},{"en":"In which year did the Indian Super League (ISL) start?","as":"ইণ্ডিয়ান ছুপাৰ লীগ (আইএছএল) কোন বছৰত আৰম্ভ হৈছিল?","fig":"","opts":[{"en":"2015","as":"২০১৫","fig":""},{"en":"2012","as":"২০১২","fig":""},{"en":"2013","as":"২০১৩","fig":""},{"en":"2014","as":"২০১৪","fig":""}],"correct":3,"expEn":"The Indian Super League started in 2014.","expAs":"ইণ্ডিয়ান ছুপাৰ লীগ ২০১৪ চনত আৰম্ভ হৈছিল।"},{"en":"Which crop is the principal commercial crop of Assam?","as":"অসমৰ প্ৰধান বাণিজ্যিক শস্য কোনটো?","fig":"","opts":[{"en":"Wheat","as":"ঘেঁহু","fig":""},{"en":"Tea","as":"চাহ","fig":""},{"en":"Maize","as":"মাকৈ","fig":""},{"en":"Barley","as":"যৱ","fig":""}],"correct":1,"expEn":"Tea is the principal commercial crop and export earner of Assam.","expAs":"চাহ অসমৰ প্ৰধান বাণিজ্যিক শস্য আৰু ৰপ্তানিৰ পৰা আয়ৰ উৎস।"},{"en":"Which Constitutional Amendment gave constitutional status to the Panchayati Raj system?","as":"কোনটো সংবিধান সংশোধনীয়ে পঞ্চায়তী ৰাজ ব্যৱস্থাক সাংবিধানিক মৰ্যাদা দিছিল?","fig":"","opts":[{"en":"73rd Amendment","as":"৭৩ সংখ্যক সংশোধনী","fig":""},{"en":"44th Amendment","as":"৪৪ সংখ্যক সংশোধনী","fig":""},{"en":"74th Amendment","as":"৭৪ সংখ্যক সংশোধনী","fig":""},{"en":"42nd Amendment","as":"৪২ সংখ্যক সংশোধনী","fig":""}],"correct":0,"expEn":"The 73rd Constitutional Amendment Act, 1992 gave constitutional status to Panchayati Raj.","expAs":"১৯৯২ চনৰ ৭৩ সংখ্যক সংবিধান সংশোধনী আইনে পঞ্চায়তী ৰাজক সাংবিধানিক মৰ্যাদা দিছিল।"},{"en":"Which is the highest peak of the Satpura range?","as":"সৎপুৰা পৰ্বতশ্ৰেণীৰ আটাইতকৈ ওখ শিখৰ কোনটো?","fig":"","opts":[{"en":"Guru Shikhar","as":"গুৰু শিখৰ","fig":""},{"en":"Anamudi","as":"আনামুদি","fig":""},{"en":"Dhupgarh","as":"ধূপগড়","fig":""},{"en":"Arma Konda","as":"অৰ্মা কোণ্ডা","fig":""}],"correct":2,"expEn":"Dhupgarh is the highest peak of the Satpura range.","expAs":"ধূপগড় সৎপুৰাৰ আটাইতকৈ ওখ শিখৰ।"},{"en":"Who introduced the railway system in India?","as":"ভাৰতত ৰেল ব্যৱস্থা কোনে প্ৰৱৰ্তন কৰিছিল?","fig":"","opts":[{"en":"Lord Ripon","as":"লৰ্ড ৰিপন","fig":""},{"en":"Lord Dalhousie","as":"লৰ্ড ডালহাউছি","fig":""},{"en":"Lord Curzon","as":"লৰ্ড কাৰ্জন","fig":""},{"en":"Lord Canning","as":"লৰ্ড কেনিং","fig":""}],"correct":1,"expEn":"Lord Dalhousie introduced the railways in India.","expAs":"লৰ্ড ডালহাউছিয়ে ভাৰতত ৰেল প্ৰৱৰ্তন কৰিছিল।"},{"en":"Manas National Park in Assam is a:","as":"অসমৰ মানস ৰাষ্ট্ৰীয় উদ্যান এটা:","fig":"","opts":[{"en":"Desert","as":"মৰুভূমি","fig":""},{"en":"UNESCO World Heritage Site","as":"ইউনেস্ক' বিশ্ব ঐতিহ্য স্থান","fig":""},{"en":"Hill station only","as":"কেৱল পাহাৰীয়া ষ্টেচন","fig":""},{"en":"Industrial zone","as":"ঔদ্যোগিক অঞ্চল","fig":""}],"correct":1,"expEn":"Manas National Park is a UNESCO World Heritage Site and a tiger reserve.","expAs":"মানস ৰাষ্ট্ৰীয় উদ্যান এটা ইউনেস্ক' বিশ্ব ঐতিহ্য স্থান আৰু বাঘ সংৰক্ষিত অঞ্চল।"},{"en":"Which is the state bird of Assam?","as":"অসমৰ ৰাজ্যিক চৰাই কি?","fig":"","opts":[{"en":"Peacock","as":"ময়ূৰ","fig":""},{"en":"Hornbill","as":"ধনেশ","fig":""},{"en":"White-winged Wood Duck","as":"বগলী-ডাউক","fig":""},{"en":"Swan","as":"ৰাজহংস","fig":""}],"correct":2,"expEn":"The White-winged Wood Duck is the state bird of Assam.","expAs":"বগলী-ডাউক অসমৰ ৰাজ্যিক চৰাই।"},{"en":"An article bought for ₹2000 is sold at a profit of 10%, and another bought for ₹3000 is sold at a profit of 20%. Find the overall profit percentage.","as":"2000 টকাত কিনা এটা বস্তু 10% লাভত আৰু 3000 টকাত কিনা আন এটা বস্তু 20% লাভত বিক্ৰী কৰা হ'ল। মুঠ লাভৰ শতাংশ উলিয়াওক।","fig":"","opts":[{"en":"16%","as":"১৬%","fig":""},{"en":"15%","as":"১৫%","fig":""},{"en":"17%","as":"১৭%","fig":""},{"en":"14%","as":"১৪%","fig":""}],"correct":0,"expEn":"Total CP = ₹5000, total profit = ₹200 + ₹600 = ₹800; Profit % = (800 / 5000) × 100 = 16%.","expAs":"মুঠ ক্ৰয়মূল্য = 5000 টকা, মুঠ লাভ = 200 + 600 = 800 টকা; লাভ % = (800 / 5000) × 100 = 16%।"},{"en":"Find the principal if the simple interest for 2 years at 5% per annum is ₹300.","as":"বছৰি 5% হাৰত 2 বছৰৰ সৰল সুত 300 টকা হ'লে মূলধন নিৰ্ণয় কৰক।","fig":"","opts":[{"en":"₹2,500","as":"২,৫০০ টকা","fig":""},{"en":"₹3,000","as":"৩,০০০ টকা","fig":""},{"en":"₹3,500","as":"৩,৫০০ টকা","fig":""},{"en":"₹2,800","as":"২,৮০০ টকা","fig":""}],"correct":1,"expEn":"P = (SI × 100) / (R × T) = (300 × 100) / (5 × 2) = ₹3,000.","expAs":"মূলধন = (300 × 100) / (5 × 2) = 3,000 টকা।"},{"en":"The first railway line in Assam was the —","as":"অসমৰ প্ৰথম ৰে'লপথ আছিল —","fig":"","opts":[{"en":"Brahmaputra Railway","as":"ব্ৰহ্মপুত্ৰ ৰে'লপথ","fig":""},{"en":"Assam-Bengal Railway","as":"অসম-বংগ ৰে'লপথ","fig":""},{"en":"Eastern Bengal Railway","as":"পূৱ বংগ ৰে'লপথ","fig":""},{"en":"Dibru-Sadiya Railway","as":"ডিব্ৰু-চদিয়া ৰে'লপথ","fig":""}],"correct":3,"expEn":"The first railway line in Assam was the Dibru-Sadiya Railway.","expAs":"অসমৰ প্ৰথম ৰে'লপথ আছিল ডিব্ৰু-চদিয়া ৰে'লপথ।"},{"en":"Which national park of Assam is famous for the pygmy hog, hispid hare and Bengal florican?","as":"অসমৰ কোনখন ৰাষ্ট্ৰীয় উদ্যান পিগমী গাহৰি, হিস্পিড খৰগৌ আৰু বেংগল ফ্ল'ৰিকানৰ বাবে বিখ্যাত?","fig":"","opts":[{"en":"Manas","as":"মানস","fig":""},{"en":"Dehing Patkai","as":"ডিহিং পাটকাই","fig":""},{"en":"Raimona","as":"ৰাইমনা","fig":""},{"en":"Orang","as":"ওৰাং","fig":""}],"correct":0,"expEn":"Manas is famous for the pygmy hog, hispid hare and Bengal florican.","expAs":"মানস পিগমী গাহৰি, হিস্পিড খৰগৌ আৰু বেংগল ফ্ল'ৰিকানৰ বাবে বিখ্যাত।"},{"en":"The present age of A is 25 years. What was his age 10 years ago?","as":"A ৰ বৰ্তমান বয়স 25 বছৰ। 10 বছৰ আগতে তেওঁৰ বয়স কিমান আছিল?","fig":"","opts":[{"en":"10 years","as":"১০ বছৰ","fig":""},{"en":"20 years","as":"২০ বছৰ","fig":""},{"en":"15 years","as":"১৫ বছৰ","fig":""},{"en":"35 years","as":"৩৫ বছৰ","fig":""}],"correct":2,"expEn":"Age 10 years ago = 25 − 10 = 15 years.","expAs":"10 বছৰ আগৰ বয়স = 25 − 10 = 15 বছৰ।"},{"en":"Which of the following is NOT a leap year?","as":"তলৰ কোনটো অধিবৰ্ষ নহয়?","fig":"","opts":[{"en":"2020","as":"২০২০","fig":""},{"en":"2000","as":"২০০০","fig":""},{"en":"2100","as":"২১০০","fig":""},{"en":"1996","as":"১৯৯৬","fig":""}],"correct":2,"expEn":"2100 is not a leap year (a century year must be divisible by 400).","expAs":"২১০০ অধিবৰ্ষ নহয় (শতিকাৰ বছৰ ৪০০ ৰে বিভাজ্য হব লাগে)।"},{"en":"World First Aid Day is observed on —","as":"বিশ্ব প্ৰাথমিক চিকিৎসা দিৱস কেতিয়া পালন কৰা হয় —","fig":"","opts":[{"en":"12 August","as":"১২ আগষ্ট","fig":""},{"en":"12 September","as":"১২ ছেপ্তেম্বৰ","fig":""},{"en":"12 October","as":"১২ অক্টোবৰ","fig":""},{"en":"12 November","as":"১২ নৱেম্বৰ","fig":""}],"correct":1,"expEn":"World First Aid Day is observed on 12 September.","expAs":"১২ ছেপ্তেম্বৰত বিশ্ব প্ৰাথমিক চিকিৎসা দিৱস পালন কৰা হয়।"},{"en":"Fill in the blank: She is busy ___ her studies.","as":"ৰিক্ত স্থান পূৰণ কৰক: She is busy ___ her studies.","fig":"","opts":[{"en":"in","as":"in (ভিতৰত)","fig":""},{"en":"at","as":"at (ত)","fig":""},{"en":"with","as":"with (সৈতে)","fig":""},{"en":"for","as":"for (বাবে)","fig":""}],"correct":2,"expEn":"'Busy with' is the correct collocation.","expAs":"'Busy with' এ শুদ্ধ যৌগিক প্ৰয়োগ।"},{"en":"Which of the following is a perfect square?","as":"তলৰ কোনটো এটা পূৰ্ণবৰ্গ?","fig":"","opts":[{"en":"16","as":"১৬","fig":""},{"en":"12","as":"১২","fig":""},{"en":"15","as":"১৫","fig":""},{"en":"18","as":"১৮","fig":""}],"correct":0,"expEn":"16 = 4 × 4, so it is a perfect square.","expAs":"16 = 4 × 4, গতিকে ই এটা পূৰ্ণবৰ্গ।"},{"en":"Right to privacy was recognized as part of which Article?","as":"গোপনীয়তাৰ অধিকাৰ কোন অনুচ্ছেদৰ অংশ হিচাপে স্বীকৃত হৈছে?","fig":"","opts":[{"en":"Article 14","as":"অনুচ্ছেদ ১৪","fig":""},{"en":"Article 21","as":"অনুচ্ছেদ ২১","fig":""},{"en":"Article 19","as":"অনুচ্ছেদ ১৯","fig":""},{"en":"Article 20","as":"অনুচ্ছেদ ২০","fig":""}],"correct":1,"expEn":"The Supreme Court recognized the right to privacy under Article 21 in 2017.","expAs":"উচ্চতম ন্যায়ালয়ে ২০১৭ চনত অনুচ্ছেদ ২১ৰ অধীনত গোপনীয়তাৰ অধিকাৰ স্বীকৃতি দিছিল।"},{"en":"Which is the smallest inhabited river island in the world, located in Guwahati?","as":"বিশ্বৰ আটাইতকৈ সৰু বসতিপূৰ্ণ নদী-দ্বীপ, গুৱাহাটীত অৱস্থিত, কোনটো?","fig":"","opts":[{"en":"Bhashmachala","as":"ভস্মাচল","fig":""},{"en":"Dibru","as":"ডিব্ৰু","fig":""},{"en":"Majuli","as":"মাজুলী","fig":""},{"en":"Umananda","as":"উমানন্দ","fig":""}],"correct":3,"expEn":"Umananda (Peacock Island) is the smallest inhabited river island.","expAs":"উমানন্দ (ময়ূৰ দ্বীপ) আটাইতকৈ সৰু বসতিপূৰ্ণ নদী-দ্বীপ।"},{"en":"In a certain code, A is written as *, B as @, C as # and D as $. How is 'CAB' written in that code?","as":"এটা নিৰ্দিষ্ট ক'ডত A ক *, B ক @, C ক # আৰু D ক $ বুলি লিখা হয়। সেই ক'ডত 'CAB' ক কেনেকৈ লিখা হ'ব?","fig":"","opts":[{"en":"#@*","as":"#@*","fig":""},{"en":"*#@","as":"*#@","fig":""},{"en":"#*@","as":"#*@","fig":""},{"en":"#*$","as":"#*$","fig":""}],"correct":2,"expEn":"C=#, A=* and B=@, so CAB becomes #*@.","expAs":"C=#, A=* আৰু B=@, সেয়ে CAB → #*@।"},{"en":"The Preamble of the Constitution is:","as":"সংবিধানৰ প্ৰস্তাৱনা হ'ল:","fig":"","opts":[{"en":"A schedule of the Constitution","as":"সংবিধানৰ এটা অনুসূচী","fig":""},{"en":"A preface that states the objectives of the Constitution","as":"সংবিধানৰ উদ্দেশ্যসমূহ বৰ্ণনা কৰা এখন প্ৰাক-কথন","fig":""},{"en":"A source of Fundamental Rights","as":"মৌলিক অধিকাৰৰ উৎস","fig":""},{"en":"An enforceable law","as":"বলৱৎ কৰিব পৰা আইন","fig":""}],"correct":1,"expEn":"The Preamble is a preface that states the objectives and philosophy of the Constitution.","expAs":"প্ৰস্তাৱনা এখন প্ৰাক-কথন যিয়ে সংবিধানৰ উদ্দেশ্য আৰু দৰ্শন বৰ্ণনা কৰে।"}]}</script>
+  <script>
+  (function () {
+    "use strict";
+    var P = JSON.parse(document.getElementById("paper").textContent);
+    var Q = P.questions;
+    var L = "en";
+    var ans = new Array(Q.length).fill(-1);
+    var marked = new Array(Q.length).fill(false);
+    var cur = 0;
+    var started = false;
+    var submitted = false;
+    var totalSec = P.minutes * 60;
+    var left = totalSec;
+    var deadline = 0;   /* wall-clock ms; the timer is derived from this, never from tick counting */
+    var tick = null;
+
+    var $ = function (id) { return document.getElementById(id); };
+    var setup = $("setup"), runner = $("runner"), result = $("result");
+
+    function txt(o) {
+      if (!o) return "";
+      var v = o[L];
+      return (v && String(v).trim()) || o.en || "";
+    }
+    function esc(s) {
+      return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+    function fmtTime(s) {
+      var m = Math.floor(s / 60), r = s % 60;
+      return (m < 10 ? "0" : "") + m + ":" + (r < 10 ? "0" : "") + r;
+    }
+
+    /* language */
+    Array.prototype.forEach.call(document.querySelectorAll("#langseg button"), function (b) {
+      b.addEventListener("click", function () {
+        L = b.dataset.lang;
+        Array.prototype.forEach.call(document.querySelectorAll("#langseg button"), function (x) {
+          x.setAttribute("aria-pressed", String(x === b));
+        });
+        if (started && !submitted) paint();
+        if (submitted) showResult();
+      });
+    });
+
+    function paint() {
+      var q = Q[cur];
+      $("qno").textContent = "Question " + (cur + 1) + " of " + Q.length;
+      $("qtext").textContent = txt({ en: q.en, as: q.as });
+      $("qtext").setAttribute("lang", L === "as" ? "as" : "en");
+
+      $("qfig").innerHTML = q.fig || "";
+
+      var hasFig = q.opts.some(function (o) { return o.fig; });
+      var list = $("opts");
+      list.className = "opts" + (hasFig ? " fig" : "");
+      list.innerHTML = q.opts.map(function (o, i) {
+        var body = "";
+        if (o.fig) body += '<span class="f">' + o.fig + "</span>";
+        var t = txt(o);
+        if (t) body += '<span class="t" lang="' + (L === "as" ? "as" : "en") + '">' + esc(t) + "</span>";
+        return '<li><button class="opt" type="button" data-i="' + i + '" aria-pressed="' +
+          (ans[cur] === i) + '"><span class="k">' + String.fromCharCode(65 + i) + "</span>" + body + "</button></li>";
+      }).join("");
+
+      Array.prototype.forEach.call(list.querySelectorAll(".opt"), function (b) {
+        b.addEventListener("click", function () {
+          var i = Number(b.dataset.i);
+          ans[cur] = ans[cur] === i ? -1 : i;
+          paint();
+        });
+      });
+
+      $("flagbtn").setAttribute("aria-pressed", String(marked[cur]));
+      $("progress").textContent = "Answered " + ans.filter(function (a) { return a >= 0; }).length + " / " + Q.length;
+      $("barfill").style.width = Math.round((ans.filter(function (a) { return a >= 0; }).length / Q.length) * 100) + "%";
+      $("prevbtn").disabled = $("prevbtn2").disabled = cur === 0;
+      $("nextbtn").disabled = $("nextbtn2").disabled = cur === Q.length - 1;
+      updatePalette();
+    }
+
+    /* The palette is built once; answering a question only repaints classes,
+     * so a fast run through 150 questions never rebuilds the grid. */
+    var cells = null;
+    function buildPalette() {
+      var g = $("pgrid");
+      g.innerHTML = Q.map(function (_, i) {
+        return '<button class="pcell" type="button" data-i="' + i + '">' + (i + 1) + "</button>";
+      }).join("");
+      cells = g.querySelectorAll(".pcell");
+      Array.prototype.forEach.call(cells, function (b) {
+        b.addEventListener("click", function () {
+          cur = Number(b.dataset.i);
+          paint();
+        });
+      });
+    }
+    function updatePalette() {
+      if (!cells) return;
+      for (var i = 0; i < cells.length; i++) {
+        cells[i].className = "pcell" + (ans[i] >= 0 ? " done" : "") +
+          (marked[i] ? " marked" : "") + (i === cur ? " cur" : "");
+      }
+    }
+
+    $("flagbtn").addEventListener("click", function () {
+      marked[cur] = !marked[cur];
+      paint();
+    });
+
+    function go(d) {
+      var n = cur + d;
+      if (n >= 0 && n < Q.length) { cur = n; paint(); }
+    }
+    $("prevbtn").addEventListener("click", function () { go(-1); });
+    $("nextbtn").addEventListener("click", function () { go(1); });
+    $("prevbtn2").addEventListener("click", function () { go(-1); });
+    $("nextbtn2").addEventListener("click", function () { go(1); });
+
+    function start() {
+      started = true;
+      setup.style.display = "none";
+      runner.classList.add("on");
+      buildPalette();
+      paint();
+      paintTimer();
+      countdown(3, function () {
+        deadline = Date.now() + totalSec * 1000;
+        tickTimer();
+        tick = setInterval(tickTimer, 250);
+      });
+    }
+
+    /* Derive the clock from a wall-clock deadline so the count stays correct
+     * even when the tab is throttled, backgrounded or the device sleeps. */
+    function tickTimer() {
+      var msLeft = deadline - Date.now();
+      left = Math.max(0, Math.ceil(msLeft / 1000));
+      paintTimer();
+      if (msLeft <= 0) {
+        if (tick) { clearInterval(tick); tick = null; }
+        submit(true);
+      }
+    }
+
+    function paintTimer() {
+      var t = $("timer");
+      t.textContent = fmtTime(left);
+      t.classList.toggle("low", left <= 300);
+      t.setAttribute("aria-label", fmtTime(left) + " remaining");
+    }
+
+    /* 3-2-1 overlay shown before the paper becomes answerable. */
+    var cdEl = $("axo-cd"), cdNum = $("axo-cd-num");
+    function countdown(from, done) {
+      var n = from;
+      cdEl.hidden = false;
+      requestAnimationFrame(function () { cdEl.classList.add("on"); });
+      (function step() {
+        cdNum.textContent = n === 0 ? "GO" : n;
+        cdNum.classList.toggle("go", n === 0);
+        cdNum.classList.remove("pop");
+        void cdNum.offsetWidth;
+        cdNum.classList.add("pop");
+        if (n === 0) {
+          setTimeout(function () {
+            cdEl.classList.remove("on");
+            cdEl.hidden = true;
+            done();
+          }, 520);
+          return;
+        }
+        n--;
+        setTimeout(step, 800);
+      })();
+    }
+
+    /* Start stays locked until the terms are accepted. */
+    var agreeBox = $("agree"), agreeWrap = $("agreewrap"), startBtn = $("startbtn");
+    function syncAgree() {
+      startBtn.disabled = !agreeBox.checked;
+      agreeWrap.classList.toggle("on", agreeBox.checked);
+    }
+    agreeBox.addEventListener("change", syncAgree);
+    syncAgree();
+
+    startBtn.addEventListener("click", function () {
+      if (!agreeBox.checked) { agreeBox.focus(); return; }
+      start();
+    });
+
+    /* Centred confirmation dialog. Returns a Promise<boolean>. */
+    var ICON_WARN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" ' +
+      'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      '<path d="M12 9v4M12 17h.01"/><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/></svg>';
+    var ICON_CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" ' +
+      'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      '<path d="M22 11.1V12a10 10 0 1 1-5.9-9.1"/><path d="m9 11 3 3L22 4"/></svg>';
+
+    var modalEl = $("axo-modal"), modalOk = $("axo-modal-ok"),
+        modalCancel = $("axo-modal-cancel"), lastFocus = null;
+
+    function closeModal(val) {
+      modalEl.classList.remove("on");
+      modalEl.hidden = true;
+      if (lastFocus && lastFocus.focus) lastFocus.focus();
+      return val;
+    }
+
+    function openModal(o) {
+      return new Promise(function (resolve) {
+        lastFocus = document.activeElement;
+        $("axo-modal-ic").className = "modal-ic" + (o.warn ? " warn" : "");
+        $("axo-modal-ic").innerHTML = o.warn ? ICON_WARN : ICON_CHECK;
+        $("axo-modal-title").textContent = o.title;
+        if (o.html) {
+          $("axo-modal-body").innerHTML = o.html;
+          $("axo-modal-body").hidden = false;
+        } else {
+          $("axo-modal-body").textContent = o.body;
+          $("axo-modal-body").hidden = !o.body;
+        }
+        $("axo-modal-stats").innerHTML = (o.stats || []).map(function (st) {
+          return '<div class="modal-stat' + (st.warn ? " warn" : "") + '"><b>' + st.value +
+            "</b><span>" + st.label + "</span></div>";
+        }).join("");
+        $("axo-modal-stats").style.display = (o.stats || []).length ? "grid" : "none";
+        modalOk.textContent = o.ok;
+        modalCancel.textContent = o.cancel || "Cancel";
+        modalCancel.style.display = o.cancel === null ? "none" : "";
+        modalEl.hidden = false;
+        requestAnimationFrame(function () { modalEl.classList.add("on"); });
+        modalOk.focus();
+        modalOk.onclick = function () { resolve(closeModal(true)); };
+        modalCancel.onclick = function () { resolve(closeModal(false)); };
+        modalEl.onclick = function (e) { if (e.target === modalEl) resolve(closeModal(false)); };
+      });
+    }
+
+    document.addEventListener("keydown", function (e) {
+      if (modalEl.hidden) return;
+      if (e.key === "Escape") { e.preventDefault(); modalCancel.click(); }
+      if (e.key === "Tab") {
+        var f = [modalCancel, modalOk].filter(function (b) { return b.style.display !== "none"; });
+        var i = f.indexOf(document.activeElement);
+        e.preventDefault();
+        f[(i + (e.shiftKey ? -1 : 1) + f.length) % f.length].focus();
+      }
+    });
+
+    $("submitbtn").addEventListener("click", function () {
+      var answered = ans.filter(function (a) { return a >= 0; }).length;
+      var left0 = Q.length - answered;
+      if (left0 === 0) {
+        openModal({
+          title: "Submit your paper?",
+          body: "All " + Q.length + " questions are answered. You cannot change answers after submitting.",
+          stats: [{ value: answered, label: "Answered" }],
+          ok: "Submit paper", cancel: "Keep going"
+        }).then(function (yes) { if (yes) submit(false); });
+        return;
+      }
+      openModal({
+        title: left0 + " question" + (left0 === 1 ? "" : "s") + " unanswered",
+        body: "Unanswered questions score zero. Submitting now ends the test and shows your result.",
+        warn: true,
+        stats: [
+          { value: answered, label: "Answered" },
+          { value: left0, label: "Unanswered", warn: true },
+          { value: Q.length, label: "Total" }
+        ],
+        ok: "Submit anyway", cancel: "Keep going"
+      }).then(function (yes) { if (yes) submit(false); });
+    });
+
+    var TERMS = [
+      "This is a practice paper built from the axomexam.in question bank. It is for self-assessment only and is not an official ADRE examination.",
+      "Once you press Start, the " + P.minutes + "-minute timer runs continuously. It cannot be paused, and closing the tab ends the attempt.",
+      "Each question carries 1 mark. " + (P.negative ? P.negative + " mark is deducted for each wrong answer" : "There is no negative marking") + ". Unanswered questions score zero.",
+      "You may change or clear any answer, and mark questions for review, until you press Submit.",
+      "The score, the correct answers and the explanations are shown only after you submit. Nothing is sent to a server — everything runs in your browser.",
+      "Do not refresh the page or leave the test in the middle: the attempt is not saved and answers will be lost.",
+      "If the timer runs out, the paper is submitted automatically with whatever answers are recorded at that moment."
+    ];
+
+    $("termslink").addEventListener("click", function (e) {
+      e.preventDefault();
+      openModal({
+        title: "Terms & conditions",
+        body: "",
+        html: '<ul class="terms">' + TERMS.map(function (t) { return "<li>" + t + "</li>"; }).join("") + "</ul>",
+        ok: "I understand", cancel: null
+      });
+    });
+
+    $("quitbtn").addEventListener("click", function () {
+      var answered = ans.filter(function (a) { return a >= 0; }).length;
+      openModal({
+        title: "Quit this test?",
+        body: "Your attempt will end and the answers you have given so far will be scored. This cannot be undone.",
+        warn: true,
+        stats: [
+          { value: answered, label: "Answered" },
+          { value: Q.length - answered, label: "Left", warn: true }
+        ],
+        ok: "Quit & score", cancel: "Stay in test"
+      }).then(function (yes) { if (yes) submit(false, true); });
+    });
+
+    function submit(auto, quit) {
+      if (submitted) return;
+      submitted = true;
+      if (tick) { clearInterval(tick); tick = null; }
+      runner.classList.remove("on");
+      showResult(auto, quit);
+    }
+
+    function showResult(auto, quit) {
+      var right = 0, wrong = 0, skip = 0;
+      Q.forEach(function (q, i) {
+        if (ans[i] < 0) skip++;
+        else if (ans[i] === q.correct) right++;
+        else wrong++;
+      });
+      var score = right - wrong * P.negative;
+      var total = Q.length;
+      var pct = Math.max(0, Math.round((score / total) * 100));
+      result.hidden = false;
+      result.innerHTML =
+        "<h2>" + (quit ? "Test ended — result" : auto ? "Time up — result" : "Result") + "</h2>" +
+        '<p class="rsub">' + esc(P.title) + " · Full Paper Set " + P.set +
+        " · " + (L === "as" ? "অসমীয়া" : "English") + "</p>" +
+        '<div class="score-row">' +
+          '<div class="score"><b>' + score.toFixed(2) + "</b><span>Score of " + total + "</span></div>" +
+          '<div class="score ok"><b>' + right + "</b><span>Correct</span></div>" +
+          '<div class="score bad"><b>' + wrong + "</b><span>Wrong</span></div>" +
+          '<div class="score warn"><b>' + skip + "</b><span>Unanswered</span></div>" +
+          '<div class="score"><b>' + pct + "%</b><span>Percentage</span></div>" +
+        "</div>" +
+        '<div class="result-acts">' +
+          '<button class="pbtn primary" type="button" id="reviewbtn">Review all answers</button>' +
+          '<button class="pbtn" type="button" id="retrybtn">Retake this set</button>' +
+          '<a class="pbtn" href="/institution/mock-test/">All mock tests</a>' +
+        "</div>" +
+        '<div id="review"></div>';
+
+      $("retrybtn").addEventListener("click", function () { location.reload(); });
+      $("reviewbtn").addEventListener("click", function () {
+        var box = $("review");
+        if (box.dataset.on === "1") { box.innerHTML = ""; box.dataset.on = "0"; return; }
+        box.dataset.on = "1";
+        box.innerHTML = Q.map(function (q, i) {
+          var opts = q.opts.map(function (o, oi) {
+            var cls = "opt";
+            if (oi === q.correct) cls += " review-right";
+            else if (ans[i] === oi) cls += " review-wrong";
+            var body = "";
+            if (o.fig) body += '<span class="f">' + o.fig + "</span>";
+            var t = txt(o);
+            if (t) body += '<span class="t" lang="' + (L === "as" ? "as" : "en") + '">' + esc(t) + "</span>";
+            return '<li><div class="' + cls + '"><span class="k">' + String.fromCharCode(65 + oi) + "</span>" + body + "</div></li>";
+          }).join("");
+          var exp = txt({ en: q.expEn, as: q.expAs });
+          return '<div style="margin:18px 0;padding-top:16px;border-top:1px solid var(--line)">' +
+            '<div class="qno">Question ' + (i + 1) + "</div>" +
+            '<p class="qtext" lang="' + (L === "as" ? "as" : "en") + '">' + esc(txt({ en: q.en, as: q.as })) + "</p>" +
+            (q.fig ? '<div class="qfig">' + q.fig + "</div>" : "") +
+            '<ul class="opts' + (q.opts.some(function (o) { return o.fig; }) ? " fig" : "") + '">' + opts + "</ul>" +
+            (exp ? '<div class="explain"><b>Explanation:</b> ' + esc(exp) + "</div>" : "") +
+            "</div>";
+        }).join("");
+        box.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      result.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  })();
+  </script>
+  <footer class="ftr">
+    <div class="wrap ftr-in">
+      <span>© axomexam.in — practice papers for institution use.</span>
+      <span><a href="/institution/">Topic-wise PDFs</a> · <a href="/institution/mock-test/">All mock tests</a></span>
+    </div>
+  </footer>
+  <script>
+    (function () {
+      var root = document.documentElement;
+      var btn = document.getElementById("axo-theme");
+      if (btn) btn.addEventListener("click", function () {
+        var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+        root.setAttribute("data-theme", next);
+        try { localStorage.setItem("axomexam-theme", next); } catch (e) {}
+      });
+    })();
+  </script>
+</body>
+</html>

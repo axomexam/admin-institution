@@ -1,0 +1,15 @@
+{
+  "name": "admin-institution",
+  "version": "1.0.0",
+  "private": true,
+  "description": "axomexam institution portal — topic-wise question-bank PDFs and full-paper mock tests",
+  "scripts": {
+    "build:pdfs": "node tools/build-topic-pdfs.js",
+    "build:portal": "node tools/build-institution-portal.js",
+    "build:mock-tests": "node tools/build-institution-mock-tests.js",
+    "build": "npm run build:pdfs && npm run build:portal && npm run build:mock-tests"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.18.1"
+  }
+}

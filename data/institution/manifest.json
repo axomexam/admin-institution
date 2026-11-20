@@ -1,0 +1,4890 @@
+{
+  "generatedAt": "2026-11-19T07:15:11.125Z",
+  "brand": "axomexam.in",
+  "exams": [
+    {
+      "id": "adre-grade-3",
+      "title": {
+        "en": "ADRE 3.0 Grade III",
+        "as": "ADRE 3.0 গ্ৰেড III"
+      },
+      "sections": [
+        {
+          "path": "elementary-mathematics/algebra",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Algebra",
+            "as": "বীজগণিত (Algebra) — সমীকৰণ, অভেদ আৰু ৰাশি।"
+          },
+          "count": 78,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/algebra.pdf",
+              "bytes": 198651,
+              "pages": 11
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/algebra-as.pdf",
+              "bytes": 262356,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/average",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Average",
+            "as": "গড় (Average)।"
+          },
+          "count": 62,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/average.pdf",
+              "bytes": 180555,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/average-as.pdf",
+              "bytes": 274870,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/basic-mensuration",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Basic Mensuration & Geometry",
+            "as": "সাধাৰণ পৰিমিতি আৰু জ্যামিতি (Basic Mensuration) — ত্ৰিভুজ, চতুৰ্ভুজ, বৃত্ত, আয়তক্ষেত্ৰ আৰু বৰ্গক্ষেত্ৰৰ পৰিসীমা আৰু কালি (Class 8 & 10 level)।"
+          },
+          "count": 66,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/basic-mensuration.pdf",
+              "bytes": 187002,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/basic-mensuration-as.pdf",
+              "bytes": 273211,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/boats-and-streams",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Boats & Streams",
+            "as": "নাও আৰু সোঁত (Boats & Streams) — সোঁতৰ দিশ আৰু বিপৰীত দিশৰ গতি।"
+          },
+          "count": 83,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/boats-and-streams.pdf",
+              "bytes": 221223,
+              "pages": 12
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/boats-and-streams-as.pdf",
+              "bytes": 293692,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/data-interpretation",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Data Interpretation",
+            "as": "তথ্য বিশ্লেষণ (Data Interpretation) — তালিকা আৰু লেখচিত্ৰ।"
+          },
+          "count": 64,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/data-interpretation.pdf",
+              "bytes": 192571,
+              "pages": 11
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/data-interpretation-as.pdf",
+              "bytes": 296035,
+              "pages": 12
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/geometry",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Geometry",
+            "as": "জ্যামিতি (Geometry) — কোণ, ত্ৰিভুজ, বহুভুজ আৰু বৃত্ত।"
+          },
+          "count": 129,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/geometry.pdf",
+              "bytes": 311226,
+              "pages": 18
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/geometry-as.pdf",
+              "bytes": 397258,
+              "pages": 20
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/lcm-hcf",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "LCM & HCF",
+            "as": "ল.সা.গু. আৰু গ.সা.উ. (LCM & HCF)।"
+          },
+          "count": 61,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/lcm-hcf.pdf",
+              "bytes": 174510,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/lcm-hcf-as.pdf",
+              "bytes": 261016,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/mensuration-2d",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Mensuration (2D)",
+            "as": "পৰিমিতি — ২-মাত্ৰিক (Mensuration 2D) — সমতল আকৃতিৰ কালি আৰু পৰিসীমা।"
+          },
+          "count": 144,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/mensuration-2d.pdf",
+              "bytes": 338289,
+              "pages": 19
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/mensuration-2d-as.pdf",
+              "bytes": 421238,
+              "pages": 22
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/mensuration-3d",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Mensuration (3D)",
+            "as": "পৰিমিতি — ৩-মাত্ৰিক (Mensuration 3D) — ঘনক, চুঙা আৰু গোলকৰ আয়তন আৰু পৃষ্ঠকালি।"
+          },
+          "count": 164,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/mensuration-3d.pdf",
+              "bytes": 391235,
+              "pages": 22
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/mensuration-3d-as.pdf",
+              "bytes": 483265,
+              "pages": 25
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/mixture-and-alligation",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Mixture & Alligation",
+            "as": "মিশ্ৰণ আৰু সংযোগ (Mixture & Alligation) — গড় দাম আৰু ঘনত্ব।"
+          },
+          "count": 65,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/mixture-and-alligation.pdf",
+              "bytes": 189513,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/mixture-and-alligation-as.pdf",
+              "bytes": 290141,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/number-system",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Number System",
+            "as": "সংখ্যা পদ্ধতি — বাস্তৱ সংখ্যা, ভগ্নাংশ (Fractions), দশমিক সংখ্যা (Decimals), বিভাজ্যতাৰ নিয়ম।"
+          },
+          "count": 67,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/number-system.pdf",
+              "bytes": 192879,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/number-system-as.pdf",
+              "bytes": 309193,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/partnership",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Partnership",
+            "as": "অংশীদাৰিত্ব (Partnership) — মূলধন, সময় আৰু লাভ-ক্ষতিৰ ভাগ।"
+          },
+          "count": 67,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/partnership.pdf",
+              "bytes": 193213,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/partnership-as.pdf",
+              "bytes": 305126,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/percentage",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Percentage",
+            "as": "শতাংশ (Percentage)।"
+          },
+          "count": 69,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/percentage.pdf",
+              "bytes": 195166,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/percentage-as.pdf",
+              "bytes": 281873,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/pipes-and-cisterns",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Pipes & Cisterns",
+            "as": "নল আৰু চৌবাচ্চা (Pipes & Cisterns) — অন্তৰ্গামী আৰু বহিৰ্গামী নল।"
+          },
+          "count": 67,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/pipes-and-cisterns.pdf",
+              "bytes": 187435,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/pipes-and-cisterns-as.pdf",
+              "bytes": 278596,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/problems-on-ages",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Problems on Ages",
+            "as": "বয়স সম্বন্ধীয় সমস্যা (Problems on Ages)।"
+          },
+          "count": 65,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/problems-on-ages.pdf",
+              "bytes": 188986,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/problems-on-ages-as.pdf",
+              "bytes": 280756,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/profit-loss",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Profit & Loss",
+            "as": "লাভ আৰু ক্ষতি (Profit & Loss)।"
+          },
+          "count": 68,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/profit-loss.pdf",
+              "bytes": 192298,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/profit-loss-as.pdf",
+              "bytes": 279090,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/ratio-proportion",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Ratio & Proportion",
+            "as": "অনুপাত আৰু সমানুপাত (Ratio & Proportion)।"
+          },
+          "count": 67,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/ratio-proportion.pdf",
+              "bytes": 195515,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/ratio-proportion-as.pdf",
+              "bytes": 289000,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/simple-compound-interest",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Simple & Compound Interest",
+            "as": "সৰল সুত আৰু চক্ৰবৃদ্ধি সুত (Simple & Compound Interest)।"
+          },
+          "count": 62,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/simple-compound-interest.pdf",
+              "bytes": 175483,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/simple-compound-interest-as.pdf",
+              "bytes": 260085,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/simplification-fractions",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Simplification",
+            "as": "সৰলীকৰণ — BODMAS নিয়ম।"
+          },
+          "count": 64,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/simplification-fractions.pdf",
+              "bytes": 174901,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/simplification-fractions-as.pdf",
+              "bytes": 217151,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/statistics",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Statistics",
+            "as": "পৰিসংখ্যা বিজ্ঞান (Statistics) — মাধ্য, মধ্যক, বহুলক আৰু পৰিসৰ।"
+          },
+          "count": 114,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/statistics.pdf",
+              "bytes": 272479,
+              "pages": 16
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/statistics-as.pdf",
+              "bytes": 344333,
+              "pages": 18
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/surds-and-indices",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Surds & Indices",
+            "as": "কৰণী আৰু সূচক (Surds & Indices) — ঘাতৰ নিয়ম আৰু মূল।"
+          },
+          "count": 81,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/surds-and-indices.pdf",
+              "bytes": 208400,
+              "pages": 12
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/surds-and-indices-as.pdf",
+              "bytes": 267831,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/time-speed-distance",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Time, Speed & Distance",
+            "as": "সময় আৰু দূৰত্ব (Time, Speed & Distance) — ৰে'লগাড়ী আৰু গতিবেগৰ অংক।"
+          },
+          "count": 62,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/time-speed-distance.pdf",
+              "bytes": 179785,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/time-speed-distance-as.pdf",
+              "bytes": 295040,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/time-work",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Time & Work",
+            "as": "সময় আৰু কাৰ্য (Time & Work) — মানুহ আৰু কামৰ হিচাপ।"
+          },
+          "count": 62,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/time-work.pdf",
+              "bytes": 178765,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/time-work-as.pdf",
+              "bytes": 267986,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/trigonometry",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Trigonometry",
+            "as": "ত্ৰিকোণমিতি (Trigonometry) — অনুপাত, প্ৰামাণ্য কোণ আৰু অভেদ।"
+          },
+          "count": 80,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/trigonometry.pdf",
+              "bytes": 209534,
+              "pages": 12
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/elementary-mathematics/trigonometry-as.pdf",
+              "bytes": 312534,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/articles-determiners",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Articles",
+            "as": "Articles — A, An, The।"
+          },
+          "count": 75,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/articles-determiners.pdf",
+              "bytes": 201368,
+              "pages": 11
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/articles-determiners-as.pdf",
+              "bytes": 280872,
+              "pages": 12
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/narration",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Narration",
+            "as": "Narration — Direct আৰু Indirect Speech।"
+          },
+          "count": 72,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/narration.pdf",
+              "bytes": 203145,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/narration-as.pdf",
+              "bytes": 294977,
+              "pages": 12
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/parts-of-speech",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Parts of Speech",
+            "as": "Parts of Speech — Noun, Pronoun, Verb, Adjective, Adverb আদি।"
+          },
+          "count": 325,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/parts-of-speech.pdf",
+              "bytes": 736550,
+              "pages": 42
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/parts-of-speech-as.pdf",
+              "bytes": 899848,
+              "pages": 48
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/prepositions",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Prepositions",
+            "as": "Prepositions — In, On, At, To, With আদি।"
+          },
+          "count": 66,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/prepositions.pdf",
+              "bytes": 179837,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/prepositions-as.pdf",
+              "bytes": 251406,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/subject-verb-agreement",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Subject-Verb Agreement",
+            "as": "কৰ্তা-ক্ৰিয়াৰ মিল (Subject-Verb Agreement)।"
+          },
+          "count": 62,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/subject-verb-agreement.pdf",
+              "bytes": 174833,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/subject-verb-agreement-as.pdf",
+              "bytes": 239106,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/tenses-rules",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Tenses",
+            "as": "Tenses — Present, Past, Future।"
+          },
+          "count": 79,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/tenses-rules.pdf",
+              "bytes": 217743,
+              "pages": 11
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/tenses-rules-as.pdf",
+              "bytes": 315527,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/voice-change",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Voice Change",
+            "as": "Voice Change — Active আৰু Passive Voice।"
+          },
+          "count": 63,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/voice-change.pdf",
+              "bytes": 184905,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/grammar/voice-change-as.pdf",
+              "bytes": 260633,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/antonyms",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Antonyms",
+            "as": "বিপৰীত শব্দ (Antonyms)।"
+          },
+          "count": 438,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/antonyms.pdf",
+              "bytes": 930198,
+              "pages": 56
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/antonyms-as.pdf",
+              "bytes": 1103637,
+              "pages": 64
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/error-detection",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Spotting Errors",
+            "as": "বাক্যৰ ভুল নিৰ্ণয় (Spotting Errors)।"
+          },
+          "count": 310,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/error-detection.pdf",
+              "bytes": 708433,
+              "pages": 40
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/error-detection-as.pdf",
+              "bytes": 800488,
+              "pages": 46
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/fill-in-the-blanks",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Fill in the Blanks",
+            "as": "ৰিক্ত স্থান পূৰণ (Fill in the Blanks)।"
+          },
+          "count": 262,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/fill-in-the-blanks.pdf",
+              "bytes": 565633,
+              "pages": 34
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/fill-in-the-blanks-as.pdf",
+              "bytes": 680141,
+              "pages": 39
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/idioms-phrases",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Idioms & Phrases",
+            "as": "Idioms and Phrases — বাক্যৰীতি আৰু খণ্ডবাক্য।"
+          },
+          "count": 344,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/idioms-phrases.pdf",
+              "bytes": 809824,
+              "pages": 44
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/idioms-phrases-as.pdf",
+              "bytes": 970163,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/one-word-substitution",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "One Word Substitution",
+            "as": "এটা শব্দত প্ৰকাশ (One Word Substitution)।"
+          },
+          "count": 334,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/one-word-substitution.pdf",
+              "bytes": 722723,
+              "pages": 43
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/one-word-substitution-as.pdf",
+              "bytes": 914617,
+              "pages": 49
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/sentence-rearrangement",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Sentence Rearrangement",
+            "as": "বাক্য সজোৱা (Sentence Rearrangement)।"
+          },
+          "count": 260,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/sentence-rearrangement.pdf",
+              "bytes": 627139,
+              "pages": 34
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/sentence-rearrangement-as.pdf",
+              "bytes": 750263,
+              "pages": 39
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/synonyms",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Synonyms",
+            "as": "সমাৰ্থক শব্দ (Synonyms)।"
+          },
+          "count": 438,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/synonyms.pdf",
+              "bytes": 927987,
+              "pages": 56
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-english/vocabulary/synonyms-as.pdf",
+              "bytes": 1070458,
+              "pages": 64
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-geography/assam-national-parks",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-geography",
+          "groupTitle": {
+            "en": "Assam's Geography",
+            "as": "অসমৰ ভূগোল"
+          },
+          "title": {
+            "en": "National Parks & Sanctuaries",
+            "as": "অসমৰ ৰাষ্ট্ৰীয় উদ্যান আৰু অভয়াৰণ্যসমূহ।"
+          },
+          "count": 277,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-geography/assam-national-parks.pdf",
+              "bytes": 659527,
+              "pages": 36
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-geography/assam-national-parks-as.pdf",
+              "bytes": 799030,
+              "pages": 41
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-geography/assam-natural-resources",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-geography",
+          "groupTitle": {
+            "en": "Assam's Geography",
+            "as": "অসমৰ ভূগোল"
+          },
+          "title": {
+            "en": "Natural Resources",
+            "as": "প্ৰাকৃতিক সম্পদ — চাহ, খনিজ তেল, কয়লা।"
+          },
+          "count": 252,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-geography/assam-natural-resources.pdf",
+              "bytes": 605157,
+              "pages": 33
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-geography/assam-natural-resources-as.pdf",
+              "bytes": 782907,
+              "pages": 37
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-geography/brahmaputra-barak",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-geography",
+          "groupTitle": {
+            "en": "Assam's Geography",
+            "as": "অসমৰ ভূগোল"
+          },
+          "title": {
+            "en": "Brahmaputra & Barak Rivers",
+            "as": "ব্ৰহ্মপুত্ৰ আৰু বৰাক নদী আৰু উপনৈসমূহ।"
+          },
+          "count": 281,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-geography/brahmaputra-barak.pdf",
+              "bytes": 661766,
+              "pages": 37
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-geography/brahmaputra-barak-as.pdf",
+              "bytes": 811919,
+              "pages": 42
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/assam-folk-culture",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's Culture & Literature",
+            "as": "অসমৰ সংস্কৃতি আৰু সাহিত্য"
+          },
+          "title": {
+            "en": "Folk Culture, Bihu & Satriya",
+            "as": "অসমৰ লোক-সংস্কৃতি, বিহু, উৎসৱ-পাৰ্বণ, সত্ৰীয়া সংস্কৃতি।"
+          },
+          "count": 272,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-history-culture/assam-folk-culture.pdf",
+              "bytes": 656459,
+              "pages": 35
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-history-culture/assam-folk-culture-as.pdf",
+              "bytes": 831654,
+              "pages": 40
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/assamese-literature",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's Culture & Literature",
+            "as": "অসমৰ সংস্কৃতি আৰু সাহিত্য"
+          },
+          "title": {
+            "en": "Assamese Literature",
+            "as": "অসমীয়া সাহিত্যৰ উল্লেখযোগ্য লেখক আৰু গ্ৰন্থসমূহ।"
+          },
+          "count": 280,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-history-culture/assamese-literature.pdf",
+              "bytes": 668900,
+              "pages": 36
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/assam-history-culture/assamese-literature-as.pdf",
+              "bytes": 854346,
+              "pages": 41
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/current-affairs/assam-india-current-affairs",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "current-affairs",
+          "groupTitle": {
+            "en": "Current Affairs",
+            "as": "সাম্প্ৰতিক ঘটনাৱলী (Current Affairs)"
+          },
+          "title": {
+            "en": "Assam & India Current Affairs",
+            "as": "বিগত ৬-৮ মাহৰ অসম আৰু ভাৰতৰ গুৰুত্বপূৰ্ণ ঘটনাৱলী।"
+          },
+          "count": 274,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/current-affairs/assam-india-current-affairs.pdf",
+              "bytes": 694853,
+              "pages": 36
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/current-affairs/assam-india-current-affairs-as.pdf",
+              "bytes": 915290,
+              "pages": 41
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/current-affairs/government-schemes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "current-affairs",
+          "groupTitle": {
+            "en": "Current Affairs",
+            "as": "সাম্প্ৰতিক ঘটনাৱলী (Current Affairs)"
+          },
+          "title": {
+            "en": "Government Schemes",
+            "as": "চৰকাৰী আঁচনিসমূহ — বিশেষকৈ অসম চৰকাৰৰ আঁচনি।"
+          },
+          "count": 302,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/current-affairs/government-schemes.pdf",
+              "bytes": 753615,
+              "pages": 39
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/current-affairs/government-schemes-as.pdf",
+              "bytes": 942836,
+              "pages": 45
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/awards-honours",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Awards & Honours",
+            "as": "বঁটা আৰু সন্মান (Awards & Honours)।"
+          },
+          "count": 315,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/awards-honours.pdf",
+              "bytes": 757182,
+              "pages": 41
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/awards-honours-as.pdf",
+              "bytes": 937261,
+              "pages": 46
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/important-days-dates",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Important Days & Dates",
+            "as": "উল্লেখযোগ্য দিন আৰু দিৱস (Important Days & Dates)।"
+          },
+          "count": 369,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/important-days-dates.pdf",
+              "bytes": 848904,
+              "pages": 48
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/important-days-dates-as.pdf",
+              "bytes": 1029715,
+              "pages": 54
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/india-rivers-mountains-states",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Rivers, Mountains & States",
+            "as": "ভাৰতৰ প্ৰধান নদ-নদী, পৰ্বতমালা আৰু ৰাজ্যসমূহ।"
+          },
+          "count": 380,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/india-rivers-mountains-states.pdf",
+              "bytes": 868742,
+              "pages": 49
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/india-rivers-mountains-states-as.pdf",
+              "bytes": 1055665,
+              "pages": 56
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/indian-geography",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Indian Geography",
+            "as": "ভাৰতৰ ভূগোল (Indian Geography)।"
+          },
+          "count": 326,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/indian-geography.pdf",
+              "bytes": 745002,
+              "pages": 42
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/indian-geography-as.pdf",
+              "bytes": 908937,
+              "pages": 48
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/sports",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Sports",
+            "as": "খেল-ধেমালি (Sports)।"
+          },
+          "count": 325,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/sports.pdf",
+              "bytes": 743355,
+              "pages": 42
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/sports-as.pdf",
+              "bytes": 911234,
+              "pages": 48
+            }
+          }
+        },
+        {
+          "path": "history/assam-history/assam-history-ancient",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "assam-history",
+          "groupTitle": {
+            "en": "Assam History",
+            "as": "অসমৰ ইতিহাস (Assam History)"
+          },
+          "title": {
+            "en": "Ancient Assam",
+            "as": "প্ৰাচীন অসম (Ancient Assam) — বৰ্মন, শালস্তম্ভ আৰু পাল বংশ।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/assam-history/assam-history-ancient.pdf",
+              "bytes": 863434,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/assam-history/assam-history-ancient-as.pdf",
+              "bytes": 1092386,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "history/assam-history/assam-history-medieval",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "assam-history",
+          "groupTitle": {
+            "en": "Assam History",
+            "as": "অসমৰ ইতিহাস (Assam History)"
+          },
+          "title": {
+            "en": "Medieval Assam",
+            "as": "মধ্যযুগীয় অসম (Medieval Assam) — আহোম যুগ, কোচ ৰাজ্য আৰু য়াণ্ডাবু সন্ধি।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/assam-history/assam-history-medieval.pdf",
+              "bytes": 842778,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/assam-history/assam-history-medieval-as.pdf",
+              "bytes": 1050181,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "history/assam-history/assam-history-modern",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "assam-history",
+          "groupTitle": {
+            "en": "Assam History",
+            "as": "অসমৰ ইতিহাস (Assam History)"
+          },
+          "title": {
+            "en": "Modern Assam",
+            "as": "আধুনিক অসম (Modern Assam) — ব্ৰিটিছ শাসন, স্বাধীনতা সংগ্ৰাম আৰু আধুনিক অসম।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/assam-history/assam-history-modern.pdf",
+              "bytes": 837612,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/assam-history/assam-history-modern-as.pdf",
+              "bytes": 1045302,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "history/indian-history/indian-history-ancient",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "indian-history",
+          "groupTitle": {
+            "en": "Indian History",
+            "as": "ভাৰতৰ ইতিহাস (Indian History)"
+          },
+          "title": {
+            "en": "Ancient India",
+            "as": "প্ৰাচীন ভাৰত (Ancient India) — সিন্ধু সভ্যতা, বৈদিক যুগ, মৌৰ্য আৰু গুপ্ত সাম্ৰাজ্য।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/indian-history/indian-history-ancient.pdf",
+              "bytes": 818459,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/indian-history/indian-history-ancient-as.pdf",
+              "bytes": 1032127,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "history/indian-history/indian-history-medieval",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "indian-history",
+          "groupTitle": {
+            "en": "Indian History",
+            "as": "ভাৰতৰ ইতিহাস (Indian History)"
+          },
+          "title": {
+            "en": "Medieval India",
+            "as": "মধ্যযুগীয় ভাৰত (Medieval India) — দিল্লী সুলতানী, মোগল সাম্ৰাজ্য আৰু মাৰাঠা।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/indian-history/indian-history-medieval.pdf",
+              "bytes": 827303,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/indian-history/indian-history-medieval-as.pdf",
+              "bytes": 1031888,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "history/indian-history/indian-history-modern",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "indian-history",
+          "groupTitle": {
+            "en": "Indian History",
+            "as": "ভাৰতৰ ইতিহাস (Indian History)"
+          },
+          "title": {
+            "en": "Modern India",
+            "as": "আধুনিক ভাৰত (Modern India) — ব্ৰিটিছ শাসন আৰু স্বাধীনতা আন্দোলন।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/indian-history/indian-history-modern.pdf",
+              "bytes": 831464,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/indian-history/indian-history-modern-as.pdf",
+              "bytes": 1038749,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "history/world-history",
+          "section": "history",
+          "sectionTitle": {
+            "en": "History",
+            "as": "ইতিহাস (History)"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "World History",
+            "as": "বিশ্বৰ ইতিহাস (World History) — বিশ্বৰ প্ৰধান ঐতিহাসিক ঘটনাৱলী।"
+          },
+          "count": 350,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/history/world-history.pdf",
+              "bytes": 811926,
+              "pages": 45
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/history/world-history-as.pdf",
+              "bytes": 1023171,
+              "pages": 51
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/assertion-reason",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Assertion & Reason",
+            "as": "দাবী আৰু কাৰণ (Assertion & Reason)।"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/assertion-reason.pdf",
+              "bytes": 166049,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/assertion-reason-as.pdf",
+              "bytes": 227380,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/cause-effect",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Cause & Effect",
+            "as": "কাৰণ আৰু ফলাফল (Cause & Effect)।"
+          },
+          "count": 54,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/cause-effect.pdf",
+              "bytes": 173453,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/cause-effect-as.pdf",
+              "bytes": 231607,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/complex-puzzles",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Complex Puzzles",
+            "as": "জটিল পাজল — মজিয়া, পেটিকা আৰু সময়সূচীৰ প্ৰশ্ন।"
+          },
+          "count": 63,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/complex-puzzles.pdf",
+              "bytes": 179967,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/complex-puzzles-as.pdf",
+              "bytes": 275033,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/decision-making",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Decision Making",
+            "as": "সিদ্ধান্ত লোৱা (Decision Making) — যোগ্যতাৰ চৰ্তৰ পৰা সিদ্ধান্ত।"
+          },
+          "count": 70,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/decision-making.pdf",
+              "bytes": 217902,
+              "pages": 12
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/decision-making-as.pdf",
+              "bytes": 349076,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/drawing-inferences",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Drawing Inferences",
+            "as": "সিদ্ধান্ত টনা (Drawing Inferences) — অনুচ্ছেদৰ পৰা সঠিক অনুমান।"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/drawing-inferences.pdf",
+              "bytes": 168812,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/drawing-inferences-as.pdf",
+              "bytes": 269101,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/inequality",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Inequality",
+            "as": "অসমতা (Inequality) — চিহ্নৰ অৰ্থ আৰু তুলনাৰ সম্পৰ্ক।"
+          },
+          "count": 53,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/inequality.pdf",
+              "bytes": 154918,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/inequality-as.pdf",
+              "bytes": 243790,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/seating-arrangement",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Seating Arrangement",
+            "as": "বহাৰ বিন্যাস — শাৰী, বৃত্ত আৰু বৰ্গাকাৰত বহাৰ প্ৰশ্ন।"
+          },
+          "count": 73,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/seating-arrangement.pdf",
+              "bytes": 200043,
+              "pages": 11
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/seating-arrangement-as.pdf",
+              "bytes": 307216,
+              "pages": 12
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/statement-arguments",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Statement & Arguments",
+            "as": "বিবৃতি আৰু যুক্তি — শক্তিশালী যুক্তি বাছনি কৰা।"
+          },
+          "count": 53,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-arguments.pdf",
+              "bytes": 179126,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-arguments-as.pdf",
+              "bytes": 243858,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/statement-assumptions",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Statement & Assumptions",
+            "as": "বিবৃতি আৰু অনুমান — বিবৃতিত লুকুৱা ধাৰণা নিৰ্ণয়।"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-assumptions.pdf",
+              "bytes": 174107,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-assumptions-as.pdf",
+              "bytes": 242510,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/statement-conclusions",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Statement & Conclusions",
+            "as": "বিবৃতি আৰু সিদ্ধান্ত — কোনটো সিদ্ধান্ত যুক্তিসংগতভাৱে ওলাই আহে।"
+          },
+          "count": 51,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-conclusions.pdf",
+              "bytes": 165697,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-conclusions-as.pdf",
+              "bytes": 260151,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/analytical-critical-reasoning/statement-course-of-action",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "analytical-critical-reasoning",
+          "groupTitle": {
+            "en": "Analytical & Critical Reasoning",
+            "as": "বিশ্লেষণাত্মক আৰু সমালোচনাত্মক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Statement & Course of Action",
+            "as": "বিবৃতি আৰু কাৰ্যপন্থা — সমস্যাৰ বাবে উপযুক্ত পদক্ষেপ নিৰ্ণয়।"
+          },
+          "count": 53,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-course-of-action.pdf",
+              "bytes": 185627,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/analytical-critical-reasoning/statement-course-of-action-as.pdf",
+              "bytes": 280449,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/counting-figures",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Counting of Figures",
+            "as": "চিত্ৰত থকা ত্ৰিভুজ, বৰ্গক্ষেত্ৰ, আয়তক্ষেত্ৰ বা সৰলৰেখাৰ সংখ্যা গণনা কৰা।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/counting-figures.pdf",
+              "bytes": 194694,
+              "pages": 16
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/counting-figures-as.pdf",
+              "bytes": 264914,
+              "pages": 20
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/cubes-dice",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Cubes & Dice",
+            "as": "পাশা (Dice)-ৰ বিপৰীত ফলকত থকা সংখ্যা বা বিন্দু নিৰ্ণয়।"
+          },
+          "count": 53,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/cubes-dice.pdf",
+              "bytes": 163186,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/cubes-dice-as.pdf",
+              "bytes": 276172,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/embedded-figures",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Embedded Figures",
+            "as": "এটা জটিল চিত্ৰৰ ভিতৰত লুকাই থকা নিৰ্দিষ্ট চিত্ৰটো বিচাৰি উলিওৱা।"
+          },
+          "count": 117,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/embedded-figures.pdf",
+              "bytes": 837849,
+              "pages": 60
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/embedded-figures-as.pdf",
+              "bytes": 914717,
+              "pages": 60
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-analogy",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Analogy",
+            "as": "প্ৰথম দুটা চিত্ৰৰ মাজৰ সম্পৰ্ক চাই তৃতীয় চিত্ৰৰ সঠিক জোৰা উলিওৱা।"
+          },
+          "count": 68,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-analogy.pdf",
+              "bytes": 563746,
+              "pages": 35
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-analogy-as.pdf",
+              "bytes": 705092,
+              "pages": 35
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-classification",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Classification (Odd One Out)",
+            "as": "চিত্ৰৰ ভিতৰত অমিল চিত্ৰটো বাছি উলিওৱা।"
+          },
+          "count": 164,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-classification.pdf",
+              "bytes": 545032,
+              "pages": 34
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-classification-as.pdf",
+              "bytes": 631361,
+              "pages": 34
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-matrix",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Matrix",
+            "as": "চিত্ৰ মেট্ৰিক্স — শাৰী আৰু স্তম্ভৰ সম্পৰ্কৰ পৰা নোহোৱা চিত্ৰটো পূৰণ কৰা।"
+          },
+          "count": 66,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-matrix.pdf",
+              "bytes": 645699,
+              "pages": 34
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-matrix-as.pdf",
+              "bytes": 771443,
+              "pages": 34
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-series",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Series",
+            "as": "চিত্ৰৰ ধাৰাবাহিক ক্ৰম বা পৰৱৰ্তী চিত্ৰ চিনাক্ত কৰা।"
+          },
+          "count": 65,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-series.pdf",
+              "bytes": 555647,
+              "pages": 23
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/figure-series-as.pdf",
+              "bytes": 633892,
+              "pages": 23
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/mirror-water-image",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Mirror Image & Water Image",
+            "as": "দাপোণ আৰু পানীৰ প্ৰতিবিম্ব নিৰ্ণয়।"
+          },
+          "count": 60,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/mirror-water-image.pdf",
+              "bytes": 346805,
+              "pages": 31
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/mirror-water-image-as.pdf",
+              "bytes": 461676,
+              "pages": 31
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/paper-folding-cutting",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Paper Folding & Paper Cutting",
+            "as": "কাগজ ভাঁজ কৰা আৰু কটাৰ পিছত কেনেকুৱা দেখাব তাৰ নিৰ্ণয়।"
+          },
+          "count": 76,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/paper-folding-cutting.pdf",
+              "bytes": 708698,
+              "pages": 39
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/paper-folding-cutting-as.pdf",
+              "bytes": 850856,
+              "pages": 39
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/pattern-completion",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Pattern Completion",
+            "as": "অসম্পূৰ্ণ চিত্ৰৰ খালী অংশ পূৰণ কৰা।"
+          },
+          "count": 57,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/pattern-completion.pdf",
+              "bytes": 584422,
+              "pages": 20
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/pattern-completion-as.pdf",
+              "bytes": 681723,
+              "pages": 20
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/rule-detection",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Rule Detection",
+            "as": "নিয়ম নিৰ্ণয় (Rule Detection) — দিয়া নিয়ম মানি চলা বিকল্পটো বাছনি কৰা।"
+          },
+          "count": 69,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/rule-detection.pdf",
+              "bytes": 417053,
+              "pages": 16
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/rule-detection-as.pdf",
+              "bytes": 497414,
+              "pages": 16
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/shape-construction-grouping",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Shape Construction & Grouping",
+            "as": "আকৃতি গঠন আৰু শ্ৰেণীবদ্ধকৰণ — টুকুৰা জোৰা লগাই আকৃতি সজা।"
+          },
+          "count": 72,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/shape-construction-grouping.pdf",
+              "bytes": 257763,
+              "pages": 17
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/non-verbal-reasoning/shape-construction-grouping-as.pdf",
+              "bytes": 369368,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/alpha-numeric-series",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Alpha-Numeric Series",
+            "as": "বৰ্ণ আৰু সংখ্যাৰ মিশ্ৰিত শৃংখলা (Alpha-Numeric Series)।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/alpha-numeric-series.pdf",
+              "bytes": 164716,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/alpha-numeric-series-as.pdf",
+              "bytes": 218560,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/alphabet-test-word-formation",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Alphabet Test & Word Formation",
+            "as": "বৰ্ণমালা পৰীক্ষা আৰু শব্দ গঠন — আখৰৰ স্থান, অভিধানৰ ক্ৰম আৰু শব্দ গঠন।"
+          },
+          "count": 70,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/alphabet-test-word-formation.pdf",
+              "bytes": 188710,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/alphabet-test-word-formation-as.pdf",
+              "bytes": 276030,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/analogy",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Analogy",
+            "as": "সাদৃশ্য নিৰ্ণয় — দুটা শব্দ বা সংখ্যাৰ মাজৰ পাৰস্পৰিক সম্বন্ধ।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/analogy.pdf",
+              "bytes": 160068,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/analogy-as.pdf",
+              "bytes": 237157,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/blood-relations",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Blood Relations",
+            "as": "তেজৰ বা পৰিয়ালৰ সম্পৰ্ক সম্বন্ধীয় প্ৰশ্ন।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/blood-relations.pdf",
+              "bytes": 174486,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/blood-relations-as.pdf",
+              "bytes": 286877,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/clock-calendar",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Clock & Calendar",
+            "as": "ঘড়ীৰ কাঁটাৰ কোণ আৰু দিন/তাৰিখ নিৰ্ণয় সম্বন্ধীয় প্ৰশ্ন।"
+          },
+          "count": 54,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/clock-calendar.pdf",
+              "bytes": 158342,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/clock-calendar-as.pdf",
+              "bytes": 269447,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/coding-decoding",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Coding-Decoding",
+            "as": "আখৰ বা সংখ্যাৰ সংকেত নিৰ্ণয় (Letter Coding, Number Coding)।"
+          },
+          "count": 58,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/coding-decoding.pdf",
+              "bytes": 174825,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/coding-decoding-as.pdf",
+              "bytes": 265375,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/data-sufficiency",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Data Sufficiency",
+            "as": "তথ্য পৰ্যাপ্ততা (Data Sufficiency) — কোনটো তথ্যই উত্তৰ দিবলৈ যথেষ্ট।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/data-sufficiency.pdf",
+              "bytes": 188412,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/data-sufficiency-as.pdf",
+              "bytes": 291015,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/direction-distance",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Direction Sense Test",
+            "as": "দিশ আৰু দূৰত্ব নিৰ্ণয়।"
+          },
+          "count": 58,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/direction-distance.pdf",
+              "bytes": 172650,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/direction-distance-as.pdf",
+              "bytes": 276128,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/input-output-machine",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Input-Output & Machine",
+            "as": "ইনপুট-আউটপুট আৰু যন্ত্ৰৰ ধাপ (Input-Output & Machine)।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/input-output-machine.pdf",
+              "bytes": 173136,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/input-output-machine-as.pdf",
+              "bytes": 260894,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/mathematical-operations",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Mathematical Operations",
+            "as": "গাণিতিক চিহ্নৰ সাল-সলনি কৰি মান নিৰ্ণয়।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/mathematical-operations.pdf",
+              "bytes": 158419,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/mathematical-operations-as.pdf",
+              "bytes": 222066,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/number-alphabet-series",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Number Series & Alphabet Series",
+            "as": "সংখ্যা আৰু বৰ্ণমালাৰ শৃংখলা চিনাক্তকৰণ।"
+          },
+          "count": 82,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/number-alphabet-series.pdf",
+              "bytes": 217278,
+              "pages": 12
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/number-alphabet-series-as.pdf",
+              "bytes": 271592,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/odd-one-out",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Classification / Odd One Out",
+            "as": "চাৰিটা বিকল্পৰ মাজৰ পৰা অমিল শব্দ বা সংখ্যা বাছি উলিওৱা।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/odd-one-out.pdf",
+              "bytes": 167865,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/odd-one-out-as.pdf",
+              "bytes": 278652,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/ranking-order",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Ranking & Order Test",
+            "as": "শাৰী এটাত কোনো ব্যক্তিৰ স্থান (বাওঁ/সোঁ বা ওপৰ/তলৰ পৰা) নিৰ্ণয়।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/ranking-order.pdf",
+              "bytes": 162517,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/ranking-order-as.pdf",
+              "bytes": 268990,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/syllogism",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Syllogism / Statements & Conclusions",
+            "as": "বিবৃতি আৰু যুক্তিযুক্ত সিদ্ধান্ত নিৰ্ণয়।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/syllogism.pdf",
+              "bytes": 177302,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/syllogism-as.pdf",
+              "bytes": 274754,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/venn-diagrams",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Venn Diagrams",
+            "as": "জ্যামিতিক চিত্ৰৰ জৰিয়তে শ্ৰেণী বা বস্তুৰ সম্বন্ধ বুজোৱা।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/venn-diagrams.pdf",
+              "bytes": 167793,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/venn-diagrams-as.pdf",
+              "bytes": 290435,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/word-formation-dictionary",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Word Formation & Dictionary Order",
+            "as": "শব্দ গঠন আৰু অভিধানৰ ক্ৰম অনুসৰি সজোৱা।"
+          },
+          "count": 54,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/word-formation-dictionary.pdf",
+              "bytes": 161598,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/logical-reasoning/verbal-reasoning/word-formation-dictionary-as.pdf",
+              "bytes": 242188,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "social-studies/economy-environment/environment-pollution",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "economy-environment",
+          "groupTitle": {
+            "en": "Economy & Environment",
+            "as": "অৰ্থনীতি আৰু পৰিৱেশ"
+          },
+          "title": {
+            "en": "Environment & Pollution",
+            "as": "পৰিৱেশ সংৰক্ষণ আৰু প্ৰদূষণ সম্পৰ্কীয় সজাগতা।"
+          },
+          "count": 377,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/social-studies/economy-environment/environment-pollution.pdf",
+              "bytes": 885712,
+              "pages": 49
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/social-studies/economy-environment/environment-pollution-as.pdf",
+              "bytes": 1111107,
+              "pages": 55
+            }
+          }
+        },
+        {
+          "path": "social-studies/economy-environment/indian-assam-economy",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "economy-environment",
+          "groupTitle": {
+            "en": "Economy & Environment",
+            "as": "অৰ্থনীতি আৰু পৰিৱেশ"
+          },
+          "title": {
+            "en": "Indian & Assam Economy",
+            "as": "ভাৰত আৰু অসমৰ অৰ্থনীতি — কৃষি, উদ্যোগ আৰু বিত্তীয় মূল ধাৰণা।"
+          },
+          "count": 334,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/social-studies/economy-environment/indian-assam-economy.pdf",
+              "bytes": 798801,
+              "pages": 43
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/social-studies/economy-environment/indian-assam-economy-as.pdf",
+              "bytes": 982056,
+              "pages": 49
+            }
+          }
+        },
+        {
+          "path": "social-studies/polity-constitution/constitution-preamble-rights",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "polity-constitution",
+          "groupTitle": {
+            "en": "Political Science & Constitution",
+            "as": "ৰাজনীতি বিজ্ঞান আৰু সংবিধান"
+          },
+          "title": {
+            "en": "Constitution, Preamble, Rights & Duties",
+            "as": "ভাৰতীয় সংবিধানৰ প্ৰস্তাৱনা, মৌলিক অধিকাৰ আৰু কৰ্তব্য।"
+          },
+          "count": 207,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/social-studies/polity-constitution/constitution-preamble-rights.pdf",
+              "bytes": 517793,
+              "pages": 27
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/social-studies/polity-constitution/constitution-preamble-rights-as.pdf",
+              "bytes": 680550,
+              "pages": 31
+            }
+          }
+        },
+        {
+          "path": "social-studies/polity-constitution/panchayati-raj",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "polity-constitution",
+          "groupTitle": {
+            "en": "Political Science & Constitution",
+            "as": "ৰাজনীতি বিজ্ঞান আৰু সংবিধান"
+          },
+          "title": {
+            "en": "Panchayati Raj System",
+            "as": "পঞ্চায়তী ৰাজ ব্যৱস্থা।"
+          },
+          "count": 194,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/social-studies/polity-constitution/panchayati-raj.pdf",
+              "bytes": 491739,
+              "pages": 26
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/social-studies/polity-constitution/panchayati-raj-as.pdf",
+              "bytes": 629704,
+              "pages": 29
+            }
+          }
+        },
+        {
+          "path": "social-studies/polity-constitution/president-pm-governor-cm",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "polity-constitution",
+          "groupTitle": {
+            "en": "Political Science & Constitution",
+            "as": "ৰাজনীতি বিজ্ঞান আৰু সংবিধান"
+          },
+          "title": {
+            "en": "President, PM, Governor & CM",
+            "as": "ৰাষ্ট্ৰপতি, প্ৰধানমন্ত্ৰী, ৰাজ্যপাল আৰু মুখ্যমন্ত্ৰীৰ পদবী।"
+          },
+          "count": 204,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/social-studies/polity-constitution/president-pm-governor-cm.pdf",
+              "bytes": 511553,
+              "pages": 27
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/social-studies/polity-constitution/president-pm-governor-cm-as.pdf",
+              "bytes": 666469,
+              "pages": 31
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "adre-grade-4",
+      "title": {
+        "en": "ADRE 3.0 Grade IV",
+        "as": "ADRE 3.0 গ্ৰেড IV"
+      },
+      "sections": [
+        {
+          "path": "elementary-mathematics/average",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Average",
+            "as": "গড় (Average)।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/average.pdf",
+              "bytes": 160726,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/average-as.pdf",
+              "bytes": 247293,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/basic-mensuration",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Basic Mensuration & Geometry",
+            "as": "সাধাৰণ পৰিমিতি আৰু জ্যামিতি (Basic Mensuration) — ত্ৰিভুজ, চতুৰ্ভুজ, বৃত্ত, আয়তক্ষেত্ৰ আৰু বৰ্গক্ষেত্ৰৰ পৰিসীমা আৰু কালি (Class 8 & 10 level)।"
+          },
+          "count": 49,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/basic-mensuration.pdf",
+              "bytes": 155639,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/basic-mensuration-as.pdf",
+              "bytes": 249168,
+              "pages": 8
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/lcm-hcf",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "LCM & HCF",
+            "as": "ল.সা.গু. আৰু গ.সা.উ. (LCM & HCF)।"
+          },
+          "count": 56,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/lcm-hcf.pdf",
+              "bytes": 163141,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/lcm-hcf-as.pdf",
+              "bytes": 258910,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/number-system",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Number System",
+            "as": "সংখ্যা পদ্ধতি — বাস্তৱ সংখ্যা, ভগ্নাংশ (Fractions), দশমিক সংখ্যা (Decimals), বিভাজ্যতাৰ নিয়ম।"
+          },
+          "count": 58,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/number-system.pdf",
+              "bytes": 178186,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/number-system-as.pdf",
+              "bytes": 290338,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/percentage",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Percentage",
+            "as": "শতাংশ (Percentage)।"
+          },
+          "count": 54,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/percentage.pdf",
+              "bytes": 157857,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/percentage-as.pdf",
+              "bytes": 243077,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/problems-on-ages",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Problems on Ages",
+            "as": "বয়স সম্বন্ধীয় সমস্যা (Problems on Ages)।"
+          },
+          "count": 48,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/problems-on-ages.pdf",
+              "bytes": 152641,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/problems-on-ages-as.pdf",
+              "bytes": 242822,
+              "pages": 8
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/profit-loss",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Profit & Loss",
+            "as": "লাভ আৰু ক্ষতি (Profit & Loss)।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/profit-loss.pdf",
+              "bytes": 160732,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/profit-loss-as.pdf",
+              "bytes": 251015,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/ratio-proportion",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Ratio & Proportion",
+            "as": "অনুপাত আৰু সমানুপাত (Ratio & Proportion)।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/ratio-proportion.pdf",
+              "bytes": 162615,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/ratio-proportion-as.pdf",
+              "bytes": 253660,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/simple-compound-interest",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Simple & Compound Interest",
+            "as": "সৰল সুত আৰু চক্ৰবৃদ্ধি সুত (Simple & Compound Interest)।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/simple-compound-interest.pdf",
+              "bytes": 162035,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/simple-compound-interest-as.pdf",
+              "bytes": 259458,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/simplification-fractions",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Simplification",
+            "as": "সৰলীকৰণ — BODMAS নিয়ম।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/simplification-fractions.pdf",
+              "bytes": 151068,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/simplification-fractions-as.pdf",
+              "bytes": 194398,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/time-speed-distance",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Time, Speed & Distance",
+            "as": "সময় আৰু দূৰত্ব (Time, Speed & Distance) — ৰে'লগাড়ী আৰু গতিবেগৰ অংক।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/time-speed-distance.pdf",
+              "bytes": 162568,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/time-speed-distance-as.pdf",
+              "bytes": 277858,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "elementary-mathematics/time-work",
+          "section": "elementary-mathematics",
+          "sectionTitle": {
+            "en": "General Mathematics",
+            "as": "সাধাৰণ গণিত"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Time & Work",
+            "as": "সময় আৰু কাৰ্য (Time & Work) — মানুহ আৰু কামৰ হিচাপ।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/time-work.pdf",
+              "bytes": 169535,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/elementary-mathematics/time-work-as.pdf",
+              "bytes": 249658,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/articles-determiners",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Articles",
+            "as": "Articles — A, An, The।"
+          },
+          "count": 159,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/articles-determiners.pdf",
+              "bytes": 376795,
+              "pages": 21
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/articles-determiners-as.pdf",
+              "bytes": 462510,
+              "pages": 24
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/parts-of-speech",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Parts of Speech",
+            "as": "Parts of Speech — Noun, Pronoun, Verb, Adjective, Adverb আদি।"
+          },
+          "count": 160,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/parts-of-speech.pdf",
+              "bytes": 397325,
+              "pages": 21
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/parts-of-speech-as.pdf",
+              "bytes": 497010,
+              "pages": 24
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/prepositions",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Prepositions",
+            "as": "Prepositions — In, On, At, To, With আদি।"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/prepositions.pdf",
+              "bytes": 149805,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/prepositions-as.pdf",
+              "bytes": 215547,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/subject-verb-agreement",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Subject-Verb Agreement",
+            "as": "কৰ্তা-ক্ৰিয়াৰ মিল (Subject-Verb Agreement)।"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/subject-verb-agreement.pdf",
+              "bytes": 155847,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/subject-verb-agreement-as.pdf",
+              "bytes": 222872,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/tenses-rules",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Tenses",
+            "as": "Tenses — Present, Past, Future।"
+          },
+          "count": 110,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/tenses-rules.pdf",
+              "bytes": 280191,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/tenses-rules-as.pdf",
+              "bytes": 353686,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "general-english/grammar/voice-change",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "grammar",
+          "groupTitle": {
+            "en": "Grammar",
+            "as": "ব্যাকৰণ (Grammar)"
+          },
+          "title": {
+            "en": "Voice Change",
+            "as": "Voice Change — Active আৰু Passive Voice।"
+          },
+          "count": 70,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/voice-change.pdf",
+              "bytes": 203243,
+              "pages": 10
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/grammar/voice-change-as.pdf",
+              "bytes": 253998,
+              "pages": 11
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/error-detection",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Spelling Correction / Spotting Errors",
+            "as": "ভুল বানান আৰু বাক্যৰ ভুল নিৰ্ণয় (Spelling Correction / Spotting Errors)।"
+          },
+          "count": 110,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/error-detection.pdf",
+              "bytes": 292631,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/error-detection-as.pdf",
+              "bytes": 362379,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/fill-in-the-blanks",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Fill in the Blanks",
+            "as": "ৰিক্ত স্থান পূৰণ (Fill in the Blanks)।"
+          },
+          "count": 55,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/fill-in-the-blanks.pdf",
+              "bytes": 160549,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/fill-in-the-blanks-as.pdf",
+              "bytes": 244520,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/idioms-phrases",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Idioms & Phrases",
+            "as": "Idioms and Phrases।"
+          },
+          "count": 155,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/idioms-phrases.pdf",
+              "bytes": 386005,
+              "pages": 21
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/idioms-phrases-as.pdf",
+              "bytes": 483008,
+              "pages": 24
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/one-word-substitution",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "One Word Substitution",
+            "as": "এটা শব্দত প্ৰকাশ (One Word Substitution)।"
+          },
+          "count": 220,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/one-word-substitution.pdf",
+              "bytes": 506307,
+              "pages": 29
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/one-word-substitution-as.pdf",
+              "bytes": 603578,
+              "pages": 33
+            }
+          }
+        },
+        {
+          "path": "general-english/vocabulary/synonyms-antonyms",
+          "section": "general-english",
+          "sectionTitle": {
+            "en": "General English",
+            "as": "সাধাৰণ ইংৰাজী (General English)"
+          },
+          "group": "vocabulary",
+          "groupTitle": {
+            "en": "Vocabulary",
+            "as": "শব্দভাণ্ডাৰ (Vocabulary)"
+          },
+          "title": {
+            "en": "Synonyms & Antonyms",
+            "as": "সমৰ্থক আৰু বিপৰীত শব্দ (Synonyms & Antonyms)।"
+          },
+          "count": 332,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/synonyms-antonyms.pdf",
+              "bytes": 735319,
+              "pages": 43
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-english/vocabulary/synonyms-antonyms-as.pdf",
+              "bytes": 875412,
+              "pages": 49
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-geography/assam-national-parks",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-geography",
+          "groupTitle": {
+            "en": "Assam's Geography",
+            "as": "অসমৰ ভূগোল"
+          },
+          "title": {
+            "en": "National Parks & Sanctuaries",
+            "as": "অসমৰ ৰাষ্ট্ৰীয় উদ্যান আৰু অভয়াৰণ্যসমূহ।"
+          },
+          "count": 110,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-geography/assam-national-parks.pdf",
+              "bytes": 302354,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-geography/assam-national-parks-as.pdf",
+              "bytes": 427530,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-geography/assam-natural-resources",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-geography",
+          "groupTitle": {
+            "en": "Assam's Geography",
+            "as": "অসমৰ ভূগোল"
+          },
+          "title": {
+            "en": "Natural Resources",
+            "as": "প্ৰাকৃতিক সম্পদ — চাহ, খনিজ তেল, কয়লা।"
+          },
+          "count": 110,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-geography/assam-natural-resources.pdf",
+              "bytes": 301353,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-geography/assam-natural-resources-as.pdf",
+              "bytes": 451458,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-geography/brahmaputra-barak",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-geography",
+          "groupTitle": {
+            "en": "Assam's Geography",
+            "as": "অসমৰ ভূগোল"
+          },
+          "title": {
+            "en": "Brahmaputra & Barak Rivers",
+            "as": "ব্ৰহ্মপুত্ৰ আৰু বৰাক নদী আৰু উপনৈসমূহ।"
+          },
+          "count": 150,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-geography/brahmaputra-barak.pdf",
+              "bytes": 383583,
+              "pages": 20
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-geography/brahmaputra-barak-as.pdf",
+              "bytes": 522837,
+              "pages": 23
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/ahom-koch-kingdoms",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's History & Culture",
+            "as": "অসমৰ বুৰঞ্জী আৰু সংস্কৃতি"
+          },
+          "title": {
+            "en": "Ahom Era & Koch Kingdom",
+            "as": "আহোম যুগ আৰু কোচ ৰাজ্য।"
+          },
+          "count": 150,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/ahom-koch-kingdoms.pdf",
+              "bytes": 398105,
+              "pages": 20
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/ahom-koch-kingdoms-as.pdf",
+              "bytes": 538988,
+              "pages": 23
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/ancient-assam",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's History & Culture",
+            "as": "অসমৰ বুৰঞ্জী আৰু সংস্কৃতি"
+          },
+          "title": {
+            "en": "Ancient Assam",
+            "as": "প্ৰাচীন অসম — বৰ্মন, শালস্তম্ভ আৰু পাল বংশ।"
+          },
+          "count": 150,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/ancient-assam.pdf",
+              "bytes": 396192,
+              "pages": 20
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/ancient-assam-as.pdf",
+              "bytes": 536951,
+              "pages": 23
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/assam-folk-culture",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's History & Culture",
+            "as": "অসমৰ বুৰঞ্জী আৰু সংস্কৃতি"
+          },
+          "title": {
+            "en": "Folk Culture, Bihu & Satriya",
+            "as": "অসমৰ লোক-সংস্কৃতি, বিহু, উৎসৱ-পাৰ্বণ, সত্ৰীয়া সংস্কৃতি।"
+          },
+          "count": 150,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/assam-folk-culture.pdf",
+              "bytes": 390478,
+              "pages": 20
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/assam-folk-culture-as.pdf",
+              "bytes": 538959,
+              "pages": 23
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/assam-freedom-struggle",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's History & Culture",
+            "as": "অসমৰ বুৰঞ্জী আৰু সংস্কৃতি"
+          },
+          "title": {
+            "en": "Assam in the Freedom Struggle",
+            "as": "স্বাধীনতা সংগ্ৰামত অসমৰ ভূমিকা আৰু শ্বহীদসকল — মণিৰাম দেৱান, কনকলতা বৰুৱা, কুশল কোঁৱৰ আদি।"
+          },
+          "count": 106,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/assam-freedom-struggle.pdf",
+              "bytes": 292108,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/assam-freedom-struggle-as.pdf",
+              "bytes": 435196,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/assamese-literature",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's History & Culture",
+            "as": "অসমৰ বুৰঞ্জী আৰু সংস্কৃতি"
+          },
+          "title": {
+            "en": "Assamese Literature",
+            "as": "অসমীয়া সাহিত্যৰ উল্লেখযোগ্য লেখক আৰু গ্ৰন্থসমূহ।"
+          },
+          "count": 355,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/assamese-literature.pdf",
+              "bytes": 854678,
+              "pages": 46
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/assamese-literature-as.pdf",
+              "bytes": 1060814,
+              "pages": 52
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/assam-history-culture/yandabo-british-rule",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "assam-history-culture",
+          "groupTitle": {
+            "en": "Assam's History & Culture",
+            "as": "অসমৰ বুৰঞ্জী আৰু সংস্কৃতি"
+          },
+          "title": {
+            "en": "Yandabo Treaty & British Rule",
+            "as": "য়াণ্ডাবু সন্ধি আৰু ব্ৰিটিছ শাসনৰ আৰম্ভণি।"
+          },
+          "count": 184,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/yandabo-british-rule.pdf",
+              "bytes": 476380,
+              "pages": 24
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/assam-history-culture/yandabo-british-rule-as.pdf",
+              "bytes": 638288,
+              "pages": 28
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/current-affairs/assam-india-current-affairs",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "current-affairs",
+          "groupTitle": {
+            "en": "Current Affairs",
+            "as": "সাম্প্ৰতিক ঘটনাৱলী (Current Affairs)"
+          },
+          "title": {
+            "en": "Assam & India Current Affairs",
+            "as": "বিগত ৬-৮ মাহৰ অসম আৰু ভাৰতৰ গুৰুত্বপূৰ্ণ ঘটনাৱলী।"
+          },
+          "count": 271,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/current-affairs/assam-india-current-affairs.pdf",
+              "bytes": 672494,
+              "pages": 35
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/current-affairs/assam-india-current-affairs-as.pdf",
+              "bytes": 862511,
+              "pages": 40
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/current-affairs/government-schemes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "current-affairs",
+          "groupTitle": {
+            "en": "Current Affairs",
+            "as": "সাম্প্ৰতিক ঘটনাৱলী (Current Affairs)"
+          },
+          "title": {
+            "en": "Government Schemes",
+            "as": "চৰকাৰী আঁচনিসমূহ — বিশেষকৈ অসম চৰকাৰৰ আঁচনি।"
+          },
+          "count": 206,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/current-affairs/government-schemes.pdf",
+              "bytes": 516923,
+              "pages": 27
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/current-affairs/government-schemes-as.pdf",
+              "bytes": 666604,
+              "pages": 31
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/awards-honours",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Awards & Honours",
+            "as": "বঁটা আৰু সন্মান (Awards & Honours)।"
+          },
+          "count": 112,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/awards-honours.pdf",
+              "bytes": 300587,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/awards-honours-as.pdf",
+              "bytes": 420293,
+              "pages": 17
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/important-days-dates",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Important Days & Dates",
+            "as": "উল্লেখযোগ্য দিন আৰু দিৱস (Important Days & Dates)।"
+          },
+          "count": 170,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/important-days-dates.pdf",
+              "bytes": 408732,
+              "pages": 23
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/important-days-dates-as.pdf",
+              "bytes": 544009,
+              "pages": 26
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/india-rivers-mountains-states",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Rivers, Mountains & States",
+            "as": "ভাৰতৰ প্ৰধান নদ-নদী, পৰ্বতমালা আৰু ৰাজ্যসমূহ।"
+          },
+          "count": 279,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/india-rivers-mountains-states.pdf",
+              "bytes": 657166,
+              "pages": 36
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/india-rivers-mountains-states-as.pdf",
+              "bytes": 834105,
+              "pages": 41
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/india-general-knowledge/sports",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "india-general-knowledge",
+          "groupTitle": {
+            "en": "India General Knowledge",
+            "as": "ভাৰতৰ সাধাৰণ জ্ঞান"
+          },
+          "title": {
+            "en": "Sports",
+            "as": "খেল-ধেমালি (Sports)।"
+          },
+          "count": 165,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/sports.pdf",
+              "bytes": 416257,
+              "pages": 22
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/sports-as.pdf",
+              "bytes": 549981,
+              "pages": 25
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/counting-figures",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Counting of Figures",
+            "as": "চিত্ৰত থকা ত্ৰিভুজ, বৰ্গক্ষেত্ৰ, আয়তক্ষেত্ৰ বা সৰলৰেখাৰ সংখ্যা গণনা কৰা।"
+          },
+          "count": 53,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/counting-figures.pdf",
+              "bytes": 259028,
+              "pages": 28
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/counting-figures-as.pdf",
+              "bytes": 313582,
+              "pages": 28
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/cubes-dice",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Cubes & Dice",
+            "as": "পাশা (Dice)-ৰ বিপৰীত ফলকত থকা সংখ্যা বা বিন্দু নিৰ্ণয়।"
+          },
+          "count": 40,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/cubes-dice.pdf",
+              "bytes": 293332,
+              "pages": 20
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/cubes-dice-as.pdf",
+              "bytes": 415387,
+              "pages": 21
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/embedded-figures",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Embedded Figures",
+            "as": "এটা জটিল চিত্ৰৰ ভিতৰত লুকাই থকা নিৰ্দিষ্ট চিত্ৰটো বিচাৰি উলিওৱা।"
+          },
+          "count": 63,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/embedded-figures.pdf",
+              "bytes": 312758,
+              "pages": 33
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/embedded-figures-as.pdf",
+              "bytes": 397534,
+              "pages": 33
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-analogy",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Analogy",
+            "as": "প্ৰথম দুটা চিত্ৰৰ মাজৰ সম্পৰ্ক চাই তৃতীয় চিত্ৰৰ সঠিক জোৰা উলিওৱা।"
+          },
+          "count": 43,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/figure-analogy.pdf",
+              "bytes": 265218,
+              "pages": 23
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/figure-analogy-as.pdf",
+              "bytes": 381654,
+              "pages": 23
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-classification",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Classification (Odd One Out)",
+            "as": "৫টা চিত্ৰৰ ভিতৰত অমিল চিত্ৰটো বাছি উলিওৱা।"
+          },
+          "count": 36,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/figure-classification.pdf",
+              "bytes": 240087,
+              "pages": 19
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/figure-classification-as.pdf",
+              "bytes": 315409,
+              "pages": 19
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/figure-series",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Figure Series",
+            "as": "চিত্ৰৰ ধাৰাবাহিক ক্ৰম বা পৰৱৰ্তী চিত্ৰ চিনাক্ত কৰা।"
+          },
+          "count": 42,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/figure-series.pdf",
+              "bytes": 341900,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/figure-series-as.pdf",
+              "bytes": 439043,
+              "pages": 15
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/mirror-water-image",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Mirror Image & Water Image",
+            "as": "দাপোণ আৰু পানীৰ প্ৰতিবিম্ব নিৰ্ণয়।"
+          },
+          "count": 42,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/mirror-water-image.pdf",
+              "bytes": 241056,
+              "pages": 15
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/mirror-water-image-as.pdf",
+              "bytes": 339262,
+              "pages": 15
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/paper-folding-cutting",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Paper Folding & Paper Cutting",
+            "as": "কাগজ ভাঁজ কৰা আৰু কটাৰ পিছত কেনেকুৱা দেখাব তাৰ নিৰ্ণয়।"
+          },
+          "count": 36,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/paper-folding-cutting.pdf",
+              "bytes": 282207,
+              "pages": 19
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/paper-folding-cutting-as.pdf",
+              "bytes": 379975,
+              "pages": 19
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/non-verbal-reasoning/pattern-completion",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "non-verbal-reasoning",
+          "groupTitle": {
+            "en": "Non-Verbal Reasoning",
+            "as": "চিত্ৰভিত্তিক / অ-ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Pattern Completion",
+            "as": "অসম্পূৰ্ণ চিত্ৰৰ খালী অংশ পূৰণ কৰা।"
+          },
+          "count": 30,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/pattern-completion.pdf",
+              "bytes": 255879,
+              "pages": 16
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/non-verbal-reasoning/pattern-completion-as.pdf",
+              "bytes": 359594,
+              "pages": 16
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/analogy",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Analogy",
+            "as": "সাদৃশ্য নিৰ্ণয় — দুটা শব্দ বা সংখ্যাৰ মাজৰ পাৰস্পৰিক সম্বন্ধ (যেনে— Word, Letter বা Number Analogy)।"
+          },
+          "count": 84,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/analogy.pdf",
+              "bytes": 227589,
+              "pages": 12
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/analogy-as.pdf",
+              "bytes": 356226,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/blood-relations",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Blood Relations",
+            "as": "তেজৰ বা পৰিয়ালৰ সম্পৰ্ক সম্বন্ধীয় প্ৰশ্ন।"
+          },
+          "count": 48,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/blood-relations.pdf",
+              "bytes": 150037,
+              "pages": 7
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/blood-relations-as.pdf",
+              "bytes": 253892,
+              "pages": 8
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/clock-calendar",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Clock & Calendar",
+            "as": "ঘড়ীৰ কাঁটাৰ কোণ আৰু দিন/তাৰিখ নিৰ্ণয় সম্বন্ধীয় প্ৰাথমিক প্ৰশ্ন।"
+          },
+          "count": 79,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/clock-calendar.pdf",
+              "bytes": 212245,
+              "pages": 11
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/clock-calendar-as.pdf",
+              "bytes": 330187,
+              "pages": 13
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/coding-decoding",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Coding-Decoding",
+            "as": "আখৰ বা সংখ্যাৰ সংকেত নিৰ্ণয় (যেনে— Letter Coding, Number Coding)।"
+          },
+          "count": 51,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/coding-decoding.pdf",
+              "bytes": 164280,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/coding-decoding-as.pdf",
+              "bytes": 261681,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/direction-distance",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Direction Sense Test",
+            "as": "দিশ আৰু দূৰত্ব নিৰ্ণয়।"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/direction-distance.pdf",
+              "bytes": 159308,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/direction-distance-as.pdf",
+              "bytes": 267483,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/mathematical-operations",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Mathematical Operations",
+            "as": "গাণিতিক চিহ্নৰ সাল-সলনি কৰি মান নিৰ্ণয় (+, -, ×, ÷ সলনি কৰা)।"
+          },
+          "count": 58,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/mathematical-operations.pdf",
+              "bytes": 167851,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/mathematical-operations-as.pdf",
+              "bytes": 236438,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/number-alphabet-series",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Number Series & Alphabet Series",
+            "as": "সংখ্যা আৰু বৰ্ণমালাৰ শৃংখলা চিনাক্তকৰণ।"
+          },
+          "count": 52,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/number-alphabet-series.pdf",
+              "bytes": 161778,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/number-alphabet-series-as.pdf",
+              "bytes": 220050,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/odd-one-out",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Classification / Odd One Out",
+            "as": "চাৰিটা বিকল্পৰ মাজৰ পৰা অমিল শব্দ বা সংখ্যা বাছি উলিওৱা।"
+          },
+          "count": 60,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/odd-one-out.pdf",
+              "bytes": 181154,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/odd-one-out-as.pdf",
+              "bytes": 261475,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/ranking-order",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Ranking & Order Test",
+            "as": "শাৰী এটাত কোনো ব্যক্তিৰ স্থান (বাওঁ/সোঁ বা ওপৰ/তলৰ পৰা) নিৰ্ণয়।"
+          },
+          "count": 45,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/ranking-order.pdf",
+              "bytes": 144777,
+              "pages": 7
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/ranking-order-as.pdf",
+              "bytes": 254429,
+              "pages": 8
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/syllogism",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Syllogism / Statements & Conclusions",
+            "as": "বিবৃতি আৰু যুক্তিযুক্ত সিদ্ধান্ত নিৰ্ণয়।"
+          },
+          "count": 36,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/syllogism.pdf",
+              "bytes": 134769,
+              "pages": 7
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/syllogism-as.pdf",
+              "bytes": 246885,
+              "pages": 7
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/venn-diagrams",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Venn Diagrams",
+            "as": "জ্যামিতিক চিত্ৰৰ জৰিয়তে শ্ৰেণী বা বস্তুৰ সম্বন্ধ বুজোৱা।"
+          },
+          "count": 46,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/venn-diagrams.pdf",
+              "bytes": 491378,
+              "pages": 24
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/venn-diagrams-as.pdf",
+              "bytes": 608824,
+              "pages": 24
+            }
+          }
+        },
+        {
+          "path": "logical-reasoning/verbal-reasoning/word-formation-dictionary",
+          "section": "logical-reasoning",
+          "sectionTitle": {
+            "en": "Reasoning & Mental Ability",
+            "as": "যুক্তি আৰু বৌদ্ধিক ক্ষমতা (Reasoning & Mental Ability)"
+          },
+          "group": "verbal-reasoning",
+          "groupTitle": {
+            "en": "Verbal Reasoning",
+            "as": "ভাষিক যুক্তিতৰ্ক"
+          },
+          "title": {
+            "en": "Word Formation & Dictionary Order",
+            "as": "শব্দ গঠন আৰু অভিধানৰ ক্ৰম অনুসৰি সজোৱা।"
+          },
+          "count": 57,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/word-formation-dictionary.pdf",
+              "bytes": 173462,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/logical-reasoning/verbal-reasoning/word-formation-dictionary-as.pdf",
+              "bytes": 261667,
+              "pages": 10
+            }
+          }
+        },
+        {
+          "path": "social-studies/economy-environment/environment-pollution",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "economy-environment",
+          "groupTitle": {
+            "en": "Economy & Environment",
+            "as": "অৰ্থনীতি আৰু পৰিৱেশ"
+          },
+          "title": {
+            "en": "Environment & Pollution",
+            "as": "পৰিৱেশ সংৰক্ষণ আৰু প্ৰদূষণ সম্পৰ্কীয় সজাগতা।"
+          },
+          "count": 185,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/social-studies/economy-environment/environment-pollution.pdf",
+              "bytes": 489588,
+              "pages": 25
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/social-studies/economy-environment/environment-pollution-as.pdf",
+              "bytes": 696428,
+              "pages": 28
+            }
+          }
+        },
+        {
+          "path": "social-studies/economy-environment/indian-assam-economy",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "economy-environment",
+          "groupTitle": {
+            "en": "Economy & Environment",
+            "as": "অৰ্থনীতি আৰু পৰিৱেশ"
+          },
+          "title": {
+            "en": "Indian & Assam Economy",
+            "as": "ভাৰত আৰু অসমৰ অৰ্থনীতিৰ মূল ভিত্তি — কৃষি, উদ্যোগ।"
+          },
+          "count": 165,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/social-studies/economy-environment/indian-assam-economy.pdf",
+              "bytes": 437641,
+              "pages": 22
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/social-studies/economy-environment/indian-assam-economy-as.pdf",
+              "bytes": 601726,
+              "pages": 25
+            }
+          }
+        },
+        {
+          "path": "social-studies/indian-history",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "",
+          "groupTitle": null,
+          "title": {
+            "en": "Indian History",
+            "as": "ভাৰতৰ ইতিহাস — প্ৰাচীন, মধ্যযুগ আৰু আধুনিক ভাৰতৰ স্বাধীনতা আন্দোলনৰ মূল পৰিঘটনা।"
+          },
+          "count": 629,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/social-studies/indian-history.pdf",
+              "bytes": 1438594,
+              "pages": 80
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/social-studies/indian-history-as.pdf",
+              "bytes": 1726571,
+              "pages": 91
+            }
+          }
+        },
+        {
+          "path": "social-studies/polity-constitution/constitution-preamble-rights",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "polity-constitution",
+          "groupTitle": {
+            "en": "Political Science & Constitution",
+            "as": "ৰাজনীতি বিজ্ঞান আৰু সংবিধান"
+          },
+          "title": {
+            "en": "Constitution, Preamble, Rights & Duties",
+            "as": "ভাৰতীয় সংবিধানৰ প্ৰস্তাৱনা, মৌলিক অধিকাৰ আৰু কৰ্তব্য।"
+          },
+          "count": 179,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/social-studies/polity-constitution/constitution-preamble-rights.pdf",
+              "bytes": 462524,
+              "pages": 24
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/social-studies/polity-constitution/constitution-preamble-rights-as.pdf",
+              "bytes": 617144,
+              "pages": 27
+            }
+          }
+        },
+        {
+          "path": "social-studies/polity-constitution/panchayati-raj",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "polity-constitution",
+          "groupTitle": {
+            "en": "Political Science & Constitution",
+            "as": "ৰাজনীতি বিজ্ঞান আৰু সংবিধান"
+          },
+          "title": {
+            "en": "Panchayati Raj System",
+            "as": "পঞ্চায়তী ৰাজ ব্যৱস্থা।"
+          },
+          "count": 172,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/social-studies/polity-constitution/panchayati-raj.pdf",
+              "bytes": 446483,
+              "pages": 23
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/social-studies/polity-constitution/panchayati-raj-as.pdf",
+              "bytes": 586098,
+              "pages": 26
+            }
+          }
+        },
+        {
+          "path": "social-studies/polity-constitution/president-pm-governor-cm",
+          "section": "social-studies",
+          "sectionTitle": {
+            "en": "Social Studies",
+            "as": "সামাজিক বিজ্ঞান (Social Studies)"
+          },
+          "group": "polity-constitution",
+          "groupTitle": {
+            "en": "Political Science & Constitution",
+            "as": "ৰাজনীতি বিজ্ঞান আৰু সংবিধান"
+          },
+          "title": {
+            "en": "President, PM, Governor & CM",
+            "as": "ৰাষ্ট্ৰপতি, প্ৰধানমন্ত্ৰী, ৰাজ্যপাল আৰু মুখ্যমন্ত্ৰীৰ পদবী।"
+          },
+          "count": 23,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/social-studies/polity-constitution/president-pm-governor-cm.pdf",
+              "bytes": 100392,
+              "pages": 4
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/social-studies/polity-constitution/president-pm-governor-cm-as.pdf",
+              "bytes": 203587,
+              "pages": 5
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
