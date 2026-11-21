@@ -259,8 +259,8 @@ a { color: inherit; }
 .cand input:focus { outline: none; border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
 .cand input[aria-invalid="true"] { border-color: var(--bad); }
 .cand .hint { font-size: 11.5px; color: var(--muted); }
-.cand .err { font-size: 11.5px; color: var(--bad); font-weight: 700; display: none; }
-.cand .err.on { display: block; }
+.err { font-size: 11.5px; color: var(--bad); font-weight: 700; display: none; }
+.err.on { display: block; }
 @media (max-width: 560px) { .cand { grid-template-columns: 1fr; } }
 
 .agree {
@@ -614,6 +614,13 @@ table.sc tfoot td {
   .start-bar .agree { flex: 1 1 auto; }
   .start-bar .start-btn { margin-left: 0; justify-content: center; width: 100%; }
 }
+.start-step {
+  display: inline-flex; align-items: center; gap: 8px; margin-left: auto;
+  font-size: 12px; font-weight: 700; color: var(--ink-soft);
+  padding: 6px 12px; border-radius: 999px; border: 1px dashed var(--line);
+}
+.start-step.done { color: var(--ok); border-color: var(--ok); border-style: solid; background: var(--ok-soft); }
+.start-step svg { width: 13px; height: 13px; }
 .start-btn.ready { animation: btnpulse 2.4s ease-in-out infinite; }
 @keyframes btnpulse {
   0%, 100% { box-shadow: 0 0 0 0 rgba(79,70,229,.4); }
@@ -1084,7 +1091,8 @@ function setPage(exam, n, set) {
           <input type="checkbox" id="agree" />
           <label class="agree-txt" for="agree">I have read and accept the terms &amp; conditions for this test.</label>
         </div>
-        <button class="start-btn" id="startbtn" type="button" disabled>Start test →</button>
+        <span class="start-step" id="startstep">Details pending</span>
+        <button class="start-btn" id="startbtn" type="button">Start test →</button>
       </div>
       <p class="panel-note" style="margin-top:10px">
         <button class="lnk" type="button" id="termslink">Read the terms &amp; conditions</button>
@@ -1160,7 +1168,7 @@ function setPage(exam, n, set) {
         <div class="cm-mark">A</div>
         <div class="cm-htx">
           <h2 id="cmodal-title">Candidate details</h2>
-          <p>These print on your scorecard. Fill them before the paper starts.</p>
+          <p id="cmodal-sub">These print on your scorecard. Fill them, then tick the terms box and press Start.</p>
         </div>
       </div>
       <form class="cm-body" id="cform" novalidate>
@@ -1195,7 +1203,7 @@ function setPage(exam, n, set) {
       </form>
       <div class="cm-acts">
         <button class="cm-cancel" type="button" id="cmodal-cancel">Cancel</button>
-        <button class="cm-ok" type="button" id="cmodal-ok" disabled>Save details</button>
+        <button class="cm-ok" type="button" id="cmodal-ok" disabled>Confirm details</button>
       </div>
     </div>
   </div>
@@ -1440,14 +1448,21 @@ function setPage(exam, n, set) {
     function syncStart() {
       var okName = nameOk(candName.value);
       var okDob = dobOk(candDob.value);
-      startBtn.disabled = !(okName && okDob && agreeBox.checked);
-      startBtn.classList.toggle("ready", okName && okDob && agreeBox.checked);
-      agreeWrap.classList.toggle("on", agreeBox.checked);
+      var saved = nameOk(cand.name) && dobOk(cand.dob);
+
       $("cand-name-err").classList.toggle("on", candName.value !== "" && !okName);
       $("cand-dob-err").classList.toggle("on", candDob.value !== "" && !okDob);
       candName.setAttribute("aria-invalid", String(candName.value !== "" && !okName));
       candDob.setAttribute("aria-invalid", String(candDob.value !== "" && !okDob));
       cmodalOk.disabled = !(okName && okDob);
+
+      /* Start stays clickable at all times: pressing it is what opens the
+       * popup, so a locked button would leave the student with no way in. */
+      agreeWrap.classList.toggle("on", agreeBox.checked);
+      var step = $("startstep");
+      step.className = "start-step" + (saved ? " done" : "");
+      step.textContent = saved ? cand.name : "Details pending";
+      startBtn.classList.toggle("ready", saved && agreeBox.checked);
     }
 
     var candReturn = null;
@@ -1459,10 +1474,12 @@ function setPage(exam, n, set) {
       syncStart();
       setTimeout(function () { candName.focus(); }, 120);
     }
+    /* Returns true when the details were saved, so the caller knows whether
+     * the student still has to tick the terms box. */
     function closeCand(save) {
       if (save) {
-        if (!nameOk(candName.value)) { candName.focus(); return; }
-        if (!dobOk(candDob.value)) { candDob.focus(); return; }
+        if (!nameOk(candName.value)) { candName.focus(); return false; }
+        if (!dobOk(candDob.value)) { candDob.focus(); return false; }
         cand = { name: candName.value.trim(), dob: candDob.value, roll: candRoll.value.trim() };
         paintCand();
       }
@@ -1470,6 +1487,8 @@ function setPage(exam, n, set) {
       document.body.style.overflow = "";
       setTimeout(function () { cmodal.hidden = true; }, 180);
       if (candReturn && candReturn.focus) candReturn.focus();
+      syncStart();
+      return !!save;
     }
 
     [candName, candDob, candRoll].forEach(function (el) {
@@ -1485,7 +1504,11 @@ function setPage(exam, n, set) {
     agreeBox.addEventListener("change", syncStart);
 
     candBtn.addEventListener("click", openCand);
-    cmodalOk.addEventListener("click", function () { closeCand(true); });
+    cmodalOk.addEventListener("click", function () {
+      /* If the terms were already ticked before Start was pressed, confirming
+       * the details finishes the start instead of asking for a second click. */
+      if (closeCand(true) && agreeBox.checked) start();
+    });
     $("cmodal-cancel").addEventListener("click", function () { closeCand(false); });
     cmodal.addEventListener("click", function (e) { if (e.target === cmodal) closeCand(false); });
     document.addEventListener("keydown", function (e) {
@@ -1495,15 +1518,14 @@ function setPage(exam, n, set) {
     paintCand();
     syncStart();
 
+    /* Start asks for the candidate details first. Once they are confirmed the
+     * terms box is what unlocks the paper, so the student sees their own name
+     * on the page before the timer begins. */
     startBtn.addEventListener("click", function () {
-      if (!nameOk(cand.name)) { openCand(); return; }
+      if (!(nameOk(cand.name) && dobOk(cand.dob))) { openCand(); return; }
       if (!agreeBox.checked) { agreeBox.focus(); return; }
       start();
     });
-
-    /* A student who has not added details yet is shown the popup straight
-     * away, so the first thing they do is fill it in. */
-    setTimeout(function () { if (!cmodal.hidden) return; if (!nameOk(cand.name)) openCand(); }, 350);
 
     /* Centred confirmation dialog. Returns a Promise<boolean>. */
     var ICON_WARN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" ' +
