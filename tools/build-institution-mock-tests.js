@@ -235,11 +235,6 @@ a { color: inherit; }
   background: rgba(255,255,255,.18); border: 1px solid rgba(255,255,255,.32);
   padding: 4px 11px; border-radius: 999px;
 }
-.hero-p .hero-free {
-  font-size: 11.5px; font-weight: 700; color: #d1fae5;
-  display: inline-flex; align-items: center; gap: 5px; margin-left: auto;
-}
-.hero-p .hero-free svg { width: 13px; height: 13px; }
 .hero-p h1 {
   position: relative; margin: 0 0 9px; font-size: clamp(24px, 3.6vw, 34px);
   letter-spacing: -.9px; line-height: 1.16; font-weight: 800;
@@ -345,7 +340,6 @@ a { color: inherit; }
   .hero-p { padding: 22px 20px 20px; border-radius: 16px; }
   .hero-p .metagrid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
   .hero-p .meta b { font-size: 19px; }
-  .hero-p .hero-free { margin-left: 0; width: 100%; }
   .exam-block { padding: 16px; border-radius: 16px; }
   .exam-head .as { margin-left: 0; width: 100%; }
   .sets { grid-template-columns: 1fr; }
@@ -1145,7 +1139,6 @@ function pickerPage() {
     <section class="hero-p">
       <div class="hero-top">
         <span class="hero-tag">Institution mock tests</span>
-        <span class="hero-free">${ICON_CHECK} Free · one login · runs in the browser</span>
       </div>
       <h1>Full-length papers, timed like the real exam</h1>
       <p>
