@@ -270,6 +270,27 @@ a { color: inherit; }
   transition: border-color .15s ease, background .15s ease;
 }
 .agree:has(input:checked), .agree.on { border-color: var(--brand); background: var(--brand-soft); }
+.agree.alert, .agree.alert:focus-within {
+  border-color: var(--bad); background: var(--bad-soft);
+  box-shadow: 0 0 0 4px rgba(220,38,38,.12);
+  animation: agshake .42s cubic-bezier(.36,.07,.19,.97);
+}
+.agree.alert .agree-txt { color: var(--bad); font-weight: 700; }
+.agree.alert input { accent-color: var(--bad); }
+@keyframes agshake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-6px); }
+  40% { transform: translateX(5px); }
+  60% { transform: translateX(-3px); }
+  80% { transform: translateX(2px); }
+}
+@media (prefers-reduced-motion: reduce) { .agree.alert { animation: none; } }
+.agree-err {
+  display: none; align-items: center; gap: 7px; margin: 0 0 4px;
+  font-size: 12.5px; font-weight: 800; color: var(--bad);
+}
+.agree-err.on { display: flex; }
+.agree-err svg { width: 15px; height: 15px; flex: 0 0 auto; }
 .agree-txt { cursor: pointer; }
 .agree:focus-within { border-color: var(--brand-line); }
 .agree input {
@@ -494,6 +515,12 @@ table.sc tfoot td {
 .verdict-tx b { display: block; font-size: 14px; margin-bottom: 2px; }
 .verdict-tx span { font-size: 12.5px; color: var(--muted); }
 .result-acts { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px; }
+.result-acts .exit {
+  margin-left: auto; border-color: var(--line); color: var(--ink-soft);
+  font-weight: 700;
+}
+.result-acts .exit:hover { border-color: var(--bad); color: var(--bad); background: var(--bad-soft); }
+@media (max-width: 560px) { .result-acts .exit { margin-left: 0; } }
 .cand-line {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 10px; margin: 0 0 18px; padding: 14px 16px;
@@ -907,6 +934,7 @@ function head(title, extraStyle = "") {
 }
 
 const ICON_USER = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>';
+const ICON_WARN_SM = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v5M12 16.5h.01"/></svg>';
 const ICON_LOCK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>';
 
 const BUILD = (() => {
@@ -1091,6 +1119,9 @@ function setPage(exam, n, set) {
           <input type="checkbox" id="agree" />
           <label class="agree-txt" for="agree">I have read and accept the terms &amp; conditions for this test.</label>
         </div>
+        <p class="agree-err" id="agreeerr" role="alert">
+          ${ICON_WARN_SM} Tick this box to accept the terms, then press Start.
+        </p>
         <span class="start-step" id="startstep">Details pending</span>
         <button class="start-btn" id="startbtn" type="button">Start test →</button>
       </div>
@@ -1445,6 +1476,15 @@ function setPage(exam, n, set) {
       candBtn.textContent = ready ? "Edit" : "Add details";
     }
 
+    /* The terms box is the last gate before the timer. Pressing Start without
+     * it paints the row red and says so, rather than silently doing nothing. */
+    function alertTerms(on) {
+      agreeWrap.classList.toggle("alert", on);
+      $("agreeerr").classList.toggle("on", on);
+      if (on) agreeBox.setAttribute("aria-invalid", "true");
+      else agreeBox.removeAttribute("aria-invalid");
+    }
+
     function syncStart() {
       var okName = nameOk(candName.value);
       var okDob = dobOk(candDob.value);
@@ -1459,6 +1499,7 @@ function setPage(exam, n, set) {
       /* Start stays clickable at all times: pressing it is what opens the
        * popup, so a locked button would leave the student with no way in. */
       agreeWrap.classList.toggle("on", agreeBox.checked);
+      if (agreeBox.checked) alertTerms(false);
       var step = $("startstep");
       step.className = "start-step" + (saved ? " done" : "");
       step.textContent = saved ? cand.name : "Details pending";
@@ -1523,7 +1564,12 @@ function setPage(exam, n, set) {
      * on the page before the timer begins. */
     startBtn.addEventListener("click", function () {
       if (!(nameOk(cand.name) && dobOk(cand.dob))) { openCand(); return; }
-      if (!agreeBox.checked) { agreeBox.focus(); return; }
+      if (!agreeBox.checked) {
+        alertTerms(true);
+        agreeWrap.scrollIntoView({ behavior: "smooth", block: "center" });
+        agreeBox.focus({ preventScroll: true });
+        return;
+      }
       start();
     });
 
@@ -1773,6 +1819,7 @@ function setPage(exam, n, set) {
           '<button class="pbtn" type="button" id="reviewbtn">Review all answers</button>' +
           '<button class="pbtn" type="button" id="retrybtn">Retake this set</button>' +
           '<a class="pbtn" href="/institution/mock-test/">All mock tests</a>' +
+          '<a class="pbtn exit" href="/institution/">Exit to library</a>' +
         "</div>" +
         '<div class="print-foot">' +
           "axomexam.in · practice paper for institution use · " +
