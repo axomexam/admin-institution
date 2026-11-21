@@ -178,16 +178,23 @@ a { color: inherit; }
   display: grid; place-items: center; font-size: 16px; font-weight: 800; flex: 0 0 auto;
 }
 .brand-txt { font-size: 16px; color: var(--ink); }
-.who { display: none; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600; color: var(--ink-soft); max-width: 220px; }
-.who span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.who {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: 12.5px; font-weight: 600; color: var(--ink-soft);
+  max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.who:empty { display: none; }
 .out {
-  display: none; font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
   background: var(--bg-soft); border: 1px solid var(--line); border-radius: 9px;
-  padding: 7px 11px; cursor: pointer; min-height: 34px;
+  padding: 7px 12px; cursor: pointer; min-height: 34px;
+  font-family: inherit; white-space: nowrap;
 }
 .out:hover { color: var(--brand); border-color: var(--brand-line); background: var(--brand-soft); }
+.out:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
 .out[hidden] { display: none; }
-@media (max-width: 640px) { .who { display: none !important; } }
+@media (max-width: 780px) { .who { display: none; } }
 .hdr-tag {
   font-size: 11px; font-weight: 700; letter-spacing: .8px; text-transform: uppercase;
   color: var(--brand); background: var(--brand-soft); border: 1px solid var(--brand-line);
@@ -1138,7 +1145,7 @@ function pickerPage() {
     <section class="hero-p">
       <div class="hero-top">
         <span class="hero-tag">Institution mock tests</span>
-        <span class="hero-free">${ICON_CHECK} Free · no login · runs in the browser</span>
+        <span class="hero-free">${ICON_CHECK} Free · one login · runs in the browser</span>
       </div>
       <h1>Full-length papers, timed like the real exam</h1>
       <p>
@@ -1232,7 +1239,7 @@ function pickerPage() {
         <summary>Running a whole classroom</summary>
         <div class="body">
           <p>
-            Everything runs in the browser — there is no server, no login and no per-seat limit,
+            Everything runs in the browser — there is no server and no per-seat limit,
             so thirty students can open the same set at the same time. Results stay on each
             student's own device; nothing is uploaded anywhere. These pages are excluded from
             search engines and are meant for your students only.

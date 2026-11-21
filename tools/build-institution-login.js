@@ -610,22 +610,40 @@ if (isLoginPage) wireLogin();
 export async function guard() {
   if (!(await config())) return null;
   const { auth, mod } = await firebase();
+
+  /* Local persistence keeps the teacher signed in across tabs, restarts and
+     days off. The session only ends when they press Sign out, so nothing here
+     sets an expiry timer. */
+  try {
+    await mod.setPersistence(auth, mod.browserLocalPersistence);
+  } catch (err) {}
+
   return new Promise((resolve) => {
+    let wired = false;
+
     mod.onAuthStateChanged(auth, (user) => {
       if (!user) {
-        location.replace(LOGIN_PATH + "?next=" + encodeURIComponent(location.pathname));
+        location.replace(LOGIN_PATH + "?next=" + encodeURIComponent(location.pathname + location.search));
         return;
       }
-      const out = document.getElementById("axo-signout");
-      if (out) {
+
+      if (!wired) {
+        wired = true;
+        const out = document.getElementById("axo-signout");
         const who = document.getElementById("axo-who");
         if (who) who.textContent = user.email || "";
-        out.hidden = false;
-        out.addEventListener("click", async () => {
-          await mod.signOut(auth);
-          location.replace(LOGIN_PATH);
-        });
+        if (out) {
+          out.hidden = false;
+          out.addEventListener("click", async () => {
+            out.disabled = true;
+            /* signOut clears this browser only. Other devices keep their own
+               session because Firebase stores it per device. */
+            await mod.signOut(auth);
+            location.replace(LOGIN_PATH);
+          });
+        }
       }
+
       resolve(user);
     });
   });
