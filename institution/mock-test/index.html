@@ -318,7 +318,51 @@ a { color: inherit; }
 .score.ok b { color: var(--ok); }
 .score.bad b { color: var(--bad); }
 .score.warn b { color: var(--warn); }
-.result-acts { display: flex; gap: 10px; flex-wrap: wrap; }
+.score.hero { background: var(--brand-soft); border-color: var(--brand-line); }
+.score.hero b { color: var(--brand); font-size: 26px; }
+.score.neg b { color: var(--bad); }
+.marks-note {
+  display: flex; flex-wrap: wrap; gap: 6px 16px; margin: -6px 0 18px;
+  font-size: 12.5px; color: var(--muted);
+}
+.marks-note b { color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.sc-head { display: flex; align-items: baseline; gap: 10px; margin: 22px 0 10px; flex-wrap: wrap; }
+.sc-head h3 { margin: 0; font-size: 15px; letter-spacing: -.2px; }
+.sc-head span { font-size: 12px; color: var(--muted); }
+.sc-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--line); border-radius: 12px; }
+table.sc { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 520px; }
+table.sc th, table.sc td { padding: 9px 12px; text-align: right; white-space: nowrap; }
+table.sc th:first-child, table.sc td:first-child { text-align: left; white-space: normal; }
+table.sc thead th {
+  background: var(--bg-soft); color: var(--muted); font-size: 11.5px; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .04em; border-bottom: 1px solid var(--line);
+}
+table.sc tbody tr + tr td { border-top: 1px solid var(--line-soft); }
+table.sc td.num { font-variant-numeric: tabular-nums; }
+table.sc td.pos { color: var(--ok); font-weight: 700; }
+table.sc td.ng { color: var(--bad); font-weight: 700; }
+table.sc tfoot td {
+  border-top: 2px solid var(--line); font-weight: 800; background: var(--bg-soft);
+  font-variant-numeric: tabular-nums;
+}
+.verdict {
+  display: flex; align-items: center; gap: 12px; margin: 20px 0 4px; padding: 14px 16px;
+  border-radius: 12px; border: 1px solid var(--line); background: var(--bg-soft);
+}
+.verdict .vmark {
+  flex: none; width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center;
+  font-weight: 800; font-size: 17px; color: #fff; background: var(--muted);
+}
+.verdict .vmark { font-size: 13px; font-variant-numeric: tabular-nums; background: var(--brand); }
+.verdict-tx b { display: block; font-size: 14px; margin-bottom: 2px; }
+.verdict-tx span { font-size: 12.5px; color: var(--muted); }
+.result-acts { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px; }
+@media (max-width: 640px) {
+  .score b { font-size: 19px; }
+  .score.hero b { font-size: 22px; }
+  table.sc { font-size: 12px; min-width: 460px; }
+  table.sc th, table.sc td { padding: 8px 9px; }
+}
 
 /* ---------- 3-2-1 countdown ---------- */
 .cd {

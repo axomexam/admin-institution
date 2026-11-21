@@ -28,6 +28,7 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const SETS_DIR = path.join(ROOT, "data", "exam-mock-sets");
 const OUT_DIR = path.join(ROOT, "institution", "mock-test");
+const MANIFEST = path.join(ROOT, "data", "institution", "manifest.json");
 
 const SETS_PER_EXAM = 5;
 
@@ -82,6 +83,41 @@ const responsiveFig = (html) =>
   sanitizeMedia(html)
     .replace(/(<svg\b[^>]*?)\swidth="[^"]*"/gi, "$1")
     .replace(/(<svg\b[^>]*?)\sheight="[^"]*"/gi, "$1");
+
+/* Question ids look like "boats-and-streams-080": the topic slug, a dash, and a
+ * serial. The manifest maps every topic slug to its exam section, which is what
+ * lets the scorecard report per-section marks. */
+function sectionMap(examId) {
+  const man = readJSON(MANIFEST);
+  const exam = man && (man.exams || []).find((e) => e.id === examId);
+  const map = new Map();
+  const loose = new Map();
+  if (!exam) return { get: (k) => undefined, loose };
+
+  /* Question ids sometimes singularise a topic slug ("venn-diagram") where the
+   * manifest pluralises it ("venn-diagrams"). Index both spellings so the
+   * scorecard never drops a question. */
+  const norm = (slug) =>
+    String(slug)
+      .split("-")
+      .map((t) => t.replace(/s$/, ""))
+      .join("-");
+
+  for (const s of exam.sections || []) {
+    const slug = String(s.path || "").split("/").pop();
+    if (!slug) continue;
+    const rec = { id: s.section, label: s.sectionTitle || null };
+    map.set(slug, rec);
+    loose.set(norm(slug), rec);
+  }
+
+  /* "pos" shares no stem with "parts-of-speech", so name it directly. */
+  if (map.has("parts-of-speech")) map.set("pos", map.get("parts-of-speech"));
+
+  return {
+    get: (slug) => map.get(slug) || loose.get(norm(slug)),
+  };
+}
 
 const CSS = `
 :root {
@@ -379,7 +415,51 @@ a { color: inherit; }
 .score.ok b { color: var(--ok); }
 .score.bad b { color: var(--bad); }
 .score.warn b { color: var(--warn); }
-.result-acts { display: flex; gap: 10px; flex-wrap: wrap; }
+.score.hero { background: var(--brand-soft); border-color: var(--brand-line); }
+.score.hero b { color: var(--brand); font-size: 26px; }
+.score.neg b { color: var(--bad); }
+.marks-note {
+  display: flex; flex-wrap: wrap; gap: 6px 16px; margin: -6px 0 18px;
+  font-size: 12.5px; color: var(--muted);
+}
+.marks-note b { color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.sc-head { display: flex; align-items: baseline; gap: 10px; margin: 22px 0 10px; flex-wrap: wrap; }
+.sc-head h3 { margin: 0; font-size: 15px; letter-spacing: -.2px; }
+.sc-head span { font-size: 12px; color: var(--muted); }
+.sc-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--line); border-radius: 12px; }
+table.sc { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 520px; }
+table.sc th, table.sc td { padding: 9px 12px; text-align: right; white-space: nowrap; }
+table.sc th:first-child, table.sc td:first-child { text-align: left; white-space: normal; }
+table.sc thead th {
+  background: var(--bg-soft); color: var(--muted); font-size: 11.5px; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .04em; border-bottom: 1px solid var(--line);
+}
+table.sc tbody tr + tr td { border-top: 1px solid var(--line-soft); }
+table.sc td.num { font-variant-numeric: tabular-nums; }
+table.sc td.pos { color: var(--ok); font-weight: 700; }
+table.sc td.ng { color: var(--bad); font-weight: 700; }
+table.sc tfoot td {
+  border-top: 2px solid var(--line); font-weight: 800; background: var(--bg-soft);
+  font-variant-numeric: tabular-nums;
+}
+.verdict {
+  display: flex; align-items: center; gap: 12px; margin: 20px 0 4px; padding: 14px 16px;
+  border-radius: 12px; border: 1px solid var(--line); background: var(--bg-soft);
+}
+.verdict .vmark {
+  flex: none; width: 38px; height: 38px; border-radius: 50%; display: grid; place-items: center;
+  font-weight: 800; font-size: 17px; color: #fff; background: var(--muted);
+}
+.verdict .vmark { font-size: 13px; font-variant-numeric: tabular-nums; background: var(--brand); }
+.verdict-tx b { display: block; font-size: 14px; margin-bottom: 2px; }
+.verdict-tx span { font-size: 12.5px; color: var(--muted); }
+.result-acts { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px; }
+@media (max-width: 640px) {
+  .score b { font-size: 19px; }
+  .score.hero b { font-size: 22px; }
+  table.sc { font-size: 12px; min-width: 460px; }
+  table.sc th, table.sc td { padding: 8px 9px; }
+}
 
 /* ---------- 3-2-1 countdown ---------- */
 .cd {
@@ -594,6 +674,8 @@ function pickerPage() {
 
 function setPage(exam, n, set) {
   const b = set.blueprint || {};
+  const secBySlug = sectionMap(exam.id);
+  const usedSections = new Map();
   const questions = (set.questions || []).map((q) => {
     const opts = (q.options || []).map((o) => {
       if (o && typeof o === "object") {
@@ -601,6 +683,9 @@ function setPage(exam, n, set) {
       }
       return { en: String(o || ""), as: "", fig: "" };
     });
+    const slug = String(q.id || "").replace(/-\d+$/, "");
+    const sec = secBySlug.get(slug);
+    if (sec) usedSections.set(sec.id, sec.label);
     return {
       en: (q.q && q.q.en) || "",
       as: (q.q && q.q.as) || "",
@@ -609,15 +694,24 @@ function setPage(exam, n, set) {
       correct: Number.isInteger(q.correct) ? q.correct : -1,
       expEn: (q.explanation && q.explanation.en) || "",
       expAs: (q.explanation && q.explanation.as) || "",
+      sec: sec ? sec.id : "",
     };
   });
+
+  const order = new Map((b.sections || []).map((sec, i) => [sec.id, i]));
+  const sections = [...usedSections]
+    .map(([id, label]) => ({ id, label }))
+    .sort((x, y) => (order.get(x.id) ?? 99) - (order.get(y.id) ?? 99));
 
   const payload = JSON.stringify({
     exam: exam.id,
     title: exam.title,
     set: n,
     minutes: b.durationMinutes || 120,
+    totalMarks: Number(b.totalMarks || questions.length),
+    marksPer: Number(b.marksPerQuestion || 1),
     negative: Number(b.negativeMarking || 0),
+    sections,
     questions,
   }).replace(/</g, "\\u003c");
 
@@ -1040,27 +1134,98 @@ function setPage(exam, n, set) {
     }
 
     function showResult(auto, quit) {
+      var marksPer = P.marksPer || 1;
+      var negMark = P.negative || 0;
+      var maxMarks = P.totalMarks || Q.length * marksPer;
       var right = 0, wrong = 0, skip = 0;
+      var bySec = {};
       Q.forEach(function (q, i) {
-        if (ans[i] < 0) skip++;
-        else if (ans[i] === q.correct) right++;
-        else wrong++;
+        var k = q.sec || "";
+        if (!bySec[k]) bySec[k] = { right: 0, wrong: 0, skip: 0 };
+        if (ans[i] < 0) { skip++; bySec[k].skip++; }
+        else if (ans[i] === q.correct) { right++; bySec[k].right++; }
+        else { wrong++; bySec[k].wrong++; }
       });
-      var score = right - wrong * P.negative;
+      var earned = right * marksPer;
+      var deducted = wrong * negMark;
+      var net = earned - deducted;
+      var pct = maxMarks ? Math.round((net / maxMarks) * 100) : 0;
+      var pctCls = pct < 0 ? "neg" : "";
       var total = Q.length;
-      var pct = Math.max(0, Math.round((score / total) * 100));
+
+      var labelFor = function (id) {
+        var s = (P.sections || []).filter(function (x) { return x.id === id; })[0];
+        if (!s) return "";
+        return (L === "as" && s.label && s.label.as) ? s.label.as : (s.label && s.label.en) || s.label || id;
+      };
+
+      var secRows = (P.sections || []).map(function (s) {
+        var d = bySec[s.id] || { right: 0, wrong: 0, skip: 0 };
+        var sn = d.right + d.wrong + d.skip;
+        var sNet = d.right * marksPer - d.wrong * negMark;
+        var sMax = sn * marksPer;
+        return "<tr>" +
+          "<td>" + esc(labelFor(s.id)) + "</td>" +
+          '<td class="num">' + sn + "</td>" +
+          '<td class="num pos">' + d.right + "</td>" +
+          '<td class="num ng">' + d.wrong + "</td>" +
+          '<td class="num">' + d.skip + "</td>" +
+          '<td class="num">' + sMax + "</td>" +
+          '<td class="num ' + (sNet < 0 ? "ng" : "pos") + '">' + sNet.toFixed(2) + "</td>" +
+          "</tr>";
+      }).join("");
+
+      var attempted = right + wrong;
+      var accuracy = attempted ? Math.round((right / attempted) * 100) : 0;
+
       result.hidden = false;
       result.innerHTML =
-        "<h2>" + (quit ? "Test ended — result" : auto ? "Time up — result" : "Result") + "</h2>" +
+        "<h2>" + (quit ? "Test ended — scorecard" : auto ? "Time up — scorecard" : "Scorecard") + "</h2>" +
         '<p class="rsub">' + esc(P.title) + " · Full Paper Set " + P.set +
         " · " + (L === "as" ? "অসমীয়া" : "English") + "</p>" +
+
         '<div class="score-row">' +
-          '<div class="score"><b>' + score.toFixed(2) + "</b><span>Score of " + total + "</span></div>" +
+          '<div class="score hero"><b>' + net.toFixed(2) + "</b><span>Final score</span></div>" +
+          '<div class="score"><b>' + maxMarks + "</b><span>Maximum marks</span></div>" +
+          '<div class="score ' + pctCls + '"><b>' + pct + "%</b><span>Percentage</span></div>" +
+        "</div>" +
+
+        '<div class="marks-note">' +
+          "<span>Marks per question <b>" + marksPer + "</b></span>" +
+          "<span>Negative marking <b>−" + negMark + "</b> per wrong answer</span>" +
+          "<span>Unanswered <b>0</b></span>" +
+        "</div>" +
+
+        '<div class="score-row">' +
           '<div class="score ok"><b>' + right + "</b><span>Correct</span></div>" +
           '<div class="score bad"><b>' + wrong + "</b><span>Wrong</span></div>" +
           '<div class="score warn"><b>' + skip + "</b><span>Unanswered</span></div>" +
-          '<div class="score"><b>' + pct + "%</b><span>Percentage</span></div>" +
+          '<div class="score"><b>' + total + "</b><span>Total questions</span></div>" +
         "</div>" +
+
+        '<div class="marks-note">' +
+          "<span>Awarded <b>+" + earned.toFixed(2) + "</b> (" + right + " × " + marksPer + ")</span>" +
+          "<span>Deducted <b>−" + deducted.toFixed(2) + "</b> (" + wrong + " × " + negMark + ")</span>" +
+          "<span>Net <b>" + net.toFixed(2) + "</b> of " + maxMarks + "</span>" +
+        "</div>" +
+
+        '<div class="verdict">' +
+          '<div class="vmark">' + accuracy + "</div>" +
+          '<div class="verdict-tx"><b>Accuracy on attempted questions: ' + accuracy + "%</b>" +
+          "<span>" + right + " correct out of " + attempted + " attempted · " +
+          net.toFixed(2) + " of " + maxMarks + " marks (" + pct + "%)</span></div>" +
+        "</div>" +
+
+        (secRows
+          ? '<div class="sc-head"><h3>Section-wise score</h3><span>Negative marking applied per section</span></div>' +
+            '<div class="sc-wrap"><table class="sc"><thead><tr>' +
+            "<th>Section</th><th>Qs</th><th>Correct</th><th>Wrong</th><th>Skipped</th><th>Max</th><th>Score</th>" +
+            "</tr></thead><tbody>" + secRows + "</tbody><tfoot><tr>" +
+            "<td>Total</td><td>" + total + '</td><td class="pos">' + right + '</td><td class="ng">' + wrong +
+            "</td><td>" + skip + "</td><td>" + maxMarks + "</td><td>" + net.toFixed(2) + "</td>" +
+            "</tr></tfoot></table></div>"
+          : "") +
+
         '<div class="result-acts">' +
           '<button class="pbtn primary" type="button" id="reviewbtn">Review all answers</button>' +
           '<button class="pbtn" type="button" id="retrybtn">Retake this set</button>' +
