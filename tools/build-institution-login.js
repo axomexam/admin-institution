@@ -1,0 +1,662 @@
+/**
+ * tools/build-institution-login.js
+ *
+ * Writes the institution sign-in page and its client script:
+ *
+ *   institution/login.html      the panel
+ *   institution/auth.js         sign-in, session, page guard, PDF fetch
+ *
+ * Accounts are created by hand in the Firebase console — there is no sign-up
+ * form. Only the email/password pairs listed there can open the library.
+ *
+ * Usage:
+ *   node tools/build-institution-login.js
+ */
+
+"use strict";
+
+const fs = require("fs");
+const path = require("path");
+
+const ROOT = path.resolve(__dirname, "..");
+const OUT_DIR = path.join(ROOT, "institution");
+
+/* Firebase keys come from firebase/firebase-config.json so they live in one
+   place. Missing or placeholder values still build a working panel that
+   explains what is unconfigured instead of failing silently. */
+const CONFIG_FILE = path.join(ROOT, "firebase", "firebase-config.json");
+const CONFIG_KEYS = ["apiKey", "authDomain", "projectId", "appId"];
+const PLACEHOLDERS = {
+  apiKey: "PASTE_API_KEY",
+  authDomain: "PASTE.firebaseapp.com",
+  projectId: "PASTE_PROJECT_ID",
+  appId: "PASTE_APP_ID",
+};
+
+function loadConfig() {
+  let raw = {};
+  try {
+    raw = JSON.parse(fs.readFileSync(CONFIG_FILE, "utf8"));
+  } catch (err) {
+    return { ...PLACEHOLDERS, __configured: false };
+  }
+  const out = {};
+  let ok = true;
+  for (const key of CONFIG_KEYS) {
+    const value = typeof raw[key] === "string" ? raw[key].trim() : "";
+    if (!value || /^PASTE|^<|^YOUR_/i.test(value)) ok = false;
+    out[key] = value || PLACEHOLDERS[key];
+  }
+  out.storageBucket = raw.storageBucket || out.projectId + ".appspot.com";
+  out.__configured = ok;
+  return out;
+}
+
+const CONFIG = loadConfig();
+
+const BUILD = (() => {
+  const d = new Date();
+  const p = (n) => String(n).padStart(2, "0");
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+})();
+
+const ICON_EYE = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>`;
+const ICON_EYE_OFF = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3l18 18"/><path d="M10.6 10.6a2 2 0 0 0 2.8 2.8"/><path d="M9.9 5.2A9.6 9.6 0 0 1 12 5c6.4 0 10 7 10 7a17.8 17.8 0 0 1-3.2 4.1"/><path d="M6.6 6.6A17.6 17.6 0 0 0 2 12s3.6 7 10 7a9.7 9.7 0 0 0 4.3-1"/></svg>`;
+const ICON_LOCK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>`;
+const ICON_WARN = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 8v5M12 16.5h.01"/></svg>`;
+const ICON_CHECK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>`;
+const ICON_SUN = `<svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>`;
+const ICON_MOON = `<svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg>`;
+
+const CSS = `
+:root {
+  --brand: #4f46e5;
+  --brand-2: #6366f1;
+  --brand-3: #818cf8;
+  --brand-soft: #eef2ff;
+  --brand-line: #c7d2fe;
+  --ink: #0f172a;
+  --ink-soft: #475569;
+  --muted: #64748b;
+  --line: #e2e8f0;
+  --line-soft: #f1f5f9;
+  --bg: #ffffff;
+  --bg-soft: #f8fafc;
+  --bad: #dc2626;
+  --bad-soft: #fef2f2;
+  --bad-line: #fecaca;
+  --ok: #047857;
+  --shadow: 0 1px 2px rgba(15,23,42,.05), 0 8px 24px -12px rgba(15,23,42,.18);
+  --shadow-lg: 0 20px 44px -26px rgba(49,46,129,.5);
+}
+[data-theme="dark"] {
+  --brand: #818cf8;
+  --brand-2: #6366f1;
+  --brand-3: #a5b4fc;
+  --brand-soft: #1e1b4b;
+  --brand-line: #3730a3;
+  --ink: #f1f5f9;
+  --ink-soft: #cbd5e1;
+  --muted: #94a3b8;
+  --line: #1e293b;
+  --line-soft: #172033;
+  --bg: #0b1220;
+  --bg-soft: #0f172a;
+  --bad: #f87171;
+  --bad-soft: #3f1d1d;
+  --bad-line: #7f1d1d;
+  --ok: #34d399;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 32px -16px rgba(0,0,0,.8);
+  --shadow-lg: 0 24px 52px -28px rgba(0,0,0,.9);
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; min-height: 100vh; background: var(--bg-soft); color: var(--ink);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  line-height: 1.55; font-size: 15px; -webkit-font-smoothing: antialiased;
+  display: flex; flex-direction: column;
+}
+
+/* ---------- header ---------- */
+.hdr { background: var(--bg); border-bottom: 1px solid var(--line); }
+.hdr-in { max-width: 1120px; margin: 0 auto; padding: 0 20px; display: flex; align-items: center; gap: 12px; height: 62px; }
+.brand { display: flex; align-items: center; gap: 9px; text-decoration: none; font-weight: 800; letter-spacing: -.3px; }
+.brand-mark {
+  width: 32px; height: 32px; border-radius: 10px; flex: 0 0 auto;
+  background: linear-gradient(135deg, #4f46e5, #818cf8); color: #fff;
+  display: grid; place-items: center; font-size: 16px; font-weight: 800;
+  box-shadow: 0 8px 18px -10px rgba(79,70,229,.85);
+}
+.brand-txt { font-size: 15.5px; color: var(--ink); }
+.hdr-tag {
+  font-size: 10.5px; font-weight: 800; letter-spacing: .9px; text-transform: uppercase;
+  color: var(--brand); background: var(--brand-soft); border: 1px solid var(--brand-line);
+  padding: 3px 9px; border-radius: 999px;
+}
+.hdr-sp { flex: 1; }
+.tgl {
+  width: 36px; height: 36px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg);
+  color: var(--ink-soft); cursor: pointer; display: grid; place-items: center; flex: 0 0 auto;
+}
+.tgl:hover { color: var(--brand); border-color: var(--brand-line); }
+.tgl svg { width: 17px; height: 17px; }
+[data-theme="dark"] .i-sun { display: none; }
+:root:not([data-theme="dark"]) .i-moon { display: none; }
+
+/* ---------- shell ---------- */
+.shell {
+  flex: 1; display: flex; align-items: center; justify-content: center;
+  padding: 34px 20px 44px;
+}
+
+/* ---------- card ---------- */
+.card {
+  width: 100%; max-width: 940px; display: grid; grid-template-columns: 1.02fr 1fr;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 20px;
+  box-shadow: var(--shadow-lg); overflow: hidden;
+}
+
+/* left panel */
+.side {
+  position: relative; overflow: hidden; padding: 34px 32px; color: #fff;
+  background: linear-gradient(135deg, #312e81 0%, #4f46e5 52%, #6366f1 100%);
+  display: flex; flex-direction: column;
+}
+.side::after {
+  content: ""; position: absolute; width: 330px; height: 330px; border-radius: 50%;
+  right: -120px; top: -150px; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.22), transparent 70%);
+}
+.side::before {
+  content: ""; position: absolute; width: 240px; height: 240px; border-radius: 50%;
+  left: -110px; bottom: -150px; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.1), transparent 70%);
+}
+.side > * { position: relative; }
+.side-tag {
+  align-self: flex-start; font-size: 10.5px; font-weight: 800; letter-spacing: .95px;
+  text-transform: uppercase; background: rgba(255,255,255,.18);
+  border: 1px solid rgba(255,255,255,.32); padding: 4px 11px; border-radius: 999px;
+}
+.side h1 {
+  margin: 16px 0 10px; font-size: clamp(22px, 2.6vw, 28px); line-height: 1.2;
+  letter-spacing: -.7px; font-weight: 800;
+}
+.side p { margin: 0; font-size: 14px; line-height: 1.62; color: rgba(255,255,255,.85); max-width: 34ch; }
+.side-list { list-style: none; margin: 22px 0 0; padding: 0; display: grid; gap: 11px; }
+.side-list li { display: flex; gap: 9px; align-items: flex-start; font-size: 13px; line-height: 1.5; color: rgba(255,255,255,.92); }
+.side-list svg { width: 15px; height: 15px; flex: 0 0 auto; margin-top: 2px; color: #a7f3d0; }
+.side-foot {
+  margin-top: auto; padding-top: 26px; font-size: 11.5px;
+  color: rgba(255,255,255,.62); letter-spacing: .1px;
+}
+
+/* right panel */
+.form { padding: 34px 32px; display: flex; flex-direction: column; }
+.form h2 { margin: 0 0 5px; font-size: 21px; letter-spacing: -.45px; font-weight: 800; }
+.form .sub { margin: 0 0 22px; font-size: 13px; color: var(--muted); }
+
+.field { margin-bottom: 15px; }
+.field label {
+  display: block; font-size: 11.5px; font-weight: 800; letter-spacing: .6px;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 7px;
+}
+.inp-wrap { position: relative; display: flex; align-items: center; }
+.inp-wrap > svg.lead {
+  position: absolute; left: 13px; width: 16px; height: 16px; color: var(--muted); pointer-events: none;
+}
+.inp {
+  width: 100%; font: inherit; font-size: 14.5px; color: var(--ink);
+  background: var(--bg-soft); border: 1.5px solid var(--line); border-radius: 11px;
+  padding: 12px 14px 12px 39px; min-height: 46px; transition: border-color .15s, box-shadow .15s, background .15s;
+}
+.inp::placeholder { color: var(--muted); opacity: .85; }
+.inp:hover { border-color: var(--brand-line); }
+.inp:focus {
+  outline: none; background: var(--bg); border-color: var(--brand);
+  box-shadow: 0 0 0 3.5px color-mix(in srgb, var(--brand) 16%, transparent);
+}
+.inp[aria-invalid="true"] { border-color: var(--bad); background: var(--bad-soft); }
+.inp[aria-invalid="true"]:focus { box-shadow: 0 0 0 3.5px color-mix(in srgb, var(--bad) 18%, transparent); }
+
+.eye {
+  position: absolute; right: 8px; width: 32px; height: 32px; border: 0; border-radius: 8px;
+  background: transparent; color: var(--muted); cursor: pointer; display: grid; place-items: center;
+}
+.eye:hover { color: var(--brand); background: var(--brand-soft); }
+.eye:focus-visible { outline: 2px solid var(--brand); outline-offset: 1px; }
+.eye svg { width: 17px; height: 17px; }
+
+/* alert */
+.alert {
+  display: none; gap: 9px; align-items: flex-start; margin: 0 0 15px;
+  background: var(--bad-soft); border: 1px solid var(--bad-line); border-radius: 11px;
+  padding: 11px 13px; font-size: 13px; line-height: 1.5; color: var(--bad); font-weight: 600;
+}
+.alert.on { display: flex; }
+.alert svg { width: 16px; height: 16px; flex: 0 0 auto; margin-top: 1px; }
+
+/* button */
+.btn {
+  width: 100%; font: inherit; font-size: 14.5px; font-weight: 800; letter-spacing: .2px;
+  color: #fff; background: linear-gradient(135deg, #4f46e5, #6366f1);
+  border: 0; border-radius: 11px; padding: 13px 18px; min-height: 48px;
+  cursor: pointer; display: inline-flex; align-items: center; justify-content: center; gap: 9px;
+  box-shadow: 0 10px 22px -12px rgba(79,70,229,.9);
+  transition: transform .12s, box-shadow .15s, filter .15s;
+}
+.btn:hover:not(:disabled) { filter: brightness(1.06); box-shadow: 0 14px 26px -12px rgba(79,70,229,.95); }
+.btn:active:not(:disabled) { transform: translateY(1px); }
+.btn:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+.btn:disabled { opacity: .62; cursor: not-allowed; box-shadow: none; }
+.btn svg { width: 16px; height: 16px; }
+.spin {
+  width: 15px; height: 15px; border-radius: 50%; flex: 0 0 auto;
+  border: 2px solid rgba(255,255,255,.45); border-top-color: #fff;
+  animation: sp .7s linear infinite;
+}
+@keyframes sp { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .spin { animation-duration: 2s; } }
+
+/* footer bits */
+.hint { margin: 18px 0 0; font-size: 12.5px; line-height: 1.6; color: var(--muted); text-align: center; }
+.hint b { color: var(--ink-soft); font-weight: 700; }
+.links { margin: 14px 0 0; display: flex; align-items: center; justify-content: center; gap: 8px; font-size: 12.5px; }
+.links a { color: var(--brand); font-weight: 700; text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+.links .dot { color: var(--line); }
+.build { margin-top: auto; padding-top: 18px; font-size: 11px; color: var(--muted); text-align: center; }
+
+/* success state */
+.done { text-align: center; padding: 18px 0 8px; }
+.done .tick {
+  width: 52px; height: 52px; margin: 0 auto 14px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--brand-soft); color: var(--brand);
+  border: 1px solid var(--brand-line);
+}
+.done .tick svg { width: 26px; height: 26px; }
+.done h2 { margin: 0 0 6px; }
+.done p { margin: 0 0 20px; font-size: 13.5px; color: var(--muted); }
+
+@media (max-width: 860px) {
+  .card { grid-template-columns: 1fr; max-width: 460px; }
+  .side { padding: 24px 24px 22px; }
+  .side h1 { font-size: 21px; margin: 13px 0 8px; }
+  .side p { font-size: 13px; }
+  .side-list, .side-foot { display: none; }
+  .form { padding: 26px 24px 24px; }
+}
+@media (max-width: 420px) {
+  .shell { padding: 18px 14px 30px; }
+  .side { padding: 20px; }
+  .form { padding: 22px 20px; }
+}
+`;
+
+function page() {
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+  <meta name="googlebot" content="noindex, nofollow" />
+  <title>Institution sign in | axomexam.in</title>
+  <meta name="theme-color" content="#4f46e5" />
+  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+Bengali:wght@400;600;700&display=swap" media="print" onload="this.media='all'" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+Bengali:wght@400;600;700&display=swap" /></noscript>
+  <script>
+    (function () {
+      try {
+        if (localStorage.getItem("axomexam-theme") === "dark") {
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <style>${CSS}</style>
+</head>
+<body>
+  <header class="hdr">
+    <div class="hdr-in">
+      <a class="brand" href="/" aria-label="axomexam home">
+        <span class="brand-mark">A</span>
+        <span class="brand-txt">axomexam.in</span>
+      </a>
+      <span class="hdr-tag">Institution</span>
+      <span class="hdr-sp"></span>
+      <button class="tgl" id="axo-theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+        ${ICON_SUN}${ICON_MOON}
+      </button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="card">
+      <div class="side">
+        <span class="side-tag">Institution library</span>
+        <h1>Topic-wise question banks and mock tests</h1>
+        <p>
+          166 topic PDFs in English and Assamese, plus ten full-length ADRE papers,
+          for the institution that asked for them.
+        </p>
+        <ul class="side-list">
+          <li>${ICON_CHECK}<span>One PDF per topic, with answers and explanations</span></li>
+          <li>${ICON_CHECK}<span>Watermarked axomexam.in on every page</span></li>
+          <li>${ICON_CHECK}<span>Ten mock tests with live timer and scorecard</span></li>
+          <li>${ICON_CHECK}<span>No per-seat limit — a whole class can use one login</span></li>
+        </ul>
+        <div class="side-foot">Access is limited to accounts created for partner institutions.</div>
+      </div>
+
+      <div class="form">
+        <h2 id="form-title">Sign in</h2>
+        <p class="sub" id="form-sub">Use the email and password given to your institution.</p>
+
+        <div class="alert" id="err" role="alert" aria-live="assertive">
+          ${ICON_WARN}<span id="err-text"></span>
+        </div>
+
+        <form id="f" novalidate autocomplete="on">
+          <div class="field">
+            <label for="email">Email</label>
+            <div class="inp-wrap">
+              <svg class="lead" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="4.5" width="19" height="15" rx="2.5"/><path d="m3 7 9 6 9-6"/></svg>
+              <input class="inp" id="email" name="email" type="email" inputmode="email"
+                     autocomplete="username" autocapitalize="none" spellcheck="false"
+                     placeholder="teacher@school.edu" required aria-describedby="err" />
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="pw">Password</label>
+            <div class="inp-wrap">
+              ${ICON_LOCK.replace("<svg", '<svg class="lead"')}
+              <input class="inp" id="pw" name="password" type="password"
+                     autocomplete="current-password" placeholder="Your password"
+                     required aria-describedby="err" style="padding-right:48px" />
+              <button class="eye" id="eye" type="button" aria-label="Show password" aria-pressed="false">
+                ${ICON_EYE}
+              </button>
+            </div>
+          </div>
+
+          <button class="btn" id="go" type="submit">
+            <span id="go-tx">Sign in</span>
+          </button>
+        </form>
+
+        <p class="hint">
+          Accounts are created by the axomexam team. <b>There is no sign-up form</b> —
+          if you need access, write to us from your institution email.
+        </p>
+
+        <p class="links">
+          <a href="/institution/">Library</a>
+          <span class="dot">·</span>
+          <a href="/institution/mock-test/">Mock tests</a>
+          <span class="dot">·</span>
+          <a href="/">axomexam.in</a>
+        </p>
+
+        <div class="build">build ${BUILD}</div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    (function () {
+      var btn = document.getElementById("axo-theme");
+      if (!btn) return;
+      btn.addEventListener("click", function () {
+        var root = document.documentElement;
+        var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+        root.setAttribute("data-theme", next);
+        try { localStorage.setItem("axomexam-theme", next); } catch (e) {}
+      });
+    })();
+  </script>
+  <script type="module" src="/institution/auth.js"></script>
+</body>
+</html>
+`;
+}
+
+const AUTH_JS = `/**
+ * institution/auth.js
+ *
+ * Signs a teacher in with the email and password created for their institution,
+ * then guards the library and mock-test pages behind that session.
+ *
+ * Accounts are made by hand in the Firebase console. There is no sign-up path:
+ * every user in the project was put there deliberately.
+ *
+ * Firebase is imported on first use rather than at the top of the file, so the
+ * panel still validates and explains itself if the CDN is slow or blocked.
+ */
+
+const FIREBASE_VERSION = "11.0.2";
+const SDK = "https://www.gstatic.com/firebasejs/" + FIREBASE_VERSION;
+
+/* Keys are read from /institution/config.json at runtime, so changing them never
+   needs a rebuild. The file is public by design: Firebase keeps the door shut
+   with security rules, not with a secret key. */
+const CONFIG_URL = "/institution/config.json";
+let configPromise = null;
+
+function config() {
+  if (!configPromise) {
+    configPromise = fetch(CONFIG_URL, { cache: "no-store" })
+      .then((res) => (res.ok ? res.json() : null))
+      .catch(() => null)
+      .then((raw) => {
+        if (!raw) return null;
+        const values = {};
+        for (const key of ["apiKey", "authDomain", "projectId", "appId"]) {
+          const value = typeof raw[key] === "string" ? raw[key].trim() : "";
+          if (!value || /^PASTE|^<|^YOUR_/i.test(value) || /\.\.\.your-/.test(value)) return null;
+          values[key] = value;
+        }
+        values.storageBucket = (raw.storageBucket || values.projectId + ".appspot.com").trim();
+        return values;
+      });
+  }
+  return configPromise;
+}
+
+const LOGIN_PATH = "/institution/login.html";
+const HOME_PATH = "/institution/";
+const SESSION_KEY = "axomexam-session";
+
+const $ = (id) => document.getElementById(id);
+const isLoginPage = /\\/login\\.html$/.test(location.pathname);
+
+let sdkPromise = null;
+
+/* Loads the two Firebase modules we need and returns a small handle. */
+function firebase() {
+  if (!sdkPromise) {
+    sdkPromise = Promise.all([
+      config(),
+      import(SDK + "/firebase-app.js"),
+      import(SDK + "/firebase-auth.js"),
+    ]).then(([cfg, appMod, authMod]) => {
+      if (!cfg) throw new Error("not-configured");
+      const app = appMod.initializeApp(cfg);
+      return { auth: authMod.getAuth(app), mod: authMod };
+    });
+  }
+  return sdkPromise;
+}
+
+/* Firebase reports the same failure for a wrong password and an unknown email,
+   which is what we want — it stops anyone probing for valid addresses. */
+const MESSAGES = {
+  "auth/invalid-credential": "That email and password do not match an institution account.",
+  "auth/wrong-password": "That email and password do not match an institution account.",
+  "auth/user-not-found": "That email and password do not match an institution account.",
+  "auth/invalid-email": "That does not look like an email address.",
+  "auth/user-disabled": "This account has been switched off. Write to us from your institution email.",
+  "auth/too-many-requests": "Too many attempts. Wait a minute, then try again.",
+  "auth/network-request-failed": "No connection. Check your internet and try again.",
+  "auth/operation-not-allowed": "Email sign-in is not switched on for this project yet.",
+  "auth/api-key-not-valid": "Sign-in is not configured yet. The site owner needs to paste the Firebase keys.",
+};
+
+function say(text) {
+  const box = $("err");
+  const slot = $("err-text");
+  if (!box || !slot) return;
+  slot.textContent = text;
+  box.classList.add("on");
+  const email = $("email");
+  if (email) email.setAttribute("aria-invalid", "true");
+}
+
+function quiet() {
+  const box = $("err");
+  if (box) box.classList.remove("on");
+  ["email", "pw"].forEach((id) => {
+    const el = $(id);
+    if (el) el.removeAttribute("aria-invalid");
+  });
+}
+
+function busy(on) {
+  const btn = $("go");
+  const tx = $("go-tx");
+  if (!btn || !tx) return;
+  btn.disabled = on;
+  tx.textContent = on ? "Signing in" : "Sign in";
+  let sp = btn.querySelector(".spin");
+  if (on && !sp) {
+    sp = document.createElement("span");
+    sp.className = "spin";
+    btn.prepend(sp);
+  } else if (!on && sp) {
+    sp.remove();
+  }
+}
+
+/* ---------- login page ---------- */
+
+function wireLogin() {
+  const eye = $("eye");
+  if (eye) {
+    eye.addEventListener("click", () => {
+      const pw = $("pw");
+      const shown = pw.type === "text";
+      pw.type = shown ? "password" : "text";
+      eye.setAttribute("aria-pressed", String(!shown));
+      eye.setAttribute("aria-label", shown ? "Show password" : "Hide password");
+      eye.innerHTML = shown ? EYE : EYE_OFF;
+      pw.focus();
+    });
+  }
+
+  ["email", "pw"].forEach((id) => {
+    const el = $(id);
+    if (el) el.addEventListener("input", () => {
+      el.removeAttribute("aria-invalid");
+      quiet();
+    });
+  });
+
+  const form = $("f");
+  if (!form) return;
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    quiet();
+
+    const email = ($("email").value || "").trim();
+    const pw = $("pw").value || "";
+
+    if (!email) { say("Enter your institution email."); $("email").focus(); return; }
+    if (!/^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/.test(email)) { say("That does not look like an email address."); $("email").focus(); return; }
+    if (!pw) { say("Enter your password."); $("pw").focus(); return; }
+
+    const cfg = await config();
+    if (!cfg) {
+      say("Sign-in is not set up yet. Add the keys to institution/config.json.");
+      return;
+    }
+
+    busy(true);
+    try {
+      const { auth, mod } = await firebase();
+      await mod.setPersistence(auth, mod.browserLocalPersistence);
+      await mod.signInWithEmailAndPassword(auth, email, pw);
+      try { sessionStorage.setItem(SESSION_KEY, email); } catch (err) {}
+      location.replace(HOME_PATH);
+    } catch (err) {
+      busy(false);
+      say(MESSAGES[err && err.code] || "Could not sign you in. Try again in a moment.");
+      const pwEl = $("pw");
+      if (pwEl) pwEl.select();
+    }
+  });
+}
+
+if (isLoginPage) wireLogin();
+
+/* ---------- guard on library and mock-test pages ---------- */
+
+export async function guard() {
+  if (!(await config())) return null;
+  const { auth, mod } = await firebase();
+  return new Promise((resolve) => {
+    mod.onAuthStateChanged(auth, (user) => {
+      if (!user) {
+        location.replace(LOGIN_PATH + "?next=" + encodeURIComponent(location.pathname));
+        return;
+      }
+      const out = document.getElementById("axo-signout");
+      if (out) {
+        const who = document.getElementById("axo-who");
+        if (who) who.textContent = user.email || "";
+        out.hidden = false;
+        out.addEventListener("click", async () => {
+          await mod.signOut(auth);
+          location.replace(LOGIN_PATH);
+        });
+      }
+      resolve(user);
+    });
+  });
+}
+
+/* Reads a protected PDF through the signed-in user's token and hands the bytes
+   to the browser as a blob. Firebase never returns a public URL this way, so the
+   file cannot be forwarded to someone who is not signed in. */
+export async function downloadPdf(storagePath, filename) {
+  const [{ auth }, storageMod] = await Promise.all([
+    firebase(),
+    import(SDK + "/firebase-storage.js"),
+  ]);
+  if (!auth.currentUser) throw new Error("not signed in");
+
+  const ref = storageMod.ref(storageMod.getStorage(auth.app), storagePath);
+  const blob = await storageMod.getBlob(ref);
+
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename || "axomexam.pdf";
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 4000);
+}
+`;
+
+fs.mkdirSync(OUT_DIR, { recursive: true });
+fs.writeFileSync(path.join(OUT_DIR, "login.html"), page());
+fs.writeFileSync(path.join(OUT_DIR, "auth.js"), AUTH_JS);
+
+console.log("wrote institution/login.html + institution/auth.js");

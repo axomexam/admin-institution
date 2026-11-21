@@ -201,6 +201,16 @@ a { color: inherit; }
   padding: 4px 9px; border-radius: 999px; white-space: nowrap;
 }
 .hdr-sp { flex: 1; }
+.who { display: none; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600; color: var(--ink-soft); max-width: 220px; }
+.who span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.out {
+  display: none; font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 9px;
+  padding: 7px 11px; cursor: pointer; min-height: 34px;
+}
+.out:hover { color: var(--brand); border-color: var(--brand-line); background: var(--brand-soft); }
+.out[hidden] { display: none; }
+@media (max-width: 640px) { .who { display: none !important; } }
 .hdr-nav { display: flex; align-items: center; gap: 4px; }
 .hdr-nav a {
   font-size: 13px; font-weight: 600; color: var(--ink-soft); text-decoration: none;
@@ -849,6 +859,8 @@ function page(tree, manifest) {
         <a href="/institution/mock-test/">Mock tests</a>
         <a href="#about">How it works</a>
       </nav>
+      <span class="who" id="axo-who"></span>
+      <button class="out" id="axo-signout" type="button" hidden>Sign out</button>
       <button class="tgl" id="axo-theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
         ${ICON_SUN}${ICON_MOON}
       </button>
@@ -1038,6 +1050,10 @@ function page(tree, manifest) {
 
   <script type="application/json" id="axo-lib-data">${JSON.stringify({ generatedAt: manifest.generatedAt, exams: tree })}</script>
   <script>${CLIENT_JS}</script>
+  <script type="module">
+    import { guard } from "/institution/auth.js";
+    guard().catch(function () {});
+  </script>
 </body>
 </html>
 `;

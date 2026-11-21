@@ -110,6 +110,16 @@ a { color: inherit; }
   padding: 4px 9px; border-radius: 999px; white-space: nowrap;
 }
 .hdr-sp { flex: 1; }
+.who { display: none; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600; color: var(--ink-soft); max-width: 220px; }
+.who span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.out {
+  display: none; font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 9px;
+  padding: 7px 11px; cursor: pointer; min-height: 34px;
+}
+.out:hover { color: var(--brand); border-color: var(--brand-line); background: var(--brand-soft); }
+.out[hidden] { display: none; }
+@media (max-width: 640px) { .who { display: none !important; } }
 .hdr-nav { display: flex; align-items: center; gap: 4px; }
 .hdr-nav a {
   font-size: 13px; font-weight: 600; color: var(--ink-soft); text-decoration: none;
@@ -390,6 +400,8 @@ a { color: inherit; }
         <a href="/institution/mock-test/">Mock tests</a>
         <a href="#about">How it works</a>
       </nav>
+      <span class="who" id="axo-who"></span>
+      <button class="out" id="axo-signout" type="button" hidden>Sign out</button>
       <button class="tgl" id="axo-theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
         <svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg><svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>
       </button>
@@ -887,7 +899,7 @@ a { color: inherit; }
     <div class="wrap ftr-in">
       <span>&copy; 2026 <strong>axomexam.in</strong> — free exam preparation, English &amp; Assamese</span>
       <span><a href="https://axomexam.in/downloads/">Downloads</a> &middot; <a href="/institution/mock-test/">Mock tests</a> &middot; <a href="https://axomexam.in/contact/">Contact</a> &middot; <a href="https://axomexam.in/privacy/">Privacy</a></span>
-      <span class="ftr-build">build 2026-11-21 05:55</span>
+      <span class="ftr-build">build 2026-11-21 07:01</span>
     </div>
   </footer>
 
@@ -1177,5 +1189,9 @@ a { color: inherit; }
   render();
 })();
 </script>
+  <script type="module">
+    import { guard } from "/institution/auth.js";
+    guard().catch(function () {});
+  </script>
 </body>
 </html>
