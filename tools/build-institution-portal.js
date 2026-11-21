@@ -256,11 +256,6 @@ a { color: inherit; }
   background: rgba(255,255,255,.18); border: 1px solid rgba(255,255,255,.32);
   padding: 4px 11px; border-radius: 999px;
 }
-.hero-free {
-  font-size: 11.5px; font-weight: 700; color: #d1fae5;
-  display: inline-flex; align-items: center; gap: 5px; margin-left: auto;
-}
-.hero-free svg { width: 13px; height: 13px; }
 .hero h1 {
   position: relative; margin: 0 0 9px; font-size: clamp(24px, 3.6vw, 34px);
   letter-spacing: -.9px; line-height: 1.16; font-weight: 800;
@@ -477,7 +472,6 @@ a { color: inherit; }
   .mt-banner { flex-wrap: wrap; }
   .mt-banner-go { width: 100%; justify-content: center; }
   .about { padding: 4px 16px 6px; }
-  .hero-free { margin-left: 0; width: 100%; }
 }
 @media (max-width: 400px) {
   .hdr-nav { display: none; }
@@ -878,7 +872,6 @@ function page(tree, manifest) {
     <section class="hero">
       <div class="hero-top">
         <span class="hero-tag">Institution library</span>
-        <span class="hero-free">${ICON_CHECK} Free · one login · no per-seat limit</span>
       </div>
       <h1>Every question bank, one PDF per topic</h1>
       <p>
