@@ -201,16 +201,23 @@ a { color: inherit; }
   padding: 4px 9px; border-radius: 999px; white-space: nowrap;
 }
 .hdr-sp { flex: 1; }
-.who { display: none; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600; color: var(--ink-soft); max-width: 220px; }
-.who span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.who {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: 12.5px; font-weight: 600; color: var(--ink-soft);
+  max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.who:empty { display: none; }
 .out {
-  display: none; font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
   background: var(--bg-soft); border: 1px solid var(--line); border-radius: 9px;
-  padding: 7px 11px; cursor: pointer; min-height: 34px;
+  padding: 7px 12px; cursor: pointer; min-height: 34px;
+  font-family: inherit; white-space: nowrap;
 }
 .out:hover { color: var(--brand); border-color: var(--brand-line); background: var(--brand-soft); }
+.out:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
 .out[hidden] { display: none; }
-@media (max-width: 640px) { .who { display: none !important; } }
+@media (max-width: 780px) { .who { display: none; } }
 .hdr-nav { display: flex; align-items: center; gap: 4px; }
 .hdr-nav a {
   font-size: 13px; font-weight: 600; color: var(--ink-soft); text-decoration: none;
@@ -871,7 +878,7 @@ function page(tree, manifest) {
     <section class="hero">
       <div class="hero-top">
         <span class="hero-tag">Institution library</span>
-        <span class="hero-free">${ICON_CHECK} Free · no login · no per-seat limit</span>
+        <span class="hero-free">${ICON_CHECK} Free · one login · no per-seat limit</span>
       </div>
       <h1>Every question bank, one PDF per topic</h1>
       <p>
@@ -958,7 +965,7 @@ function page(tree, manifest) {
         <summary>Downloading for an institution</summary>
         <div class="body">
           <p>
-            There is no login, no paywall and no per-seat limit. Open a folder, click a file,
+            There is no paywall and no per-seat limit. Sign in once, open a folder, click a file,
             pick English or অসমীয়া in the dialog, and that language's PDF downloads. Each topic
             is a separate file, so you take only what you need. Files are print-ready on A4 and
             stay readable in black and white.
