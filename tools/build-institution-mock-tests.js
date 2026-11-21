@@ -178,6 +178,16 @@ a { color: inherit; }
   display: grid; place-items: center; font-size: 16px; font-weight: 800; flex: 0 0 auto;
 }
 .brand-txt { font-size: 16px; color: var(--ink); }
+.who { display: none; align-items: center; gap: 7px; font-size: 12.5px; font-weight: 600; color: var(--ink-soft); max-width: 220px; }
+.who span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.out {
+  display: none; font-size: 12.5px; font-weight: 700; color: var(--ink-soft);
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 9px;
+  padding: 7px 11px; cursor: pointer; min-height: 34px;
+}
+.out:hover { color: var(--brand); border-color: var(--brand-line); background: var(--brand-soft); }
+.out[hidden] { display: none; }
+@media (max-width: 640px) { .who { display: none !important; } }
 .hdr-tag {
   font-size: 11px; font-weight: 700; letter-spacing: .8px; text-transform: uppercase;
   color: var(--brand); background: var(--brand-soft); border: 1px solid var(--brand-line);
@@ -1039,6 +1049,8 @@ function head(title, extraStyle = "") {
       <span class="hdr-tag">Mock Test</span>
       <span class="hdr-sp"></span>
       <a class="back" href="/institution/">Library</a>
+      <span class="who" id="axo-who"></span>
+      <button class="out" id="axo-signout" type="button" hidden>Sign out</button>
       <button class="tgl" id="axo-theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
         ${ICON_SUN}${ICON_MOON}
       </button>
@@ -1075,6 +1087,10 @@ function foot() {
         try { localStorage.setItem("axomexam-theme", next); } catch (e) {}
       });
     })();
+  </script>
+  <script type="module">
+    import { guard } from "/institution/auth.js";
+    guard().catch(function () {});
   </script>
 </body>
 </html>`;
