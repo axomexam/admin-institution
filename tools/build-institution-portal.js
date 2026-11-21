@@ -139,6 +139,8 @@ function jsonLd(tree) {
 const CSS = `
 :root {
   --brand: #4f46e5;
+  --brand-2: #6366f1;
+  --brand-3: #818cf8;
   --brand-soft: #eef2ff;
   --brand-line: #c7d2fe;
   --ink: #0f172a;
@@ -149,9 +151,12 @@ const CSS = `
   --bg: #ffffff;
   --bg-soft: #f8fafc;
   --shadow: 0 1px 2px rgba(15,23,42,.05), 0 8px 24px -12px rgba(15,23,42,.18);
+  --shadow-lg: 0 20px 44px -26px rgba(49,46,129,.5);
 }
 [data-theme="dark"] {
   --brand: #818cf8;
+  --brand-2: #6366f1;
+  --brand-3: #a5b4fc;
   --brand-soft: #1e1b4b;
   --brand-line: #3730a3;
   --ink: #f1f5f9;
@@ -162,35 +167,46 @@ const CSS = `
   --bg: #0b1220;
   --bg-soft: #0f172a;
   --shadow: 0 1px 2px rgba(0,0,0,.4), 0 12px 32px -16px rgba(0,0,0,.8);
+  --shadow-lg: 0 24px 52px -28px rgba(0,0,0,.9);
 }
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 body {
   margin: 0; background: var(--bg-soft); color: var(--ink);
   font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
   line-height: 1.55; font-size: 15px;
+  -webkit-font-smoothing: antialiased;
 }
 .as { font-family: "Noto Sans Bengali", "Noto Serif Bengali", sans-serif; }
 a { color: inherit; }
 .wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
 
 /* ---------- header ---------- */
-.hdr { background: var(--bg); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
-.hdr-in { display: flex; align-items: center; gap: 14px; height: 60px; }
+.hdr {
+  background: var(--bg);
+  border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 30;
+}
+.hdr-in { display: flex; align-items: center; gap: 12px; height: 62px; }
 .brand { display: flex; align-items: center; gap: 9px; text-decoration: none; font-weight: 800; letter-spacing: -.3px; }
 .brand-mark {
-  width: 30px; height: 30px; border-radius: 9px; background: var(--brand); color: #fff;
-  display: grid; place-items: center; font-size: 16px; font-weight: 800; flex: 0 0 auto;
+  width: 32px; height: 32px; border-radius: 10px; flex: 0 0 auto;
+  background: linear-gradient(135deg, #4f46e5, #818cf8); color: #fff;
+  display: grid; place-items: center; font-size: 16px; font-weight: 800;
+  box-shadow: 0 8px 18px -10px rgba(79,70,229,.85);
 }
-.brand-txt { font-size: 16px; color: var(--ink); }
+.brand-txt { font-size: 15.5px; color: var(--ink); }
 .hdr-tag {
-  font-size: 11px; font-weight: 700; letter-spacing: .8px; text-transform: uppercase;
+  font-size: 10.5px; font-weight: 800; letter-spacing: .9px; text-transform: uppercase;
   color: var(--brand); background: var(--brand-soft); border: 1px solid var(--brand-line);
-  padding: 3px 8px; border-radius: 999px;
+  padding: 4px 9px; border-radius: 999px; white-space: nowrap;
 }
 .hdr-sp { flex: 1; }
-.hdr a.back { font-size: 13.5px; font-weight: 600; color: var(--ink-soft); text-decoration: none; padding: 7px 12px; border-radius: 9px; border: 1px solid var(--line); }
-.hdr a.back:hover { border-color: var(--brand-line); color: var(--brand); }
+.hdr-nav { display: flex; align-items: center; gap: 4px; }
+.hdr-nav a {
+  font-size: 13px; font-weight: 600; color: var(--ink-soft); text-decoration: none;
+  padding: 7px 11px; border-radius: 9px; white-space: nowrap;
+}
+.hdr-nav a:hover { color: var(--brand); background: var(--brand-soft); }
 .tgl {
   width: 36px; height: 36px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg);
   color: var(--ink-soft); cursor: pointer; display: grid; place-items: center; flex: 0 0 auto;
@@ -201,152 +217,266 @@ a { color: inherit; }
 [data-theme="dark"] .i-sun { display: none; }
 
 /* ---------- hero ---------- */
-.hero { padding: 34px 0 22px; }
-.hero h1 { margin: 0 0 8px; font-size: clamp(24px, 4vw, 33px); letter-spacing: -.8px; line-height: 1.2; }
-.hero p { margin: 0; color: var(--ink-soft); max-width: 64ch; font-size: 15px; }
-.hero-stats { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
-.stat {
-  background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
-  padding: 9px 14px; font-size: 13px; color: var(--muted); box-shadow: var(--shadow);
+.hero {
+  position: relative; overflow: hidden; margin-top: 22px;
+  background: linear-gradient(135deg, #312e81 0%, #4f46e5 52%, #6366f1 100%);
+  border-radius: 20px; padding: 30px 30px 26px; color: #fff;
+  box-shadow: var(--shadow-lg);
 }
-.stat b { display: block; font-size: 18px; color: var(--ink); letter-spacing: -.4px; line-height: 1.25; }
+.hero::after {
+  content: ""; position: absolute; width: 380px; height: 380px; border-radius: 50%;
+  right: -130px; top: -180px; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.22), transparent 70%);
+}
+.hero::before {
+  content: ""; position: absolute; width: 260px; height: 260px; border-radius: 50%;
+  left: -110px; bottom: -170px; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.1), transparent 70%);
+}
+.hero-top { position: relative; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 13px; }
+.hero-tag {
+  font-size: 10.5px; font-weight: 800; letter-spacing: .95px; text-transform: uppercase;
+  background: rgba(255,255,255,.18); border: 1px solid rgba(255,255,255,.32);
+  padding: 4px 11px; border-radius: 999px;
+}
+.hero-free {
+  font-size: 11.5px; font-weight: 700; color: #d1fae5;
+  display: inline-flex; align-items: center; gap: 5px; margin-left: auto;
+}
+.hero-free svg { width: 13px; height: 13px; }
+.hero h1 {
+  position: relative; margin: 0 0 9px; font-size: clamp(24px, 3.6vw, 34px);
+  letter-spacing: -.9px; line-height: 1.16; font-weight: 800;
+}
+.hero p {
+  position: relative; margin: 0; max-width: 62ch;
+  font-size: 14.5px; color: rgba(255,255,255,.85); line-height: 1.6;
+}
+.hero p b { color: #fff; font-weight: 700; }
+.metagrid { position: relative; display: grid; grid-template-columns: repeat(4, 1fr); gap: 9px; margin-top: 22px; }
+.meta {
+  background: rgba(255,255,255,.13); border: 1px solid rgba(255,255,255,.2);
+  border-radius: 12px; padding: 11px 13px;
+}
+.meta b {
+  display: block; font-size: 22px; font-weight: 800; letter-spacing: -.7px;
+  line-height: 1.15; font-variant-numeric: tabular-nums;
+}
+.meta span { font-size: 10px; font-weight: 600; letter-spacing: .65px; text-transform: uppercase; color: rgba(255,255,255,.76); }
+
+/* ---------- mock test banner ---------- */
+.mt-banner {
+  display: flex; align-items: center; gap: 15px; text-decoration: none;
+  background: var(--bg); border: 1px solid var(--line); border-left: 4px solid var(--brand);
+  color: var(--ink); border-radius: 14px; padding: 16px 18px; margin: 14px 0 12px;
+  box-shadow: var(--shadow);
+}
+.mt-banner:hover { box-shadow: var(--shadow-lg); border-color: var(--brand-line); }
+.mt-banner-ic {
+  flex: 0 0 42px; height: 42px; border-radius: 12px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand);
+}
+.mt-banner-ic svg { width: 21px; height: 21px; }
+.mt-banner-tx { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.mt-banner-nm { font-weight: 800; font-size: 15px; letter-spacing: -.25px; }
+.mt-banner-sub { font-size: 12.5px; color: var(--muted); }
+.mt-banner-sub b { color: var(--ink-soft); font-weight: 700; }
+.mt-banner-go {
+  font-size: 12.5px; font-weight: 800; white-space: nowrap;
+  background: var(--brand); color: #fff; padding: 10px 16px; border-radius: 10px;
+  display: inline-flex; align-items: center; gap: 6px;
+}
+[data-theme="dark"] .mt-banner-go { color: #1e1b4b; }
+
+/* ---------- steps ---------- */
+.steps-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 22px; }
+.step-item {
+  display: flex; gap: 11px; align-items: flex-start;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 13px;
+  padding: 13px 15px; box-shadow: var(--shadow);
+}
+.step-num {
+  flex: 0 0 24px; height: 24px; border-radius: 8px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand); border: 1px solid var(--brand-line);
+  font-size: 11.5px; font-weight: 800; font-variant-numeric: tabular-nums;
+}
+.step-tx { min-width: 0; }
+.step-tx b { display: block; font-size: 13.5px; font-weight: 700; letter-spacing: -.1px; }
+.step-tx span { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; line-height: 1.45; }
 
 /* ---------- toolbar ---------- */
-.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 6px 0 16px; }
-.search { position: relative; flex: 1 1 260px; min-width: 200px; }
-.search svg { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; color: var(--muted); }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 0 0 12px; scroll-margin-top: 80px; }
+.search { position: relative; flex: 1 1 280px; min-width: 200px; }
+.search svg {
+  position: absolute; left: 13px; top: 50%; transform: translateY(-50%);
+  width: 16px; height: 16px; color: var(--muted); pointer-events: none;
+}
 .search input {
-  width: 100%; padding: 11px 12px 11px 36px; border-radius: 11px; border: 1px solid var(--line);
+  width: 100%; padding: 12px 13px 12px 38px; border-radius: 11px; border: 1px solid var(--line);
   background: var(--bg); color: var(--ink); font: inherit; font-size: 14px;
 }
-.search input:focus { outline: 2px solid var(--brand-line); outline-offset: 1px; border-color: var(--brand); }
-.tabs { display: flex; gap: 6px; background: var(--bg); border: 1px solid var(--line); border-radius: 11px; padding: 4px; }
+.search input::placeholder { color: var(--muted); }
+.search input:focus { outline: none; border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
+.tabs { display: flex; gap: 5px; background: var(--bg); border: 1px solid var(--line); border-radius: 11px; padding: 4px; }
 .tabs button {
-  border: 0; background: transparent; font: inherit; font-size: 13.5px; font-weight: 600;
-  color: var(--muted); padding: 7px 14px; border-radius: 8px; cursor: pointer; white-space: nowrap;
+  border: 0; background: transparent; font: inherit; font-size: 13.5px; font-weight: 700;
+  color: var(--muted); padding: 8px 15px; border-radius: 8px; cursor: pointer; white-space: nowrap;
 }
+.tabs button:hover { color: var(--brand); }
 .tabs button[aria-pressed="true"] { background: var(--brand); color: #fff; }
+[data-theme="dark"] .tabs button[aria-pressed="true"] { color: #1e1b4b; }
 
 /* ---------- crumbs ---------- */
-.crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 13.5px; color: var(--muted); margin: 0 0 14px; }
+.crumbs {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 4px;
+  font-size: 13px; color: var(--muted); margin: 0 0 14px;
+}
 .crumbs button {
-  border: 0; background: transparent; font: inherit; color: var(--brand); font-weight: 600;
-  cursor: pointer; padding: 2px 4px; border-radius: 6px;
+  border: 0; background: transparent; font: inherit; font-size: 13px; color: var(--brand); font-weight: 700;
+  cursor: pointer; padding: 6px 9px; border-radius: 7px; min-height: 30px;
+  display: inline-flex; align-items: center;
 }
 .crumbs button:hover { background: var(--brand-soft); }
-.crumbs .sep { color: var(--line); }
-.crumbs .cur { color: var(--ink); font-weight: 700; }
+.crumbs .sep { color: var(--line); font-weight: 400; }
+.crumbs .cur { color: var(--ink); font-weight: 700; padding: 6px 2px; min-height: 30px; display: inline-flex; align-items: center; }
 
 /* ---------- grid ---------- */
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); gap: 12px; margin-bottom: 30px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(262px, 1fr)); gap: 11px; margin-bottom: 30px; }
 .card {
   display: flex; gap: 12px; align-items: flex-start; text-align: left; width: 100%;
   background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 14px;
   font: inherit; color: inherit; cursor: pointer; box-shadow: var(--shadow);
-  transition: border-color .15s, transform .15s;
 }
-.card:hover { border-color: var(--brand); transform: translateY(-1px); }
+.card:hover { border-color: var(--brand); box-shadow: var(--shadow-lg); }
 .card:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
-.card .ic { flex: 0 0 36px; height: 36px; border-radius: 10px; display: grid; place-items: center; background: var(--brand-soft); color: var(--brand); }
+.card .ic {
+  flex: 0 0 38px; height: 38px; border-radius: 11px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand);
+}
 .card .ic svg { width: 19px; height: 19px; }
-.card .nm { font-weight: 700; font-size: 14.5px; line-height: 1.35; letter-spacing: -.1px; }
-.card .sub { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
-.card .sub b { color: var(--ink-soft); font-weight: 700; }
+.card .nm { display: block; font-weight: 700; font-size: 14px; line-height: 1.35; letter-spacing: -.15px; }
+.card .sub { display: block; font-size: 12px; color: var(--muted); margin-top: 4px; }
+.card .sub b { color: var(--ink-soft); font-weight: 800; font-variant-numeric: tabular-nums; }
+.card .dl {
+  font-size: 11px; font-weight: 800; letter-spacing: .55px; text-transform: uppercase;
+  color: var(--brand); margin-top: 8px; display: inline-flex; align-items: center; gap: 4px;
+}
+.card .dl svg { width: 12px; height: 12px; }
 .card.file .ic { background: #fee2e2; color: #dc2626; }
 [data-theme="dark"] .card.file .ic { background: #3f1d1d; color: #f87171; }
-.card .dl { font-size: 11.5px; font-weight: 800; letter-spacing: .5px; text-transform: uppercase; color: var(--brand); margin-top: 7px; display: inline-flex; align-items: center; gap: 4px; }
-.card .dl svg { width: 13px; height: 13px; }
+
+/* ---------- about ---------- */
+.about {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 16px;
+  padding: 4px 22px 8px; margin-bottom: 34px; box-shadow: var(--shadow); scroll-margin-top: 80px;
+}
+.about > h2 { margin: 20px 0 4px; font-size: 17px; letter-spacing: -.3px; }
+.about > p.lead { margin: 0 0 6px; font-size: 13.5px; color: var(--muted); }
+.about details { border-top: 1px solid var(--line-soft); }
+.about summary {
+  cursor: pointer; list-style: none; padding: 15px 0;
+  font-size: 14px; font-weight: 700; letter-spacing: -.15px;
+  display: flex; align-items: center; gap: 9px;
+}
+.about summary::-webkit-details-marker { display: none; }
+.about summary::after {
+  content: ""; margin-left: auto; width: 7px; height: 7px; flex: 0 0 auto;
+  border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg); margin-top: -3px;
+}
+.about details[open] summary::after { transform: rotate(-135deg); margin-top: 3px; }
+.about summary:hover { color: var(--brand); }
+.about .body { padding: 0 0 16px; }
+.about p { margin: 0 0 9px; color: var(--ink-soft); font-size: 13.5px; line-height: 1.62; }
+.about p:last-child { margin-bottom: 0; }
+.about ul { margin: 0 0 9px; padding-left: 19px; color: var(--ink-soft); font-size: 13.5px; line-height: 1.62; }
+.about li { margin-bottom: 5px; }
+.about li::marker { color: var(--brand-line); }
+.about strong { color: var(--ink); font-weight: 700; }
+.about code {
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 5px;
+  padding: 1px 5px; font-size: 12.5px;
+}
 
 /* ---------- language chooser ---------- */
 .dlg {
   position: fixed; inset: 0; z-index: 60; display: grid; place-items: center; padding: 20px;
-  background: rgba(15, 23, 42, .55); backdrop-filter: blur(2px);
+  background: rgba(15, 23, 42, .62);
 }
 .dlg[hidden] { display: none; }
 .dlg-card {
   width: 100%; max-width: 430px; background: var(--bg); color: var(--ink);
-  border: 1px solid var(--line); border-radius: 18px; padding: 22px;
-  box-shadow: 0 24px 60px rgba(15, 23, 42, .28);
+  border: 1px solid var(--line); border-radius: 20px; padding: 24px;
+  box-shadow: 0 40px 90px -24px rgba(15,23,42,.6);
 }
-.dlg-card h2 { margin: 0; font-size: 17px; letter-spacing: -.2px; line-height: 1.35; }
-.dlg-card .dlg-sub { margin: 5px 0 18px; font-size: 13px; color: var(--muted); }
-.dlg-opts { display: grid; gap: 10px; }
+.dlg-card h2 { margin: 0; font-size: 17.5px; letter-spacing: -.35px; line-height: 1.3; }
+.dlg-card .dlg-sub { margin: 5px 0 18px; font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.dlg-opts { display: grid; gap: 9px; }
 .dlg-opt {
   display: flex; align-items: center; gap: 13px; width: 100%; text-align: left;
   font: inherit; color: inherit; cursor: pointer;
-  background: var(--bg); border: 1.5px solid var(--line); border-radius: 13px; padding: 13px 15px;
-  transition: border-color .15s, background .15s;
+  background: var(--bg-soft); border: 1.5px solid var(--line); border-radius: 13px; padding: 13px 15px;
 }
-.dlg-opt:hover, .dlg-opt:focus-visible { border-color: var(--brand); background: var(--brand-soft); outline: none; }
+.dlg-opt:hover, .dlg-opt:focus-visible {
+  border-color: var(--brand); background: var(--brand-soft); outline: none;
+}
 .dlg-opt .flag {
   flex: 0 0 40px; height: 40px; border-radius: 11px; display: grid; place-items: center;
-  background: var(--brand-soft); color: var(--brand); font-weight: 800; font-size: 13px;
+  background: var(--bg); color: var(--brand); border: 1px solid var(--brand-line);
+  font-weight: 800; font-size: 12.5px; letter-spacing: .3px;
 }
 .dlg-opt.as .flag { font-family: "Noto Sans Bengali", sans-serif; font-size: 15px; }
 .dlg-opt .nm { display: block; font-weight: 800; font-size: 14.5px; }
-.dlg-opt .meta { display: block; font-size: 12.5px; color: var(--muted); margin-top: 2px; }
+.dlg-opt .meta { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; font-variant-numeric: tabular-nums; }
 .dlg-close {
-  margin-top: 14px; width: 100%; background: none; border: 0; font: inherit; font-size: 13px;
-  color: var(--muted); cursor: pointer; padding: 8px; border-radius: 9px;
+  margin-top: 12px; width: 100%; background: none; border: 0; font: inherit; font-size: 13px;
+  font-weight: 600; color: var(--muted); cursor: pointer; padding: 10px; border-radius: 10px;
 }
-.dlg-close:hover { color: var(--ink); background: var(--brand-soft); }
-@media (prefers-reduced-motion: reduce) { .dlg { backdrop-filter: none; } }
+.dlg-close:hover { color: var(--ink); background: var(--bg-soft); }
 
-/* ---------- mock test banner ---------- */
-.mt-banner {
-  display: flex; align-items: center; gap: 14px; text-decoration: none;
-  background: linear-gradient(135deg, #4f46e5, #6366f1 55%, #818cf8);
-  color: #fff; border-radius: 16px; padding: 16px 18px; margin-bottom: 18px;
-  box-shadow: 0 12px 32px -14px rgba(79, 70, 229, .7);
-  transition: transform .15s, box-shadow .15s;
-}
-.mt-banner:hover { transform: translateY(-1px); box-shadow: 0 16px 38px -14px rgba(79, 70, 229, .8); }
-.mt-banner-ic {
-  flex: 0 0 40px; height: 40px; border-radius: 12px; display: grid; place-items: center;
-  background: rgba(255,255,255,.18); color: #fff;
-}
-.mt-banner-ic svg { width: 21px; height: 21px; }
-.mt-banner-tx { flex: 1; min-width: 0; display: flex; flex-direction: column; }
-.mt-banner-nm { font-weight: 800; font-size: 15.5px; letter-spacing: -.2px; }
-.mt-banner-sub { font-size: 12.5px; color: rgba(255,255,255,.88); margin-top: 2px; }
-.mt-banner-sub b { color: #fff; }
-.mt-banner-go {
-  font-size: 12.5px; font-weight: 800; letter-spacing: .3px; white-space: nowrap;
-  background: rgba(255,255,255,.2); border: 1px solid rgba(255,255,255,.35);
-  padding: 9px 15px; border-radius: 10px;
-}
-@media (max-width: 620px) {
-  .mt-banner { flex-wrap: wrap; }
-  .mt-banner-go { width: 100%; text-align: center; }
-}
-
-/* ---------- prose / footer ---------- */
-.prose { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 22px; margin-bottom: 34px; }
-.prose h2 { margin: 0 0 10px; font-size: 18px; letter-spacing: -.3px; }
-.prose h3 { margin: 20px 0 8px; font-size: 15px; letter-spacing: -.1px; }
-.prose p { margin: 0 0 10px; color: var(--ink-soft); font-size: 14px; }
-.prose ul { margin: 0 0 10px; padding-left: 20px; color: var(--ink-soft); font-size: 14px; }
-.prose li { margin-bottom: 5px; }
-.prose code { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px; font-size: 12.5px; }
-
-.ftr { border-top: 1px solid var(--line); background: var(--bg); padding: 22px 0; }
-.ftr-in { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; font-size: 13px; color: var(--muted); }
+/* ---------- footer ---------- */
+.ftr { border-top: 1px solid var(--line); background: var(--bg); padding: 24px 0; }
+.ftr-in { display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; font-size: 13px; color: var(--muted); }
 .ftr a { color: var(--brand); text-decoration: none; font-weight: 600; }
+.ftr a:hover { text-decoration: underline; }
+.ftr-build { font-size: 11px; opacity: .7; font-variant-numeric: tabular-nums; }
 
-.empty { text-align: center; padding: 50px 20px; color: var(--muted); }
-.empty b { display: block; color: var(--ink); margin-bottom: 4px; font-size: 15px; }
+.empty { text-align: center; padding: 54px 20px; color: var(--muted); }
+.empty b { display: block; color: var(--ink); margin-bottom: 5px; font-size: 15px; }
 
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 860px) {
+  .steps-strip { grid-template-columns: 1fr; }
+}
 @media (max-width: 620px) {
-  .hero { padding: 24px 0 16px; }
-  .hdr-tag, .hdr a.back { display: none; }
+  .hero { padding: 22px 20px 20px; border-radius: 16px; }
+  .metagrid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .meta b { font-size: 19px; }
+  .hdr-tag { display: none; }
+  .hdr-nav a { padding: 7px 8px; font-size: 12.5px; }
+  .hdr-in { height: 58px; gap: 8px; }
   .grid { grid-template-columns: 1fr; }
+  .mt-banner { flex-wrap: wrap; }
+  .mt-banner-go { width: 100%; justify-content: center; }
+  .about { padding: 4px 16px 6px; }
+  .hero-free { margin-left: 0; width: 100%; }
+}
+@media (max-width: 400px) {
+  .hdr-nav { display: none; }
 }
 `;
+
+const BUILD = (() => {
+  const d = new Date();
+  const p = (n) => String(n).padStart(2, "0");
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+})();
 
 const ICON_FOLDER = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13c0 1.1.9 2 2 2Z"/></svg>`;
 const ICON_FILE = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>`;
 const ICON_DL = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>`;
+const ICON_CHECK = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>`;
 const ICON_SEARCH = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>`;
 const ICON_PAPER = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8"/><path d="M8 17h5"/></svg>`;
 const ICON_SUN = `<svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
@@ -714,7 +844,11 @@ function page(tree, manifest) {
       </a>
       <span class="hdr-tag">Institution Library</span>
       <span class="hdr-sp"></span>
-      <a class="back" href="${SITE}/downloads/">All downloads</a>
+      <nav class="hdr-nav" aria-label="Library sections">
+        <a href="#browse">Browse</a>
+        <a href="/institution/mock-test/">Mock tests</a>
+        <a href="#about">How it works</a>
+      </nav>
       <button class="tgl" id="axo-theme" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
         ${ICON_SUN}${ICON_MOON}
       </button>
@@ -723,32 +857,49 @@ function page(tree, manifest) {
 
   <main class="wrap">
     <section class="hero">
-      <h1>Institution Library</h1>
+      <div class="hero-top">
+        <span class="hero-tag">Institution library</span>
+        <span class="hero-free">${ICON_CHECK} Free · no login · no per-seat limit</span>
+      </div>
+      <h1>Every question bank, one PDF per topic</h1>
       <p>
-        Every axomexam question bank, one PDF per topic, arranged like folders on a computer.
-        Open a subject, pick a topic, choose English or Assamese, and download it. Each file is
-        in a single language with answers and explanations, and carries the axomexam.in
-        watermark on every page.
+        Browse the library like folders on a computer — exam book, then subject, then topic.
+        Pick <b>English</b> or <b>অসমীয়া</b> and download a single topic with its answers and
+        explanations, watermarked <b>axomexam.in</b> on every page.
       </p>
-      <div class="hero-stats">
-        <div class="stat"><b>${num(totalFiles)}</b> topic PDFs</div>
-        <div class="stat"><b>${num(totalQ)}</b> questions</div>
-        <div class="stat"><b>${num(totalPages)}</b> pages</div>
-        <div class="stat"><b>${tree.length}</b> exam books</div>
-        <div class="stat"><b>10</b> mock tests</div>
+      <div class="metagrid">
+        <div class="meta"><b>${num(totalFiles)}</b><span>Topic PDFs</span></div>
+        <div class="meta"><b>${num(totalQ)}</b><span>Questions</span></div>
+        <div class="meta"><b>${num(totalPages)}</b><span>Pages</span></div>
+        <div class="meta"><b>10</b><span>Mock tests</span></div>
       </div>
     </section>
 
     <a class="mt-banner" href="/institution/mock-test/">
       <span class="mt-banner-ic">${ICON_PAPER}</span>
       <span class="mt-banner-tx">
-        <span class="mt-banner-nm">Mock Tests — ADRE Grade III &amp; IV</span>
-        <span class="mt-banner-sub"><b>10</b> full-length papers · 5 sets per exam · live timer, instant score, bilingual</span>
+        <span class="mt-banner-nm">Mock tests — ADRE Grade III &amp; IV</span>
+        <span class="mt-banner-sub"><b>10</b> full-length papers · live timer · instant scorecard with PDF</span>
       </span>
       <span class="mt-banner-go">Start a test →</span>
     </a>
 
-    <div class="bar">
+    <div class="steps-strip">
+      <div class="step-item">
+        <span class="step-num">1</span>
+        <span class="step-tx"><b>Open a subject</b><span>Each exam book splits into subject folders.</span></span>
+      </div>
+      <div class="step-item">
+        <span class="step-num">2</span>
+        <span class="step-tx"><b>Pick a topic</b><span>One topic, one PDF — take only what you need.</span></span>
+      </div>
+      <div class="step-item">
+        <span class="step-num">3</span>
+        <span class="step-tx"><b>Choose a language</b><span>English or অসমীয়া, then download.</span></span>
+      </div>
+    </div>
+
+    <div class="bar" id="browse">
       <div class="search">
         ${ICON_SEARCH}
         <input id="axo-search" type="search" autocomplete="off" spellcheck="false"
@@ -761,61 +912,93 @@ function page(tree, manifest) {
     <p class="sr" id="axo-count" role="status" aria-live="polite"></p>
     <div class="grid" id="axo-grid"></div>
 
-    <section class="prose">
-      <h2>How this library is organised</h2>
-      <p>
-        The library mirrors the folder structure of the question bank: exam book, then subject,
-        then topic. Opening <em>ADRE Grade III</em> shows its six subject folders — General
-        Mathematics, General English, General Knowledge and Assam GK, History, Logical Reasoning
-        and Social Studies. Inside a folder, each topic is a single PDF you can download on its
-        own, so a teacher can hand out exactly one topic without printing the whole book.
-      </p>
+    <section class="about" id="about">
+      <h2>How this library works</h2>
+      <p class="lead">Everything you need to know before handing these papers to a class.</p>
 
-      <h3>What each PDF contains</h3>
-      <ul>
-        <li>Every question in that topic, in exam order, with four options.</li>
-        <li>The correct answer marked, plus the explanation — in whichever language you picked.</li>
-        <li>The axomexam.in watermark across the page, and the logo and site name in the top corner of every page.</li>
-        <li>A page number in the footer, so a printed set stays in order.</li>
-      </ul>
+      <details open>
+        <summary>How the folders are organised</summary>
+        <div class="body">
+          <p>
+            The library mirrors the folder structure of the question bank: exam book, then
+            subject, then topic. Opening <strong>ADRE Grade III</strong> shows its six subject
+            folders — General Mathematics, General English, General Knowledge and Assam GK,
+            History, Logical Reasoning and Social Studies. Inside a folder, each topic is a
+            single PDF you can download on its own, so a teacher can hand out exactly one topic
+            without printing the whole book.
+          </p>
+        </div>
+      </details>
 
-      <h3>Downloading for an institution</h3>
-      <p>
-        There is no login, no paywall and no per-seat limit. Open a folder, click a file, pick
-        English or অসমীয়া in the dialog, and that language's PDF downloads. Each topic is a
-        separate file, so you take only what you need. Files are print-ready on A4 and stay
-        readable in black and white.
-      </p>
+      <details>
+        <summary>What each PDF contains</summary>
+        <div class="body">
+          <ul>
+            <li>Every question in that topic, in exam order, with four options.</li>
+            <li>The correct answer marked, plus the explanation — in whichever language you picked.</li>
+            <li>The <strong>axomexam.in</strong> watermark across the page, with the logo and site name in the top corner of every page.</li>
+            <li>A page number in the footer, so a printed set stays in order.</li>
+          </ul>
+        </div>
+      </details>
 
-      <h3>Which books are available now</h3>
-      <p>
-        Two books are published in this library today: <strong>ADRE 3.0 Grade III</strong> and
-        <strong>ADRE 3.0 Grade IV</strong>. Other exams on the site are still being converted and
-        will appear here as separate books when their PDFs are ready. The question data itself is
-        always available on the practice pages, so nothing is hidden while a book is being built.
-      </p>
+      <details>
+        <summary>Downloading for an institution</summary>
+        <div class="body">
+          <p>
+            There is no login, no paywall and no per-seat limit. Open a folder, click a file,
+            pick English or অসমীয়া in the dialog, and that language's PDF downloads. Each topic
+            is a separate file, so you take only what you need. Files are print-ready on A4 and
+            stay readable in black and white.
+          </p>
+        </div>
+      </details>
 
-      <h3>Keeping a copy up to date</h3>
-      <p>
-        A PDF is a snapshot. When the question bank gains new questions, the matching topic PDF is
-        rebuilt and the download link serves the new file. If you archive these files for a class,
-        re-download the topics you use at the start of each term so your copy matches the site.
-      </p>
+      <details>
+        <summary>Which books are available now</summary>
+        <div class="body">
+          <p>
+            Two books are published today: <strong>ADRE 3.0 Grade III</strong> and
+            <strong>ADRE 3.0 Grade IV</strong>. Other exams on the site are still being converted
+            and will appear here as separate books when their PDFs are ready. The question data
+            itself is always available on the practice pages, so nothing is hidden while a book
+            is being built.
+          </p>
+        </div>
+      </details>
 
-      <h3>Mock tests</h3>
-      <p>
-        Alongside the PDFs there are <strong>10 full-length mock tests</strong> — 5 sets each for
-        ADRE Grade III and Grade IV. Every set mixes all the subjects of that paper and runs on a
-        live timer, so a batch can sit a paper exactly as it appears in the exam hall. Pick
-        Assamese or English before starting, use the question palette to move around, and submit
-        to get an instant score with the correct answer and an explanation for every question.
-        Negative marking of 0.25 applies, as in the real paper.
-      </p>
-      <p>
-        These tests run entirely in the browser, so a whole classroom can take the same paper at
-        the same time without any login. They are meant for your students only and are excluded
-        from search engines.
-      </p>
+      <details>
+        <summary>Keeping a copy up to date</summary>
+        <div class="body">
+          <p>
+            A PDF is a snapshot. When the question bank gains new questions, the matching topic
+            PDF is rebuilt and the download link serves the new file. If you archive these files
+            for a class, re-download the topics you use at the start of each term so your copy
+            matches the site.
+          </p>
+        </div>
+      </details>
+
+      <details>
+        <summary>About the mock tests</summary>
+        <div class="body">
+          <p>
+            Alongside the PDFs there are <strong>10 full-length mock tests</strong> — 5 sets each
+            for ADRE Grade III and Grade IV. Every set mixes all the subjects of that paper and
+            runs on a live timer, so a batch can sit a paper exactly as it appears in the exam
+            hall. Pick Assamese or English before starting, use the question palette to move
+            around, and submit to get an instant scorecard with the correct answer and an
+            explanation for every question. Negative marking of 0.25 applies, as in the real
+            paper.
+          </p>
+          <p>
+            These tests run entirely in the browser, so a whole classroom can take the same paper
+            at the same time without any login. The scorecard prints as a PDF under the
+            candidate's own name. They are meant for your students only and are excluded from
+            search engines.
+          </p>
+        </div>
+      </details>
     </section>
 
     <noscript>
@@ -830,7 +1013,8 @@ function page(tree, manifest) {
   <footer class="ftr">
     <div class="wrap ftr-in">
       <span>&copy; 2026 <strong>axomexam.in</strong> — free exam preparation, English &amp; Assamese</span>
-      <span><a href="${SITE}/downloads/">Downloads</a> &middot; <a href="${SITE}/contact/">Contact</a> &middot; <a href="${SITE}/privacy/">Privacy</a></span>
+      <span><a href="${SITE}/downloads/">Downloads</a> &middot; <a href="/institution/mock-test/">Mock tests</a> &middot; <a href="${SITE}/contact/">Contact</a> &middot; <a href="${SITE}/privacy/">Privacy</a></span>
+      <span class="ftr-build">build ${BUILD}</span>
     </div>
   </footer>
 
