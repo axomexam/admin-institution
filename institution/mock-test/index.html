@@ -219,7 +219,30 @@ a { color: inherit; }
 .bar-track { height: 5px; background: var(--line-soft); border-radius: 999px; overflow: hidden; flex: 1 1 100%; }
 .bar-fill { height: 100%; background: var(--brand); width: 0; transition: width .2s; }
 
-.qwrap { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 20px; box-shadow: var(--shadow); }
+/* The question panel keeps a constant height so the palette, the timer and
+ * the Next button never move while a student walks the paper. Long stems and
+ * figure questions scroll inside .qbody instead of pushing the page around. */
+.qwrap {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 16px;
+  padding: 20px; box-shadow: var(--shadow);
+  display: flex; flex-direction: column;
+  height: clamp(400px, calc(100vh - 320px), 520px);
+}
+.qbody {
+  flex: 1 1 auto; min-height: 0; overflow-y: auto; overscroll-behavior: contain;
+  scrollbar-width: thin; scrollbar-color: var(--line) transparent;
+  padding-right: 4px;
+}
+.qbody::-webkit-scrollbar { width: 8px; }
+.qbody::-webkit-scrollbar-track { background: transparent; }
+.qbody::-webkit-scrollbar-thumb { background: var(--line); border-radius: 999px; }
+.qbody::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+.qwrap.more::after {
+  content: ""; position: absolute; left: 1px; right: 1px; bottom: 62px; height: 26px;
+  pointer-events: none; border-radius: 0 0 15px 15px;
+  background: linear-gradient(to bottom, transparent, var(--bg));
+}
+.qwrap { position: relative; }
 .qhead { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
 .qno { font-size: 12px; font-weight: 800; letter-spacing: .6px; text-transform: uppercase; color: var(--brand); }
 .qflag { margin-left: auto; border: 1px solid var(--line); background: var(--bg); color: var(--muted); font: inherit; font-size: 12px; font-weight: 600; padding: 6px 11px; border-radius: 8px; cursor: pointer; }
@@ -232,6 +255,7 @@ a { color: inherit; }
 .opts.fig { grid-template-columns: repeat(4, 1fr); }
 @media (max-width: 640px) {
   .opts.fig { grid-template-columns: repeat(2, 1fr); }
+  .qwrap { height: clamp(420px, calc(100vh - 250px), 700px); padding: 16px; }
   /* keep the runner bar at two rows so the sticky header stays short */
   .paper-top { gap: 8px; padding: 10px 12px; top: 52px; }
   .timer { font-size: 17px; padding: 5px 10px 5px 29px; background-position: 8px center; }
