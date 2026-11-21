@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>UI check — axomexam</title>
+<style>
+  :root { --b:#4f46e5; --ok:#059669; --bad:#dc2626; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+         background:#f8fafc; color:#0f172a; padding:22px; line-height:1.55; }
+  .card { max-width:620px; margin:0 auto; background:#fff; border:1px solid #e2e8f0;
+          border-radius:16px; padding:22px; box-shadow:0 10px 30px -18px rgba(15,23,42,.3); }
+  h1 { margin:0 0 4px; font-size:20px; letter-spacing:-.4px; }
+  p.sub { margin:0 0 18px; font-size:13px; color:#64748b; }
+  .row { display:flex; gap:10px; align-items:flex-start; padding:11px 0; border-top:1px solid #f1f5f9; font-size:13.5px; }
+  .row:first-of-type { border-top:0; }
+  .badge { flex:0 0 22px; height:22px; border-radius:7px; display:grid; place-items:center;
+           font-size:12px; font-weight:800; color:#fff; }
+  .pass { background:var(--ok); } .fail { background:var(--bad); } .wait { background:#94a3b8; }
+  .lbl { flex:1 1 auto; } .val { color:#64748b; font-size:12px; font-variant-numeric:tabular-nums; }
+  button { width:100%; margin-top:18px; padding:13px; border:0; border-radius:12px;
+           background:var(--b); color:#fff; font:inherit; font-weight:700; font-size:15px; cursor:pointer; }
+  a.link { display:block; text-align:center; margin-top:12px; font-size:13px; color:var(--b); }
+  .verdict { margin-top:16px; padding:13px 15px; border-radius:12px; font-size:13.5px; display:none; }
+  .verdict.on { display:block; }
+  .v-ok { background:#ecfdf5; border:1px solid #a7f3d0; color:#065f46; }
+  .v-bad { background:#fef2f2; border:1px solid #fecaca; color:#991b1b; }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>UI check</h1>
+  <p class="sub">Is page se pata chalega ki aapko naya UI dikh raha hai ya purana cached copy.</p>
+
+  <div class="row"><span class="badge wait" id="b1">…</span><span class="lbl">Page load ho raha hai</span><span class="val" id="v1"></span></div>
+  <div class="row"><span class="badge wait" id="b2">…</span><span class="lbl">Gradient exam banner</span><span class="val" id="v2"></span></div>
+  <div class="row"><span class="badge wait" id="b3">…</span><span class="lbl">Candidate popup</span><span class="val" id="v3"></span></div>
+  <div class="row"><span class="badge wait" id="b4">…</span><span class="lbl">Purana inline form hata</span><span class="val" id="v4"></span></div>
+  <div class="row"><span class="badge wait" id="b5">…</span><span class="lbl">Build stamp</span><span class="val" id="v5"></span></div>
+
+  <div class="verdict" id="verdict"></div>
+
+  <button id="go">Naya UI kholo →</button>
+  <a class="link" href="https://institution.axomexam.in/institution/mock-test/">Saare 10 mock tests</a>
+</div>
+
+<script>
+var TARGET = "https://institution.axomexam.in/institution/mock-test/adre-grade-3/set-1.html?v=" + Date.now();
+
+function mark(n, ok, note) {
+  var b = document.getElementById("b" + n);
+  b.className = "badge " + (ok ? "pass" : "fail");
+  b.textContent = ok ? "✓" : "✕";
+  document.getElementById("v" + n).textContent = note || "";
+}
+
+fetch(TARGET, { cache: "no-store" })
+  .then(function (r) { return r.text(); })
+  .then(function (html) {
+    var doc = new DOMParser().parseFromString(html, "text/html");
+    var stamp = (html.match(/build 20[0-9-]+ [0-9:]+/) || [""])[0];
+
+    mark(1, true, "OK");
+    mark(2, !!doc.querySelector(".exam-banner"), doc.querySelector(".exam-banner") ? "mil gaya" : "nahi mila");
+    mark(3, !!doc.getElementById("cmodal"), doc.getElementById("cmodal") ? "mil gaya" : "nahi mila");
+    mark(4, !doc.querySelector(".cand"), doc.querySelector(".cand") ? "purana form abhi bhi hai" : "haan");
+    mark(5, !!stamp, stamp || "nahi mila");
+
+    var allOk = !!doc.querySelector(".exam-banner") && !!doc.getElementById("cmodal") && !doc.querySelector(".cand");
+    var v = document.getElementById("verdict");
+    v.className = "verdict on " + (allOk ? "v-ok" : "v-bad");
+    v.innerHTML = allOk
+      ? "<b>Server par naya UI hai.</b> Agar aapko browser mein purana dikh raha hai, to page cache se aa raha hai — neeche wale button se kholein, wo cache bypass karta hai."
+      : "<b>Server par hi purana UI hai.</b> Deploy abhi complete nahi hua — thodi der baad phir check karein.";
+
+    document.getElementById("go").onclick = function () { location.href = TARGET; };
+  })
+  .catch(function (e) {
+    mark(1, false, "fetch fail: " + e.message);
+    var v = document.getElementById("verdict");
+    v.className = "verdict on v-bad";
+    v.textContent = "Page fetch nahi ho paya. Internet check karein.";
+  });
+</script>
+</body>
+</html>
