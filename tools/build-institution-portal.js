@@ -28,6 +28,7 @@ const OUT_DIR = path.join(ROOT, "institution");
 const OUT = path.join(OUT_DIR, "index.html");
 
 const SITE = "https://axomexam.in";
+const SELF = "https://institution.axomexam.in";
 const BRAND = "axomexam.in";
 
 const esc = (s) =>
@@ -98,7 +99,7 @@ function jsonLd(tree) {
       "@type": "ListItem",
       position: pos++,
       name: exam.title.en,
-      url: `${SITE}/institution/#${exam.id}`,
+      url: `${SELF}/institution/#${exam.id}`,
     });
   }
   return JSON.stringify({
@@ -106,8 +107,8 @@ function jsonLd(tree) {
     "@graph": [
       {
         "@type": "CollectionPage",
-        "@id": `${SITE}/institution/#webpage`,
-        url: `${SITE}/institution/`,
+        "@id": `${SELF}/institution/#webpage`,
+        url: `${SELF}/institution/`,
         name: "Institution Library — Topic-wise PDFs | axomexam",
         inLanguage: ["en", "as"],
         isPartOf: { "@id": `${SITE}/#website` },
@@ -118,7 +119,7 @@ function jsonLd(tree) {
       },
       {
         "@type": "BreadcrumbList",
-        "@id": `${SITE}/institution/#breadcrumb`,
+        "@id": `${SELF}/institution/#breadcrumb`,
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: `${SITE}/` },
           { "@type": "ListItem", position: 2, name: "Institution Library" },
@@ -126,7 +127,7 @@ function jsonLd(tree) {
       },
       {
         "@type": "ItemList",
-        "@id": `${SITE}/institution/#itemlist`,
+        "@id": `${SELF}/institution/#itemlist`,
         name: "Institution Library",
         numberOfItems: items.length,
         itemListElement: items,
@@ -667,13 +668,13 @@ function page(tree, manifest) {
        competing with /downloads/ and the exam pages. -->
   <meta name="robots" content="noindex, follow" />
   <meta name="theme-color" content="#4f46e5" />
-  <link rel="canonical" href="${SITE}/institution/" />
+  <link rel="canonical" href="${SELF}/institution/" />
 
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="axomexam" />
   <meta property="og:title" content="${esc(title)}" />
   <meta property="og:description" content="${esc(desc)}" />
-  <meta property="og:url" content="${SITE}/institution/" />
+  <meta property="og:url" content="${SELF}/institution/" />
   <meta property="og:image" content="${SITE}/og-image.png" />
   <meta property="og:locale" content="en_IN" />
   <meta name="twitter:card" content="summary_large_image" />
