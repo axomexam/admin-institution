@@ -96,35 +96,145 @@ a { color: inherit; }
 [data-theme="dark"] .i-sun { display: none; }
 :root:not([data-theme="dark"]) .i-moon { display: none; }
 
-/* ---------- hero ---------- */
-.hero { padding: 30px 0 18px; }
-.hero h1 { margin: 0 0 8px; font-size: clamp(23px, 4vw, 31px); letter-spacing: -.8px; line-height: 1.2; }
-.hero p { margin: 0; color: var(--ink-soft); max-width: 66ch; font-size: 15px; }
-.hero-stats { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
-.stat {
-  background: var(--bg); border: 1px solid var(--line); border-radius: 12px;
-  padding: 9px 14px; font-size: 13px; color: var(--muted); box-shadow: var(--shadow);
+/* ---------- hero (picker page) ---------- */
+.hero-p {
+  position: relative; overflow: hidden; margin-top: 22px;
+  background: linear-gradient(135deg, #312e81 0%, #4f46e5 52%, #6366f1 100%);
+  border-radius: 20px; padding: 30px 30px 26px; color: #fff;
+  box-shadow: 0 20px 44px -26px rgba(49,46,129,.5);
 }
-.stat b { display: block; font-size: 18px; color: var(--ink); letter-spacing: -.4px; line-height: 1.25; }
+.hero-p::after {
+  content: ""; position: absolute; width: 380px; height: 380px; border-radius: 50%;
+  right: -130px; top: -180px; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.22), transparent 70%);
+}
+.hero-p::before {
+  content: ""; position: absolute; width: 260px; height: 260px; border-radius: 50%;
+  left: -110px; bottom: -170px; pointer-events: none;
+  background: radial-gradient(circle, rgba(255,255,255,.1), transparent 70%);
+}
+.hero-p .hero-top { position: relative; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 13px; }
+.hero-p .hero-tag {
+  font-size: 10.5px; font-weight: 800; letter-spacing: .95px; text-transform: uppercase;
+  background: rgba(255,255,255,.18); border: 1px solid rgba(255,255,255,.32);
+  padding: 4px 11px; border-radius: 999px;
+}
+.hero-p .hero-free {
+  font-size: 11.5px; font-weight: 700; color: #d1fae5;
+  display: inline-flex; align-items: center; gap: 5px; margin-left: auto;
+}
+.hero-p .hero-free svg { width: 13px; height: 13px; }
+.hero-p h1 {
+  position: relative; margin: 0 0 9px; font-size: clamp(24px, 3.6vw, 34px);
+  letter-spacing: -.9px; line-height: 1.16; font-weight: 800;
+}
+.hero-p p {
+  position: relative; margin: 0; max-width: 62ch;
+  font-size: 14.5px; color: rgba(255,255,255,.85); line-height: 1.6;
+}
+.hero-p p b { color: #fff; font-weight: 700; }
+.hero-p .metagrid { position: relative; display: grid; grid-template-columns: repeat(4, 1fr); gap: 9px; margin-top: 22px; }
+.hero-p .meta {
+  background: rgba(255,255,255,.13); border: 1px solid rgba(255,255,255,.2);
+  border-radius: 12px; padding: 11px 13px;
+}
+.hero-p .meta b {
+  display: block; font-size: 22px; font-weight: 800; letter-spacing: -.7px;
+  line-height: 1.15; font-variant-numeric: tabular-nums;
+}
+.hero-p .meta span { font-size: 10px; font-weight: 600; letter-spacing: .65px; text-transform: uppercase; color: rgba(255,255,255,.76); }
 
-/* ---------- set picker ---------- */
-.exam-block { margin-bottom: 30px; }
-.exam-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin: 0 0 4px; }
-.exam-head h2 { margin: 0; font-size: 19px; letter-spacing: -.3px; }
-.exam-head .as { font-size: 14px; color: var(--muted); }
-.exam-sub { margin: 0 0 14px; font-size: 13.5px; color: var(--muted); }
-.sets { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+/* ---------- step strip ---------- */
+.steps-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 14px 0 26px; }
+.step-item {
+  display: flex; gap: 11px; align-items: flex-start;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 13px;
+  padding: 13px 15px; box-shadow: var(--shadow);
+}
+.step-num {
+  flex: 0 0 24px; height: 24px; border-radius: 8px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand); border: 1px solid var(--brand-line);
+  font-size: 11.5px; font-weight: 800; font-variant-numeric: tabular-nums;
+}
+.step-tx { min-width: 0; }
+.step-tx b { display: block; font-size: 13.5px; font-weight: 700; letter-spacing: -.1px; }
+.step-tx span { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; line-height: 1.45; }
+
+/* ---------- exam block ---------- */
+.exam-block {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 18px;
+  padding: 20px; margin-bottom: 16px; box-shadow: var(--shadow);
+}
+.exam-head { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 0 0 4px; }
+.exam-head h2 { margin: 0; font-size: 18px; letter-spacing: -.35px; font-weight: 800; }
+.exam-head .badge {
+  font-size: 10.5px; font-weight: 800; letter-spacing: .7px; text-transform: uppercase;
+  color: var(--brand); background: var(--brand-soft); border: 1px solid var(--brand-line);
+  padding: 3px 9px; border-radius: 999px;
+}
+.exam-head .as { font-size: 13.5px; color: var(--muted); margin-left: auto; }
+.exam-sub { margin: 0 0 15px; font-size: 13px; color: var(--muted); }
+.sets { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px; }
 .set {
   display: flex; gap: 12px; align-items: flex-start; text-decoration: none;
-  background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 14px;
-  box-shadow: var(--shadow); transition: border-color .15s, transform .15s;
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 13px; padding: 13px;
+  transition: border-color .15s, background .15s, box-shadow .15s;
 }
-.set:hover { border-color: var(--brand); transform: translateY(-1px); }
-.set .ic { flex: 0 0 36px; height: 36px; border-radius: 10px; display: grid; place-items: center; background: var(--brand-soft); color: var(--brand); }
-.set .ic svg { width: 19px; height: 19px; }
-.set .nm { font-weight: 700; font-size: 14.5px; line-height: 1.35; }
-.set .sub { font-size: 12.5px; color: var(--muted); margin-top: 3px; }
-.set .go { font-size: 11.5px; font-weight: 800; letter-spacing: .5px; text-transform: uppercase; color: var(--brand); margin-top: 7px; }
+.set:hover { border-color: var(--brand); background: var(--bg); box-shadow: var(--shadow); }
+.set:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+.set .ic {
+  flex: 0 0 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand);
+}
+.set .ic svg { width: 17px; height: 17px; }
+.set .nm { display: block; font-weight: 700; font-size: 14px; line-height: 1.3; letter-spacing: -.1px; }
+.set .sub { display: block; font-size: 11.5px; color: var(--muted); margin-top: 3px; font-variant-numeric: tabular-nums; }
+.set .sub b { color: var(--ink-soft); font-weight: 800; }
+.set .go {
+  display: inline-flex; align-items: center; gap: 4px; margin-top: 8px;
+  font-size: 11px; font-weight: 800; letter-spacing: .5px; text-transform: uppercase; color: var(--brand);
+}
+
+/* ---------- notes ---------- */
+.notes {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 16px;
+  padding: 4px 22px 8px; margin: 6px 0 34px; box-shadow: var(--shadow);
+}
+.notes > h2 { margin: 20px 0 4px; font-size: 17px; letter-spacing: -.3px; }
+.notes > p.lead { margin: 0 0 6px; font-size: 13.5px; color: var(--muted); }
+.notes details { border-top: 1px solid var(--line-soft); }
+.notes summary {
+  cursor: pointer; list-style: none; padding: 15px 0;
+  font-size: 14px; font-weight: 700; letter-spacing: -.15px;
+  display: flex; align-items: center; gap: 9px;
+}
+.notes summary::-webkit-details-marker { display: none; }
+.notes summary::after {
+  content: ""; margin-left: auto; width: 7px; height: 7px; flex: 0 0 auto;
+  border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+  transform: rotate(45deg); margin-top: -3px;
+}
+.notes details[open] summary::after { transform: rotate(-135deg); margin-top: 3px; }
+.notes summary:hover { color: var(--brand); }
+.notes .body { padding: 0 0 16px; }
+.notes p { margin: 0 0 9px; color: var(--ink-soft); font-size: 13.5px; line-height: 1.62; }
+.notes p:last-child { margin-bottom: 0; }
+.notes ul { margin: 0 0 9px; padding-left: 19px; color: var(--ink-soft); font-size: 13.5px; line-height: 1.62; }
+.notes li { margin-bottom: 5px; }
+.notes li::marker { color: var(--brand-line); }
+.notes strong { color: var(--ink); font-weight: 700; }
+
+@media (max-width: 860px) { .steps-strip { grid-template-columns: 1fr; } }
+@media (max-width: 620px) {
+  .hero-p { padding: 22px 20px 20px; border-radius: 16px; }
+  .hero-p .metagrid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .hero-p .meta b { font-size: 19px; }
+  .hero-p .hero-free { margin-left: 0; width: 100%; }
+  .exam-block { padding: 16px; border-radius: 16px; }
+  .exam-head .as { margin-left: 0; width: 100%; }
+  .sets { grid-template-columns: 1fr; }
+  .notes { padding: 4px 16px 6px; }
+}
 
 /* ---------- setup screen ---------- */
 .setup { background: var(--bg); border: 1px solid var(--line); border-radius: 16px; padding: 22px; box-shadow: var(--shadow); margin-bottom: 26px; }
@@ -804,26 +914,48 @@ table.sc tfoot td {
     </div>
   </header>
   <main class="wrap">
-    <section class="hero">
-      <h1>Mock Tests</h1>
+    <section class="hero-p">
+      <div class="hero-top">
+        <span class="hero-tag">Institution mock tests</span>
+        <span class="hero-free"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Free · no login · runs in the browser</span>
+      </div>
+      <h1>Full-length papers, timed like the real exam</h1>
       <p>
-        Full-length practice papers for ADRE Grade III and Grade IV. Each set mixes every
-        subject of the exam and runs on a live timer, so it works like the real paper.
-        Choose Assamese or English, submit, and get an instant score with the correct
-        answer and a short explanation for every question.
+        Every set mixes all the subjects of that paper and runs on a live timer. Pick
+        <b>English</b> or <b>অসমীয়া</b>, add your name, and submit to get an instant scorecard
+        with the correct answer and an explanation for every question — <b>−0.25</b> for each
+        wrong answer, as in the real paper.
       </p>
-      <div class="hero-stats">
-        <div class="stat"><b>10</b> mock tests</div>
-        <div class="stat"><b>2</b> exams</div>
-        <div class="stat"><b>2</b> languages</div>
+      <div class="metagrid">
+        <div class="meta"><b>10</b><span>Mock tests</span></div>
+        <div class="meta"><b>1,425</b><span>Questions</span></div>
+        <div class="meta"><b>2</b><span>Exam books</span></div>
+        <div class="meta"><b>2</b><span>Languages</span></div>
       </div>
     </section>
+
+    <div class="steps-strip">
+      <div class="step-item">
+        <span class="step-num">1</span>
+        <span class="step-tx"><b>Pick a set</b><span>Five full papers per exam book.</span></span>
+      </div>
+      <div class="step-item">
+        <span class="step-num">2</span>
+        <span class="step-tx"><b>Add your name</b><span>It prints on your scorecard.</span></span>
+      </div>
+      <div class="step-item">
+        <span class="step-num">3</span>
+        <span class="step-tx"><b>Sit the paper</b><span>Live timer, palette, instant score.</span></span>
+      </div>
+    </div>
+
     <section class="exam-block">
       <div class="exam-head">
         <h2>ADRE 3.0 Grade III</h2>
+        <span class="badge">5 sets</span>
         <span class="as" lang="as">এডিআৰই ৩.০ তৃতীয় শ্ৰেণী</span>
       </div>
-      <p class="exam-sub">Full paper · 150 questions · 180 minutes</p>
+      <p class="exam-sub">Full paper · 150 questions · 180 minutes · <b>150</b> marks · −0.25 per wrong answer</p>
       <div class="sets"><a class="set" href="/institution/mock-test/adre-grade-3/set-1.html">
         <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8"/><path d="M8 17h5"/></svg></span>
         <span>
@@ -863,9 +995,10 @@ table.sc tfoot td {
     </section><section class="exam-block">
       <div class="exam-head">
         <h2>ADRE 3.0 Grade IV</h2>
+        <span class="badge">5 sets</span>
         <span class="as" lang="as">এডিআৰই ৩.০ চতুৰ্থ শ্ৰেণী</span>
       </div>
-      <p class="exam-sub">Full paper · 135 questions · 150 minutes</p>
+      <p class="exam-sub">Full paper · 135 questions · 150 minutes · <b>135</b> marks · −0.25 per wrong answer</p>
       <div class="sets"><a class="set" href="/institution/mock-test/adre-grade-4/set-1.html">
         <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8"/><path d="M8 17h5"/></svg></span>
         <span>
@@ -903,12 +1036,93 @@ table.sc tfoot td {
         </span>
       </a></div>
     </section>
+
+    <section class="notes">
+      <h2>Before you hand this to a class</h2>
+      <p class="lead">How the papers behave, and what students get at the end.</p>
+
+      <details open>
+        <summary>How a paper runs</summary>
+        <div class="body">
+          <p>
+            A set is a full paper, not a quiz: <strong>150 questions in 180 minutes</strong> for
+            Grade III and <strong>135 questions in 150 minutes</strong> for Grade IV. The timer
+            starts when the student presses Start and keeps running if they switch tabs, so the
+            paper cannot be paused. The question palette on the side shows answered, marked and
+            unvisited questions, and any question can be revisited until the paper is submitted.
+          </p>
+        </div>
+      </details>
+
+      <details>
+        <summary>Marking and negative marking</summary>
+        <div class="body">
+          <p>
+            One mark per correct answer, <strong>−0.25 for each wrong answer</strong>, and nothing
+            for a question left blank. The scorecard breaks the total down by subject, so a
+            teacher can see which section pulled a student down rather than only the final
+            number.
+          </p>
+        </div>
+      </details>
+
+      <details>
+        <summary>What the scorecard contains</summary>
+        <div class="body">
+          <ul>
+            <li>The candidate's name, date of birth and roll number as entered before the paper.</li>
+            <li>Final score, percentage, accuracy on attempted questions and time taken.</li>
+            <li>A per-subject table: attempted, correct, wrong, skipped, marks.</li>
+            <li>Review of all answers, with the correct option and an explanation for each question.</li>
+          </ul>
+          <p>
+            The scorecard prints as a clean A4 PDF with the <strong>axomexam.in</strong>
+            watermark, so a batch's results can be filed or handed back on paper.
+          </p>
+        </div>
+      </details>
+
+      <details>
+        <summary>Two languages, one paper</summary>
+        <div class="body">
+          <p>
+            Each question is stored in both English and Assamese. Students choose their language
+            before starting and can switch mid-paper without losing answers, so a mixed-language
+            batch can sit the same set together.
+          </p>
+        </div>
+      </details>
+
+      <details>
+        <summary>Running a whole classroom</summary>
+        <div class="body">
+          <p>
+            Everything runs in the browser — there is no server, no login and no per-seat limit,
+            so thirty students can open the same set at the same time. Results stay on each
+            student's own device; nothing is uploaded anywhere. These pages are excluded from
+            search engines and are meant for your students only.
+          </p>
+        </div>
+      </details>
+
+      <details>
+        <summary>Topic-wise PDFs for revision</summary>
+        <div class="body">
+          <p>
+            Mock tests show where a student stands. For the revision that follows, the
+            <a href="/institution/">institution library</a> has every question bank split into
+            topic-wise PDFs — one file per topic, in English or Assamese, with answers and
+            explanations, so a teacher can hand out exactly the topic that needs work.
+          </p>
+        </div>
+      </details>
+    </section>
   </main>
   <footer class="ftr">
     <div class="wrap ftr-in">
       <span>© axomexam.in — practice papers for institution use.</span>
       <span><a href="/institution/">Topic-wise PDFs</a> · <a href="/institution/mock-test/">All mock tests</a></span>
-      <span class="ftr-build">build 2026-11-21 05:41</span>
+      <span class="ftr-build">build 2026-11-21 06:02</span>
     </div>
   </footer>
   <script>
