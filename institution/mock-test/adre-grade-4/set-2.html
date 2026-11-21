@@ -415,6 +415,199 @@ table.sc tfoot td {
   table.sc th, table.sc td { padding: 8px 9px; }
 }
 
+/* ---------- setup: exam banner ---------- */
+.exam-banner {
+  position: relative; overflow: hidden;
+  background: linear-gradient(135deg, #312e81 0%, #4f46e5 55%, #6366f1 100%);
+  border-radius: 18px; padding: 22px 24px 20px; color: #fff;
+  box-shadow: 0 18px 40px -22px rgba(49,46,129,.75);
+}
+.exam-banner::after {
+  content: ""; position: absolute; width: 320px; height: 320px; border-radius: 50%;
+  right: -110px; top: -150px; background: radial-gradient(circle, rgba(255,255,255,.22), transparent 70%);
+  pointer-events: none;
+}
+.eb-top { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+.eb-tag {
+  font-size: 10.5px; font-weight: 800; letter-spacing: .9px; text-transform: uppercase;
+  background: rgba(255,255,255,.18); border: 1px solid rgba(255,255,255,.3);
+  padding: 4px 10px; border-radius: 999px; backdrop-filter: blur(4px);
+}
+.eb-set {
+  font-size: 11.5px; font-weight: 700; letter-spacing: .4px;
+  color: rgba(255,255,255,.82); margin-left: auto;
+}
+.exam-banner h1 {
+  margin: 0 0 3px; font-size: clamp(20px, 3.2vw, 27px); letter-spacing: -.7px; line-height: 1.18;
+}
+.eb-sub { margin: 0; font-size: 13.5px; color: rgba(255,255,255,.78); }
+.metagrid {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-top: 18px;
+}
+.meta {
+  background: rgba(255,255,255,.13); border: 1px solid rgba(255,255,255,.2);
+  border-radius: 11px; padding: 9px 11px; backdrop-filter: blur(4px);
+}
+.meta b {
+  display: block; font-size: 19px; font-weight: 800; letter-spacing: -.5px;
+  font-variant-numeric: tabular-nums; line-height: 1.2;
+}
+.meta span { font-size: 10.5px; letter-spacing: .5px; text-transform: uppercase; color: rgba(255,255,255,.75); }
+@media (max-width: 560px) {
+  .metagrid { grid-template-columns: repeat(2, 1fr); }
+  .exam-banner { padding: 18px 18px 16px; }
+}
+
+/* ---------- setup: panels ---------- */
+.setup-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0 18px; }
+@media (max-width: 800px) { .setup-grid { grid-template-columns: 1fr; } }
+.panel {
+  background: var(--bg); border: 1px solid var(--line); border-radius: 16px;
+  padding: 18px; box-shadow: var(--shadow);
+}
+.panel-h {
+  margin: 0 0 12px; font-size: 11.5px; font-weight: 800; letter-spacing: .8px;
+  text-transform: uppercase; color: var(--muted);
+}
+.cand-card { display: flex; align-items: center; gap: 13px; }
+.cand-avatar {
+  width: 46px; height: 46px; border-radius: 14px; flex: 0 0 auto;
+  display: grid; place-items: center; font-weight: 800; font-size: 16px;
+  background: var(--bg-soft); color: var(--muted); border: 1px dashed var(--line);
+  letter-spacing: -.3px;
+}
+.cand-avatar.on {
+  background: linear-gradient(135deg, var(--brand), #818cf8); color: #fff;
+  border: 0; box-shadow: 0 8px 18px -10px rgba(79,70,229,.8);
+}
+.cand-body { min-width: 0; flex: 1 1 auto; }
+.cand-body b { display: block; font-size: 15px; letter-spacing: -.2px; word-break: break-word; }
+.cand-body span { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.cand-card.ready .cand-body b { color: var(--ink); }
+.lnk-btn {
+  flex: 0 0 auto; border: 1px solid var(--line); background: var(--bg); color: var(--brand);
+  font: inherit; font-size: 12.5px; font-weight: 700; padding: 7px 13px;
+  border-radius: 9px; cursor: pointer;
+}
+.lnk-btn:hover { border-color: var(--brand-line); background: var(--brand-soft); }
+.panel-note { margin: 12px 0 0; font-size: 11.5px; color: var(--muted); line-height: 1.5; }
+.steps { margin: 0; padding: 0; list-style: none; counter-reset: st; }
+.steps li {
+  position: relative; padding-left: 30px; margin-bottom: 9px;
+  font-size: 13px; color: var(--ink-soft); line-height: 1.5;
+}
+.steps li:last-child { margin-bottom: 0; }
+.steps li::before {
+  counter-increment: st; content: counter(st);
+  position: absolute; left: 0; top: 0;
+  width: 20px; height: 20px; border-radius: 7px; display: grid; place-items: center;
+  background: var(--brand-soft); color: var(--brand); border: 1px solid var(--brand-line);
+  font-size: 10.5px; font-weight: 800; font-variant-numeric: tabular-nums;
+}
+
+/* ---------- setup: sticky start bar ---------- */
+.start-bar {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  border-top: 1px solid var(--line); margin-top: 4px; padding-top: 18px;
+}
+.start-bar .agree { flex: 1 1 320px; margin: 0; }
+.start-bar .start-btn { flex: 0 0 auto; margin-left: auto; }
+@media (max-width: 620px) {
+  .start-bar { flex-direction: column; align-items: stretch; }
+  .start-bar .agree { flex: 1 1 auto; }
+  .start-bar .start-btn { margin-left: 0; justify-content: center; width: 100%; }
+}
+.start-btn.ready { animation: btnpulse 2.4s ease-in-out infinite; }
+@keyframes btnpulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(79,70,229,.4); }
+  50% { box-shadow: 0 0 0 7px rgba(79,70,229,0); }
+}
+@media (prefers-reduced-motion: reduce) { .start-btn.ready { animation: none; } }
+
+/* ---------- candidate details popup ---------- */
+.cmodal {
+  position: fixed; inset: 0; z-index: 95; display: grid; place-items: center; padding: 18px;
+  background: rgba(15,23,42,.66); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  opacity: 0; pointer-events: none; transition: opacity .18s ease;
+}
+.cmodal[hidden] { display: none; }
+.cmodal.on { opacity: 1; pointer-events: auto; }
+.cmodal-card {
+  width: 100%; max-width: 470px; background: var(--bg); color: var(--ink);
+  border: 1px solid var(--line); border-radius: 22px; overflow: hidden;
+  box-shadow: 0 40px 90px -24px rgba(15,23,42,.62), 0 0 0 1px rgba(255,255,255,.05);
+  max-height: calc(100vh - 36px); display: flex; flex-direction: column;
+  transform: translateY(16px) scale(.97); opacity: 0;
+  transition: transform .24s cubic-bezier(.2,.9,.3,1.1), opacity .2s ease;
+}
+.cmodal.on .cmodal-card { transform: translateY(0) scale(1); opacity: 1; }
+.cm-head {
+  display: flex; gap: 13px; align-items: flex-start; padding: 22px 24px 0;
+}
+.cm-mark {
+  width: 42px; height: 42px; border-radius: 13px; flex: 0 0 auto;
+  display: grid; place-items: center; font-size: 18px; font-weight: 800; color: #fff;
+  background: linear-gradient(135deg, #4f46e5, #818cf8);
+  box-shadow: 0 10px 22px -12px rgba(79,70,229,.9);
+}
+.cm-htx { min-width: 0; }
+.cm-htx h2 { margin: 0 0 3px; font-size: 18px; letter-spacing: -.4px; line-height: 1.25; }
+.cm-htx p { margin: 0; font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+.cm-body { padding: 18px 24px 4px; overflow-y: auto; }
+.cm-fld { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+.cm-fld > label { font-size: 12px; font-weight: 800; letter-spacing: .3px; color: var(--ink-soft); }
+.cm-fld > label span { font-weight: 500; color: var(--muted); letter-spacing: 0; }
+.cm-in { position: relative; display: flex; align-items: center; }
+.cm-in .cm-ic {
+  position: absolute; left: 12px; width: 17px; height: 17px; color: var(--muted);
+  pointer-events: none; display: grid; place-items: center;
+}
+.cm-in .cm-ic svg { width: 17px; height: 17px; }
+.cm-in input {
+  width: 100%; font: inherit; font-size: 14.5px; color: var(--ink); background: var(--bg-soft);
+  border: 1.5px solid var(--line); border-radius: 12px; padding: 12px 14px;
+  transition: border-color .15s ease, box-shadow .15s ease, background .15s ease;
+}
+.cm-in.has-ic input { padding-left: 39px; }
+.cm-in input:focus {
+  outline: none; border-color: var(--brand); background: var(--bg);
+  box-shadow: 0 0 0 4px var(--brand-soft);
+}
+.cm-in input[aria-invalid="true"] { border-color: var(--bad); }
+.cm-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 480px) { .cm-row { grid-template-columns: 1fr; } }
+.cm-note {
+  display: flex; gap: 8px; align-items: flex-start; margin: 2px 0 0;
+  font-size: 11.5px; color: var(--muted); line-height: 1.5;
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 11px; padding: 10px 12px;
+}
+.cm-note svg { width: 14px; height: 14px; flex: 0 0 auto; margin-top: 1px; color: var(--ok); }
+.cm-acts {
+  display: flex; gap: 10px; padding: 16px 24px 20px; border-top: 1px solid var(--line-soft);
+  background: var(--bg); margin-top: 14px;
+}
+.cm-acts button {
+  flex: 1; font: inherit; font-size: 14px; font-weight: 700; padding: 12px 18px;
+  border-radius: 12px; cursor: pointer; transition: filter .15s ease, background .15s ease;
+}
+.cm-cancel { border: 1px solid var(--line); background: var(--bg); color: var(--ink-soft); }
+.cm-cancel:hover { background: var(--bg-soft); }
+.cm-ok { border: 1px solid var(--brand); background: var(--brand); color: #fff; }
+[data-theme="dark"] .cm-ok { color: #1e1b4b; }
+[data-theme="dark"] .start-btn { color: #1e1b4b; }
+.cm-ok:hover:not(:disabled) { filter: brightness(1.08); }
+.cm-ok:disabled { opacity: .42; cursor: not-allowed; }
+@media (max-width: 480px) {
+  .cm-head { padding: 18px 18px 0; }
+  .cm-body { padding: 16px 18px 4px; }
+  .cm-acts { padding: 14px 18px 18px; flex-direction: column-reverse; }
+  .cmodal-card { border-radius: 18px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cmodal, .cmodal-card { transition: none; }
+  .cmodal-card { transform: none; }
+}
+
 /* ---------- print / save as PDF ---------- */
 @media print {
   @page { size: A4 portrait; margin: 12mm 10mm; }
@@ -577,58 +770,64 @@ table.sc tfoot td {
   </header>
   <main class="wrap">
     <div id="setup" class="setup" style="margin-top:22px">
-      <h1>ADRE 3.0 Grade IV — Full Paper Set 2</h1>
-      <p class="lead">135 questions · 150 minutes · 135 marks · 0.25 negative marking</p>
-
-      <div class="setup-row">
-        <div class="setup-lbl">Candidate details</div>
-        <div class="cand">
-          <div class="fld full">
-            <label for="cand-name">Full name</label>
-            <input id="cand-name" type="text" autocomplete="name" maxlength="60"
-                   placeholder="As you want it on the scorecard" aria-describedby="cand-name-err" />
-            <span class="err" id="cand-name-err">Please enter your name.</span>
-          </div>
-          <div class="fld">
-            <label for="cand-dob">Date of birth</label>
-            <input id="cand-dob" type="date" autocomplete="bday" aria-describedby="cand-dob-err" />
-            <span class="err" id="cand-dob-err">Please enter a valid date of birth.</span>
-          </div>
-          <div class="fld">
-            <label for="cand-roll">Roll number <span style="font-weight:400;color:var(--muted)">(optional)</span></label>
-            <input id="cand-roll" type="text" maxlength="24" placeholder="e.g. ADRE-2026-0142" />
-            <span class="hint">Printed on the scorecard if you fill it.</span>
-          </div>
+      <div class="exam-banner">
+        <div class="eb-top">
+          <span class="eb-tag">Institution mock test</span>
+          <span class="eb-set">Set 2 of 5</span>
+        </div>
+        <h1>ADRE 3.0 Grade IV</h1>
+        <p class="eb-sub">Full paper · 135 questions · 150 minutes</p>
+        <div class="metagrid">
+          <div class="meta"><b>135</b><span>Questions</span></div>
+          <div class="meta"><b>150</b><span>Minutes</span></div>
+          <div class="meta"><b>135</b><span>Max marks</span></div>
+          <div class="meta"><b>−0.25</b><span>Per wrong</span></div>
         </div>
       </div>
 
-      <div class="setup-row">
-        <div class="setup-lbl">Question language</div>
-        <div class="seg" id="langseg" role="group" aria-label="Question language">
-          <button type="button" data-lang="en" aria-pressed="true">English</button>
-          <button type="button" data-lang="as" aria-pressed="false">অসমীয়া</button>
-        </div>
+      <div class="setup-grid">
+        <section class="panel">
+          <h2 class="panel-h">Candidate</h2>
+          <div class="cand-card" id="candcard">
+            <div class="cand-avatar" id="candavatar">?</div>
+            <div class="cand-body">
+              <b id="candview">Details not added</b>
+              <span id="candviewsub">Needed for your scorecard</span>
+            </div>
+            <button class="lnk-btn" type="button" id="candbtn">Add details</button>
+          </div>
+          <p class="panel-note">
+            Your name, date of birth and roll number appear on the scorecard and on the
+            PDF you save. Nothing is uploaded — they stay in this browser.
+          </p>
+        </section>
+
+        <section class="panel">
+          <h2 class="panel-h">Question language</h2>
+          <div class="seg" id="langseg" role="group" aria-label="Question language">
+            <button type="button" data-lang="en" aria-pressed="true">English</button>
+            <button type="button" data-lang="as" aria-pressed="false">অসমীয়া</button>
+          </div>
+          <h2 class="panel-h" style="margin-top:18px">How it runs</h2>
+          <ol class="steps">
+            <li>The timer starts after a 3-second countdown and never pauses.</li>
+            <li>Each question is worth 1 mark; 0.25 is deducted for a wrong answer.</li>
+            <li>Use the question palette to jump around. Answers can be changed any time.</li>
+            <li>Submit whenever you are ready to see your scorecard.</li>
+          </ol>
+        </section>
       </div>
 
-      <div class="setup-row">
-        <div class="setup-lbl">Instructions</div>
-        <ul class="rules">
-          <li>The timer starts the moment you press Start and does not pause.</li>
-          <li>Each question carries 1 mark; 0.25 mark is deducted for a wrong answer.</li>
-          <li>Use the question palette to jump around. You can change any answer before submitting.</li>
-          <li>Submit at any time to see your score, the correct answers and explanations.</li>
-        </ul>
-      </div>
-
-      <div class="setup-row">
+      <div class="start-bar">
         <div class="agree" id="agreewrap">
           <input type="checkbox" id="agree" />
           <label class="agree-txt" for="agree">I have read and accept the terms &amp; conditions for this test.</label>
         </div>
-        <button class="lnk" type="button" id="termslink">Read the terms &amp; conditions</button>
+        <button class="start-btn" id="startbtn" type="button" disabled>Start test →</button>
       </div>
-
-      <button class="start-btn" id="startbtn" type="button" disabled>Start test →</button>
+      <p class="panel-note" style="margin-top:10px">
+        <button class="lnk" type="button" id="termslink">Read the terms &amp; conditions</button>
+      </p>
     </div>
 
     <div id="runner" class="runner">
@@ -690,6 +889,52 @@ table.sc tfoot td {
       <div class="modal-acts">
         <button class="pbtn" type="button" id="axo-modal-cancel">Cancel</button>
         <button class="pbtn primary" type="button" id="axo-modal-ok">Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="cmodal" id="cmodal" role="dialog" aria-modal="true" aria-labelledby="cmodal-title" hidden>
+    <div class="cmodal-card" role="document">
+      <div class="cm-head">
+        <div class="cm-mark">A</div>
+        <div class="cm-htx">
+          <h2 id="cmodal-title">Candidate details</h2>
+          <p>These print on your scorecard. Fill them before the paper starts.</p>
+        </div>
+      </div>
+      <form class="cm-body" id="cform" novalidate>
+        <div class="cm-fld">
+          <label for="cand-name">Full name</label>
+          <div class="cm-in has-ic">
+            <span class="cm-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></span>
+            <input id="cand-name" type="text" autocomplete="name" maxlength="60"
+                   placeholder="e.g. Ananya Das" aria-describedby="cand-name-err" />
+          </div>
+          <span class="err" id="cand-name-err">Enter your name — at least 2 characters.</span>
+        </div>
+        <div class="cm-row">
+          <div class="cm-fld">
+            <label for="cand-dob">Date of birth</label>
+            <div class="cm-in">
+              <input id="cand-dob" type="date" autocomplete="bday" aria-describedby="cand-dob-err" />
+            </div>
+            <span class="err" id="cand-dob-err">Enter a real past date.</span>
+          </div>
+          <div class="cm-fld">
+            <label for="cand-roll">Roll number <span>(optional)</span></label>
+            <div class="cm-in">
+              <input id="cand-roll" type="text" maxlength="24" placeholder="ADRE-2026-0142" />
+            </div>
+          </div>
+        </div>
+        <p class="cm-note">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          <span>Kept in this browser only. Nothing is sent to a server.</span>
+        </p>
+      </form>
+      <div class="cm-acts">
+        <button class="cm-cancel" type="button" id="cmodal-cancel">Cancel</button>
+        <button class="cm-ok" type="button" id="cmodal-ok" disabled>Save details</button>
       </div>
     </div>
   </div>
@@ -888,10 +1133,12 @@ table.sc tfoot td {
       })();
     }
 
-    /* Start stays locked until the candidate details are valid and the terms
-     * are accepted. Details live in memory only; nothing leaves the browser. */
+    /* Candidate details are collected in a popup and live in memory only;
+     * nothing leaves the browser. Start stays locked until they are valid and
+     * the terms are accepted. */
     var agreeBox = $("agree"), agreeWrap = $("agreewrap"), startBtn = $("startbtn");
     var candName = $("cand-name"), candDob = $("cand-dob"), candRoll = $("cand-roll");
+    var cmodal = $("cmodal"), cmodalOk = $("cmodal-ok"), candBtn = $("candbtn");
     var cand = { name: "", dob: "", roll: "" };
 
     function dobOk(v) {
@@ -902,33 +1149,100 @@ table.sc tfoot td {
       if (d > now) return false;
       return now.getFullYear() - d.getFullYear() >= 5;
     }
-
     function nameOk(v) { return v.trim().length >= 2; }
+
+    function dobText(v) {
+      var p = String(v || "").split("-");
+      return p.length === 3 ? p[2] + "-" + p[1] + "-" + p[0] : "";
+    }
+
+    /* Mirror the saved details into the setup card so the student can see
+     * what will be printed before committing to the paper. */
+    function paintCand() {
+      var ready = nameOk(cand.name) && dobOk(cand.dob);
+      var av = $("candavatar"), card = $("candcard");
+      av.textContent = ready ? cand.name.trim().charAt(0).toUpperCase() : "?";
+      av.classList.toggle("on", ready);
+      card.classList.toggle("ready", ready);
+      $("candview").textContent = ready ? cand.name : "Details not added";
+      var bits = [];
+      if (ready) {
+        bits.push("DOB " + dobText(cand.dob));
+        if (cand.roll) bits.push("Roll " + cand.roll);
+      } else {
+        bits.push("Needed for your scorecard");
+      }
+      $("candviewsub").textContent = bits.join(" · ");
+      candBtn.textContent = ready ? "Edit" : "Add details";
+    }
 
     function syncStart() {
       var okName = nameOk(candName.value);
       var okDob = dobOk(candDob.value);
       startBtn.disabled = !(okName && okDob && agreeBox.checked);
+      startBtn.classList.toggle("ready", okName && okDob && agreeBox.checked);
       agreeWrap.classList.toggle("on", agreeBox.checked);
       $("cand-name-err").classList.toggle("on", candName.value !== "" && !okName);
       $("cand-dob-err").classList.toggle("on", candDob.value !== "" && !okDob);
       candName.setAttribute("aria-invalid", String(candName.value !== "" && !okName));
       candDob.setAttribute("aria-invalid", String(candDob.value !== "" && !okDob));
-      cand = { name: candName.value.trim(), dob: candDob.value, roll: candRoll.value.trim() };
+      cmodalOk.disabled = !(okName && okDob);
     }
-    [candName, candDob, candRoll, agreeBox].forEach(function (el) {
+
+    var candReturn = null;
+    function openCand() {
+      candReturn = document.activeElement;
+      cmodal.hidden = false;
+      requestAnimationFrame(function () { cmodal.classList.add("on"); });
+      document.body.style.overflow = "hidden";
+      syncStart();
+      setTimeout(function () { candName.focus(); }, 120);
+    }
+    function closeCand(save) {
+      if (save) {
+        if (!nameOk(candName.value)) { candName.focus(); return; }
+        if (!dobOk(candDob.value)) { candDob.focus(); return; }
+        cand = { name: candName.value.trim(), dob: candDob.value, roll: candRoll.value.trim() };
+        paintCand();
+      }
+      cmodal.classList.remove("on");
+      document.body.style.overflow = "";
+      setTimeout(function () { cmodal.hidden = true; }, 180);
+      if (candReturn && candReturn.focus) candReturn.focus();
+    }
+
+    [candName, candDob, candRoll].forEach(function (el) {
       el.addEventListener("input", syncStart);
       el.addEventListener("change", syncStart);
     });
+    candName.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") { e.preventDefault(); if (!cmodalOk.disabled) closeCand(true); }
+    });
+    candDob.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") { e.preventDefault(); if (!cmodalOk.disabled) closeCand(true); }
+    });
+    agreeBox.addEventListener("change", syncStart);
+
+    candBtn.addEventListener("click", openCand);
+    cmodalOk.addEventListener("click", function () { closeCand(true); });
+    $("cmodal-cancel").addEventListener("click", function () { closeCand(false); });
+    cmodal.addEventListener("click", function (e) { if (e.target === cmodal) closeCand(false); });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !cmodal.hidden) closeCand(false);
+    });
+
+    paintCand();
     syncStart();
 
     startBtn.addEventListener("click", function () {
-      if (!nameOk(candName.value)) { candName.focus(); return; }
-      if (!dobOk(candDob.value)) { candDob.focus(); return; }
+      if (!nameOk(cand.name)) { openCand(); return; }
       if (!agreeBox.checked) { agreeBox.focus(); return; }
-      syncStart();
       start();
     });
+
+    /* A student who has not added details yet is shown the popup straight
+     * away, so the first thing they do is fill it in. */
+    setTimeout(function () { if (!cmodal.hidden) return; if (!nameOk(cand.name)) openCand(); }, 350);
 
     /* Centred confirmation dialog. Returns a Promise<boolean>. */
     var ICON_WARN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" ' +
