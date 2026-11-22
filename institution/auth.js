@@ -248,6 +248,8 @@ export async function guard() {
         const out = document.getElementById("axo-signout");
         const who = document.getElementById("axo-who");
         if (who) who.textContent = user.email || "";
+        const welUser = document.getElementById("wel-user");
+        if (welUser) welUser.textContent = user.email || "";
         if (out) {
           out.hidden = false;
           out.addEventListener("click", async () => {

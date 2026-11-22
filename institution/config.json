@@ -3,5 +3,11 @@
   "authDomain": "axomexam-institution-login.firebaseapp.com",
   "projectId": "axomexam-institution-login",
   "storageBucket": "axomexam-institution-login.firebasestorage.app",
-  "appId": "1:742511031483:web:7010a643024cc2541be59e"
+  "appId": "1:742511031483:web:7010a643024cc2541be59e",
+  "institution": {
+    "name": "Elate Classes",
+    "address": "Dhonai Bora Chowk, Sipajhar, Darrang, Assam – 784145",
+    "email": "elateclasses@gmail.com",
+    "phones": ["6003041297", "9706085849"]
+  }
 }
