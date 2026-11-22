@@ -19,12 +19,18 @@ const SDK = "https://www.gstatic.com/firebasejs/" + FIREBASE_VERSION;
    with security rules, not with a secret key. */
 const CONFIG_URL = "/institution/config.json";
 let configPromise = null;
+/* Distinguishes "the keys are missing" from "the network is down", so the gate
+   can tell a teacher which one to fix. */
+let configOffline = false;
 
 function config() {
   if (!configPromise) {
     configPromise = fetch(CONFIG_URL, { cache: "no-store" })
       .then((res) => (res.ok ? res.json() : null))
-      .catch(() => null)
+      .catch(() => {
+        configOffline = true;
+        return null;
+      })
       .then((raw) => {
         if (!raw) return null;
         const values = {};
@@ -46,6 +52,22 @@ const SESSION_KEY = "axomexam-session";
 
 const $ = (id) => document.getElementById(id);
 const isLoginPage = /\/login\.html$/.test(location.pathname);
+
+/* The pages ship a `data-gate="hold"` attribute on <html> that hides the body
+   and paints a spinner, so the library never flashes before the session check.
+   `reveal()` is the only way out for a signed-in visitor. */
+export function reveal() {
+  document.documentElement.removeAttribute("data-gate");
+}
+
+/* A signed-out or failed check must not reveal the library and must not spin
+   forever. This swaps the spinner for a message and leaves the body hidden. */
+function gateFail(text) {
+  const root = document.documentElement;
+  if (!root.hasAttribute("data-gate")) return;
+  root.setAttribute("data-gate", "error");
+  root.setAttribute("data-gate-msg", text);
+}
 
 let sdkPromise = null;
 
@@ -179,8 +201,22 @@ if (isLoginPage) wireLogin();
 /* ---------- guard on library and mock-test pages ---------- */
 
 export async function guard() {
-  if (!(await config())) return null;
-  const { auth, mod } = await firebase();
+  if (!(await config())) {
+    gateFail(
+      configOffline
+        ? "Could not reach the server. Check your connection and reload."
+        : "Sign-in is not set up yet."
+    );
+    return null;
+  }
+
+  let auth, mod;
+  try {
+    ({ auth, mod } = await firebase());
+  } catch (err) {
+    gateFail("Could not reach the sign-in service. Check your connection and reload.");
+    throw err;
+  }
 
   /* Local persistence keeps the teacher signed in across tabs, restarts and
      days off. The session only ends when they press Sign out, so nothing here
@@ -192,11 +228,20 @@ export async function guard() {
   return new Promise((resolve) => {
     let wired = false;
 
+    /* If the SDK loads but the auth backend never answers, the spinner would
+       spin forever. Give it a generous window, then say so. */
+    const stall = setTimeout(() => {
+      gateFail("Sign-in is taking too long. Check your connection and reload.");
+    }, 15000);
+
     mod.onAuthStateChanged(auth, (user) => {
+      clearTimeout(stall);
       if (!user) {
         location.replace(LOGIN_PATH + "?next=" + encodeURIComponent(location.pathname + location.search));
         return;
       }
+
+      reveal();
 
       if (!wired) {
         wired = true;
