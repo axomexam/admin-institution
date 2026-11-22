@@ -29,6 +29,28 @@ const ROOT = path.resolve(__dirname, "..");
 const SETS_DIR = path.join(ROOT, "data", "exam-mock-sets");
 const OUT_DIR = path.join(ROOT, "institution", "mock-test");
 const MANIFEST = path.join(ROOT, "data", "institution", "manifest.json");
+const CONFIG = path.join(ROOT, "institution", "config.json");
+
+/* Same partner institution as the library page, read from the one config file. */
+const INSTITUTION = (() => {
+  try {
+    const name = String(
+      (JSON.parse(fs.readFileSync(CONFIG, "utf8")).institution || {}).name || ""
+    ).trim();
+    return name || null;
+  } catch (err) {
+    return null;
+  }
+})();
+
+const initials = (name) =>
+  String(name || "")
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0])
+    .join("")
+    .toUpperCase();
 
 const SETS_PER_EXAM = 5;
 
@@ -234,6 +256,16 @@ a { color: inherit; }
   font-size: 10.5px; font-weight: 800; letter-spacing: .95px; text-transform: uppercase;
   background: rgba(255,255,255,.18); border: 1px solid rgba(255,255,255,.32);
   padding: 4px 11px; border-radius: 999px;
+}
+.hero-inst {
+  display: inline-flex; align-items: center; gap: 7px; margin-left: auto;
+  font-size: 12px; font-weight: 700; letter-spacing: -.1px;
+  background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.28);
+  padding: 3px 11px 3px 4px; border-radius: 999px;
+}
+.hero-inst-av {
+  width: 20px; height: 20px; border-radius: 50%; display: grid; place-items: center;
+  background: #fff; color: #4f46e5; font-size: 9px; font-weight: 800; letter-spacing: -.2px;
 }
 .hero-p h1 {
   position: relative; margin: 0 0 9px; font-size: clamp(24px, 3.6vw, 34px);
@@ -1019,6 +1051,34 @@ function head(title, extraStyle = "") {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Hides the paper until the session check finishes. Must stay in the first
+       bytes of <head>: the questions are inline in the HTML, so a later script
+       lets them paint before the guard runs and the page flashes. -->
+  <style>
+    /* The gate has to paint before <body> exists: the HTML carries the whole
+       library inline, so on a slow phone the body can arrive seconds later.
+       html::before/::after are used for exactly that reason. */
+    html[data-gate]{background:#fff}
+    html[data-gate]::before{content:"";position:fixed;inset:0;z-index:9998;background:#fff}
+    html[data-gate="hold"]::after{content:"";position:fixed;z-index:9999;top:50%;left:50%;
+      width:26px;height:26px;margin:-13px 0 0 -13px;border-radius:50%;
+      border:3px solid #4f46e5;border-right-color:transparent;
+      animation:axo-spin .7s linear infinite}
+    html[data-gate="error"]::after{content:attr(data-gate-msg);position:fixed;z-index:9999;
+      top:50%;left:50%;transform:translate(-50%,-50%);width:min(78vw,340px);
+      text-align:center;font:600 14px/1.55 Inter,system-ui,-apple-system,sans-serif;
+      color:#b91c1c;border:0;margin:0;animation:none}
+    html[data-gate] body{visibility:hidden}
+    @media (prefers-color-scheme:dark){
+      html[data-gate]{background:#0b1020}
+      html[data-gate]::before{background:#0b1020}
+      html[data-gate="error"]::after{color:#fca5a5}
+    }
+    @keyframes axo-spin{to{transform:rotate(360deg)}}
+    @media (prefers-reduced-motion:reduce){html[data-gate="hold"]::after{animation-duration:2s}}
+  </style>
+  <script>document.documentElement.setAttribute("data-gate","hold")</script>
+  <noscript><style>html[data-gate]::before,html[data-gate]::after{display:none}html[data-gate] body{visibility:visible}</style></noscript>
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
   <meta name="googlebot" content="noindex, nofollow" />
   <title>${esc(title)}</title>
@@ -1139,6 +1199,7 @@ function pickerPage() {
     <section class="hero-p">
       <div class="hero-top">
         <span class="hero-tag">Institution mock tests</span>
+        ${INSTITUTION ? `<span class="hero-inst"><span class="hero-inst-av" aria-hidden="true">${initials(INSTITUTION)}</span>${esc(INSTITUTION)}</span>` : ""}
       </div>
       <h1>Full-length papers, timed like the real exam</h1>
       <p>

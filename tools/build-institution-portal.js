@@ -24,12 +24,43 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const MANIFEST = path.join(ROOT, "data", "institution", "manifest.json");
+const CONFIG = path.join(ROOT, "institution", "config.json");
 const OUT_DIR = path.join(ROOT, "institution");
 const OUT = path.join(OUT_DIR, "index.html");
 
 const SITE = "https://axomexam.in";
 const SELF = "https://institution.axomexam.in";
 const BRAND = "axomexam.in";
+
+/* The partner institution this copy of the library is issued to. Read from
+   config.json so onboarding a new institution is a config edit, not a code
+   change. Missing keys simply drop the matching line from the welcome card. */
+const INSTITUTION = (() => {
+  try {
+    const raw = JSON.parse(fs.readFileSync(CONFIG, "utf8")).institution || {};
+    const name = String(raw.name || "").trim();
+    if (!name) return null;
+    return {
+      name,
+      address: String(raw.address || "").trim(),
+      email: String(raw.email || "").trim(),
+      phones: (Array.isArray(raw.phones) ? raw.phones : [])
+        .map((p) => String(p).trim())
+        .filter(Boolean),
+    };
+  } catch (err) {
+    return null;
+  }
+})();
+
+const initials = (name) =>
+  String(name || "")
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0])
+    .join("")
+    .toUpperCase();
 
 const esc = (s) =>
   String(s == null ? "" : s)
@@ -232,6 +263,64 @@ a { color: inherit; }
 .tgl svg { width: 17px; height: 17px; }
 [data-theme="light"] .i-moon, :root:not([data-theme="dark"]) .i-moon { display: none; }
 [data-theme="dark"] .i-sun { display: none; }
+
+/* ---------- institution welcome ---------- */
+.wel {
+  position: relative; overflow: hidden; margin-top: 22px;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 18px;
+  padding: 24px 26px; box-shadow: var(--shadow);
+}
+.wel::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px;
+  background: linear-gradient(180deg, #4f46e5, #818cf8);
+}
+.wel-top { display: flex; align-items: center; gap: 15px; flex-wrap: wrap; }
+.wel-av {
+  flex: 0 0 54px; height: 54px; border-radius: 15px; display: grid; place-items: center;
+  background: linear-gradient(135deg, #4f46e5, #6366f1); color: #fff;
+  font-weight: 800; font-size: 19px; letter-spacing: -.6px;
+  box-shadow: 0 8px 20px -10px rgba(79,70,229,.85);
+}
+.wel-id { flex: 1; min-width: 0; }
+.wel-eyebrow {
+  display: block; font-size: 10.5px; font-weight: 800; letter-spacing: .95px;
+  text-transform: uppercase; color: var(--brand); margin-bottom: 3px;
+}
+.wel-nm {
+  display: block; font-size: clamp(19px, 2.5vw, 24px); font-weight: 800;
+  letter-spacing: -.55px; line-height: 1.22; color: var(--ink);
+}
+.wel-sess {
+  display: inline-flex; align-items: center; gap: 6px; margin-top: 5px;
+  font-size: 12.5px; color: var(--muted);
+}
+.wel-sess b { color: var(--ink-soft); font-weight: 700; }
+.wel-sess .dot {
+  width: 7px; height: 7px; border-radius: 50%; background: #10b981;
+  box-shadow: 0 0 0 3px rgba(16,185,129,.16); flex: 0 0 auto;
+}
+.wel-meta {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 12px 22px; margin: 20px 0 0; padding: 18px 0 0;
+  border-top: 1px solid var(--line-soft);
+}
+.wel-row { display: flex; gap: 10px; align-items: flex-start; min-width: 0; }
+.wel-row svg { flex: 0 0 15px; width: 15px; height: 15px; margin-top: 2px; color: var(--brand); }
+.wel-k {
+  display: block; font-size: 10px; font-weight: 800; letter-spacing: .75px;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 1px;
+}
+.wel-v { display: block; font-size: 13px; line-height: 1.5; color: var(--ink-soft); overflow-wrap: anywhere; }
+.wel-v a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--line); }
+.wel-v a:hover { color: var(--brand); border-bottom-color: var(--brand); }
+.wel-note {
+  margin: 16px 0 0; font-size: 12px; color: var(--muted); line-height: 1.55;
+  padding-top: 13px; border-top: 1px solid var(--line-soft);
+}
+.wel-note b { color: var(--ink-soft); font-weight: 700; }
+[data-theme="dark"] .wel { background: #0f172a; border-color: #1e293b; }
+[data-theme="dark"] .wel-nm { color: #e5e7eb; }
+[data-theme="dark"] .wel-v, [data-theme="dark"] .wel-v a { color: #cbd5e1; }
 
 /* ---------- hero ---------- */
 .hero {
@@ -465,6 +554,13 @@ a { color: inherit; }
   .hero { padding: 22px 20px 20px; border-radius: 16px; }
   .metagrid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
   .meta b { font-size: 19px; }
+  .wel { padding: 18px 18px 16px; border-radius: 16px; margin-top: 14px; }
+  .wel-av { flex-basis: 46px; height: 46px; border-radius: 13px; font-size: 16px; }
+  .wel-nm { font-size: 18px; }
+  .wel-sess { font-size: 11.5px; }
+  .wel-meta { gap: 10px; margin-top: 15px; padding-top: 14px; }
+  .wel-v { font-size: 12.5px; }
+  .wel-note { margin-top: 13px; padding-top: 11px; font-size: 11.5px; }
   .hdr-tag { display: none; }
   .hdr-nav a { padding: 7px 8px; font-size: 12.5px; }
   .hdr-in { height: 58px; gap: 8px; }
@@ -492,6 +588,9 @@ const ICON_SEARCH = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" 
 const ICON_PAPER = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8"/><path d="M8 17h5"/></svg>`;
 const ICON_SUN = `<svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
 const ICON_MOON = `<svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></svg>`;
+const ICON_PIN = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 5-8 12-8 12s-8-7-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>`;
+const ICON_MAIL = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 6 10-6"/></svg>`;
+const ICON_PHONE = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.4-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2Z"/></svg>`;
 
 const CLIENT_JS = `
 (function () {
@@ -761,6 +860,39 @@ const CLIENT_JS = `
 })();
 `;
 
+function welcomeCard() {
+  if (!INSTITUTION) return "";
+  const rows = [];
+  if (INSTITUTION.address) {
+    rows.push(`<div class="wel-row">${ICON_PIN}<span><span class="wel-k">Address</span><span class="wel-v">${esc(INSTITUTION.address)}</span></span></div>`);
+  }
+  if (INSTITUTION.email) {
+    rows.push(`<div class="wel-row">${ICON_MAIL}<span><span class="wel-k">Email</span><span class="wel-v"><a href="mailto:${esc(INSTITUTION.email)}">${esc(INSTITUTION.email)}</a></span></span></div>`);
+  }
+  if (INSTITUTION.phones.length) {
+    const links = INSTITUTION.phones
+      .map((p) => `<a href="tel:${esc(p.replace(/\s+/g, ""))}">${esc(p)}</a>`)
+      .join(" / ");
+    rows.push(`<div class="wel-row">${ICON_PHONE}<span><span class="wel-k">Contact</span><span class="wel-v">${links}</span></span></div>`);
+  }
+
+  return `<section class="wel" aria-labelledby="wel-nm">
+      <div class="wel-top">
+        <span class="wel-av" aria-hidden="true">${esc(initials(INSTITUTION.name))}</span>
+        <span class="wel-id">
+          <span class="wel-eyebrow">Welcome back</span>
+          <span class="wel-nm" id="wel-nm">${esc(INSTITUTION.name)}</span>
+          <span class="wel-sess"><span class="dot" aria-hidden="true"></span>Signed in as <b id="wel-user">&nbsp;</b></span>
+        </span>
+      </div>
+      ${rows.length ? `<div class="wel-meta">${rows.join("\n        ")}</div>` : ""}
+      <p class="wel-note">
+        This library is issued to <b>${esc(INSTITUTION.name)}</b>. Every PDF you download carries
+        the <b>${esc(BRAND)}</b> watermark and stays inside your institution account.
+      </p>
+    </section>`;
+}
+
 function page(tree, manifest) {
   const totalQ = tree.reduce((n, e) => n + e.count, 0);
   const totalFiles = tree.reduce((n, e) => n + e.files, 0);
@@ -802,6 +934,35 @@ function page(tree, manifest) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- The gate hides the library until the session check finishes. It has to be
+       an inline style and an inline script in the first bytes of <head>: the
+       HTML carries the whole library as static content, so anything later lets
+       it paint before the guard runs and the page flashes for a second or two. -->
+  <style>
+    /* The gate has to paint before <body> exists: the HTML carries the whole
+       library inline, so on a slow phone the body can arrive seconds later.
+       html::before/::after are used for exactly that reason. */
+    html[data-gate]{background:#fff}
+    html[data-gate]::before{content:"";position:fixed;inset:0;z-index:9998;background:#fff}
+    html[data-gate="hold"]::after{content:"";position:fixed;z-index:9999;top:50%;left:50%;
+      width:26px;height:26px;margin:-13px 0 0 -13px;border-radius:50%;
+      border:3px solid #4f46e5;border-right-color:transparent;
+      animation:axo-spin .7s linear infinite}
+    html[data-gate="error"]::after{content:attr(data-gate-msg);position:fixed;z-index:9999;
+      top:50%;left:50%;transform:translate(-50%,-50%);width:min(78vw,340px);
+      text-align:center;font:600 14px/1.55 Inter,system-ui,-apple-system,sans-serif;
+      color:#b91c1c;border:0;margin:0;animation:none}
+    html[data-gate] body{visibility:hidden}
+    @media (prefers-color-scheme:dark){
+      html[data-gate]{background:#0b1020}
+      html[data-gate]::before{background:#0b1020}
+      html[data-gate="error"]::after{color:#fca5a5}
+    }
+    @keyframes axo-spin{to{transform:rotate(360deg)}}
+    @media (prefers-reduced-motion:reduce){html[data-gate="hold"]::after{animation-duration:2s}}
+  </style>
+  <script>document.documentElement.setAttribute("data-gate","hold")</script>
+  <noscript><style>html[data-gate]::before,html[data-gate]::after{display:none}html[data-gate] body{visibility:visible}</style></noscript>
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(desc)}" />
   <!-- A shared library link for one institution, not a search landing page.
@@ -869,6 +1030,8 @@ function page(tree, manifest) {
   </header>
 
   <main class="wrap">
+    ${welcomeCard()}
+
     <section class="hero">
       <div class="hero-top">
         <span class="hero-tag">Institution library</span>
