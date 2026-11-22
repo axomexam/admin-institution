@@ -3,6 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Hides the paper until the session check finishes. Must stay in the first
+       bytes of <head>: the questions are inline in the HTML, so a later script
+       lets them paint before the guard runs and the page flashes. -->
+  <style>
+    /* The gate has to paint before <body> exists: the HTML carries the whole
+       library inline, so on a slow phone the body can arrive seconds later.
+       html::before/::after are used for exactly that reason. */
+    html[data-gate]{background:#fff}
+    html[data-gate]::before{content:"";position:fixed;inset:0;z-index:9998;background:#fff}
+    html[data-gate="hold"]::after{content:"";position:fixed;z-index:9999;top:50%;left:50%;
+      width:26px;height:26px;margin:-13px 0 0 -13px;border-radius:50%;
+      border:3px solid #4f46e5;border-right-color:transparent;
+      animation:axo-spin .7s linear infinite}
+    html[data-gate="error"]::after{content:attr(data-gate-msg);position:fixed;z-index:9999;
+      top:50%;left:50%;transform:translate(-50%,-50%);width:min(78vw,340px);
+      text-align:center;font:600 14px/1.55 Inter,system-ui,-apple-system,sans-serif;
+      color:#b91c1c;border:0;margin:0;animation:none}
+    html[data-gate] body{visibility:hidden}
+    @media (prefers-color-scheme:dark){
+      html[data-gate]{background:#0b1020}
+      html[data-gate]::before{background:#0b1020}
+      html[data-gate="error"]::after{color:#fca5a5}
+    }
+    @keyframes axo-spin{to{transform:rotate(360deg)}}
+    @media (prefers-reduced-motion:reduce){html[data-gate="hold"]::after{animation-duration:2s}}
+  </style>
+  <script>document.documentElement.setAttribute("data-gate","hold")</script>
+  <noscript><style>html[data-gate]::before,html[data-gate]::after{display:none}html[data-gate] body{visibility:visible}</style></noscript>
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
   <meta name="googlebot" content="noindex, nofollow" />
   <title>ADRE 3.0 Grade III — Full Paper Set 4 | axomexam</title>
@@ -1725,7 +1753,7 @@ table.sc tfoot td {
     <div class="wrap ftr-in">
       <span>© axomexam.in — practice papers for institution use.</span>
       <span><a href="/institution/">Topic-wise PDFs</a> · <a href="/institution/mock-test/">All mock tests</a></span>
-      <span class="ftr-build">build 2026-11-21 07:16</span>
+      <span class="ftr-build">build 2026-11-22 10:09</span>
     </div>
   </footer>
   <script>
