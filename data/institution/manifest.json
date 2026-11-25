@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:15:11.125Z",
+  "generatedAt": "2026-11-25T18:03:25.712Z",
   "brand": "axomexam.in",
   "exams": [
     {
@@ -1434,6 +1434,246 @@
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/india-general-knowledge/sports-as.pdf",
               "bytes": 911234,
               "pages": 48
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Atmosphere, Winds & Cyclones",
+            "as": "বায়ুমণ্ডল, বতাহ আৰু ঘূৰ্ণীবতাহ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones.pdf",
+              "bytes": 190469,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones-as.pdf",
+              "bytes": 159510,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Earth's Interior, Plates & Volcanoes",
+            "as": "পৃথিৱীৰ অন্তৰ্ভাগ, প্লেট আৰু আগ্নেয়গিৰি"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes.pdf",
+              "bytes": 194561,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes-as.pdf",
+              "bytes": 159068,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Grasslands & Agricultural Belts",
+            "as": "ঘাঁহনি আৰু কৃষি অঞ্চল"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world.pdf",
+              "bytes": 185865,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world-as.pdf",
+              "bytes": 152708,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/international-border-lines-world",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "International Border Lines",
+            "as": "আন্তৰ্জাতিক সীমাৰেখা"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/international-border-lines-world.pdf",
+              "bytes": 192532,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/international-border-lines-world-as.pdf",
+              "bytes": 156075,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Minerals, Oil Belts & Sea Routes",
+            "as": "খনিজ, তেল অঞ্চল আৰু সাগৰীয় পথ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world.pdf",
+              "bytes": 186157,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world-as.pdf",
+              "bytes": 152364,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Mountains, Deserts, Islands & Earthquakes",
+            "as": "পৰ্বত, মৰুভূমি, দ্বীপ আৰু ভূমিকম্প"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes.pdf",
+              "bytes": 187456,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes-as.pdf",
+              "bytes": 153046,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Oceans, Currents, Rivers & Lakes",
+            "as": "মহাসাগৰ, সোঁত, নদী আৰু হ্ৰদ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes.pdf",
+              "bytes": 188219,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes-as.pdf",
+              "bytes": 153977,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Straits, Canals, Seas & Gulfs",
+            "as": "প্ৰণালী, খাল, সাগৰ আৰু উপসাগৰ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs.pdf",
+              "bytes": 185980,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs-as.pdf",
+              "bytes": 149702,
+              "pages": 9
             }
           }
         },
@@ -4074,6 +4314,246 @@
               "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/india-general-knowledge/sports-as.pdf",
               "bytes": 549981,
               "pages": 25
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Atmosphere, Winds & Cyclones",
+            "as": "বায়ুমণ্ডল, বতাহ আৰু ঘূৰ্ণীবতাহ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones.pdf",
+              "bytes": 190616,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones-as.pdf",
+              "bytes": 159678,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Earth's Interior, Plates & Volcanoes",
+            "as": "পৃথিৱীৰ অন্তৰ্ভাগ, প্লেট আৰু আগ্নেয়গিৰি"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes.pdf",
+              "bytes": 194709,
+              "pages": 9
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes-as.pdf",
+              "bytes": 159234,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Grasslands & Agricultural Belts",
+            "as": "ঘাঁহনি আৰু কৃষি অঞ্চল"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world.pdf",
+              "bytes": 186013,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world-as.pdf",
+              "bytes": 152874,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/international-border-lines-world",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "International Border Lines",
+            "as": "আন্তৰ্জাতিক সীমাৰেখা"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/international-border-lines-world.pdf",
+              "bytes": 192678,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/international-border-lines-world-as.pdf",
+              "bytes": 156241,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Minerals, Oil Belts & Sea Routes",
+            "as": "খনিজ, তেল অঞ্চল আৰু সাগৰীয় পথ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world.pdf",
+              "bytes": 186303,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world-as.pdf",
+              "bytes": 152531,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Mountains, Deserts, Islands & Earthquakes",
+            "as": "পৰ্বত, মৰুভূমি, দ্বীপ আৰু ভূমিকম্প"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes.pdf",
+              "bytes": 187603,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes-as.pdf",
+              "bytes": 153212,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Oceans, Currents, Rivers & Lakes",
+            "as": "মহাসাগৰ, সোঁত, নদী আৰু হ্ৰদ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes.pdf",
+              "bytes": 188366,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes-as.pdf",
+              "bytes": 154143,
+              "pages": 9
+            }
+          }
+        },
+        {
+          "path": "general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs",
+          "section": "general-knowledge-assam-gk",
+          "sectionTitle": {
+            "en": "General Knowledge & Assam GK",
+            "as": "সাধাৰণ জ্ঞান আৰু অসম সম্পৰ্কীয় তথ্য (General Knowledge & Assam GK)"
+          },
+          "group": "world-geography",
+          "groupTitle": {
+            "en": "World Geography",
+            "as": "বিশ্বৰ ভূগোল (World Geography)"
+          },
+          "title": {
+            "en": "Straits, Canals, Seas & Gulfs",
+            "as": "প্ৰণালী, খাল, সাগৰ আৰু উপসাগৰ"
+          },
+          "count": 50,
+          "pdfs": {
+            "en": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs.pdf",
+              "bytes": 186127,
+              "pages": 8
+            },
+            "as": {
+              "pdf": "/data/download/adre-grade-4/general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs-as.pdf",
+              "bytes": 149868,
+              "pages": 9
             }
           }
         },

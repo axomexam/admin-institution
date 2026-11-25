@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "straits-canals-seas-gulfs-001",
+    "q": {
+      "en": "What is a strait?",
+      "as": "প্ৰণালী কি?"
+    },
+    "options": [
+      {
+        "en": "The lake between Israel and Jordan, with very high salinity.",
+        "as": "ইজৰাইল আৰু জৰ্ডানৰ মাজত থকা অতি উচ্চ লোণীয়া হ্ৰদ।"
+      },
+      {
+        "en": "The Bay of Bengal (largest bay).",
+        "as": "বঙ্গোপসাগৰ (বৃহত্তম উপসাগৰ)।"
+      },
+      {
+        "en": "A narrow waterway connecting two large water bodies.",
+        "as": "দুটা ডাঙৰ জলভাগ সংযোগী সংকীৰ্ণ জলপথ।"
+      },
+      {
+        "en": "An artificial waterway built for navigation and irrigation.",
+        "as": "নৌ-পৰিবহণ আৰু সিঞ্চনৰ বাবে নিৰ্মিত কৃত্ৰিম জলপথ।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A narrow waterway connecting two large water bodies.",
+      "as": "দুটা ডাঙৰ জলভাগ সংযোগী সংকীৰ্ণ জলপথ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-002",
+    "q": {
+      "en": "Which is the widest strait of the world?",
+      "as": "বিশ্বৰ বহলতম প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Strait of Malacca.",
+        "as": "মালাকা প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Davis Strait.",
+      "as": "ডেভিছ প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-003",
+    "q": {
+      "en": "Which strait separates India from Sri Lanka?",
+      "as": "ভাৰত আৰু শ্ৰীলংকা পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Strait of Malacca.",
+        "as": "মালাকা প্ৰণালী।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Palk Strait.",
+      "as": "পাক প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-004",
+    "q": {
+      "en": "Which strait separates the North and South islands of New Zealand?",
+      "as": "নিউজিলেণ্ডৰ উত্তৰ আৰু দক্ষিণ দ্বীপ পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Strait of Malacca.",
+        "as": "মালাকা প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Cook Strait.",
+      "as": "কুক প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-005",
+    "q": {
+      "en": "Which strait separates Sumatra and Malaysia?",
+      "as": "ছুমাত্ৰা আৰু মালয়েছিয়া পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Strait of Malacca.",
+        "as": "মালাকা প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Strait of Malacca.",
+      "as": "মালাকা প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-006",
+    "q": {
+      "en": "Which strait connects the Mediterranean Sea with the Atlantic Ocean?",
+      "as": "ভূমধ্যসাগৰ আৰু আটলাণ্টিক মহাসাগৰ সংযোগী প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Strait of Gibraltar.",
+        "as": "জিব্ৰাল্টাৰ প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Strait of Gibraltar.",
+      "as": "জিব্ৰাল্টাৰ প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-007",
+    "q": {
+      "en": "Which strait separates Asia from North America?",
+      "as": "এছিয়া আৰু উত্তৰ আমেৰিকা পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Bering Strait.",
+        "as": "বেৰিং প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Bering Strait.",
+      "as": "বেৰিং প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-008",
+    "q": {
+      "en": "Which strait separates the Black Sea from the Sea of Marmara?",
+      "as": "ক'লা সাগৰ আৰু মাৰমৰা সাগৰ পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Bosporus Strait.",
+        "as": "বসফ'ৰাছ প্ৰণালী।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Bosporus Strait.",
+      "as": "বসফ'ৰাছ প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-009",
+    "q": {
+      "en": "Which strait separates the Red Sea from the Gulf of Aden?",
+      "as": "ৰঙা সাগৰ আৰু এডেন উপসাগৰ পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Bab-el-Mandeb Strait.",
+        "as": "বাব-এল-মান্দেব প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Bab-el-Mandeb Strait.",
+      "as": "বাব-এল-মান্দেব প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-010",
+    "q": {
+      "en": "What is a canal?",
+      "as": "খাল কি?"
+    },
+    "options": [
+      {
+        "en": "An artificial waterway built for navigation and irrigation.",
+        "as": "নৌ-পৰিবহণ আৰু সিঞ্চনৰ বাবে নিৰ্মিত কৃত্ৰিম জলপথ।"
+      },
+      {
+        "en": "A narrow waterway connecting two large water bodies.",
+        "as": "দুটা ডাঙৰ জলভাগ সংযোগী সংকীৰ্ণ জলপথ।"
+      },
+      {
+        "en": "The lake between Israel and Jordan, with very high salinity.",
+        "as": "ইজৰাইল আৰু জৰ্ডানৰ মাজত থকা অতি উচ্চ লোণীয়া হ্ৰদ।"
+      },
+      {
+        "en": "The Bay of Bengal (largest bay).",
+        "as": "বঙ্গোপসাগৰ (বৃহত্তম উপসাগৰ)।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An artificial waterway built for navigation and irrigation.",
+      "as": "নৌ-পৰিবহণ আৰু সিঞ্চনৰ বাবে নিৰ্মিত কৃত্ৰিম জলপথ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-011",
+    "q": {
+      "en": "Which canal connects the Mediterranean Sea with the Red Sea?",
+      "as": "ভূমধ্যসাগৰ আৰু ৰঙা সাগৰ সংযোগী খাল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Panama Canal.",
+        "as": "পানামা খাল।"
+      },
+      {
+        "en": "The Suez Canal.",
+        "as": "চুৱেজ খাল।"
+      },
+      {
+        "en": "The Grand Canal of China.",
+        "as": "চীনৰ গ্ৰেণ্ড খাল।"
+      },
+      {
+        "en": "The Kiel Canal.",
+        "as": "কিল খাল।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Suez Canal.",
+      "as": "চুৱেজ খাল।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-012",
+    "q": {
+      "en": "When was the Suez Canal opened?",
+      "as": "চুৱেজ খাল কেতিয়া মুকলি হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1881",
+        "as": "১৮৮১"
+      },
+      {
+        "en": "1904",
+        "as": "১৯০৪"
+      },
+      {
+        "en": "In 1869.",
+        "as": "১৮৬৯ চনত।"
+      },
+      {
+        "en": "1859",
+        "as": "১৮৫৯"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In 1869.",
+      "as": "১৮৬৯ চনত।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-013",
+    "q": {
+      "en": "What is the length of the Suez Canal?",
+      "as": "চুৱেজ খালৰ দৈৰ্ঘ্য কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 12,000 kilometres",
+        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 4,500 kilometres",
+        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 2,000 kilometres",
+        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 193 kilometres.",
+        "as": "প্ৰায় ১৯৩ কিলোমিটাৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "About 193 kilometres.",
+      "as": "প্ৰায় ১৯৩ কিলোমিটাৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-014",
+    "q": {
+      "en": "Which country is the Suez Canal in?",
+      "as": "চুৱেজ খাল কোন দেশত আছে?"
+    },
+    "options": [
+      {
+        "en": "Egypt.",
+        "as": "ইজিপ্ত।"
+      },
+      {
+        "en": "Turkey",
+        "as": "তুৰস্ক"
+      },
+      {
+        "en": "Greece",
+        "as": "গ্ৰীচ"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Egypt.",
+      "as": "ইজিপ্ত।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-015",
+    "q": {
+      "en": "Which canal connects the Atlantic Ocean with the Pacific Ocean?",
+      "as": "আটলাণ্টিক মহাসাগৰ আৰু প্ৰশান্ত মহাসাগৰ সংযোগী খাল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Kiel Canal.",
+        "as": "কিল খাল।"
+      },
+      {
+        "en": "The Suez Canal.",
+        "as": "চুৱেজ খাল।"
+      },
+      {
+        "en": "The Panama Canal.",
+        "as": "পানামা খাল।"
+      },
+      {
+        "en": "The Grand Canal of China.",
+        "as": "চীনৰ গ্ৰেণ্ড খাল।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Panama Canal.",
+      "as": "পানামা খাল।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-016",
+    "q": {
+      "en": "When was the Panama Canal opened?",
+      "as": "পানামা খাল কেতিয়া মুকলি হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1881",
+        "as": "১৮৮১"
+      },
+      {
+        "en": "1904",
+        "as": "১৯০৪"
+      },
+      {
+        "en": "In 1914.",
+        "as": "১৯১৪ চনত।"
+      },
+      {
+        "en": "1859",
+        "as": "১৮৫৯"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In 1914.",
+      "as": "১৯১৪ চনত।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-017",
+    "q": {
+      "en": "What is the length of the Panama Canal?",
+      "as": "পানামা খালৰ দৈৰ্ঘ্য কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 12,000 kilometres",
+        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 4,500 kilometres",
+        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 2,000 kilometres",
+        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 82 kilometres.",
+        "as": "প্ৰায় ৮২ কিলোমিটাৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "About 82 kilometres.",
+      "as": "প্ৰায় ৮২ কিলোমিটাৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-018",
+    "q": {
+      "en": "Which is the largest sea of the world?",
+      "as": "বিশ্বৰ বৃহত্তম সাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      },
+      {
+        "en": "The Adriatic Sea.",
+        "as": "এড্ৰিয়াটিক সাগৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The South China Sea.",
+      "as": "দক্ষিণ চীন সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-019",
+    "q": {
+      "en": "Which is the largest inland sea of the world?",
+      "as": "বিশ্বৰ বৃহত্তম অন্তৰ্দেশীয় সাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      },
+      {
+        "en": "The Adriatic Sea.",
+        "as": "এড্ৰিয়াটিক সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Caspian Sea.",
+      "as": "কাস্পিয়ান সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-020",
+    "q": {
+      "en": "Which is the saltiest sea of the world?",
+      "as": "বিশ্বৰ সৰ্বাধিক লোণীয়া সাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      },
+      {
+        "en": "The Adriatic Sea.",
+        "as": "এড্ৰিয়াটিক সাগৰ।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Dead Sea.",
+      "as": "ডেড চী (মৃত সাগৰ)।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-021",
+    "q": {
+      "en": "Which sea is known as the 'Dead Sea'?",
+      "as": "'মৃত সাগৰ' নামে কোন সাগৰ জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "The lake between Israel and Jordan, with very high salinity.",
+        "as": "ইজৰাইল আৰু জৰ্ডানৰ মাজত থকা অতি উচ্চ লোণীয়া হ্ৰদ।"
+      },
+      {
+        "en": "A narrow waterway connecting two large water bodies.",
+        "as": "দুটা ডাঙৰ জলভাগ সংযোগী সংকীৰ্ণ জলপথ।"
+      },
+      {
+        "en": "An artificial waterway built for navigation and irrigation.",
+        "as": "নৌ-পৰিবহণ আৰু সিঞ্চনৰ বাবে নিৰ্মিত কৃত্ৰিম জলপথ।"
+      },
+      {
+        "en": "The Bay of Bengal (largest bay).",
+        "as": "বঙ্গোপসাগৰ (বৃহত্তম উপসাগৰ)।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The lake between Israel and Jordan, with very high salinity.",
+      "as": "ইজৰাইল আৰু জৰ্ডানৰ মাজত থকা অতি উচ্চ লোণীয়া হ্ৰদ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-022",
+    "q": {
+      "en": "Which is the largest gulf of the world?",
+      "as": "বিশ্বৰ বৃহত্তম উপসাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Gulf of Bothnia.",
+        "as": "বথনিয়া উপসাগৰ।"
+      },
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Gulf of Mexico.",
+      "as": "মেক্সিকো উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-023",
+    "q": {
+      "en": "Which is the largest gulf of India?",
+      "as": "ভাৰতৰ বৃহত্তম উপসাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Bothnia.",
+        "as": "বথনিয়া উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gulf of Khambhat (Cambay).",
+      "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-024",
+    "q": {
+      "en": "Which gulf separates Arabia from Iran?",
+      "as": "আৰব আৰু ইৰাণ পৃথক কৰা উপসাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      },
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Bothnia.",
+        "as": "বথনিয়া উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Persian Gulf.",
+      "as": "পাৰ্চিয়ান উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-025",
+    "q": {
+      "en": "Which bay is the largest bay of the world?",
+      "as": "বিশ্বৰ বৃহত্তম উপসাগৰীয় জলভাগ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Bay of Bengal.",
+        "as": "বঙ্গোপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Mexico",
+        "as": "মেক্সিকো উপসাগৰ"
+      },
+      {
+        "en": "The Persian Gulf",
+        "as": "পাৰস্য উপসাগৰ"
+      },
+      {
+        "en": "The Gulf of Khambhat",
+        "as": "খাম্ভাট উপসাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Bay of Bengal.",
+      "as": "বঙ্গোপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-026",
+    "q": {
+      "en": "Which gulf is between India and Myanmar?",
+      "as": "ভাৰত আৰু ম্যানমাৰৰ মাজত কোন উপসাগৰ আছে?"
+    },
+    "options": [
+      {
+        "en": "The Strait of Hormuz",
+        "as": "হৰমুজ প্ৰণালী"
+      },
+      {
+        "en": "The Bab-el-Mandeb Strait",
+        "as": "বাব-এল-মাণ্ডেব প্ৰণালী"
+      },
+      {
+        "en": "The Bosporus Strait",
+        "as": "বসফৰাছ প্ৰণালী"
+      },
+      {
+        "en": "The Bay of Bengal.",
+        "as": "বঙ্গোপসাগৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Bay of Bengal.",
+      "as": "বঙ্গোপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-027",
+    "q": {
+      "en": "Which is the largest gulf of the Indian Ocean?",
+      "as": "ভাৰত মহাসাগৰৰ বৃহত্তম উপসাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "An artificial waterway built for navigation and irrigation.",
+        "as": "নৌ-পৰিবহণ আৰু সিঞ্চনৰ বাবে নিৰ্মিত কৃত্ৰিম জলপথ।"
+      },
+      {
+        "en": "The lake between Israel and Jordan, with very high salinity.",
+        "as": "ইজৰাইল আৰু জৰ্ডানৰ মাজত থকা অতি উচ্চ লোণীয়া হ্ৰদ।"
+      },
+      {
+        "en": "The Bay of Bengal (largest bay).",
+        "as": "বঙ্গোপসাগৰ (বৃহত্তম উপসাগৰ)।"
+      },
+      {
+        "en": "A narrow waterway connecting two large water bodies.",
+        "as": "দুটা ডাঙৰ জলভাগ সংযোগী সংকীৰ্ণ জলপথ।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Bay of Bengal (largest bay).",
+      "as": "বঙ্গোপসাগৰ (বৃহত্তম উপসাগৰ)।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-028",
+    "q": {
+      "en": "Which canal is the 'Venice of the East' known for?",
+      "as": "'পূৱৰ ভেনিছ' কোন খালৰ বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "The Ten Degree Channel.",
+        "as": "দহ ডিগ্ৰী চেনেল।"
+      },
+      {
+        "en": "The Alappuzha backwaters of Kerala.",
+        "as": "কেৰালাৰ আলেপ্পি বেকৱাটাৰ।"
+      },
+      {
+        "en": "The Strait of Gibraltar",
+        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
+      },
+      {
+        "en": "The Drake Passage.",
+        "as": "ড্ৰেক জলপথ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Alappuzha backwaters of Kerala.",
+      "as": "কেৰালাৰ আলেপ্পি বেকৱাটাৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-029",
+    "q": {
+      "en": "What is the 'Eight Degree Channel'?",
+      "as": "'আঠ ডিগ্ৰী চেনেল' কি?"
+    },
+    "options": [
+      {
+        "en": "The channel separating the Minicoy island from the Maldives.",
+        "as": "মিনিকয় দ্বীপ আৰু মালদ্বীপ পৃথক কৰা চেনেল।"
+      },
+      {
+        "en": "A narrow waterway connecting two large water bodies.",
+        "as": "দুটা ডাঙৰ জলভাগ সংযোগী সংকীৰ্ণ জলপথ।"
+      },
+      {
+        "en": "An artificial waterway built for navigation and irrigation.",
+        "as": "নৌ-পৰিবহণ আৰু সিঞ্চনৰ বাবে নিৰ্মিত কৃত্ৰিম জলপথ।"
+      },
+      {
+        "en": "The lake between Israel and Jordan, with very high salinity.",
+        "as": "ইজৰাইল আৰু জৰ্ডানৰ মাজত থকা অতি উচ্চ লোণীয়া হ্ৰদ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The channel separating the Minicoy island from the Maldives.",
+      "as": "মিনিকয় দ্বীপ আৰু মালদ্বীপ পৃথক কৰা চেনেল।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-030",
+    "q": {
+      "en": "Which channel separates the Andaman and Nicobar islands?",
+      "as": "আন্দামান আৰু নিকোবৰ দ্বীপ পৃথক কৰা চেনেল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Drake Passage.",
+        "as": "ড্ৰেক জলপথ।"
+      },
+      {
+        "en": "The Bering Strait",
+        "as": "বেৰিং প্ৰণালী"
+      },
+      {
+        "en": "The Ten Degree Channel.",
+        "as": "দহ ডিগ্ৰী চেনেল।"
+      },
+      {
+        "en": "The Alappuzha backwaters of Kerala.",
+        "as": "কেৰালাৰ আলেপ্পি বেকৱাটাৰ।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ten Degree Channel.",
+      "as": "দহ ডিগ্ৰী চেনেল।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-031",
+    "q": {
+      "en": "Which strait separates England from France?",
+      "as": "ইংলেণ্ড আৰু ফ্ৰান্স পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Strait of Dover.",
+        "as": "ডভাৰ প্ৰণালী।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Strait of Dover.",
+      "as": "ডভাৰ প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-032",
+    "q": {
+      "en": "Which strait separates Australia from Papua New Guinea?",
+      "as": "অষ্ট্ৰেলিয়া আৰু পাপুয়া নিউ গিনি পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Torres Strait.",
+        "as": "টৰেছ প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Torres Strait.",
+      "as": "টৰেছ প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-033",
+    "q": {
+      "en": "Which strait separates Australia from Tasmania?",
+      "as": "অষ্ট্ৰেলিয়া আৰু টাছমেনিয়া পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Bass Strait.",
+        "as": "বাছ প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Bass Strait.",
+      "as": "বাছ প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-034",
+    "q": {
+      "en": "Which strait separates Java from Sumatra?",
+      "as": "জাভা আৰু ছুমাত্ৰা পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Sunda Strait.",
+        "as": "ছুণ্ডা প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sunda Strait.",
+      "as": "ছুণ্ডা প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-035",
+    "q": {
+      "en": "Which passage separates South America from Antarctica?",
+      "as": "দক্ষিণ আমেৰিকা আৰু এণ্টাৰ্কটিকা পৃথক কৰা জলপথ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Caspian Sea",
+        "as": "কাস্পিয়ান সাগৰ"
+      },
+      {
+        "en": "The Ten Degree Channel.",
+        "as": "দহ ডিগ্ৰী চেনেল।"
+      },
+      {
+        "en": "The Alappuzha backwaters of Kerala.",
+        "as": "কেৰালাৰ আলেপ্পি বেকৱাটাৰ।"
+      },
+      {
+        "en": "The Drake Passage.",
+        "as": "ড্ৰেক জলপথ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Drake Passage.",
+      "as": "ড্ৰেক জলপথ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-036",
+    "q": {
+      "en": "Which strait lies south of South America?",
+      "as": "দক্ষিণ আমেৰিকাৰ দক্ষিণে কোন প্ৰণালী আছে?"
+    },
+    "options": [
+      {
+        "en": "The Strait of Magellan.",
+        "as": "মেগেলান প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Strait of Magellan.",
+      "as": "মেগেলান প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-037",
+    "q": {
+      "en": "Which strait separates Japan from South Korea?",
+      "as": "জাপান আৰু দক্ষিণ কোৰিয়া পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      },
+      {
+        "en": "The Korea Strait.",
+        "as": "কোৰিয়া প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Korea Strait.",
+      "as": "কোৰিয়া প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-038",
+    "q": {
+      "en": "Which strait separates Taiwan from mainland China?",
+      "as": "তাইৱান আৰু মূল চীন পৃথক কৰা প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Palk Strait.",
+        "as": "পাক প্ৰণালী।"
+      },
+      {
+        "en": "The Cook Strait.",
+        "as": "কুক প্ৰণালী।"
+      },
+      {
+        "en": "The Taiwan Strait.",
+        "as": "তাইৱান প্ৰণালী।"
+      },
+      {
+        "en": "The Davis Strait.",
+        "as": "ডেভিছ প্ৰণালী।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Taiwan Strait.",
+      "as": "তাইৱান প্ৰণালী।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-039",
+    "q": {
+      "en": "Which gulf lies between Sweden and Finland?",
+      "as": "ছুইডেন আৰু ফিনলেণ্ডৰ মাজত কোন উপসাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Bothnia.",
+        "as": "বথনিয়া উপসাগৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Gulf of Bothnia.",
+      "as": "বথনিয়া উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-040",
+    "q": {
+      "en": "Which gulf lies between Australia and New Guinea?",
+      "as": "অষ্ট্ৰেলিয়া আৰু নিউ গিনিৰ মাজত কোন উপসাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Carpentaria.",
+        "as": "কাৰ্পেণ্টাৰিয়া উপসাগৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Gulf of Carpentaria.",
+      "as": "কাৰ্পেণ্টাৰিয়া উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-041",
+    "q": {
+      "en": "Which gulf lies between Iran and Oman?",
+      "as": "ইৰাণ আৰু ওমানৰ মাজত কোন উপসাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      },
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Oman.",
+        "as": "ওমান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gulf of Oman.",
+      "as": "ওমান উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-042",
+    "q": {
+      "en": "Which gulf lies between Somalia and Yemen?",
+      "as": "ছোমালিয়া আৰু য়েমেনৰ মাজত কোন উপসাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Gulf of Mexico.",
+        "as": "মেক্সিকো উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Aden.",
+        "as": "এডেন উপসাগৰ।"
+      },
+      {
+        "en": "The Persian Gulf.",
+        "as": "পাৰ্চিয়ান উপসাগৰ।"
+      },
+      {
+        "en": "The Gulf of Khambhat (Cambay).",
+        "as": "খাম্বাট (কেম্বে) উপসাগৰ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Gulf of Aden.",
+      "as": "এডেন উপসাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-043",
+    "q": {
+      "en": "Which sea lies between Italy and the Balkans?",
+      "as": "ইটালী আৰু বলকানৰ মাজত কোন সাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Adriatic Sea.",
+        "as": "এড্ৰিয়াটিক সাগৰ।"
+      },
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Adriatic Sea.",
+      "as": "এড্ৰিয়াটিক সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-044",
+    "q": {
+      "en": "Which sea lies between Greece and Turkey?",
+      "as": "গ্ৰীচ আৰু তুৰস্কৰ মাজত কোন সাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      },
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Aegean Sea.",
+        "as": "এজিয়ান সাগৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Aegean Sea.",
+      "as": "এজিয়ান সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-045",
+    "q": {
+      "en": "Which sea lies between Britain and Norway?",
+      "as": "ব্ৰিটেইন আৰু নৰৱেৰ মাজত কোন সাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      },
+      {
+        "en": "The North Sea.",
+        "as": "উত্তৰ সাগৰ।"
+      },
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The North Sea.",
+      "as": "উত্তৰ সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-046",
+    "q": {
+      "en": "Which sea lies between Japan and Russia?",
+      "as": "জাপান আৰু ৰাছিয়াৰ মাজত কোন সাগৰ?"
+    },
+    "options": [
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Sea of Okhotsk.",
+        "as": "অখটস্ক সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Sea of Okhotsk.",
+      "as": "অখটস্ক সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-047",
+    "q": {
+      "en": "Which sea is noted for floating seaweed?",
+      "as": "কোন সাগৰ ভাহি থকা শেলাইৰ বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "The Sargasso Sea.",
+        "as": "ছাৰ্গাছ' সাগৰ।"
+      },
+      {
+        "en": "The South China Sea.",
+        "as": "দক্ষিণ চীন সাগৰ।"
+      },
+      {
+        "en": "The Caspian Sea.",
+        "as": "কাস্পিয়ান সাগৰ।"
+      },
+      {
+        "en": "The Dead Sea.",
+        "as": "ডেড চী (মৃত সাগৰ)।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sargasso Sea.",
+      "as": "ছাৰ্গাছ' সাগৰ।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-048",
+    "q": {
+      "en": "Which canal links the Baltic Sea with the North Sea?",
+      "as": "বল্টিক সাগৰ আৰু উত্তৰ সাগৰ সংযোগী খাল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Grand Canal of China.",
+        "as": "চীনৰ গ্ৰেণ্ড খাল।"
+      },
+      {
+        "en": "The Panama Canal.",
+        "as": "পানামা খাল।"
+      },
+      {
+        "en": "The Suez Canal.",
+        "as": "চুৱেজ খাল।"
+      },
+      {
+        "en": "The Kiel Canal.",
+        "as": "কিল খাল।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Kiel Canal.",
+      "as": "কিল খাল।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-049",
+    "q": {
+      "en": "Which is the longest canal of the world?",
+      "as": "বিশ্বৰ দীঘলতম খাল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Panama Canal.",
+        "as": "পানামা খাল।"
+      },
+      {
+        "en": "The Kiel Canal.",
+        "as": "কিল খাল।"
+      },
+      {
+        "en": "The Grand Canal of China.",
+        "as": "চীনৰ গ্ৰেণ্ড খাল।"
+      },
+      {
+        "en": "The Suez Canal.",
+        "as": "চুৱেজ খাল।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Grand Canal of China.",
+      "as": "চীনৰ গ্ৰেণ্ড খাল।"
+    }
+  },
+  {
+    "id": "straits-canals-seas-gulfs-050",
+    "q": {
+      "en": "Which canal links the Volga with the Don?",
+      "as": "ভল্গা আৰু ডন নদী সংযোগী খাল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Volga-Don Canal.",
+        "as": "ভল্গা-ডন খাল।"
+      },
+      {
+        "en": "The Suez Canal.",
+        "as": "চুৱেজ খাল।"
+      },
+      {
+        "en": "The Panama Canal.",
+        "as": "পানামা খাল।"
+      },
+      {
+        "en": "The Kiel Canal.",
+        "as": "কিল খাল।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Volga-Don Canal.",
+      "as": "ভল্গা-ডন খাল।"
+    }
+  }
+]

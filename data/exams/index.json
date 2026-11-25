@@ -689,10 +689,7 @@
       },
       "cover": "/images/exams/adre-grade-3-cover.webp",
       "logo": "/images/exams/adre-grade-3-logo.webp",
-      "logoAlt": {
-        "en": "Government of Assam official logo",
-        "as": "অসম চৰকাৰৰ চৰকাৰী ল'গ'"
-      },
+      "logoAlt": { "en": "Government of Assam official logo", "as": "অসম চৰকাৰৰ চৰকাৰী ল'গ'" },
       "coverAlt": {
         "en": "ADRE 3.0 (Assam Direct Recruitment Examination) Grade III — book front cover",
         "as": "ADRE 3.0 (অসম প্ৰত্যক্ষ নিযুক্তি পৰীক্ষা) গ্ৰেড III — কিতাপৰ বেটুপাত"
@@ -999,6 +996,44 @@
                 {
                   "id": "indian-geography",
                   "title": { "en": "Indian Geography", "as": "ভাৰতৰ ভূগোল (Indian Geography)।" }
+                }
+              ]
+            },
+            {
+              "id": "world-geography",
+              "title": { "en": "World Geography", "as": "বিশ্বৰ ভূগোল (World Geography)" },
+              "subcategories": [
+                {
+                  "id": "atmosphere-layers-winds-cyclones",
+                  "title": { "en": "Atmosphere, Winds & Cyclones", "as": "বায়ুমণ্ডল, বতাহ আৰু ঘূৰ্ণীবতাহ" }
+                },
+                {
+                  "id": "earth-layers-plates-volcanoes",
+                  "title": { "en": "Earth's Interior, Plates & Volcanoes", "as": "পৃথিৱীৰ অন্তৰ্ভাগ, প্লেট আৰু আগ্নেয়গিৰি" }
+                },
+                {
+                  "id": "oceans-currents-trenches-rivers-lakes",
+                  "title": { "en": "Oceans, Currents, Rivers & Lakes", "as": "মহাসাগৰ, সোঁত, নদী আৰু হ্ৰদ" }
+                },
+                {
+                  "id": "straits-canals-seas-gulfs",
+                  "title": { "en": "Straits, Canals, Seas & Gulfs", "as": "প্ৰণালী, খাল, সাগৰ আৰু উপসাগৰ" }
+                },
+                {
+                  "id": "mountains-deserts-islands-earthquakes",
+                  "title": { "en": "Mountains, Deserts, Islands & Earthquakes", "as": "পৰ্বত, মৰুভূমি, দ্বীপ আৰু ভূমিকম্প" }
+                },
+                {
+                  "id": "grasslands-agricultural-belts-world",
+                  "title": { "en": "Grasslands & Agricultural Belts", "as": "ঘাঁহনি আৰু কৃষি অঞ্চল" }
+                },
+                {
+                  "id": "minerals-oil-belts-sea-routes-world",
+                  "title": { "en": "Minerals, Oil Belts & Sea Routes", "as": "খনিজ, তেল অঞ্চল আৰু সাগৰীয় পথ" }
+                },
+                {
+                  "id": "international-border-lines-world",
+                  "title": { "en": "International Border Lines", "as": "আন্তৰ্জাতিক সীমাৰেখা" }
                 }
               ]
             },
@@ -1603,6 +1638,71 @@
                   "title": {
                     "en": "Sports",
                     "as": "খেল-ধেমালি (Sports)।"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "world-geography",
+              "title": {
+                "en": "World Geography",
+                "as": "বিশ্বৰ ভূগোল (World Geography)"
+              },
+              "subcategories": [
+                {
+                  "id": "atmosphere-layers-winds-cyclones",
+                  "title": {
+                    "en": "Atmosphere, Winds & Cyclones",
+                    "as": "বায়ুমণ্ডল, বতাহ আৰু ঘূৰ্ণীবতাহ"
+                  }
+                },
+                {
+                  "id": "earth-layers-plates-volcanoes",
+                  "title": {
+                    "en": "Earth's Interior, Plates & Volcanoes",
+                    "as": "পৃথিৱীৰ অন্তৰ্ভাগ, প্লেট আৰু আগ্নেয়গিৰি"
+                  }
+                },
+                {
+                  "id": "oceans-currents-trenches-rivers-lakes",
+                  "title": {
+                    "en": "Oceans, Currents, Rivers & Lakes",
+                    "as": "মহাসাগৰ, সোঁত, নদী আৰু হ্ৰদ"
+                  }
+                },
+                {
+                  "id": "straits-canals-seas-gulfs",
+                  "title": {
+                    "en": "Straits, Canals, Seas & Gulfs",
+                    "as": "প্ৰণালী, খাল, সাগৰ আৰু উপসাগৰ"
+                  }
+                },
+                {
+                  "id": "mountains-deserts-islands-earthquakes",
+                  "title": {
+                    "en": "Mountains, Deserts, Islands & Earthquakes",
+                    "as": "পৰ্বত, মৰুভূমি, দ্বীপ আৰু ভূমিকম্প"
+                  }
+                },
+                {
+                  "id": "grasslands-agricultural-belts-world",
+                  "title": {
+                    "en": "Grasslands & Agricultural Belts",
+                    "as": "ঘাঁহনি আৰু কৃষি অঞ্চল"
+                  }
+                },
+                {
+                  "id": "minerals-oil-belts-sea-routes-world",
+                  "title": {
+                    "en": "Minerals, Oil Belts & Sea Routes",
+                    "as": "খনিজ, তেল অঞ্চল আৰু সাগৰীয় পথ"
+                  }
+                },
+                {
+                  "id": "international-border-lines-world",
+                  "title": {
+                    "en": "International Border Lines",
+                    "as": "আন্তৰ্জাতিক সীমাৰেখা"
                   }
                 }
               ]

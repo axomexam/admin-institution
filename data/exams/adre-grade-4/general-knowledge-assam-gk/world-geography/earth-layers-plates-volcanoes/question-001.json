@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "earth-layers-plates-volcanoes-001",
+    "q": {
+      "en": "What are the three layers of the Earth?",
+      "as": "পৃথিৱীৰ তিনিটা স্তৰ কি কি?"
+    },
+    "options": [
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The belt of volcanoes and earthquakes around the Pacific Ocean.",
+        "as": "প্ৰশান্ত মহাসাগৰৰ চৌপাশে আগ্নেয়গিৰি আৰু ভূমিকম্পৰ অঞ্চল।"
+      },
+      {
+        "en": "Plates collide, forming mountains, and causing earthquakes.",
+        "as": "প্লেট সংঘৰ্ষ হয়, পৰ্বত গঠন হয় আৰু ভূমিকম্প হয়।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The crust, the mantle and the core.",
+      "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-002",
+    "q": {
+      "en": "What is the outermost layer of the Earth called?",
+      "as": "পৃথিৱীৰ আটাইতকৈ বাহিৰৰ স্তৰটো কাক বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "The Mohorovicic discontinuity.",
+        "as": "মহোৰোভিচিক অসংগতি।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The crust.",
+      "as": "ভূত্বক।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-003",
+    "q": {
+      "en": "What is the average thickness of the continental crust?",
+      "as": "মহাদেশীয় ভূত্বকৰ গড় বেধ কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 4,500 kilometres",
+        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 12,000 kilometres",
+        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 35 kilometres.",
+        "as": "প্ৰায় ৩৫ কিলোমিটাৰ।"
+      },
+      {
+        "en": "About 2,000 kilometres",
+        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "About 35 kilometres.",
+      "as": "প্ৰায় ৩৫ কিলোমিটাৰ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-004",
+    "q": {
+      "en": "What is the average thickness of the oceanic crust?",
+      "as": "মহাসাগৰীয় ভূত্বকৰ গড় বেধ কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 2,000 kilometres",
+        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 5 kilometres.",
+        "as": "প্ৰায় ৫ কিলোমিটাৰ।"
+      },
+      {
+        "en": "About 12,000 kilometres",
+        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 4,500 kilometres",
+        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "About 5 kilometres.",
+      "as": "প্ৰায় ৫ কিলোমিটাৰ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-005",
+    "q": {
+      "en": "Which layer of the Earth is the thickest?",
+      "as": "পৃথিৱীৰ আটাইতকৈ ডাঠ স্তৰটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The Mohorovicic discontinuity.",
+        "as": "মহোৰোভিচিক অসংগতি।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The mantle.",
+      "as": "আচ্ছাদনী।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-006",
+    "q": {
+      "en": "What is the thickness of the mantle?",
+      "as": "আচ্ছাদনীৰ বেধ কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 12,000 kilometres",
+        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 4,500 kilometres",
+        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 2,000 kilometres",
+        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 2,900 kilometres.",
+        "as": "প্ৰায় ২,৯০০ কিলোমিটাৰ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "About 2,900 kilometres.",
+      "as": "প্ৰায় ২,৯০০ কিলোমিটাৰ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-007",
+    "q": {
+      "en": "What is the innermost layer of the Earth?",
+      "as": "পৃথিৱীৰ আটাইতকৈ ভিতৰৰ স্তৰটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The Mohorovicic discontinuity.",
+        "as": "মহোৰোভিচিক অসংগতি।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The inner core.",
+      "as": "অন্তৰ্ কেৰ্নেল।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-008",
+    "q": {
+      "en": "What is the inner core made of?",
+      "as": "অন্তৰ্ কেৰ্নেল কিয় গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Seven major plates.",
+        "as": "সাতখন মুখ্য প্লেট।"
+      },
+      {
+        "en": "Solid iron and nickel.",
+        "as": "কঠিন লোহা আৰু নিকেল।"
+      },
+      {
+        "en": "Mauna Loa in Hawaii.",
+        "as": "হাৱাইত অৱস্থিত মাউনা লোৱা।"
+      },
+      {
+        "en": "Active, dormant and extinct.",
+        "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Solid iron and nickel.",
+      "as": "কঠিন লোহা আৰু নিকেল।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-009",
+    "q": {
+      "en": "What is the radius of the Earth?",
+      "as": "পৃথিৱীৰ ব্যাসাৰ্ধ কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 6,371 kilometres.",
+        "as": "প্ৰায় ৬,৩৭১ কিলোমিটাৰ।"
+      },
+      {
+        "en": "About 2,000 kilometres",
+        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 4,500 kilometres",
+        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 12,000 kilometres",
+        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About 6,371 kilometres.",
+      "as": "প্ৰায় ৬,৩৭১ কিলোমিটাৰ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-010",
+    "q": {
+      "en": "What is the temperature of the Earth's core?",
+      "as": "পৃথিৱীৰ কেৰ্নেলৰ উষ্ণতা কিমান?"
+    },
+    "options": [
+      {
+        "en": "A stratovolcano",
+        "as": "ষ্ট্ৰেটো আগ্নেয়গিৰি"
+      },
+      {
+        "en": "A cinder cone",
+        "as": "চিণ্ডাৰ শংকু"
+      },
+      {
+        "en": "About 5,000 to 6,000 degrees Celsius.",
+        "as": "প্ৰায় ৫,০০০ৰ পৰা ৬,০০০ ডিগ্ৰী চেলছিয়াছ।"
+      },
+      {
+        "en": "A shield volcano",
+        "as": "শিল্ড আগ্নেয়গিৰি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "About 5,000 to 6,000 degrees Celsius.",
+      "as": "প্ৰায় ৫,০০০ৰ পৰা ৬,০০০ ডিগ্ৰী চেলছিয়াছ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-011",
+    "q": {
+      "en": "What is the 'lithosphere'?",
+      "as": "'লিথোস্ফিয়াৰ' কি?"
+    },
+    "options": [
+      {
+        "en": "The belt of volcanoes and earthquakes around the Pacific Ocean.",
+        "as": "প্ৰশান্ত মহাসাগৰৰ চৌপাশে আগ্নেয়গিৰি আৰু ভূমিকম্পৰ অঞ্চল।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+      "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-012",
+    "q": {
+      "en": "What is the 'asthenosphere'?",
+      "as": "'অস্থেনোস্ফিয়াৰ' কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The belt of volcanoes and earthquakes around the Pacific Ocean.",
+        "as": "প্ৰশান্ত মহাসাগৰৰ চৌপাশে আগ্নেয়গিৰি আৰু ভূমিকম্পৰ অঞ্চল।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The semi-molten layer of the upper mantle on which the plates move.",
+      "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-013",
+    "q": {
+      "en": "Who proposed the theory of continental drift?",
+      "as": "মহাদেশীয় প্ৰবাহ তত্ত্ব কোনে আগবঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "The Indo-Australian plate",
+        "as": "ইণ্ডো-অষ্ট্ৰেলিয়ান প্লেট"
+      },
+      {
+        "en": "Alfred Wegener, in 1912.",
+        "as": "আলফ্ৰেড ৱেগেনেৰ, ১৯১২ চনত।"
+      },
+      {
+        "en": "Gondwanaland",
+        "as": "গণ্ডোৱানালেণ্ড"
+      },
+      {
+        "en": "Pangaea",
+        "as": "পেনজিয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Alfred Wegener, in 1912.",
+      "as": "আলফ্ৰেড ৱেগেনেৰ, ১৯১২ চনত।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-014",
+    "q": {
+      "en": "What is the 'Pangaea'?",
+      "as": "'পেঞ্জিয়া' কি?"
+    },
+    "options": [
+      {
+        "en": "A convergent boundary",
+        "as": "অভিসাৰী সীমা"
+      },
+      {
+        "en": "A divergent boundary",
+        "as": "অপসাৰী সীমা"
+      },
+      {
+        "en": "The supercontinent that existed about 200 million years ago.",
+        "as": "প্ৰায় ২০০ মিলিয়ন বছৰ আগে অস্তিত্ব থকা মহা-মহাদেশ।"
+      },
+      {
+        "en": "Lava",
+        "as": "লাভা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The supercontinent that existed about 200 million years ago.",
+      "as": "প্ৰায় ২০০ মিলিয়ন বছৰ আগে অস্তিত্ব থকা মহা-মহাদেশ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-015",
+    "q": {
+      "en": "How many major tectonic plates are there on the Earth?",
+      "as": "পৃথিৱীত কিমানখন মুখ্য টেক্টনিক প্লেট আছে?"
+    },
+    "options": [
+      {
+        "en": "Mauna Loa in Hawaii.",
+        "as": "হাৱাইত অৱস্থিত মাউনা লোৱা।"
+      },
+      {
+        "en": "Active, dormant and extinct.",
+        "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+      },
+      {
+        "en": "Solid iron and nickel.",
+        "as": "কঠিন লোহা আৰু নিকেল।"
+      },
+      {
+        "en": "Seven major plates.",
+        "as": "সাতখন মুখ্য প্লেট।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Seven major plates.",
+      "as": "সাতখন মুখ্য প্লেট।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-016",
+    "q": {
+      "en": "Which is the largest tectonic plate?",
+      "as": "বৃহত্তম টেক্টনিক প্লেট কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Pacific plate.",
+        "as": "প্ৰশান্ত মহাসাগৰীয় প্লেট।"
+      },
+      {
+        "en": "A cinder cone",
+        "as": "চিণ্ডাৰ শংকু"
+      },
+      {
+        "en": "Magma",
+        "as": "মেগমা"
+      },
+      {
+        "en": "Lava",
+        "as": "লাভা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Pacific plate.",
+      "as": "প্ৰশান্ত মহাসাগৰীয় প্লেট।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-017",
+    "q": {
+      "en": "What is the 'ring of fire'?",
+      "as": "'ফায়াৰ ৰিং' কি?"
+    },
+    "options": [
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The belt of volcanoes and earthquakes around the Pacific Ocean.",
+        "as": "প্ৰশান্ত মহাসাগৰৰ চৌপাশে আগ্নেয়গিৰি আৰু ভূমিকম্পৰ অঞ্চল।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The belt of volcanoes and earthquakes around the Pacific Ocean.",
+      "as": "প্ৰশান্ত মহাসাগৰৰ চৌপাশে আগ্নেয়গিৰি আৰু ভূমিকম্পৰ অঞ্চল।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-018",
+    "q": {
+      "en": "What happens at the convergent plate boundaries?",
+      "as": "অভিসাৰী প্লেট সীমান্তত কি ঘটে?"
+    },
+    "options": [
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "Plates collide, forming mountains, and causing earthquakes.",
+        "as": "প্লেট সংঘৰ্ষ হয়, পৰ্বত গঠন হয় আৰু ভূমিকম্প হয়।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Plates collide, forming mountains, and causing earthquakes.",
+      "as": "প্লেট সংঘৰ্ষ হয়, পৰ্বত গঠন হয় আৰু ভূমিকম্প হয়।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-019",
+    "q": {
+      "en": "What happens at the divergent plate boundaries?",
+      "as": "অপসাৰী প্লেট সীমান্তত কি ঘটে?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "Plates move apart, forming new crust and mid-oceanic ridges.",
+        "as": "প্লেট পৃথক হয়, নতুন ভূত্বক আৰু মধ্য-মহাসাগৰীয় শিখৰ গঠন হয়।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Plates move apart, forming new crust and mid-oceanic ridges.",
+      "as": "প্লেট পৃথক হয়, নতুন ভূত্বক আৰু মধ্য-মহাসাগৰীয় শিখৰ গঠন হয়।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-020",
+    "q": {
+      "en": "What is a volcano?",
+      "as": "আগ্নেয়গিৰি কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "An opening in the Earth's crust through which magma erupts.",
+        "as": "যি মাজেৰে মেগমা ওলাই আহে সেই ভূত্বকৰ মুখ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An opening in the Earth's crust through which magma erupts.",
+      "as": "যি মাজেৰে মেগমা ওলাই আহে সেই ভূত্বকৰ মুখ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-021",
+    "q": {
+      "en": "What is magma called when it reaches the surface?",
+      "as": "মেগমাই ভূ-পৃষ্ঠত উপনীত হ'লে কাক বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Harry Hess.",
+        "as": "হেৰি হেছ।"
+      },
+      {
+        "en": "Pangaea",
+        "as": "পেনজিয়া"
+      },
+      {
+        "en": "Lava.",
+        "as": "লাভা।"
+      },
+      {
+        "en": "Kilauea.",
+        "as": "কিলাউৱা।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lava.",
+      "as": "লাভা।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-022",
+    "q": {
+      "en": "What are the three types of volcanoes?",
+      "as": "আগ্নেয়গিৰিৰ তিনিটা প্ৰকাৰ কি কি?"
+    },
+    "options": [
+      {
+        "en": "Solid iron and nickel.",
+        "as": "কঠিন লোহা আৰু নিকেল।"
+      },
+      {
+        "en": "Active, dormant and extinct.",
+        "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+      },
+      {
+        "en": "Mauna Loa in Hawaii.",
+        "as": "হাৱাইত অৱস্থিত মাউনা লোৱা।"
+      },
+      {
+        "en": "Seven major plates.",
+        "as": "সাতখন মুখ্য প্লেট।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Active, dormant and extinct.",
+      "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-023",
+    "q": {
+      "en": "What is a 'shield volcano'?",
+      "as": "'শ্বিল্ড আগ্নেয়গিৰি' কি?"
+    },
+    "options": [
+      {
+        "en": "A broad volcano formed by low-viscosity lava, like Mauna Loa.",
+        "as": "কম সান্দহ লাভাৰে গঠিত বহল আগ্নেয়গিৰি, মাউনা লোৱা দৰে।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A broad volcano formed by low-viscosity lava, like Mauna Loa.",
+      "as": "কম সান্দহ লাভাৰে গঠিত বহল আগ্নেয়গিৰি, মাউনা লোৱা দৰে।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-024",
+    "q": {
+      "en": "What is a 'stratovolcano'?",
+      "as": "'ষ্ট্ৰেটো আগ্নেয়গিৰি' কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "A tall cone-shaped volcano made of layers of lava and ash.",
+        "as": "লাভা আৰু ছাইৰ স্তৰে গঠিত ওখ শংকু আকৃতিৰ আগ্নেয়গিৰি।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A tall cone-shaped volcano made of layers of lava and ash.",
+      "as": "লাভা আৰু ছাইৰ স্তৰে গঠিত ওখ শংকু আকৃতিৰ আগ্নেয়গিৰি।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-025",
+    "q": {
+      "en": "Which is the largest active volcano of the world?",
+      "as": "বিশ্বৰ বৃহত্তম সক্ৰিয় আগ্নেয়গিৰি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Seven major plates.",
+        "as": "সাতখন মুখ্য প্লেট।"
+      },
+      {
+        "en": "Active, dormant and extinct.",
+        "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+      },
+      {
+        "en": "Mauna Loa in Hawaii.",
+        "as": "হাৱাইত অৱস্থিত মাউনা লোৱা।"
+      },
+      {
+        "en": "Solid iron and nickel.",
+        "as": "কঠিন লোহা আৰু নিকেল।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mauna Loa in Hawaii.",
+      "as": "হাৱাইত অৱস্থিত মাউনা লোৱা।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-026",
+    "q": {
+      "en": "What is the 'Mount Fuji'?",
+      "as": "'মাউণ্ট ফুজি' কি?"
+    },
+    "options": [
+      {
+        "en": "Magma",
+        "as": "মেগমা"
+      },
+      {
+        "en": "The highest active volcano of Japan, about 3,776 metres.",
+        "as": "জাপানৰ সৰ্বোচ্চ সক্ৰিয় আগ্নেয়গিৰি, প্ৰায় ৩,৭৭৬ মিটাৰ।"
+      },
+      {
+        "en": "A convergent boundary",
+        "as": "অভিসাৰী সীমা"
+      },
+      {
+        "en": "Lava",
+        "as": "লাভা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The highest active volcano of Japan, about 3,776 metres.",
+      "as": "জাপানৰ সৰ্বোচ্চ সক্ৰিয় আগ্নেয়গিৰি, প্ৰায় ৩,৭৭৬ মিটাৰ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-027",
+    "q": {
+      "en": "Which is the highest volcano of the world?",
+      "as": "বিশ্বৰ সৰ্বোচ্চ আগ্নেয়গিৰি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Nevado Ojos del Salado, in the Andes.",
+        "as": "এণ্ডেছত অৱস্থিত নেভাডো অ'হ'ছ দেল চালাডো।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nevado Ojos del Salado, in the Andes.",
+      "as": "এণ্ডেছত অৱস্থিত নেভাডো অ'হ'ছ দেল চালাডো।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-028",
+    "q": {
+      "en": "What is the 'mid-oceanic ridge'?",
+      "as": "'মধ্য-মহাসাগৰীয় শিখৰ' কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "An underwater mountain range formed at the divergent boundaries.",
+        "as": "অপসাৰী সীমান্তত গঠিত পানীৰ তলৰ পৰ্বতমালা।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An underwater mountain range formed at the divergent boundaries.",
+      "as": "অপসাৰী সীমান্তত গঠিত পানীৰ তলৰ পৰ্বতমালা।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-029",
+    "q": {
+      "en": "Which is the longest mountain range of the world?",
+      "as": "বিশ্বৰ দীঘলতম পৰ্বতমালা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Magma",
+        "as": "মেগমা"
+      },
+      {
+        "en": "Lava",
+        "as": "লাভা"
+      },
+      {
+        "en": "The mid-oceanic ridge system (about 65,000 km), led by the Andes on land.",
+        "as": "মধ্য-মহাসাগৰীয় শিখৰ ব্যৱস্থা (প্ৰায় ৬৫,০০০ কিলোমিটাৰ), স্থলত এণ্ডেছ আগবঢ়াইছে।"
+      },
+      {
+        "en": "A cinder cone",
+        "as": "চিণ্ডাৰ শংকু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The mid-oceanic ridge system (about 65,000 km), led by the Andes on land.",
+      "as": "মধ্য-মহাসাগৰীয় শিখৰ ব্যৱস্থা (প্ৰায় ৬৫,০০০ কিলোমিটাৰ), স্থলত এণ্ডেছ আগবঢ়াইছে।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-030",
+    "q": {
+      "en": "What is the theory of plate tectonics?",
+      "as": "প্লেট টেক্টনিক্স তত্ত্ব কি?"
+    },
+    "options": [
+      {
+        "en": "The theory that the Earth's lithosphere is divided into moving plates.",
+        "as": "পৃথিৱীৰ লিথোস্ফিয়াৰ গতিশীল প্লেটত বিভক্ত হোৱা তত্ত্ব।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The theory that the Earth's lithosphere is divided into moving plates.",
+      "as": "পৃথিৱীৰ লিথোস্ফিয়াৰ গতিশীল প্লেটত বিভক্ত হোৱা তত্ত্ব।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-031",
+    "q": {
+      "en": "What is the boundary between the crust and the mantle called?",
+      "as": "ভূত্বক আৰু মেন্টলৰ মাজৰ সীমাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      },
+      {
+        "en": "The Mohorovicic discontinuity.",
+        "as": "মহোৰোভিচিক অসংগতি।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Mohorovicic discontinuity.",
+      "as": "মহোৰোভিচিক অসংগতি।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-032",
+    "q": {
+      "en": "What is the boundary between the mantle and the core called?",
+      "as": "মেন্টল আৰু কেন্দ্ৰৰ মাজৰ সীমাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The Gutenberg discontinuity.",
+        "as": "গুটেনবাৰ্গ অসংগতি।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gutenberg discontinuity.",
+      "as": "গুটেনবাৰ্গ অসংগতি।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-033",
+    "q": {
+      "en": "Which earthquake waves travel fastest?",
+      "as": "কোন ভূমিকম্পীয় তৰংগ সৰ্বাধিক দ্ৰুতগতিত চলে?"
+    },
+    "options": [
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      },
+      {
+        "en": "The primary (P) waves.",
+        "as": "প্ৰাথমিক (P) তৰংগ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The primary (P) waves.",
+      "as": "প্ৰাথমিক (P) তৰংগ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-034",
+    "q": {
+      "en": "Which earthquake waves cannot pass through liquids?",
+      "as": "কোন ভূমিকম্পীয় তৰংগ তৰলৰ মাজেৰে যাব নোৱাৰে?"
+    },
+    "options": [
+      {
+        "en": "The secondary (S) waves.",
+        "as": "গৌণ (S) তৰংগ।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      },
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The secondary (S) waves.",
+      "as": "গৌণ (S) তৰংগ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-035",
+    "q": {
+      "en": "What is a 'hot spot' in volcanology?",
+      "as": "আগ্নেয়গিৰি বিদ্যাত 'হট স্পট' কি?"
+    },
+    "options": [
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "A fixed plume of magma rising through the mantle.",
+        "as": "মেন্টলৰ মাজেৰে ওপৰলৈ উঠা মেগমাৰ স্থিৰ স্তম্ভ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A fixed plume of magma rising through the mantle.",
+      "as": "মেন্টলৰ মাজেৰে ওপৰলৈ উঠা মেগমাৰ স্থিৰ স্তম্ভ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-036",
+    "q": {
+      "en": "Which island chain was formed by a hot spot?",
+      "as": "কোন দ্বীপশ্ৰেণী হট স্পটৰ দ্বাৰা গঠিত?"
+    },
+    "options": [
+      {
+        "en": "The mantle.",
+        "as": "আচ্ছাদনী।"
+      },
+      {
+        "en": "The inner core.",
+        "as": "অন্তৰ্ কেৰ্নেল।"
+      },
+      {
+        "en": "The Hawaiian islands.",
+        "as": "হাৱাই দ্বীপপুঞ্জ।"
+      },
+      {
+        "en": "The crust.",
+        "as": "ভূত্বক।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Hawaiian islands.",
+      "as": "হাৱাই দ্বীপপুঞ্জ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-037",
+    "q": {
+      "en": "What is a 'caldera'?",
+      "as": "'কেলডেৰা' কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "A large depression formed by the collapse of a volcano.",
+        "as": "আগ্নেয়গিৰি ধ্বংস হোৱাৰ ফলত সৃষ্টি হোৱা ডাঙৰ খাদ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A large depression formed by the collapse of a volcano.",
+      "as": "আগ্নেয়গিৰি ধ্বংস হোৱাৰ ফলত সৃষ্টি হোৱা ডাঙৰ খাদ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-038",
+    "q": {
+      "en": "What is a 'geyser'?",
+      "as": "'গেইজাৰ' কি?"
+    },
+    "options": [
+      {
+        "en": "A hot spring that throws out water and steam at intervals.",
+        "as": "সময়ৰ অন্তৰালত পানী আৰু ভাপ বাহিৰ কৰা উষ্ণ ঝৰণা।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A hot spring that throws out water and steam at intervals.",
+      "as": "সময়ৰ অন্তৰালত পানী আৰু ভাপ বাহিৰ কৰা উষ্ণ ঝৰণা।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-039",
+    "q": {
+      "en": "Which volcano destroyed Pompeii?",
+      "as": "কোন আগ্নেয়গিৰিয়ে পম্পেই ধ্বংস কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Pacific plate",
+        "as": "প্ৰশান্ত মহাসাগৰীয় প্লেট"
+      },
+      {
+        "en": "Mount Vesuvius.",
+        "as": "মাউণ্ট ভেছুভিয়াছ।"
+      },
+      {
+        "en": "The African plate",
+        "as": "আফ্ৰিকান প্লেট"
+      },
+      {
+        "en": "The Eurasian plate",
+        "as": "ইউৰেছিয়ান প্লেট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mount Vesuvius.",
+      "as": "মাউণ্ট ভেছুভিয়াছ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-040",
+    "q": {
+      "en": "Which is the most active volcano of Hawaii?",
+      "as": "হাৱাইৰ সৰ্বাধিক সক্ৰিয় আগ্নেয়গিৰি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lava.",
+        "as": "লাভা।"
+      },
+      {
+        "en": "Kilauea.",
+        "as": "কিলাউৱা।"
+      },
+      {
+        "en": "Pangaea",
+        "as": "পেনজিয়া"
+      },
+      {
+        "en": "Harry Hess.",
+        "as": "হেৰি হেছ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kilauea.",
+      "as": "কিলাউৱা।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-041",
+    "q": {
+      "en": "What are the 'Deccan Traps'?",
+      "as": "'দাক্ষিণাত্য ট্ৰেপ' কি?"
+    },
+    "options": [
+      {
+        "en": "The basaltic lava plateau of western India.",
+        "as": "পশ্চিম ভাৰতৰ বেছাল্ট লাভাৰ মালভূমি।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The basaltic lava plateau of western India.",
+      "as": "পশ্চিম ভাৰতৰ বেছাল্ট লাভাৰ মালভূমি।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-042",
+    "q": {
+      "en": "What is a 'subduction zone'?",
+      "as": "'সাবডাক্ছন অঞ্চল' কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The region where one plate sinks beneath another.",
+        "as": "য'ত এখন প্লেট আন এখনৰ তললৈ নামি যায়।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The region where one plate sinks beneath another.",
+      "as": "য'ত এখন প্লেট আন এখনৰ তললৈ নামি যায়।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-043",
+    "q": {
+      "en": "Who proposed the theory of sea-floor spreading?",
+      "as": "সাগৰতলী বিস্তাৰৰ তত্ত্ব কোনে আগবঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "Kilauea.",
+        "as": "কিলাউৱা।"
+      },
+      {
+        "en": "Pangaea",
+        "as": "পেনজিয়া"
+      },
+      {
+        "en": "Harry Hess.",
+        "as": "হেৰি হেছ।"
+      },
+      {
+        "en": "Lava.",
+        "as": "লাভা।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Harry Hess.",
+      "as": "হেৰি হেছ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-044",
+    "q": {
+      "en": "What is the 'San Andreas Fault'?",
+      "as": "'ছান আন্দ্ৰিয়াছ ফল্ট' কি?"
+    },
+    "options": [
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "A transform fault in California.",
+        "as": "কেলিফৰ্ণিয়াত থকা ৰূপান্তৰ ফল্ট।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A transform fault in California.",
+      "as": "কেলিফৰ্ণিয়াত থকা ৰূপান্তৰ ফল্ট।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-045",
+    "q": {
+      "en": "What is an 'anticline'?",
+      "as": "'এণ্টিক্লাইন' কি?"
+    },
+    "options": [
+      {
+        "en": "An upward fold of rock layers.",
+        "as": "শিলাস্তৰৰ ওপৰমুৱা ভাঁজ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An upward fold of rock layers.",
+      "as": "শিলাস্তৰৰ ওপৰমুৱা ভাঁজ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-046",
+    "q": {
+      "en": "What is a 'syncline'?",
+      "as": "'ছিনক্লাইন' কি?"
+    },
+    "options": [
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "A downward fold of rock layers.",
+        "as": "শিলাস্তৰৰ তলমুৱা ভাঁজ।"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A downward fold of rock layers.",
+      "as": "শিলাস্তৰৰ তলমুৱা ভাঁজ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-047",
+    "q": {
+      "en": "What is the 'Ring of Fire' known for?",
+      "as": "'ৰিং অৱ ফায়াৰ' কি বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "The lithosphere",
+        "as": "শিলামণ্ডল"
+      },
+      {
+        "en": "The asthenosphere",
+        "as": "দুৰ্বলমণ্ডল"
+      },
+      {
+        "en": "About 75 per cent of the world's volcanoes.",
+        "as": "বিশ্বৰ প্ৰায় ৭৫ শতাংশ আগ্নেয়গিৰি।"
+      },
+      {
+        "en": "The inner core",
+        "as": "অন্তৰ্য কেন্দ্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "About 75 per cent of the world's volcanoes.",
+      "as": "বিশ্বৰ প্ৰায় ৭৫ শতাংশ আগ্নেয়গিৰি।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-048",
+    "q": {
+      "en": "Which is the largest volcano of the solar system?",
+      "as": "সৌৰজগতৰ বৃহত্তম আগ্নেয়গিৰি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Solid iron and nickel.",
+        "as": "কঠিন লোহা আৰু নিকেল।"
+      },
+      {
+        "en": "Olympus Mons on Mars.",
+        "as": "মংগল গ্ৰহৰ অলিম্পাছ মনছ।"
+      },
+      {
+        "en": "Active, dormant and extinct.",
+        "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+      },
+      {
+        "en": "Seven major plates.",
+        "as": "সাতখন মুখ্য প্লেট।"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Olympus Mons on Mars.",
+      "as": "মংগল গ্ৰহৰ অলিম্পাছ মনছ।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-049",
+    "q": {
+      "en": "What is a 'lava plateau'?",
+      "as": "'লাভা মালভূমি' কি?"
+    },
+    "options": [
+      {
+        "en": "A plateau formed by repeated lava flows.",
+        "as": "পুনৰ পুনৰ লাভা প্ৰবাহৰ দ্বাৰা গঠিত মালভূমি।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      },
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A plateau formed by repeated lava flows.",
+      "as": "পুনৰ পুনৰ লাভা প্ৰবাহৰ দ্বাৰা গঠিত মালভূমি।"
+    }
+  },
+  {
+    "id": "earth-layers-plates-volcanoes-050",
+    "q": {
+      "en": "What is the 'Benioff zone'?",
+      "as": "'বিনিঅফ অঞ্চল' কি?"
+    },
+    "options": [
+      {
+        "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
+        "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      },
+      {
+        "en": "The semi-molten layer of the upper mantle on which the plates move.",
+        "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      },
+      {
+        "en": "The inclined zone of earthquakes in a subduction zone.",
+        "as": "সাবডাক্ছন অঞ্চলত ভূমিকম্পৰ ঢাল খোৱা মণ্ডল।"
+      },
+      {
+        "en": "The crust, the mantle and the core.",
+        "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The inclined zone of earthquakes in a subduction zone.",
+      "as": "সাবডাক্ছন অঞ্চলত ভূমিকম্পৰ ঢাল খোৱা মণ্ডল।"
+    }
+  }
+]
