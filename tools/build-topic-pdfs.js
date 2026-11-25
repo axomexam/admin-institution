@@ -237,6 +237,11 @@ body {
 /* Assamese editions set the whole body in the Bengali face. */
 body.lang-as { font-family: "Noto Sans Bengali", "Noto Serif Bengali", sans-serif; font-size: 9.4pt; line-height: 1.55; }
 .as-title, .as-body { font-family: "Noto Sans Bengali", "Noto Serif Bengali", sans-serif; }
+/* Tracking inserts a gap between every grapheme cluster, which tears conjuncts
+   apart in a Brahmic script, so the Assamese labels run untracked. */
+body.lang-as .cover-kicker,
+body.lang-as .sec-kicker,
+body.lang-as .ans-tag { letter-spacing: 0; }
 
 /* diagonal repeating watermark, printed on every page.
  * z-index -1 keeps it behind the page content: at 0 a positioned layer paints
