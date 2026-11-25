@@ -2,1328 +2,1298 @@
   {
     "id": "minerals-oil-belts-sea-routes-world-001",
     "q": {
-      "en": "Which is the largest producer of coal in the world?",
-      "as": "বিশ্বৰ বৃহত্তম কয়লা উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which is the largest coal producing country in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ কয়লা উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "USA",
+        "as": "আমেৰিকা"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China",
+      "as": "চীন"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-002",
     "q": {
-      "en": "Which is the largest producer of iron ore in the world?",
-      "as": "বিশ্বৰ বৃহত্তম লোহা আকৰিক উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which country has the largest proven coal reserves?",
+      "as": "আটাইতকৈ বেছি প্ৰমাণিত কয়লা ভাণ্ডাৰ কোন দেশত?"
     },
     "options": [
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "USA",
+        "as": "আমেৰিকা"
       },
       {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Russia",
+        "as": "ৰাছিয়া"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Australia.",
-      "as": "অষ্ট্ৰেলিয়া।"
+      "en": "USA",
+      "as": "আমেৰিকা"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-003",
     "q": {
-      "en": "Which is the largest producer of petroleum in the world?",
-      "as": "বিশ্বৰ বৃহত্তম পেট্ৰ'লিয়াম উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which country is the second largest coal producer in the world?",
+      "as": "বিশ্বৰ দ্বিতীয় সৰ্ববৃহৎ কয়লা উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
+        "en": "USA",
+        "as": "আমেৰিকা"
       },
       {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "India",
+      "as": "ভাৰত"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-004",
     "q": {
-      "en": "Which is the largest oil producing region of the world?",
-      "as": "বিশ্বৰ বৃহত্তম তেল উৎপাদন অঞ্চল কোনটো?"
+      "en": "Which coal field of India is the largest?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ কয়লা ক্ষেত্ৰ কোনটো?"
     },
     "options": [
       {
-        "en": "The Middle East (Persian Gulf).",
-        "as": "মধ্যপ্ৰাচ্য (পাৰ্চিয়ান উপসাগৰ)।"
+        "en": "Jharia",
+        "as": "ঝাৰিয়া"
       },
       {
-        "en": "OPEC",
-        "as": "অ'পেক"
+        "en": "Raniganj",
+        "as": "ৰাণীগঞ্জ"
       },
       {
-        "en": "The Strait of Hormuz",
-        "as": "হৰমুজ প্ৰণালী"
+        "en": "Korba",
+        "as": "কৰ্বা"
       },
       {
-        "en": "The Silk Road",
-        "as": "ৰেশম পথ"
+        "en": "Singrauli",
+        "as": "সিঙৰৌলি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Middle East (Persian Gulf).",
-      "as": "মধ্যপ্ৰাচ্য (পাৰ্চিয়ান উপসাগৰ)।"
+      "en": "Jharia",
+      "as": "ঝাৰিয়া"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-005",
     "q": {
-      "en": "Which country has the largest oil reserves of the world?",
-      "as": "বিশ্বৰ বৃহত্তম তেল মজুত থকা দেশ কোনখন?"
+      "en": "Which country is the largest producer of iron ore?",
+      "as": "আটাইতকৈ ডাঙৰ লো-আকৰ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Venezuela.",
-      "as": "ভেনেজুৱেলা।"
+      "en": "Australia",
+      "as": "অষ্ট্ৰেলিয়া"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-006",
     "q": {
-      "en": "What is OPEC?",
-      "as": "OPEC কি?"
+      "en": "Which country is the largest exporter of iron ore?",
+      "as": "আটাইতকৈ ডাঙৰ লো-আকৰ ৰপ্তানিকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "The sea route around the Cape of Good Hope.",
-        "as": "গুড হোপ কেপৰ চৌপাশে অহা সাগৰীয় পথ।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
+        "en": "Russia",
+        "as": "ৰাছিয়া"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Organization of the Petroleum Exporting Countries.",
-      "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
+      "en": "Australia",
+      "as": "অষ্ট্ৰেলিয়া"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-007",
     "q": {
-      "en": "When was OPEC founded?",
-      "as": "OPEC কেতিয়া প্ৰতিষ্ঠা হৈছিল?"
+      "en": "Which mineral is used to make aluminium?",
+      "as": "এলুমিনিয়াম বনোৱাৰ বাবে কোন খনিজ ব্যৱহাৰ হয়?"
     },
     "options": [
       {
-        "en": "1904",
-        "as": "১৯০৪"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       },
       {
-        "en": "1881",
-        "as": "১৮৮১"
+        "en": "Haematite",
+        "as": "হিমেটাইট"
       },
       {
-        "en": "1859",
-        "as": "১৮৫৯"
+        "en": "Magnetite",
+        "as": "মেগনেটাইট"
       },
       {
-        "en": "In 1960.",
-        "as": "১৯৬০ চনত।"
+        "en": "Gypsum",
+        "as": "জিপছাম"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "In 1960.",
-      "as": "১৯৬০ চনত।"
+      "en": "Bauxite",
+      "as": "বক্সাইট"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-008",
     "q": {
-      "en": "Where is the headquarters of OPEC?",
-      "as": "OPEC-ৰ মুখ্য কাৰ্যালয় ক'ত?"
+      "en": "Which mineral is the main ore of iron?",
+      "as": "লোৰ মূল আকৰ কোন খনিজ?"
     },
     "options": [
       {
-        "en": "In Vienna, Austria.",
-        "as": "অষ্ট্ৰিয়াৰ ভিয়েনাত।"
+        "en": "Haematite",
+        "as": "হিমেটাইট"
       },
       {
-        "en": "Monazite sand.",
-        "as": "ম'নাজাইট বালি।"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       },
       {
-        "en": "Liquefied natural gas.",
-        "as": "তৰল প্ৰাকৃতিক গেছ।"
+        "en": "Gypsum",
+        "as": "জিপছাম"
       },
       {
-        "en": "The Panama route",
-        "as": "পানামা পথ"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "In Vienna, Austria.",
-      "as": "অষ্ট্ৰিয়াৰ ভিয়েনাত।"
+      "en": "Haematite",
+      "as": "হিমেটাইট"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-009",
     "q": {
-      "en": "Which is the largest producer of natural gas in the world?",
-      "as": "বিশ্বৰ বৃহত্তম প্ৰাকৃতিক গেছ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which mineral is used in making cement?",
+      "as": "চিমেণ্ট বনোৱাত কোন খনিজ ব্যৱহাৰ হয়?"
     },
     "options": [
       {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
+        "en": "Limestone",
+        "as": "চূণশিলা"
       },
       {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       },
       {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       },
       {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
+        "en": "Manganese",
+        "as": "মেংগানিজ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "Limestone",
+      "as": "চূণশিলা"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-010",
     "q": {
-      "en": "Which is the largest producer of gold in the world?",
-      "as": "বিশ্বৰ বৃহত্তম সোণ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which country has the largest proven oil reserves?",
+      "as": "আটাইতকৈ বেছি প্ৰমাণিত তেল ভাণ্ডাৰ কোন দেশত?"
     },
     "options": [
       {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "Venezuela",
+        "as": "ভেনিজুৱেলা"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Saudi Arabia",
+        "as": "ছৌদি আৰব"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Iran",
+        "as": "ইৰাণ"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Iraq",
+        "as": "ইৰাক"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "Venezuela",
+      "as": "ভেনিজুৱেলা"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-011",
     "q": {
-      "en": "Which is the largest producer of silver in the world?",
-      "as": "বিশ্বৰ বৃহত্তম ৰূপ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which country has the largest proven natural gas reserves?",
+      "as": "আটাইতকৈ বেছি প্ৰমাণিত প্ৰাকৃতিক গেছ ভাণ্ডাৰ কোন দেশত?"
     },
     "options": [
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Mexico.",
-      "as": "মেক্সিকো।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-012",
-    "q": {
-      "en": "Which is the largest producer of bauxite in the world?",
-      "as": "বিশ্বৰ বৃহত্তম বক্সাইট উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Australia.",
-      "as": "অষ্ট্ৰেলিয়া।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-013",
-    "q": {
-      "en": "Which is the largest producer of copper in the world?",
-      "as": "বিশ্বৰ বৃহত্তম তাম উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "Chile.",
-        "as": "চিলি।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Chile.",
-      "as": "চিলি।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-014",
-    "q": {
-      "en": "Which is the largest producer of diamond in the world by volume?",
-      "as": "পৰিমাণৰ দিশত বিশ্বৰ বৃহত্তম হীৰা উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Russia.",
-        "as": "ৰাছিয়া।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Russia.",
-      "as": "ৰাছিয়া।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-015",
-    "q": {
-      "en": "Which is the largest producer of manganese in the world?",
-      "as": "বিশ্বৰ বৃহত্তম মেংগানিজ উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "South Africa.",
-        "as": "দক্ষিণ আফ্ৰিকা।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "South Africa.",
-      "as": "দক্ষিণ আফ্ৰিকা।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-016",
-    "q": {
-      "en": "Which is the largest producer of uranium in the world?",
-      "as": "বিশ্বৰ বৃহত্তম ইউৰেনিয়াম উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Kazakhstan.",
-        "as": "কাজাখস্তান।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Kazakhstan.",
-      "as": "কাজাখস্তান।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-017",
-    "q": {
-      "en": "What is the 'oil belt' of the world?",
-      "as": "বিশ্বৰ 'তেল অঞ্চল' কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      },
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      },
-      {
-        "en": "The sea route around the Cape of Good Hope.",
-        "as": "গুড হোপ কেপৰ চৌপাশে অহা সাগৰীয় পথ।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The Persian Gulf region of the Middle East.",
-      "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-018",
-    "q": {
-      "en": "Which is the world's most important sea route?",
-      "as": "বিশ্বৰ সবাতোকৈ গুৰুত্বপূৰ্ণ সাগৰীয় পথ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The sea route around the Cape of Good Hope.",
-        "as": "গুড হোপ কেপৰ চৌপাশে অহা সাগৰীয় পথ।"
-      },
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      },
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Suez Canal route connecting Europe and Asia.",
-      "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-019",
-    "q": {
-      "en": "Which sea route connects the Atlantic with the Pacific through the Panama Canal?",
-      "as": "পানামা খালেৰে আটলাণ্টিক আৰু প্ৰশান্ত সংযোগী সাগৰীয় পথ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
-      },
-      {
-        "en": "The Jamnagar refinery of India.",
-        "as": "ভাৰতৰ জামনগৰ শোধনাগাৰ।"
-      },
-      {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
-      },
-      {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Panama route.",
-      "as": "পানামা পথ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-020",
-    "q": {
-      "en": "Which is the busiest sea route of the world?",
-      "as": "বিশ্বৰ ব্যস্ততম সাগৰীয় পথ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
-      },
-      {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
-      },
-      {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
-      },
-      {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The North Atlantic route.",
-      "as": "উত্তৰ আটলাণ্টিক পথ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-021",
-    "q": {
-      "en": "What is the 'Cape route'?",
-      "as": "'কেপ পথ' কি?"
-    },
-    "options": [
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      },
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      },
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The sea route around the Cape of Good Hope.",
-        "as": "গুড হোপ কেপৰ চৌপাশে অহা সাগৰীয় পথ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The sea route around the Cape of Good Hope.",
-      "as": "গুড হোপ কেপৰ চৌপাশে অহা সাগৰীয় পথ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-022",
-    "q": {
-      "en": "Which is the world's busiest port?",
-      "as": "বিশ্বৰ ব্যস্ততম বন্দৰ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
-      },
-      {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
-      },
-      {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
-      },
-      {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The Shanghai port of China.",
-      "as": "চীনৰ ছাংহাই বন্দৰ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-023",
-    "q": {
-      "en": "Which is the largest port of the world by area?",
-      "as": "মাটিকালিৰ দিশত বিশ্বৰ বৃহত্তম বন্দৰ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The King Abdullah Port of Saudi Arabia.",
-        "as": "চৌদি আৰবৰ কিং আব্দুল্লাহ বন্দৰ।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      },
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The King Abdullah Port of Saudi Arabia.",
-      "as": "চৌদি আৰবৰ কিং আব্দুল্লাহ বন্দৰ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-024",
-    "q": {
-      "en": "What is the 'Strait of Hormuz'?",
-      "as": "'হৰ্মুজ প্ৰণালী' কি?"
-    },
-    "options": [
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      },
-      {
-        "en": "The strategic strait connecting the Persian Gulf with the Gulf of Oman.",
-        "as": "পাৰ্চিয়ান উপসাগৰ আৰু ওমান উপসাগৰ সংযোগী কৌশলগত প্ৰণালী।"
-      },
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The strategic strait connecting the Persian Gulf with the Gulf of Oman.",
-      "as": "পাৰ্চিয়ান উপসাগৰ আৰু ওমান উপসাগৰ সংযোগী কৌশলগত প্ৰণালী।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-025",
-    "q": {
-      "en": "Why is the Strait of Hormuz important?",
-      "as": "হৰ্মুজ প্ৰণালী কিয় গুৰুত্বপূৰ্ণ?"
-    },
-    "options": [
-      {
-        "en": "Kazakhstan",
-        "as": "কাজাখাস্তান"
-      },
-      {
-        "en": "South Africa",
-        "as": "দক্ষিণ আফ্ৰিকা"
-      },
       {
         "en": "Russia",
         "as": "ৰাছিয়া"
       },
       {
-        "en": "About 20% of the world's oil passes through it.",
-        "as": "বিশ্বৰ প্ৰায় ২০% তেল ইয়াৰ মাজেৰে যায়।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "About 20% of the world's oil passes through it.",
-      "as": "বিশ্বৰ প্ৰায় ২০% তেল ইয়াৰ মাজেৰে যায়।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-026",
-    "q": {
-      "en": "Which is the largest oil importing country of the world?",
-      "as": "বিশ্বৰ বৃহত্তম তেল আমদানিকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Iran",
+        "as": "ইৰাণ"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Qatar",
+        "as": "কাটাৰ"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "Turkmenistan",
+        "as": "তুৰ্কমেনিস্তান"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "Russia",
+      "as": "ৰাছিয়া"
     }
   },
   {
-    "id": "minerals-oil-belts-sea-routes-world-027",
+    "id": "minerals-oil-belts-sea-routes-world-012",
     "q": {
-      "en": "What is the 'Arctic route'?",
-      "as": "'আৰ্কটিক পথ' কি?"
+      "en": "Which mineral is used as an insulator in electrical equipment?",
+      "as": "বৈদ্যুতিক সঁজুলিত অন্তৰোধক হিচাপে কোন খনিজ ব্যৱহাৰ হয়?"
     },
     "options": [
       {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       },
       {
-        "en": "The sea route through the Arctic Ocean, made easier by global warming.",
-        "as": "আৰ্কটিক মহাসাগৰৰ মাজেৰে অহা সাগৰীয় পথ, গ্ল'বেল ৱাৰ্মিঙে সহজ কৰিছে।"
+        "en": "Haematite",
+        "as": "হিমেটাইট"
       },
       {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
+        "en": "Gypsum",
+        "as": "জিপছাম"
       },
       {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The sea route through the Arctic Ocean, made easier by global warming.",
-      "as": "আৰ্কটিক মহাসাগৰৰ মাজেৰে অহা সাগৰীয় পথ, গ্ল'বেল ৱাৰ্মিঙে সহজ কৰিছে।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-028",
-    "q": {
-      "en": "Which is the largest producer of tin in the world?",
-      "as": "বিশ্বৰ বৃহত্তম টিন উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "China.",
-      "as": "চীন।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-029",
-    "q": {
-      "en": "Which is the largest producer of zinc in the world?",
-      "as": "বিশ্বৰ বৃহত্তম জিংক উৎপাদনকাৰী দেশ কোনখন?"
-    },
-    "options": [
-      {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "China.",
-      "as": "চীন।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-030",
-    "q": {
-      "en": "What is the 'Silk Road'?",
-      "as": "'চিল্ক ৰোড' কি?"
-    },
-    "options": [
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The ancient trade route connecting China with Europe.",
-        "as": "চীন আৰু ইউৰোপ সংযোগী প্ৰাচীন বাণিজ্য পথ।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      },
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The ancient trade route connecting China with Europe.",
-      "as": "চীন আৰু ইউৰোপ সংযোগী প্ৰাচীন বাণিজ্য পথ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-031",
-    "q": {
-      "en": "Which is the best quality coal?",
-      "as": "সৰ্বোত্তম মানৰ কয়লা কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Anthracite.",
-        "as": "এন্থ্ৰাচাইট।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Anthracite.",
-      "as": "এন্থ্ৰাচাইট।"
+      "en": "Mica",
+      "as": "অভ্ৰ"
     }
   },
   {
-    "id": "minerals-oil-belts-sea-routes-world-032",
+    "id": "minerals-oil-belts-sea-routes-world-013",
     "q": {
-      "en": "Which is the lowest grade of coal?",
-      "as": "সৰ্বনিম্ন মানৰ কয়লা কোনটো?"
+      "en": "Which mineral is used to make plaster of Paris?",
+      "as": "পেৰিছৰ প্লাষ্টাৰ বনোৱাত কোন খনিজ ব্যৱহাৰ হয়?"
     },
     "options": [
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Gypsum",
+        "as": "জিপছাম"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       },
       {
-        "en": "Peat.",
-        "as": "পিট।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Peat.",
-      "as": "পিট।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-033",
-    "q": {
-      "en": "Which country has the largest coal reserves?",
-      "as": "কোন দেশত সৰ্বাধিক কয়লা মজুত আছে?"
-    },
-    "options": [
-      {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
-      },
-      {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
-      },
-      {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
-      },
-      {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-034",
-    "q": {
-      "en": "Which iron ore has the highest iron content?",
-      "as": "কোন লো-আকৰত সৰ্বাধিক লো থাকে?"
-    },
-    "options": [
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Magnetite.",
-        "as": "মেগনেটাইট।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Magnetite.",
-      "as": "মেগনেটাইট।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-035",
-    "q": {
-      "en": "Which country has the largest iron ore reserves?",
-      "as": "কোন দেশত সৰ্বাধিক লো-আকৰ মজুত আছে?"
-    },
-    "options": [
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      },
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "Magnetite",
+        "as": "মেগনেটাইট"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Australia.",
-      "as": "অষ্ট্ৰেলিয়া।"
+      "en": "Gypsum",
+      "as": "জিপছাম"
     }
   },
   {
-    "id": "minerals-oil-belts-sea-routes-world-036",
+    "id": "minerals-oil-belts-sea-routes-world-014",
     "q": {
-      "en": "Which country has the largest natural gas reserves?",
-      "as": "কোন দেশত সৰ্বাধিক প্ৰাকৃতিক গেছ মজুত আছে?"
+      "en": "Which Indian state is the largest producer of mica?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ অভ্ৰ উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Bihar",
+        "as": "বিহাৰ"
       },
       {
-        "en": "Russia.",
-        "as": "ৰাছিয়া।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Russia.",
-      "as": "ৰাছিয়া।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-037",
-    "q": {
-      "en": "Which is the largest oil refinery of the world?",
-      "as": "বিশ্বৰ বৃহত্তম তেল শোধনাগাৰ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
-      },
-      {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
-      },
-      {
-        "en": "The Jamnagar refinery of India.",
-        "as": "ভাৰতৰ জামনগৰ শোধনাগাৰ।"
-      },
-      {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Jamnagar refinery of India.",
-      "as": "ভাৰতৰ জামনগৰ শোধনাগাৰ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-038",
-    "q": {
-      "en": "Which country has the largest lithium reserves?",
-      "as": "কোন দেশত সৰ্বাধিক লিথিয়াম মজুত আছে?"
-    },
-    "options": [
-      {
-        "en": "China.",
-        "as": "চীন।"
-      },
-      {
-        "en": "Chile.",
-        "as": "চিলি।"
-      },
-      {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
-      },
-      {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Chile.",
-      "as": "চিলি।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-039",
-    "q": {
-      "en": "Which country produces the most cobalt?",
-      "as": "সৰ্বাধিক ক'বাল্ট কোন দেশে উৎপাদন কৰে?"
-    },
-    "options": [
-      {
-        "en": "The Democratic Republic of the Congo.",
-        "as": "কংগো গণৰাজ্য।"
-      },
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Democratic Republic of the Congo.",
-      "as": "কংগো গণৰাজ্য।"
+      "en": "Andhra Pradesh",
+      "as": "অন্ধ্ৰ প্ৰদেশ"
     }
   },
   {
-    "id": "minerals-oil-belts-sea-routes-world-040",
+    "id": "minerals-oil-belts-sea-routes-world-015",
     "q": {
-      "en": "Which country produces the most rare earth minerals?",
-      "as": "সৰ্বাধিক বিৰল মৃত্তিকা খনিজ কোন দেশে উৎপাদন কৰে?"
+      "en": "Which country is the largest producer of copper?",
+      "as": "আটাইতকৈ ডাঙৰ তাম উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Chile",
+        "as": "চিলি"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Peru",
+        "as": "পেৰু"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Mexico.",
-        "as": "মেক্সিকো।"
+        "en": "USA",
+        "as": "আমেৰিকা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "Chile",
+      "as": "চিলি"
     }
   },
   {
-    "id": "minerals-oil-belts-sea-routes-world-041",
+    "id": "minerals-oil-belts-sea-routes-world-016",
     "q": {
-      "en": "Which country has the largest thorium reserves?",
-      "as": "কোন দেশত সৰ্বাধিক থ'ৰিয়াম মজুত আছে?"
+      "en": "Which country is the largest producer of bauxite?",
+      "as": "আটাইতকৈ ডাঙৰ বক্সাইট উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Guinea",
+        "as": "গিনি"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "China",
+        "as": "চীন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "India.",
-      "as": "ভাৰত।"
+      "en": "Australia",
+      "as": "অষ্ট্ৰেলিয়া"
     }
   },
   {
-    "id": "minerals-oil-belts-sea-routes-world-042",
+    "id": "minerals-oil-belts-sea-routes-world-017",
     "q": {
-      "en": "Which mineral is the source of thorium in India?",
-      "as": "ভাৰতত থ'ৰিয়ামৰ উৎস কোন খনিজ?"
+      "en": "Which country has the largest bauxite reserves?",
+      "as": "আটাইতকৈ বেছি বক্সাইট ভাণ্ডাৰ কোন দেশত?"
     },
     "options": [
       {
-        "en": "Liquefied natural gas.",
-        "as": "তৰল প্ৰাকৃতিক গেছ।"
+        "en": "Guinea",
+        "as": "গিনি"
       },
       {
         "en": "Australia",
         "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Monazite sand.",
-        "as": "ম'নাজাইট বালি।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
-        "en": "In Vienna, Austria.",
-        "as": "অষ্ট্ৰিয়াৰ ভিয়েনাত।"
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Monazite sand.",
-      "as": "ম'নাজাইট বালি।"
+      "en": "Guinea",
+      "as": "গিনি"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-018",
+    "q": {
+      "en": "Which Indian state is the largest producer of limestone?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ চূণশিলা উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rajasthan",
+      "as": "ৰাজস্থান"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-019",
+    "q": {
+      "en": "What is the name of the largest oil field of India?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ তেল ক্ষেত্ৰৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Mumbai High",
+        "as": "মুম্বাই হাই"
+      },
+      {
+        "en": "Ankleshwar",
+        "as": "আংক্লেশ্বৰ"
+      },
+      {
+        "en": "Naharkatiya",
+        "as": "নাহৰকটীয়া"
+      },
+      {
+        "en": "Rajasthan-Barmer",
+        "as": "ৰাজস্থান-বাৰ্মেৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mumbai High",
+      "as": "মুম্বাই হাই"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-020",
+    "q": {
+      "en": "Which organisation sets the benchmark price of crude oil in India?",
+      "as": "ভাৰতত অশোধিত তেলৰ নিদান মূল্য কোন সংস্থাই নিৰ্ধাৰণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "OPEC",
+        "as": "OPEC"
+      },
+      {
+        "en": "SAARC",
+        "as": "চাৰ্ক"
+      },
+      {
+        "en": "ASEAN",
+        "as": "আছিয়ান"
+      },
+      {
+        "en": "BRICS",
+        "as": "ব্ৰিকছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "OPEC",
+      "as": "OPEC"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-021",
+    "q": {
+      "en": "Which country produces the most lithium?",
+      "as": "সৰ্বাধিক লিথিয়াম কোন দেশে উৎপাদন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "Chile",
+        "as": "চিলি"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Australia",
+      "as": "অষ্ট্ৰেলিয়া"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-022",
+    "q": {
+      "en": "Which mineral is the main source of thorium in India?",
+      "as": "ভাৰতত থ'ৰিয়ামৰ মূল উৎস কোন খনিজ?"
+    },
+    "options": [
+      {
+        "en": "Monazite sands",
+        "as": "ম'নাজাইট বালি"
+      },
+      {
+        "en": "Bauxite",
+        "as": "বক্সাইট"
+      },
+      {
+        "en": "Haematite",
+        "as": "হিমেটাইট"
+      },
+      {
+        "en": "Gypsum",
+        "as": "জিপছাম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Monazite sands",
+      "as": "ম'নাজাইট বালি"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-023",
+    "q": {
+      "en": "Which Indian state is the largest producer of coal?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ কয়লা উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Chhattisgarh",
+        "as": "ছত্তীশগড়"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Jharkhand",
+      "as": "ঝাৰখণ্ড"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-024",
+    "q": {
+      "en": "Which Indian state is the largest producer of iron ore?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ লো-আকৰ উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Chhattisgarh",
+        "as": "ছত্তীশগড়"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Odisha",
+      "as": "ওড়িশা"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-025",
+    "q": {
+      "en": "Which Indian state is the largest producer of petroleum?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ পেট্ৰ'লিয়াম উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rajasthan",
+      "as": "ৰাজস্থান"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-026",
+    "q": {
+      "en": "Which Indian state is the largest producer of natural gas?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ প্ৰাকৃতিক গেছ উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Tripura",
+        "as": "ত্ৰিপুৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Assam",
+      "as": "অসম"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-027",
+    "q": {
+      "en": "Which two countries lie on either side of the Strait of Hormuz?",
+      "as": "হৰমুজ প্ৰণালীৰ দুয়োপাৰে কোন দুখন দেশ আছে?"
+    },
+    "options": [
+      {
+        "en": "Iran and Oman",
+        "as": "ইৰাণ আৰু ওমান"
+      },
+      {
+        "en": "Iraq and Kuwait",
+        "as": "ইৰাক আৰু কুৱেইট"
+      },
+      {
+        "en": "Saudi Arabia and Egypt",
+        "as": "ছৌদি আৰব আৰু ইজিপ্ত"
+      },
+      {
+        "en": "Qatar and Bahrain",
+        "as": "কাটাৰ আৰু বাহৰেইন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Iran and Oman",
+      "as": "ইৰাণ আৰু ওমান"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-028",
+    "q": {
+      "en": "Which sea route was blocked by the container ship Ever Given in 2021?",
+      "as": "২০২১ চনত কণ্টেইনাৰ জাহাজ এভাৰ গিভেনে কোন সাগৰীয় পথ অৱৰোধ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
+      },
+      {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
+      },
+      {
+        "en": "The Strait of Malacca",
+        "as": "মালাকা প্ৰণালী"
+      },
+      {
+        "en": "The Kiel Canal",
+        "as": "কিল খাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Suez Canal",
+      "as": "চুৱেজ খাল"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-029",
+    "q": {
+      "en": "What is the length of the Suez Canal after its 2015 expansion?",
+      "as": "২০১৫ চনৰ সম্প্ৰসাৰণৰ পিছত চুৱেজ খালৰ দীঘ কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 193 km",
+        "as": "প্ৰায় 193 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 120 km",
+        "as": "প্ৰায় 120 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 250 km",
+        "as": "প্ৰায় 250 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 80 km",
+        "as": "প্ৰায় 80 কিলোমিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About 193 km",
+      "as": "প্ৰায় 193 কিলোমিটাৰ"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-030",
+    "q": {
+      "en": "Which canal has no locks and connects the Mediterranean with the Red Sea?",
+      "as": "কোন খালত লক নাই আৰু ভূমধ্য সাগৰক ৰঙা সাগৰৰ সৈতে সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
+      },
+      {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
+      },
+      {
+        "en": "The Kiel Canal",
+        "as": "কিল খাল"
+      },
+      {
+        "en": "The Corinth Canal",
+        "as": "কৰিন্থ খাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Suez Canal",
+      "as": "চুৱেজ খাল"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-031",
+    "q": {
+      "en": "Which canal uses a system of locks to cross a continental divide?",
+      "as": "কোন খালে মহাদেশীয় বিভাজক পাৰ হ'বলৈ লক প্ৰণালী ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
+      },
+      {
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
+      },
+      {
+        "en": "The Kiel Canal",
+        "as": "কিল খাল"
+      },
+      {
+        "en": "The Volga-Don Canal",
+        "as": "ভল্গা-ডন খাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Panama Canal",
+      "as": "পানামা খাল"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-032",
+    "q": {
+      "en": "Which country is the Panama Canal located in?",
+      "as": "পানামা খাল কোন দেশত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Panama",
+        "as": "পানামা"
+      },
+      {
+        "en": "Costa Rica",
+        "as": "কোষ্টা ৰিকা"
+      },
+      {
+        "en": "Nicaragua",
+        "as": "নিকাৰাগুৱা"
+      },
+      {
+        "en": "Colombia",
+        "as": "কলম্বিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Panama",
+      "as": "পানামা"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-033",
+    "q": {
+      "en": "Which is the busiest shipping lane in the world by tonnage?",
+      "as": "টনেজ অনুসৰি বিশ্বৰ আটাইতকৈ ব্যস্ত জাহাজ পথ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Strait of Malacca",
+        "as": "মালাকা প্ৰণালী"
+      },
+      {
+        "en": "The Strait of Hormuz",
+        "as": "হৰমুজ প্ৰণালী"
+      },
+      {
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
+      },
+      {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Strait of Malacca",
+      "as": "মালাকা প্ৰণালী"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-034",
+    "q": {
+      "en": "Which two landmasses does the Strait of Malacca separate?",
+      "as": "মালাকা প্ৰণালীয়ে কোন দুটা ভূখণ্ডক পৃথক কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Malay Peninsula and Sumatra",
+        "as": "মালয় উপদ্বীপ আৰু ছুমাত্ৰা"
+      },
+      {
+        "en": "Java and Borneo",
+        "as": "জাভা আৰু বৰ্ণিঅ'"
+      },
+      {
+        "en": "India and Sri Lanka",
+        "as": "ভাৰত আৰু শ্ৰীলংকা"
+      },
+      {
+        "en": "Australia and New Guinea",
+        "as": "অষ্ট্ৰেলিয়া আৰু নিউ গিনি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Malay Peninsula and Sumatra",
+      "as": "মালয় উপদ্বীপ আৰু ছুমাত্ৰা"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-035",
+    "q": {
+      "en": "Which is the largest port in the world by container throughput?",
+      "as": "কণ্টেইনাৰ পৰিবহণ অনুসৰি বিশ্বৰ আটাইতকৈ ডাঙৰ বন্দৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Shanghai",
+        "as": "ছাংহাই"
+      },
+      {
+        "en": "Singapore",
+        "as": "ছিংগাপুৰ"
+      },
+      {
+        "en": "Rotterdam",
+        "as": "ৰটাৰ্ডাম"
+      },
+      {
+        "en": "Ningbo-Zhoushan",
+        "as": "নিংব'-ঝৌছান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Shanghai",
+      "as": "ছাংহাই"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-036",
+    "q": {
+      "en": "Which is the largest port in Europe?",
+      "as": "ইউৰোপৰ আটাইতকৈ ডাঙৰ বন্দৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Rotterdam",
+        "as": "ৰটাৰ্ডাম"
+      },
+      {
+        "en": "Hamburg",
+        "as": "হামবাৰ্গ"
+      },
+      {
+        "en": "Antwerp",
+        "as": "এণ্টৱাৰ্প"
+      },
+      {
+        "en": "Marseille",
+        "as": "মাৰ্চেইল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rotterdam",
+      "as": "ৰটাৰ্ডাম"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-037",
+    "q": {
+      "en": "Which is the largest port of India by cargo volume?",
+      "as": "পণ্য পৰিমাণ অনুসৰি ভাৰতৰ আটাইতকৈ ডাঙৰ বন্দৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Mundra",
+        "as": "মুন্দ্ৰা"
+      },
+      {
+        "en": "Jawaharlal Nehru Port",
+        "as": "জৱাহৰলাল নেহৰু বন্দৰ"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mundra",
+      "as": "মুন্দ্ৰা"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-038",
+    "q": {
+      "en": "What is the 'Northern Sea Route'?",
+      "as": "'উত্তৰ সাগৰীয় পথ' কি?"
+    },
+    "options": [
+      {
+        "en": "A shipping route along Russia's Arctic coast",
+        "as": "ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ"
+      },
+      {
+        "en": "A route through the Suez Canal",
+        "as": "চুৱেজ খালেদি যোৱা পথ"
+      },
+      {
+        "en": "A route across the Sahara",
+        "as": "চাহাৰাৰ মাজেদি যোৱা পথ"
+      },
+      {
+        "en": "A route around Cape Horn",
+        "as": "কেপ হৰ্ণৰ চাৰিওফালে যোৱা পথ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A shipping route along Russia's Arctic coast",
+      "as": "ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-039",
+    "q": {
+      "en": "Which country is the largest importer of crude oil in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ অশোধিত তেল আমদানিকাৰী দেশ কোন?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "USA",
+        "as": "আমেৰিকা"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "China",
+      "as": "চীন"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-040",
+    "q": {
+      "en": "Which country is the largest exporter of LNG?",
+      "as": "আটাইতকৈ ডাঙৰ LNG ৰপ্তানিকাৰী দেশ কোন?"
+    },
+    "options": [
+      {
+        "en": "Qatar",
+        "as": "কাটাৰ"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "USA",
+        "as": "আমেৰিকা"
+      },
+      {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Qatar",
+      "as": "কাটাৰ"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-041",
+    "q": {
+      "en": "Which is the largest oil refinery in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ তেল শোধনাগাৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Jamnagar in India",
+        "as": "ভাৰতৰ জামনগৰ"
+      },
+      {
+        "en": "Ras Tanura in Saudi Arabia",
+        "as": "ছৌদি আৰবৰ ৰাছ তানুৰা"
+      },
+      {
+        "en": "Baytown in the USA",
+        "as": "আমেৰিকাৰ বে'টাউন"
+      },
+      {
+        "en": "Ulsan in South Korea",
+        "as": "দক্ষিণ কোৰিয়াৰ উলছান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Jamnagar in India",
+      "as": "ভাৰতৰ জামনগৰ"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-042",
+    "q": {
+      "en": "Which strait is the main chokepoint for world oil trade?",
+      "as": "বিশ্বৰ তেল বাণিজ্যৰ মূল সংকীৰ্ণ পথ কোন প্ৰণালী?"
+    },
+    "options": [
+      {
+        "en": "The Strait of Hormuz",
+        "as": "হৰমুজ প্ৰণালী"
+      },
+      {
+        "en": "The Strait of Malacca",
+        "as": "মালাকা প্ৰণালী"
+      },
+      {
+        "en": "The Bosphorus",
+        "as": "ব'সফৰাছ"
+      },
+      {
+        "en": "The Palk Strait",
+        "as": "পাক খাদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Strait of Hormuz",
+      "as": "হৰমুজ প্ৰণালী"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-043",
     "q": {
-      "en": "What is 'LNG'?",
-      "as": "'এলএনজি' কি?"
+      "en": "Which country is the largest producer of manganese?",
+      "as": "আটাইতকৈ ডাঙৰ মেংগানিজ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "The USA",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+        "en": "South Africa",
+        "as": "দক্ষিণ আফ্ৰিকা"
       },
       {
-        "en": "Monazite sand.",
-        "as": "ম'নাজাইট বালি।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "In Vienna, Austria.",
-        "as": "অষ্ট্ৰিয়াৰ ভিয়েনাত।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Liquefied natural gas.",
-        "as": "তৰল প্ৰাকৃতিক গেছ।"
+        "en": "Gabon",
+        "as": "গেবন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Liquefied natural gas.",
-      "as": "তৰল প্ৰাকৃতিক গেছ।"
+      "en": "South Africa",
+      "as": "দক্ষিণ আফ্ৰিকা"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-044",
     "q": {
-      "en": "What is 'shale gas'?",
-      "as": "'শ্বেল গেছ' কি?"
-    },
-    "options": [
-      {
-        "en": "Natural gas trapped in shale rock.",
-        "as": "শ্বেল শিলাত আৱদ্ধ প্ৰাকৃতিক গেছ।"
-      },
-      {
-        "en": "The Organization of the Petroleum Exporting Countries.",
-        "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
-      },
-      {
-        "en": "The Persian Gulf region of the Middle East.",
-        "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
-      },
-      {
-        "en": "The Suez Canal route connecting Europe and Asia.",
-        "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Natural gas trapped in shale rock.",
-      "as": "শ্বেল শিলাত আৱদ্ধ প্ৰাকৃতিক গেছ।"
-    }
-  },
-  {
-    "id": "minerals-oil-belts-sea-routes-world-045",
-    "q": {
-      "en": "Which strait is the busiest chokepoint for world trade?",
-      "as": "বিশ্ব বাণিজ্যৰ ব্যস্ততম সংকীৰ্ণ পথ কোনটো?"
+      "en": "Which country is the largest producer of uranium?",
+      "as": "আটাইতকৈ ডাঙৰ ইউৰেনিয়াম উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
@@ -1331,172 +1301,202 @@
         "as": "কাজাখাস্তান"
       },
       {
-        "en": "The Strait of Malacca.",
-        "as": "মালাক্কা প্ৰণালী।"
+        "en": "Canada",
+        "as": "কানাডা"
       },
       {
-        "en": "Iron ore",
-        "as": "লো-আকৰ"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Coal",
-        "as": "কয়লা"
+        "en": "Namibia",
+        "as": "নামিবিয়া"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The Strait of Malacca.",
-      "as": "মালাক্কা প্ৰণালী।"
+      "en": "Kazakhstan",
+      "as": "কাজাখাস্তান"
+    }
+  },
+  {
+    "id": "minerals-oil-belts-sea-routes-world-045",
+    "q": {
+      "en": "Which country is the largest producer of silver?",
+      "as": "আটাইতকৈ ডাঙৰ ৰূপ উৎপাদনকাৰী দেশ কোন?"
+    },
+    "options": [
+      {
+        "en": "Mexico",
+        "as": "মেক্সিকো"
+      },
+      {
+        "en": "Peru",
+        "as": "পেৰু"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mexico",
+      "as": "মেক্সিকো"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-046",
     "q": {
-      "en": "Which sea route was blocked by the Ever Given in 2021?",
-      "as": "২০২১ চনত এভাৰ গিভেনে কোন সাগৰীয় পথ অৱৰোধ কৰিছিল?"
+      "en": "Which sea route connects the Atlantic and Pacific through Central America?",
+      "as": "কোন সাগৰীয় পথে মধ্য আমেৰিকাৰ মাজেদি এটলাণ্টিক আৰু প্ৰশান্ত মহাসাগৰ সংযোগ কৰে?"
     },
     "options": [
       {
-        "en": "Russia",
-        "as": "ৰাছিয়া"
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
       },
       {
-        "en": "South Africa",
-        "as": "দক্ষিণ আফ্ৰিকা"
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
       },
       {
-        "en": "The Suez Canal.",
-        "as": "ছুয়েজ খাল।"
+        "en": "The Strait of Magellan",
+        "as": "মেগেলান প্ৰণালী"
       },
       {
-        "en": "Chile",
-        "as": "চিলি"
+        "en": "The Drake Passage",
+        "as": "ড্ৰেক পেছেজ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Suez Canal.",
-      "as": "ছুয়েজ খাল।"
+      "en": "The Panama Canal",
+      "as": "পানামা খাল"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-047",
     "q": {
-      "en": "Which route connects the Atlantic and Pacific through the Arctic?",
-      "as": "কোন পথে উত্তৰ মেৰুৰ মাজেৰে আটলাণ্টিক আৰু প্ৰশান্ত মহাসাগৰ সংযোগ কৰে?"
+      "en": "Which cape is at the southern tip of Africa?",
+      "as": "আফ্ৰিকাৰ দক্ষিণ মূৰত কোন কেপ অৱস্থিত?"
     },
     "options": [
       {
-        "en": "The Shanghai port of China.",
-        "as": "চীনৰ ছাংহাই বন্দৰ।"
+        "en": "The Cape of Good Hope",
+        "as": "গুড হোপ কেপ"
       },
       {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
+        "en": "Cape Horn",
+        "as": "কেপ হৰ্ণ"
       },
       {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+        "en": "Cape Comorin",
+        "as": "কেপ ক'মৰিন"
       },
       {
-        "en": "The Northwest Passage.",
-        "as": "উত্তৰ-পশ্চিম পথ।"
+        "en": "Cape York",
+        "as": "কেপ য়ৰ্ক"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Northwest Passage.",
-      "as": "উত্তৰ-পশ্চিম পথ।"
+      "en": "The Cape of Good Hope",
+      "as": "গুড হোপ কেপ"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-048",
     "q": {
-      "en": "Which route connects Europe and Asia through the Arctic?",
-      "as": "কোন পথে উত্তৰ মেৰুৰ মাজেৰে ইউৰোপ আৰু এছিয়া সংযোগ কৰে?"
+      "en": "Which canal links the Mediterranean with the Black Sea?",
+      "as": "কোন খালে ভূমধ্য সাগৰক কৃষ্ণ সাগৰৰ সৈতে সংযোগ কৰে?"
     },
     "options": [
       {
-        "en": "The Northeast Passage.",
-        "as": "উত্তৰ-পূব পথ।"
+        "en": "The Dardanelles-Bosphorus route",
+        "as": "দাৰ্দানেলছ-ব'সফৰাছ পথ"
       },
       {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
       },
       {
-        "en": "The Panama route.",
-        "as": "পানামা পথ।"
+        "en": "The Kiel Canal",
+        "as": "কিল খাল"
       },
       {
-        "en": "The North Atlantic route.",
-        "as": "উত্তৰ আটলাণ্টিক পথ।"
+        "en": "The Corinth Canal",
+        "as": "কৰিন্থ খাল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Northeast Passage.",
-      "as": "উত্তৰ-পূব পথ।"
+      "en": "The Dardanelles-Bosphorus route",
+      "as": "দাৰ্দানেলছ-ব'সফৰাছ পথ"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-049",
     "q": {
-      "en": "Which country has the deepest gold mine of the world?",
-      "as": "বিশ্বৰ গভীৰতম সোণৰ খনি কোন দেশত?"
+      "en": "Which country is the largest producer of tin?",
+      "as": "আটাইতকৈ ডাঙৰ টিন উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "South Africa.",
-        "as": "দক্ষিণ আফ্ৰিকা।"
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "Myanmar",
+        "as": "ম্যানমাৰ"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Peru",
+        "as": "পেৰু"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "South Africa.",
-      "as": "দক্ষিণ আফ্ৰিকা।"
+      "en": "China",
+      "as": "চীন"
     }
   },
   {
     "id": "minerals-oil-belts-sea-routes-world-050",
     "q": {
-      "en": "Which country is the largest producer of nickel?",
-      "as": "সৰ্বাধিক নিকেল উৎপাদনকাৰী দেশ কোনটো?"
+      "en": "Which country is the largest producer of zinc?",
+      "as": "আটাইতকৈ ডাঙৰ জিংক উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Venezuela.",
-        "as": "ভেনেজুৱেলা।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Australia.",
-        "as": "অষ্ট্ৰেলিয়া।"
+        "en": "Peru",
+        "as": "পেৰু"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Indonesia.",
-        "as": "ইণ্ডোনেছিয়া।"
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Indonesia.",
-      "as": "ইণ্ডোনেছিয়া।"
+      "en": "China",
+      "as": "চীন"
     }
   }
 ]

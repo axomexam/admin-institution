@@ -2,1501 +2,1501 @@
   {
     "id": "international-border-lines-world-001",
     "q": {
-      "en": "What is the 'Durand Line'?",
-      "as": "'দুৰান্দ লাইন' কি?"
+      "en": "What is the total length of the India-Pakistan international border?",
+      "as": "ভাৰত-পাকিস্তান আন্তঃৰাষ্ট্ৰীয় সীমাৰ মুঠ দীঘ কিমান?"
     },
     "options": [
       {
-        "en": "The Golan Heights",
-        "as": "গলান উচ্চভূমি"
+        "en": "About 3,323 km",
+        "as": "প্ৰায় 3,323 কিলোমিটাৰ"
       },
       {
-        "en": "The Rio Grande",
-        "as": "ৰিঅ' গ্ৰেণ্ডে"
+        "en": "About 4,096 km",
+        "as": "প্ৰায় 4,096 কিলোমিটাৰ"
       },
       {
-        "en": "The border between Afghanistan and Pakistan, drawn in 1893.",
-        "as": "১৮৯৩ চনত অংকন কৰা আফগানিস্তান আৰু পাকিস্তানৰ সীমা।"
+        "en": "About 1,643 km",
+        "as": "প্ৰায় 1,643 কিলোমিটাৰ"
       },
       {
-        "en": "The Purple Line",
-        "as": "বেগুনী ৰেখা"
+        "en": "About 2,100 km",
+        "as": "প্ৰায় 2,100 কিলোমিটাৰ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The border between Afghanistan and Pakistan, drawn in 1893.",
-      "as": "১৮৯৩ চনত অংকন কৰা আফগানিস্তান আৰু পাকিস্তানৰ সীমা।"
+      "en": "About 3,323 km",
+      "as": "প্ৰায় 3,323 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-002",
     "q": {
-      "en": "What is the 'McMahon Line'?",
-      "as": "'মেকমোহন লাইন' কি?"
+      "en": "What is the total length of the India-China border?",
+      "as": "ভাৰত-চীন সীমাৰ মুঠ দীঘ কিমান?"
     },
     "options": [
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "About 3,488 km",
+        "as": "প্ৰায় 3,488 কিলোমিটাৰ"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "About 4,096 km",
+        "as": "প্ৰায় 4,096 কিলোমিটাৰ"
       },
       {
-        "en": "The former border between North and South Vietnam.",
-        "as": "পূৰ্বৰ উত্তৰ আৰু দক্ষিণ ভিয়েটনামৰ সীমা।"
+        "en": "About 1,643 km",
+        "as": "প্ৰায় 1,643 কিলোমিটাৰ"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "About 2,500 km",
+        "as": "প্ৰায় 2,500 কিলোমিটাৰ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The border between India and China in the eastern sector.",
-      "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+      "en": "About 3,488 km",
+      "as": "প্ৰায় 3,488 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-003",
     "q": {
-      "en": "Who drew the McMahon Line?",
-      "as": "মেকমোহন লাইন কোনে অংকন কৰিছিল?"
+      "en": "What is the total length of the India-Bangladesh border?",
+      "as": "ভাৰত-বাংলাদেশ সীমাৰ মুঠ দীঘ কিমান?"
     },
     "options": [
       {
-        "en": "Sir Henry McMahon, in 1914.",
-        "as": "চাৰ হেনৰী মেকমোহন, ১৯১৪ চনত।"
+        "en": "About 4,096 km",
+        "as": "প্ৰায় 4,096 কিলোমিটাৰ"
       },
       {
-        "en": "The Blue Line",
-        "as": "নীল ৰেখা"
+        "en": "About 3,323 km",
+        "as": "প্ৰায় 3,323 কিলোমিটাৰ"
       },
       {
-        "en": "The Green Line",
-        "as": "সেউজ ৰেখা"
+        "en": "About 1,643 km",
+        "as": "প্ৰায় 1,643 কিলোমিটাৰ"
       },
       {
-        "en": "The Purple Line",
-        "as": "বেগুনী ৰেখা"
+        "en": "About 2,200 km",
+        "as": "প্ৰায় 2,200 কিলোমিটাৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Sir Henry McMahon, in 1914.",
-      "as": "চাৰ হেনৰী মেকমোহন, ১৯১৪ চনত।"
+      "en": "About 4,096 km",
+      "as": "প্ৰায় 4,096 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-004",
     "q": {
-      "en": "What is the 'Radcliffe Line'?",
-      "as": "'ৰেডক্লিফ লাইন' কি?"
+      "en": "Which Indian state has the longest border with China?",
+      "as": "চীনৰ সৈতে আটাইতকৈ দীঘল সীমা কোন ভাৰতীয় ৰাজ্যৰ?"
     },
     "options": [
       {
-        "en": "The Durand Line",
-        "as": "ডুৰাণ্ড ৰেখা"
+        "en": "Ladakh",
+        "as": "লাডাখ"
       },
       {
-        "en": "The equator",
-        "as": "বিষুবৰেখা"
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
       },
       {
-        "en": "The international date line",
-        "as": "আন্তৰ্জাতিক তাৰিখ ৰেখা"
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
       },
       {
-        "en": "The border between India and Pakistan, drawn in 1947.",
-        "as": "১৯৪৭ চনত অংকন কৰা ভাৰত আৰু পাকিস্তানৰ সীমা।"
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The border between India and Pakistan, drawn in 1947.",
-      "as": "১৯৪৭ চনত অংকন কৰা ভাৰত আৰু পাকিস্তানৰ সীমা।"
+      "en": "Ladakh",
+      "as": "লাডাখ"
     }
   },
   {
     "id": "international-border-lines-world-005",
     "q": {
-      "en": "Who drew the Radcliffe Line?",
-      "as": "ৰেডক্লিফ লাইন কোনে অংকন কৰিছিল?"
+      "en": "Which Indian state shares the longest border with Pakistan?",
+      "as": "পাকিস্তানৰ সৈতে আটাইতকৈ দীঘল সীমা কোন ভাৰতীয় ৰাজ্যৰ?"
     },
     "options": [
       {
-        "en": "The Durand Line",
-        "as": "ডুৰাণ্ড ৰেখা"
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
       },
       {
-        "en": "The McMahon Line",
-        "as": "মেকমোহন ৰেখা"
+        "en": "Punjab",
+        "as": "পাঞ্জাব"
       },
       {
-        "en": "Sir Cyril Radcliffe.",
-        "as": "চাৰ চিৰিল ৰেডক্লিফ।"
+        "en": "Gujarat",
+        "as": "গুজৰাট"
       },
       {
-        "en": "The equator",
-        "as": "বিষুবৰেখা"
+        "en": "Jammu and Kashmir",
+        "as": "জম্মু আৰু কাশ্মীৰ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Sir Cyril Radcliffe.",
-      "as": "চাৰ চিৰিল ৰেডক্লিফ।"
+      "en": "Rajasthan",
+      "as": "ৰাজস্থান"
     }
   },
   {
     "id": "international-border-lines-world-006",
     "q": {
-      "en": "What is the 'Siegfried Line'?",
-      "as": "'জিগফ্ৰাইড লাইন' কি?"
+      "en": "How many Indian states share a border with Bangladesh?",
+      "as": "কিমান ভাৰতীয় ৰাজ্যই বাংলাদেশৰ সৈতে সীমা ভাগ কৰে?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "Five",
+        "as": "পাঁচটা"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Three",
+        "as": "তিনিটা"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "Four",
+        "as": "চাৰিটা"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "Six",
+        "as": "ছয়টা"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The defensive line of Germany during the Second World War.",
-      "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+      "en": "Five",
+      "as": "পাঁচটা"
     }
   },
   {
     "id": "international-border-lines-world-007",
     "q": {
-      "en": "What is the 'Maginot Line'?",
-      "as": "'মেজিন'ট লাইন' কি?"
+      "en": "Which Indian state shares the longest border with Myanmar?",
+      "as": "ম্যানমাৰৰ সৈতে আটাইতকৈ দীঘল সীমা কোন ভাৰতীয় ৰাজ্যৰ?"
     },
     "options": [
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "Nagaland",
+        "as": "নাগালেণ্ড"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "Mizoram",
+        "as": "মিজোৰাম"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "Manipur",
+        "as": "মণিপুৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The defensive line of France along the German border.",
-      "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+      "en": "Arunachal Pradesh",
+      "as": "অৰুণাচল প্ৰদেশ"
     }
   },
   {
     "id": "international-border-lines-world-008",
     "q": {
-      "en": "What is the 'Hindenburg Line'?",
-      "as": "'হিন্ডেনবুৰ্গ লাইন' কি?"
+      "en": "How many Indian states share a border with Myanmar?",
+      "as": "কিমান ভাৰতীয় ৰাজ্যই ম্যানমাৰৰ সৈতে সীমা ভাগ কৰে?"
     },
     "options": [
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "Four",
+        "as": "চাৰিটা"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "Three",
+        "as": "তিনিটা"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "Five",
+        "as": "পাঁচটা"
       },
       {
-        "en": "The defensive line of Germany in the First World War.",
-        "as": "প্ৰথম বিশ্বযুদ্ধত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Two",
+        "as": "দুটাকৈ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The defensive line of Germany in the First World War.",
-      "as": "প্ৰথম বিশ্বযুদ্ধত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+      "en": "Four",
+      "as": "চাৰিটা"
     }
   },
   {
     "id": "international-border-lines-world-009",
     "q": {
-      "en": "What is the '38th Parallel'?",
-      "as": "'৩৮তম সমান্তৰাল' কি?"
+      "en": "The Radcliffe Line was drawn to divide which two countries?",
+      "as": "ৰেডক্লিফ ৰেখা কোন দুখন দেশ ভাগ কৰিবলৈ আঁকা হৈছিল?"
     },
     "options": [
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তান"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "India and Bangladesh",
+        "as": "ভাৰত আৰু বাংলাদেশ"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "India and China",
+        "as": "ভাৰত আৰু চীন"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "Pakistan and Afghanistan",
+        "as": "পাকিস্তান আৰু আফগানিস্তান"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The border between North Korea and South Korea.",
-      "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+      "en": "India and Pakistan",
+      "as": "ভাৰত আৰু পাকিস্তান"
     }
   },
   {
     "id": "international-border-lines-world-010",
     "q": {
-      "en": "What is the '49th Parallel'?",
-      "as": "'৪৯তম সমান্তৰাল' কি?"
+      "en": "In which year was the Radcliffe Line drawn?",
+      "as": "ৰেডক্লিফ ৰেখা কোন বছৰত আঁকা হৈছিল?"
     },
     "options": [
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "1947",
+        "as": "১৯৪৭"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "1949",
+        "as": "১৯৪৯"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "1946",
+        "as": "১৯৪৬"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "1950",
+        "as": "১৯৫০"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The border between the USA and Canada.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+      "en": "1947",
+      "as": "১৯৪৭"
     }
   },
   {
     "id": "international-border-lines-world-011",
     "q": {
-      "en": "What is the '17th Parallel'?",
-      "as": "'১৭তম সমান্তৰাল' কি?"
+      "en": "Who was the chairman of the boundary commission that drew the Radcliffe Line?",
+      "as": "ৰেডক্লিফ ৰেখা আঁকা সীমা আয়োগৰ অধ্যক্ষ কোন আছিল?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "Sir Cyril Radcliffe",
+        "as": "ছাৰ চিৰিল ৰেডক্লিফ"
       },
       {
-        "en": "The former border between North and South Vietnam.",
-        "as": "পূৰ্বৰ উত্তৰ আৰু দক্ষিণ ভিয়েটনামৰ সীমা।"
+        "en": "Lord Mountbatten",
+        "as": "লৰ্ড মাউণ্টবেটেন"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Sir Stafford Cripps",
+        "as": "ছাৰ ষ্টাফ'ৰ্ড ক্ৰিপছ"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Lord Wavell",
+        "as": "লৰ্ড ৱেভেল"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The former border between North and South Vietnam.",
-      "as": "পূৰ্বৰ উত্তৰ আৰু দক্ষিণ ভিয়েটনামৰ সীমা।"
+      "en": "Sir Cyril Radcliffe",
+      "as": "ছাৰ চিৰিল ৰেডক্লিফ"
     }
   },
   {
     "id": "international-border-lines-world-012",
     "q": {
-      "en": "What is the 'Line of Control' (LOC)?",
-      "as": "'লাইন অফ কণ্ট্ৰল' (LOC) কি?"
+      "en": "Which country lies on the other side of the Durand Line from Pakistan?",
+      "as": "পাকিস্তানৰ সিপাৰে ডুৰাণ্ড ৰেখাৰ আনফালে কোন দেশ আছে?"
     },
     "options": [
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "Afghanistan",
+        "as": "আফগানিস্তান"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "Iran",
+        "as": "ইৰাণ"
       },
       {
-        "en": "The de facto border between India and Pakistan in Kashmir.",
-        "as": "কাশ্মীৰত ভাৰত আৰু পাকিস্তানৰ বাস্তৱিক সীমা।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "China",
+        "as": "চীন"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The de facto border between India and Pakistan in Kashmir.",
-      "as": "কাশ্মীৰত ভাৰত আৰু পাকিস্তানৰ বাস্তৱিক সীমা।"
+      "en": "Afghanistan",
+      "as": "আফগানিস্তান"
     }
   },
   {
     "id": "international-border-lines-world-013",
     "q": {
-      "en": "What is the 'Line of Actual Control' (LAC)?",
-      "as": "'লাইন অফ একচুৱেল কণ্ট্ৰল' (LAC) কি?"
+      "en": "In which year was the Durand Line demarcated?",
+      "as": "ডুৰাণ্ড ৰেখা কোন বছৰত সীমা নিৰ্ধাৰণ কৰা হৈছিল?"
     },
     "options": [
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "1893",
+        "as": "১৮৯৩"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "1903",
+        "as": "১৯০৩"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "1883",
+        "as": "১৮৮৩"
       },
       {
-        "en": "The de facto border between India and China.",
-        "as": "ভাৰত আৰু চীনৰ বাস্তৱিক সীমা।"
+        "en": "1913",
+        "as": "১৯১৩"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The de facto border between India and China.",
-      "as": "ভাৰত আৰু চীনৰ বাস্তৱিক সীমা।"
+      "en": "1893",
+      "as": "১৮৯৩"
     }
   },
   {
     "id": "international-border-lines-world-014",
     "q": {
-      "en": "What is the 'Golan Heights'?",
-      "as": "'গোলান উচ্চভূমি' কি?"
+      "en": "Who was the British official after whom the Durand Line is named?",
+      "as": "ডুৰাণ্ড ৰেখাৰ নাম কোন ব্ৰিটিছ বিষয়াৰ নামেৰে ৰখা হৈছে?"
     },
     "options": [
       {
-        "en": "A strategic plateau between Israel and Syria.",
-        "as": "ইজৰাইল আৰু ছিৰিয়াৰ মাজৰ কৌশলগত মালভূমি।"
+        "en": "Sir Mortimer Durand",
+        "as": "ছাৰ মৰ্টিমাৰ ডুৰাণ্ড"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "Sir Cyril Radcliffe",
+        "as": "ছাৰ চিৰিল ৰেডক্লিফ"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Sir Henry McMahon",
+        "as": "ছাৰ হেনৰী মেকমাহন"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "Sir George Curzon",
+        "as": "ছাৰ জৰ্জ কাৰ্জন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "A strategic plateau between Israel and Syria.",
-      "as": "ইজৰাইল আৰু ছিৰিয়াৰ মাজৰ কৌশলগত মালভূমি।"
+      "en": "Sir Mortimer Durand",
+      "as": "ছাৰ মৰ্টিমাৰ ডুৰাণ্ড"
     }
   },
   {
     "id": "international-border-lines-world-015",
     "q": {
-      "en": "What is the 'Mannerheim Line'?",
-      "as": "'মানেৰহেইম লাইন' কি?"
+      "en": "What is the length of the McMahon Line?",
+      "as": "মেকমাহন ৰেখাৰ দীঘ কিমান?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "About 1,100 km",
+        "as": "প্ৰায় 1,100 কিলোমিটাৰ"
       },
       {
-        "en": "The defensive line of Finland against the Soviet Union.",
-        "as": "চোভিয়েট ইউনিয়নৰ বিৰুদ্ধে ফিনলেণ্ডৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "About 2,100 km",
+        "as": "প্ৰায় 2,100 কিলোমিটাৰ"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "About 550 km",
+        "as": "প্ৰায় 550 কিলোমিটাৰ"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "About 1,600 km",
+        "as": "প্ৰায় 1,600 কিলোমিটাৰ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The defensive line of Finland against the Soviet Union.",
-      "as": "চোভিয়েট ইউনিয়নৰ বিৰুদ্ধে ফিনলেণ্ডৰ প্ৰতিৰক্ষা ৰেখা।"
+      "en": "About 1,100 km",
+      "as": "প্ৰায় 1,100 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-016",
     "q": {
-      "en": "What is the 'Oder-Neisse Line'?",
-      "as": "'অডাৰ-নাইছে লাইন' কি?"
+      "en": "At which conference was the McMahon Line agreed?",
+      "as": "কোন সন্মিলনত মেকমাহন ৰেখাত সন্মতি হৈছিল?"
     },
     "options": [
       {
-        "en": "The Radcliffe Line",
-        "as": "ৰেডক্লিফ ৰেখা"
+        "en": "The Simla Convention of 1914",
+        "as": "১৯১৪ চনৰ ছিমলা সন্মিলন"
       },
       {
-        "en": "The Siegfried Line",
-        "as": "জিগফ্ৰাইড ৰেখা"
+        "en": "The Yalta Conference of 1945",
+        "as": "১৯৪৫ চনৰ য়াল্টা সন্মিলন"
       },
       {
-        "en": "The border between Germany and Poland, drawn in 1945.",
-        "as": "১৯৪৫ চনত অংকন কৰা জাৰ্মানী আৰু পোলেণ্ডৰ সীমা।"
+        "en": "The Geneva Conference of 1954",
+        "as": "১৯৫৪ চনৰ জেনেভা সন্মিলন"
       },
       {
-        "en": "The McMahon Line",
-        "as": "মেকমোহন ৰেখা"
+        "en": "The Poona Pact of 1932",
+        "as": "১৯৩২ চনৰ পুনা চুক্তি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The border between Germany and Poland, drawn in 1945.",
-      "as": "১৯৪৫ চনত অংকন কৰা জাৰ্মানী আৰু পোলেণ্ডৰ সীমা।"
+      "en": "The Simla Convention of 1914",
+      "as": "১৯১৪ চনৰ ছিমলা সন্মিলন"
     }
   },
   {
     "id": "international-border-lines-world-017",
     "q": {
-      "en": "What is the 'Attaturk Line'?",
-      "as": "'আটাটুৰ্ক লাইন' কি?"
+      "en": "Which two countries does the Line of Control divide?",
+      "as": "নিয়ন্ত্ৰণ ৰেখাই কোন দুখন দেশক ভাগ কৰে?"
     },
     "options": [
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তান"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "India and China",
+        "as": "ভাৰত আৰু চীন"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "India and Bangladesh",
+        "as": "ভাৰত আৰু বাংলাদেশ"
       },
       {
-        "en": "The border between Turkey and the Soviet Union.",
-        "as": "তুৰস্ক আৰু চোভিয়েট ইউনিয়নৰ সীমা।"
+        "en": "Pakistan and Afghanistan",
+        "as": "পাকিস্তান আৰু আফগানিস্তান"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The border between Turkey and the Soviet Union.",
-      "as": "তুৰস্ক আৰু চোভিয়েট ইউনিয়নৰ সীমা।"
+      "en": "India and Pakistan",
+      "as": "ভাৰত আৰু পাকিস্তান"
     }
   },
   {
     "id": "international-border-lines-world-018",
     "q": {
-      "en": "What is the 'Curzon Line'?",
-      "as": "'কাৰ্জন লাইন' কি?"
+      "en": "After which war was the Line of Control established?",
+      "as": "কোন যুদ্ধৰ পিছত নিয়ন্ত্ৰণ ৰেখা স্থাপিত হৈছিল?"
     },
     "options": [
       {
-        "en": "The proposed border between Poland and the Soviet Union, named after Lord Curzon.",
-        "as": "লৰ্ড কাৰ্জনৰ নামেৰে পোলেণ্ড আৰু চোভিয়েট ইউনিয়নৰ প্ৰস্তাৱিত সীমা।"
+        "en": "The 1971 Indo-Pak war",
+        "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The 1965 Indo-Pak war",
+        "as": "১৯৬৫ চনৰ ভাৰত-পাক যুদ্ধ"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "The 1962 Sino-Indian war",
+        "as": "১৯৬২ চনৰ চীন-ভাৰত যুদ্ধ"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "The 1999 Kargil war",
+        "as": "১৯৯৯ চনৰ কৰ্গিল যুদ্ধ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The proposed border between Poland and the Soviet Union, named after Lord Curzon.",
-      "as": "লৰ্ড কাৰ্জনৰ নামেৰে পোলেণ্ড আৰু চোভিয়েট ইউনিয়নৰ প্ৰস্তাৱিত সীমা।"
+      "en": "The 1971 Indo-Pak war",
+      "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
     }
   },
   {
     "id": "international-border-lines-world-019",
     "q": {
-      "en": "What is the 'Blue Line' of Lebanon?",
-      "as": "লেবাননৰ 'ব্লু লাইন' কি?"
+      "en": "Which agreement formalised the Line of Control in 1972?",
+      "as": "১৯৭২ চনত কোন চুক্তিয়ে নিয়ন্ত্ৰণ ৰেখাক আনুষ্ঠানিক ৰূপ দিছিল?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The Simla Agreement",
+        "as": "ছিমলা চুক্তি"
       },
       {
-        "en": "The border line between Lebanon and Israel.",
-        "as": "লেবানন আৰু ইজৰাইলৰ সীমা ৰেখা।"
+        "en": "The Tashkent Agreement",
+        "as": "তাশখন্দ চুক্তি"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "The Lahore Declaration",
+        "as": "লাহোৰ ঘোষণাপত্ৰ"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "The Indus Waters Treaty",
+        "as": "সিন্ধু জল চুক্তি"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The border line between Lebanon and Israel.",
-      "as": "লেবানন আৰু ইজৰাইলৰ সীমা ৰেখা।"
+      "en": "The Simla Agreement",
+      "as": "ছিমলা চুক্তি"
     }
   },
   {
     "id": "international-border-lines-world-020",
     "q": {
-      "en": "What is the 'Green Line' of Cyprus?",
-      "as": "চাইপ্ৰাছৰ 'গ্ৰীন লাইন' কি?"
+      "en": "What is the Line of Actual Control?",
+      "as": "প্ৰকৃত নিয়ন্ত্ৰণ ৰেখা (LAC) কি?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The de facto border between India and China",
+        "as": "ভাৰত আৰু চীনৰ মাজৰ প্ৰকৃত সীমা"
       },
       {
-        "en": "The buffer zone between the Greek and Turkish parts of Cyprus.",
-        "as": "চাইপ্ৰাছৰ গ্ৰীক আৰু তুৰ্কী অংশৰ মাজৰ বাফাৰ অঞ্চল।"
+        "en": "The de facto border between India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তানৰ মাজৰ প্ৰকৃত সীমা"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "The border between India and Nepal",
+        "as": "ভাৰত আৰু নেপালৰ সীমা"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "The border between India and Bhutan",
+        "as": "ভাৰত আৰু ভূটানৰ সীমা"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The buffer zone between the Greek and Turkish parts of Cyprus.",
-      "as": "চাইপ্ৰাছৰ গ্ৰীক আৰু তুৰ্কী অংশৰ মাজৰ বাফাৰ অঞ্চল।"
+      "en": "The de facto border between India and China",
+      "as": "ভাৰত আৰু চীনৰ মাজৰ প্ৰকৃত সীমা"
     }
   },
   {
     "id": "international-border-lines-world-021",
     "q": {
-      "en": "What is the 'Purple Line' of 1967?",
-      "as": "১৯৬৭ চনৰ 'পাৰ্পল লাইন' কি?"
+      "en": "Which war led to the creation of the Line of Actual Control?",
+      "as": "কোন যুদ্ধৰ ফলত প্ৰকৃত নিয়ন্ত্ৰণ ৰেখাৰ সৃষ্টি হৈছিল?"
     },
     "options": [
       {
-        "en": "The ceasefire line between Israel and Syria.",
-        "as": "ইজৰাইল আৰু ছিৰিয়াৰ যুদ্ধবিৰতি ৰেখা।"
+        "en": "The 1962 Sino-Indian war",
+        "as": "১৯৬২ চনৰ চীন-ভাৰত যুদ্ধ"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The 1965 Indo-Pak war",
+        "as": "১৯৬৫ চনৰ ভাৰত-পাক যুদ্ধ"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "The 1971 Indo-Pak war",
+        "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "The 1987 Sumdorong Chu clash",
+        "as": "১৯৮৭ চনৰ সুমড'ৰং চু সংঘৰ্ষ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ceasefire line between Israel and Syria.",
-      "as": "ইজৰাইল আৰু ছিৰিয়াৰ যুদ্ধবিৰতি ৰেখা।"
+      "en": "The 1962 Sino-Indian war",
+      "as": "১৯৬২ চনৰ চীন-ভাৰত যুদ্ধ"
     }
   },
   {
     "id": "international-border-lines-world-022",
     "q": {
-      "en": "What is the 'Black Line'?",
-      "as": "'ব্লেক লাইন' কি?"
+      "en": "Which parallel forms the main border between the USA and Canada?",
+      "as": "আমেৰিকা আৰু কানাডাৰ মূল সীমা কোন সমান্তৰাল ৰেখাই গঠন কৰে?"
     },
     "options": [
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "The 49th Parallel",
+        "as": "৪৯তম সমান্তৰাল"
       },
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "The 38th Parallel",
+        "as": "৩৮তম সমান্তৰাল"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The 42nd Parallel",
+        "as": "৪২তম সমান্তৰাল"
       },
       {
-        "en": "The line between the Hashemite Kingdom and Palestine (historic).",
-        "as": "হাছেমাইট ৰাজ্য আৰু পেলেষ্টাইনৰ মাজৰ ৰেখা (ঐতিহাসিক)।"
+        "en": "The 17th Parallel",
+        "as": "১৭তম সমান্তৰাল"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The line between the Hashemite Kingdom and Palestine (historic).",
-      "as": "হাছেমাইট ৰাজ্য আৰু পেলেষ্টাইনৰ মাজৰ ৰেখা (ঐতিহাসিক)।"
+      "en": "The 49th Parallel",
+      "as": "৪৯তম সমান্তৰাল"
     }
   },
   {
     "id": "international-border-lines-world-023",
     "q": {
-      "en": "What is the 'Mason-Dixon Line'?",
-      "as": "'মেছন-ডিক্সন লাইন' কি?"
+      "en": "Which parallel forms part of the border between the USA and Mexico?",
+      "as": "আমেৰিকা আৰু মেক্সিকোৰ সীমাৰ অংশ কোন সমান্তৰাল ৰেখাই গঠন কৰে?"
     },
     "options": [
       {
-        "en": "The border between North Korea and South Korea.",
-        "as": "উত্তৰ কোৰিয়া আৰু দক্ষিণ কোৰিয়াৰ সীমা।"
+        "en": "The 42nd Parallel",
+        "as": "৪২তম সমান্তৰাল"
       },
       {
-        "en": "The border between the USA and Canada.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু কানাডাৰ সীমা।"
+        "en": "The 49th Parallel",
+        "as": "৪৯তম সমান্তৰাল"
       },
       {
-        "en": "The border between the US states of Pennsylvania and Maryland.",
-        "as": "আমেৰিকাৰ পেনচিলভানিয়া আৰু মেৰিলেণ্ড ৰাজ্যৰ সীমা।"
+        "en": "The 38th Parallel",
+        "as": "৩৮তম সমান্তৰাল"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The 17th Parallel",
+        "as": "১৭তম সমান্তৰাল"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The border between the US states of Pennsylvania and Maryland.",
-      "as": "আমেৰিকাৰ পেনচিলভানিয়া আৰু মেৰিলেণ্ড ৰাজ্যৰ সীমা।"
+      "en": "The 42nd Parallel",
+      "as": "৪২তম সমান্তৰাল"
     }
   },
   {
     "id": "international-border-lines-world-024",
     "q": {
-      "en": "What is the '24th Parallel'?",
-      "as": "'২৪তম সমান্তৰাল' কি?"
+      "en": "What is the length of the Demilitarized Zone between the two Koreas?",
+      "as": "দুয়ো কোৰিয়াৰ মাজৰ অসামৰিক অঞ্চলৰ দীঘ কিমান?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "About 250 km",
+        "as": "প্ৰায় 250 কিলোমিটাৰ"
       },
       {
-        "en": "The border line that Pakistan claimed for the Sir Creek dispute.",
-        "as": "চিৰ ক্ৰিক বিবাদত পাকিস্তানে দাবী কৰা সীমা ৰেখা।"
+        "en": "About 500 km",
+        "as": "প্ৰায় 500 কিলোমিটাৰ"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "About 100 km",
+        "as": "প্ৰায় 100 কিলোমিটাৰ"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "About 1000 km",
+        "as": "প্ৰায় 1000 কিলোমিটাৰ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The border line that Pakistan claimed for the Sir Creek dispute.",
-      "as": "চিৰ ক্ৰিক বিবাদত পাকিস্তানে দাবী কৰা সীমা ৰেখা।"
+      "en": "About 250 km",
+      "as": "প্ৰায় 250 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-025",
     "q": {
-      "en": "What is the 'Sixth Parallel'?",
-      "as": "'ষষ্ঠ সমান্তৰাল' কি?"
+      "en": "Which parallel forms the border between Egypt and Sudan?",
+      "as": "ইজিপ্ত আৰু ছুডানৰ সীমা কোন সমান্তৰাল ৰেখাই গঠন কৰে?"
     },
     "options": [
       {
-        "en": "The border between the North and South of the former Sudan.",
-        "as": "পূৰ্বৰ চুডানৰ উত্তৰ আৰু দক্ষিণৰ সীমা।"
+        "en": "The 22nd Parallel",
+        "as": "২২তম সমান্তৰাল"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "The 24th Parallel",
+        "as": "২৪তম সমান্তৰাল"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "The 38th Parallel",
+        "as": "৩৮তম সমান্তৰাল"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "The 49th Parallel",
+        "as": "৪৯তম সমান্তৰাল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The border between the North and South of the former Sudan.",
-      "as": "পূৰ্বৰ চুডানৰ উত্তৰ আৰু দক্ষিণৰ সীমা।"
+      "en": "The 22nd Parallel",
+      "as": "২২তম সমান্তৰাল"
     }
   },
   {
     "id": "international-border-lines-world-026",
     "q": {
-      "en": "Which line separates the USA from Mexico?",
-      "as": "কোন ৰেখাই আমেৰিকা যুক্তৰাষ্ট্ৰ আৰু মেক্সিকো পৃথক কৰে?"
+      "en": "Which meridian largely forms the border between Alaska and Canada?",
+      "as": "আলাস্কা আৰু কানাডাৰ সীমা মূলতঃ কোন মধ্যৰেখাই গঠন কৰে?"
     },
     "options": [
       {
-        "en": "The Green Line",
-        "as": "সেউজ ৰেখা"
+        "en": "The 141st meridian west",
+        "as": "১৪১তম পশ্চিম মধ্যৰেখা"
       },
       {
-        "en": "The Blue Line",
-        "as": "নীল ৰেখা"
+        "en": "The 49th meridian west",
+        "as": "৪৯তম পশ্চিম মধ্যৰেখা"
       },
       {
-        "en": "The Line of Actual Control",
-        "as": "প্ৰকৃত নিয়ন্ত্ৰণ ৰেখা"
+        "en": "The 100th meridian west",
+        "as": "১০০তম পশ্চিম মধ্যৰেখা"
       },
       {
-        "en": "The Rio Grande border and the artificial line of 1848.",
-        "as": "ৰিঅ' গ্ৰেণ্ডে সীমা আৰু ১৮৪৮ চনৰ কৃত্ৰিম ৰেখা।"
+        "en": "The 60th meridian west",
+        "as": "৬০তম পশ্চিম মধ্যৰেখা"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Rio Grande border and the artificial line of 1848.",
-      "as": "ৰিঅ' গ্ৰেণ্ডে সীমা আৰু ১৮৪৮ চনৰ কৃত্ৰিম ৰেখা।"
+      "en": "The 141st meridian west",
+      "as": "১৪১তম পশ্চিম মধ্যৰেখা"
     }
   },
   {
     "id": "international-border-lines-world-027",
     "q": {
-      "en": "What is the 'Palk Strait line'?",
-      "as": "'পাক প্ৰণালী ৰেখা' কি?"
+      "en": "What is the 'Doklam' dispute about?",
+      "as": "'ডোকলাম' বিবাদ কি সম্পৰ্কে?"
     },
     "options": [
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "A plateau at the India-China-Bhutan trijunction",
+        "as": "ভাৰত-চীন-ভূটান ত্ৰিসন্ধিৰ এটা মালভূমি"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "A river between India and Bangladesh",
+        "as": "ভাৰত আৰু বাংলাদেশৰ মাজৰ নদী"
       },
       {
-        "en": "The maritime boundary between India and Sri Lanka.",
-        "as": "ভাৰত আৰু শ্ৰীলংকাৰ সামুদ্ৰিক সীমা।"
+        "en": "An island in the Bay of Bengal",
+        "as": "বঙ্গোপসাগৰৰ এটা দ্বীপ"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "A pass on the India-Pakistan border",
+        "as": "ভাৰত-পাকিস্তান সীমাৰ এটা গিৰিপথ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The maritime boundary between India and Sri Lanka.",
-      "as": "ভাৰত আৰু শ্ৰীলংকাৰ সামুদ্ৰিক সীমা।"
+      "en": "A plateau at the India-China-Bhutan trijunction",
+      "as": "ভাৰত-চীন-ভূটান ত্ৰিসন্ধিৰ এটা মালভূমি"
     }
   },
   {
     "id": "international-border-lines-world-028",
     "q": {
-      "en": "What is the 'Sunderbans border'?",
-      "as": "'সুন্দৰবন সীমা' কি?"
+      "en": "What is the 'Chicken's Neck' corridor in India?",
+      "as": "ভাৰতৰ 'চিকেনছ নেক' কৰিড'ৰ কি?"
     },
     "options": [
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "A narrow strip of West Bengal connecting the north-east to the rest of India",
+        "as": "উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগী পশ্চিম বংগৰ সংকীৰ্ণ ভূমি"
       },
       {
-        "en": "The border between India and Bangladesh through the Sundarbans delta.",
-        "as": "সুন্দৰবন বদ্বীপৰ মাজেৰে ভাৰত আৰু বাংলাদেশৰ সীমা।"
+        "en": "A narrow pass in Ladakh",
+        "as": "লাডাখৰ এটা সংকীৰ্ণ গিৰিপথ"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "A river delta in Bangladesh",
+        "as": "বাংলাদেশৰ এটা নদীৰ ব-দ্বীপ"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "A coastal strip of Gujarat",
+        "as": "গুজৰাটৰ এটা উপকূলীয় ভূমি"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The border between India and Bangladesh through the Sundarbans delta.",
-      "as": "সুন্দৰবন বদ্বীপৰ মাজেৰে ভাৰত আৰু বাংলাদেশৰ সীমা।"
+      "en": "A narrow strip of West Bengal connecting the north-east to the rest of India",
+      "as": "উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগী পশ্চিম বংগৰ সংকীৰ্ণ ভূমি"
     }
   },
   {
     "id": "international-border-lines-world-029",
     "q": {
-      "en": "What is the 'international date line'?",
-      "as": "'আন্তঃৰাষ্ট্ৰীয় তাৰিখ ৰেখা' কি?"
+      "en": "What is the width of the Siliguri Corridor at its narrowest?",
+      "as": "শিলিগুৰি কৰিড'ৰৰ আটাইতকৈ সংকীৰ্ণ অংশৰ প্ৰস্থ কিমান?"
     },
     "options": [
       {
-        "en": "An imaginary line from pole to pole where the date changes by a day.",
-        "as": "মেৰুৰ পৰা মেৰুলৈ অংকন কৰা কাল্পনিক ৰেখা, য'ত তাৰিখ এদিন সলনি হয়।"
+        "en": "About 20 to 22 km",
+        "as": "প্ৰায় 20 ৰ পৰা 22 কিলোমিটাৰ"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "About 100 km",
+        "as": "প্ৰায় 100 কিলোমিটাৰ"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "About 5 km",
+        "as": "প্ৰায় 5 কিলোমিটাৰ"
       },
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "About 60 km",
+        "as": "প্ৰায় 60 কিলোমিটাৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "An imaginary line from pole to pole where the date changes by a day.",
-      "as": "মেৰুৰ পৰা মেৰুলৈ অংকন কৰা কাল্পনিক ৰেখা, য'ত তাৰিখ এদিন সলনি হয়।"
+      "en": "About 20 to 22 km",
+      "as": "প্ৰায় 20 ৰ পৰা 22 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-030",
     "q": {
-      "en": "What is the 'equator'?",
-      "as": "'বিষুৱ ৰেখা' কি?"
+      "en": "Which two countries does the Oder-Neisse Line separate?",
+      "as": "অ'ডাৰ-নাইছে ৰেখাই কোন দুখন দেশক পৃথক কৰে?"
     },
     "options": [
       {
+        "en": "Germany and Poland",
+        "as": "জাৰ্মানী আৰু প'লেণ্ড"
+      },
+      {
+        "en": "Germany and France",
+        "as": "জাৰ্মানী আৰু ফ্ৰান্স"
+      },
+      {
+        "en": "Poland and Russia",
+        "as": "প'লেণ্ড আৰু ৰাছিয়া"
+      },
+      {
+        "en": "Germany and Czechia",
+        "as": "জাৰ্মানী আৰু চেকিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Germany and Poland",
+      "as": "জাৰ্মানী আৰু প'লেণ্ড"
+    }
+  },
+  {
+    "id": "international-border-lines-world-031",
+    "q": {
+      "en": "Which two countries does the Curzon Line divide?",
+      "as": "কাৰ্জন ৰেখাই কোন দুখন দেশক ভাগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Poland and Belarus-Ukraine",
+        "as": "প'লেণ্ড আৰু বেলাৰুছ-ইউক্ৰেইন"
+      },
+      {
+        "en": "Germany and Poland",
+        "as": "জাৰ্মানী আৰু প'লেণ্ড"
+      },
+      {
+        "en": "Russia and Finland",
+        "as": "ৰাছিয়া আৰু ফিনলেণ্ড"
+      },
+      {
+        "en": "Hungary and Romania",
+        "as": "হাংগেৰী আৰু ৰোমানিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Poland and Belarus-Ukraine",
+      "as": "প'লেণ্ড আৰু বেলাৰুছ-ইউক্ৰেইন"
+    }
+  },
+  {
+    "id": "international-border-lines-world-032",
+    "q": {
+      "en": "The Maginot Line was built to defend which country?",
+      "as": "মেজিন'ট ৰেখা কোন দেশক ৰক্ষা কৰিবলৈ নিৰ্মাণ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "France",
+        "as": "ফ্ৰান্স"
+      },
+      {
+        "en": "Germany",
+        "as": "জাৰ্মানী"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
+      },
+      {
+        "en": "Belgium",
+        "as": "বেলজিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "France",
+      "as": "ফ্ৰান্স"
+    }
+  },
+  {
+    "id": "international-border-lines-world-033",
+    "q": {
+      "en": "Which line was Germany's defensive line facing France?",
+      "as": "ফ্ৰান্সৰ মুখামুখি জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "The Siegfried Line",
+        "as": "জিগফ্ৰাইড ৰেখা"
+      },
+      {
         "en": "The Maginot Line",
-        "as": "মেজিনট ৰেখা"
+        "as": "মেজিন'ট ৰেখা"
+      },
+      {
+        "en": "The Mannerheim Line",
+        "as": "মেনাৰহাইম ৰেখা"
       },
       {
         "en": "The Hindenburg Line",
         "as": "হিণ্ডেনবাৰ্গ ৰেখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Siegfried Line",
+      "as": "জিগফ্ৰাইড ৰেখা"
+    }
+  },
+  {
+    "id": "international-border-lines-world-034",
+    "q": {
+      "en": "The Mannerheim Line defended which country?",
+      "as": "মেনাৰহাইম ৰেখাই কোন দেশক ৰক্ষা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Finland",
+        "as": "ফিনলেণ্ড"
       },
       {
-        "en": "The imaginary line at 0 degrees latitude dividing the Earth into the northern and southern hemispheres.",
-        "as": "০ ডিগ্ৰী অক্ষাংশত পৃথিৱীক উত্তৰ আৰু দক্ষিণ গোলাৰ্ধত ভাগ কৰা কাল্পনিক ৰেখা।"
+        "en": "Norway",
+        "as": "নৰৱে"
+      },
+      {
+        "en": "Sweden",
+        "as": "ছুইডেন"
+      },
+      {
+        "en": "Denmark",
+        "as": "ডেনমাৰ্ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Finland",
+      "as": "ফিনলেণ্ড"
+    }
+  },
+  {
+    "id": "international-border-lines-world-035",
+    "q": {
+      "en": "The Green Line of Cyprus divides the island between which communities?",
+      "as": "চাইপ্ৰাছৰ সেউজ ৰেখাই দ্বীপটো কোন সম্প্ৰদায়ৰ মাজত ভাগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Greek Cypriots and Turkish Cypriots",
+        "as": "গ্ৰীক চাইপ্ৰিয়ট আৰু তুৰ্কী চাইপ্ৰিয়ট"
+      },
+      {
+        "en": "Christians and Jews",
+        "as": "খ্ৰীষ্টান আৰু ইহুদী"
+      },
+      {
+        "en": "Sunni and Shia",
+        "as": "চুন্নী আৰু চিয়া"
+      },
+      {
+        "en": "Arabs and Kurds",
+        "as": "আৰব আৰু কুৰ্দ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Greek Cypriots and Turkish Cypriots",
+      "as": "গ্ৰীক চাইপ্ৰিয়ট আৰু তুৰ্কী চাইপ্ৰিয়ট"
+    }
+  },
+  {
+    "id": "international-border-lines-world-036",
+    "q": {
+      "en": "What is the Blue Line associated with?",
+      "as": "নীল ৰেখা কিমানৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "The Israel-Lebanon border drawn by the UN",
+        "as": "ৰাষ্ট্ৰসংঘই আঁকা ইজৰাইল-লেবানন সীমা"
+      },
+      {
+        "en": "The India-China border",
+        "as": "ভাৰত-চীন সীমা"
+      },
+      {
+        "en": "The Germany-Poland border",
+        "as": "জাৰ্মানী-প'লেণ্ড সীমা"
+      },
+      {
+        "en": "The Korea demarcation",
+        "as": "কোৰিয়াৰ সীমা নিৰ্ধাৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Israel-Lebanon border drawn by the UN",
+      "as": "ৰাষ্ট্ৰসংঘই আঁকা ইজৰাইল-লেবানন সীমা"
+    }
+  },
+  {
+    "id": "international-border-lines-world-037",
+    "q": {
+      "en": "What is the 'Iron Curtain'?",
+      "as": "'লৌহ পৰ্দা' কি?"
+    },
+    "options": [
+      {
+        "en": "The political barrier dividing Europe during the Cold War",
+        "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপক বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ"
+      },
+      {
+        "en": "A defensive wall of ancient Rome",
+        "as": "প্ৰাচীন ৰোমৰ প্ৰতিৰক্ষা দেৱাল"
+      },
+      {
+        "en": "A border fence between the USA and Mexico",
+        "as": "আমেৰিকা আৰু মেক্সিকোৰ মাজৰ সীমা বেৰ"
+      },
+      {
+        "en": "A wall around the Kremlin",
+        "as": "ক্ৰেমলিনৰ চাৰিওফালৰ দেৱাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The political barrier dividing Europe during the Cold War",
+      "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপক বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ"
+    }
+  },
+  {
+    "id": "international-border-lines-world-038",
+    "q": {
+      "en": "Who popularised the term 'Iron Curtain' in 1946?",
+      "as": "১৯৪৬ চনত 'লৌহ পৰ্দা' শব্দটো কোনে জনপ্ৰিয় কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Winston Churchill",
+        "as": "উইনষ্টন চাৰ্চিল"
+      },
+      {
+        "en": "Joseph Stalin",
+        "as": "জ'জেফ ষ্টেলিন"
+      },
+      {
+        "en": "Harry Truman",
+        "as": "হেৰী ট্ৰুমেন"
+      },
+      {
+        "en": "George Marshall",
+        "as": "জৰ্জ মাৰ্শ্বেল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Winston Churchill",
+      "as": "উইনষ্টন চাৰ্চিল"
+    }
+  },
+  {
+    "id": "international-border-lines-world-039",
+    "q": {
+      "en": "Which wall divided Berlin from 1961 to 1989?",
+      "as": "১৯৬১ ৰ পৰা ১৯৮৯ লৈ কোন দেৱালে বেৰলিনক বিভক্ত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Berlin Wall",
+        "as": "বেৰলিন দেৱাল"
+      },
+      {
+        "en": "Hadrian's Wall",
+        "as": "হেড্ৰিয়ান দেৱাল"
+      },
+      {
+        "en": "The Great Wall",
+        "as": "মহাপ্ৰাচীৰ"
+      },
+      {
+        "en": "The Atlantic Wall",
+        "as": "এটলাণ্টিক দেৱাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Berlin Wall",
+      "as": "বেৰলিন দেৱাল"
+    }
+  },
+  {
+    "id": "international-border-lines-world-040",
+    "q": {
+      "en": "Which ancient wall marked the northern frontier of Roman Britain?",
+      "as": "কোন প্ৰাচীন দেৱালে ৰোমান ব্ৰিটেইনৰ উত্তৰ সীমা চিহ্নিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Hadrian's Wall",
+        "as": "হেড্ৰিয়ান দেৱাল"
+      },
+      {
+        "en": "The Berlin Wall",
+        "as": "বেৰলিন দেৱাল"
+      },
+      {
+        "en": "Offa's Dyke",
+        "as": "অফাৰ বান্ধ"
+      },
+      {
+        "en": "The Antonine Wall",
+        "as": "এণ্ট'নাইন দেৱাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hadrian's Wall",
+      "as": "হেড্ৰিয়ান দেৱাল"
+    }
+  },
+  {
+    "id": "international-border-lines-world-041",
+    "q": {
+      "en": "Which dyke marked the historic border between England and Wales?",
+      "as": "ইংলেণ্ড আৰু ৱেলছৰ ঐতিহাসিক সীমা কোন বান্ধে চিহ্নিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Offa's Dyke",
+        "as": "অফাৰ বান্ধ"
+      },
+      {
+        "en": "Hadrian's Wall",
+        "as": "হেড্ৰিয়ান দেৱাল"
+      },
+      {
+        "en": "Wat's Dyke",
+        "as": "ৱাটৰ বান্ধ"
+      },
+      {
+        "en": "The Antonine Wall",
+        "as": "এণ্ট'নাইন দেৱাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Offa's Dyke",
+      "as": "অফাৰ বান্ধ"
+    }
+  },
+  {
+    "id": "international-border-lines-world-042",
+    "q": {
+      "en": "What is the 'Mason-Dixon Line' historically associated with?",
+      "as": "'মেছন-ডিক্সন ৰেখা' ঐতিহাসিকভাৱে কিমানৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "The boundary between free and slave states in the USA",
+        "as": "আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ মাজৰ সীমা"
+      },
+      {
+        "en": "The border between the USA and Canada",
+        "as": "আমেৰিকা আৰু কানাডাৰ সীমা"
+      },
+      {
+        "en": "The border between India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তানৰ সীমা"
+      },
+      {
+        "en": "The division of Ireland",
+        "as": "আয়াৰলেণ্ডৰ বিভাজন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The boundary between free and slave states in the USA",
+      "as": "আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ মাজৰ সীমা"
+    }
+  },
+  {
+    "id": "international-border-lines-world-043",
+    "q": {
+      "en": "Which line separated East and West Germany during the Cold War?",
+      "as": "শীতল যুদ্ধৰ সময়ত পূব আৰু পশ্চিম জাৰ্মানীক কোন ৰেখাই পৃথক কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Inner German Border",
+        "as": "আভ্যন্তৰীণ জাৰ্মান সীমা"
+      },
+      {
+        "en": "The Oder-Neisse Line",
+        "as": "অ'ডাৰ-নাইছে ৰেখা"
+      },
+      {
+        "en": "The Curzon Line",
+        "as": "কাৰ্জন ৰেখা"
       },
       {
         "en": "The Siegfried Line",
         "as": "জিগফ্ৰাইড ৰেখা"
       }
     ],
-    "correct": 2,
-    "explanation": {
-      "en": "The imaginary line at 0 degrees latitude dividing the Earth into the northern and southern hemispheres.",
-      "as": "০ ডিগ্ৰী অক্ষাংশত পৃথিৱীক উত্তৰ আৰু দক্ষিণ গোলাৰ্ধত ভাগ কৰা কাল্পনিক ৰেখা।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-031",
-    "q": {
-      "en": "Which is the longest international border of the world?",
-      "as": "বিশ্বৰ দীঘলতম আন্তৰ্জাতিক সীমা কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Blue Line.",
-        "as": "নীল ৰেখা।"
-      },
-      {
-        "en": "The Berlin Wall.",
-        "as": "বাৰ্লিন প্ৰাচীৰ।"
-      },
-      {
-        "en": "The Gustav Line.",
-        "as": "গুস্তাভ ৰেখা।"
-      },
-      {
-        "en": "The Canada-USA border.",
-        "as": "কানাডা-আমেৰিকা সীমা।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Canada-USA border.",
-      "as": "কানাডা-আমেৰিকা সীমা।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-032",
-    "q": {
-      "en": "Which country shares the longest border with India?",
-      "as": "ভাৰতৰ সৈতে সৰ্বাধিক দীঘল সীমা কোন দেশে ভাগ কৰে?"
-    },
-    "options": [
-      {
-        "en": "Bangladesh.",
-        "as": "বাংলাদেশ।"
-      },
-      {
-        "en": "West Bengal.",
-        "as": "পশ্চিম বংগ।"
-      },
-      {
-        "en": "Egypt",
-        "as": "ইজিপ্ত"
-      },
-      {
-        "en": "Turkey",
-        "as": "তুৰস্ক"
-      }
-    ],
     "correct": 0,
     "explanation": {
-      "en": "Bangladesh.",
-      "as": "বাংলাদেশ।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-033",
-    "q": {
-      "en": "What is the length of the India-China border?",
-      "as": "ভাৰত-চীন সীমাৰ দৈৰ্ঘ্য কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 2,000 kilometres",
-        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 3,488 kilometres.",
-        "as": "প্ৰায় ৩,৪৮৮ কিলোমিটাৰ।"
-      },
-      {
-        "en": "About 12,000 kilometres",
-        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 4,500 kilometres",
-        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "About 3,488 kilometres.",
-      "as": "প্ৰায় ৩,৪৮৮ কিলোমিটাৰ।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-034",
-    "q": {
-      "en": "What is the length of the India-Pakistan border?",
-      "as": "ভাৰত-পাকিস্তান সীমাৰ দৈৰ্ঘ্য কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 12,000 kilometres",
-        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 3,323 kilometres.",
-        "as": "প্ৰায় ৩,৩২৩ কিলোমিটাৰ।"
-      },
-      {
-        "en": "About 2,000 kilometres",
-        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 4,500 kilometres",
-        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "About 3,323 kilometres.",
-      "as": "প্ৰায় ৩,৩২৩ কিলোমিটাৰ।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-035",
-    "q": {
-      "en": "Which Indian state has the longest border with Bangladesh?",
-      "as": "বাংলাদেশৰ সৈতে সৰ্বাধিক দীঘল সীমা কোন ভাৰতীয় ৰাজ্যৰ?"
-    },
-    "options": [
-      {
-        "en": "Greece",
-        "as": "গ্ৰীচ"
-      },
-      {
-        "en": "Turkey",
-        "as": "তুৰস্ক"
-      },
-      {
-        "en": "Egypt",
-        "as": "ইজিপ্ত"
-      },
-      {
-        "en": "West Bengal.",
-        "as": "পশ্চিম বংগ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "West Bengal.",
-      "as": "পশ্চিম বংগ।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-036",
-    "q": {
-      "en": "What is the 'Sir Creek' dispute about?",
-      "as": "'ছাৰ ক্ৰীক' বিবাদ কি সম্পৰ্কে?"
-    },
-    "options": [
-      {
-        "en": "The boundary between India and Pakistan in the Rann of Kutch.",
-        "as": "কচ্ছৰ ৰণত ভাৰত আৰু পাকিস্তানৰ সীমা সম্পৰ্কে।"
-      },
-      {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
-      },
-      {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
-      },
-      {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The boundary between India and Pakistan in the Rann of Kutch.",
-      "as": "কচ্ছৰ ৰণত ভাৰত আৰু পাকিস্তানৰ সীমা সম্পৰ্কে।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-037",
-    "q": {
-      "en": "What is the 'New Moore Island' dispute?",
-      "as": "'নিউ মূৰ দ্বীপ' বিবাদ কি?"
-    },
-    "options": [
-      {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
-      },
-      {
-        "en": "A disputed island between India and Bangladesh.",
-        "as": "ভাৰত আৰু বাংলাদেশৰ মাজত বিবাদিত দ্বীপ।"
-      },
-      {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
-      },
-      {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "A disputed island between India and Bangladesh.",
-      "as": "ভাৰত আৰু বাংলাদেশৰ মাজত বিবাদিত দ্বীপ।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-038",
-    "q": {
-      "en": "Which line divides North and South Korea?",
-      "as": "উত্তৰ আৰু দক্ষিণ কোৰিয়া কোন ৰেখাই বিভক্ত কৰে?"
-    },
-    "options": [
-      {
-        "en": "The Golan Heights",
-        "as": "গলান উচ্চভূমি"
-      },
-      {
-        "en": "The Rio Grande",
-        "as": "ৰিঅ' গ্ৰেণ্ডে"
-      },
-      {
-        "en": "The Demilitarized Zone along the 38th Parallel.",
-        "as": "৩৮ সংখ্যাৰ সমান্তৰালৰ লগত থকা অসামৰিক অঞ্চল।"
-      },
-      {
-        "en": "The Purple Line",
-        "as": "বেগুনী ৰেখা"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Demilitarized Zone along the 38th Parallel.",
-      "as": "৩৮ সংখ্যাৰ সমান্তৰালৰ লগত থকা অসামৰিক অঞ্চল।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-039",
-    "q": {
-      "en": "Which line divided North and South Vietnam?",
-      "as": "উত্তৰ আৰু দক্ষিণ ভিয়েটনাম কোন ৰেখাই বিভক্ত কৰিছিল?"
-    },
-    "options": [
-      {
-        "en": "About 40",
-        "as": "প্ৰায় ৪০"
-      },
-      {
-        "en": "About 25",
-        "as": "প্ৰায় ২৫"
-      },
-      {
-        "en": "About 12",
-        "as": "প্ৰায় ১২"
-      },
-      {
-        "en": "The 17th Parallel.",
-        "as": "১৭ সংখ্যাৰ সমান্তৰাল।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The 17th Parallel.",
-      "as": "১৭ সংখ্যাৰ সমান্তৰাল।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-040",
-    "q": {
-      "en": "Which parallel forms the border of Egypt and Sudan?",
-      "as": "ইজিপ্ত আৰু ছুদানৰ সীমা কোন সমান্তৰাল?"
-    },
-    "options": [
-      {
-        "en": "About 40",
-        "as": "প্ৰায় ৪০"
-      },
-      {
-        "en": "About 25",
-        "as": "প্ৰায় ২৫"
-      },
-      {
-        "en": "About 12",
-        "as": "প্ৰায় ১২"
-      },
-      {
-        "en": "The 22nd Parallel.",
-        "as": "২২ সংখ্যাৰ সমান্তৰাল।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The 22nd Parallel.",
-      "as": "২২ সংখ্যাৰ সমান্তৰাল।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-041",
-    "q": {
-      "en": "Which meridian forms the border of Alaska and Canada?",
-      "as": "আলাস্কা আৰু কানাডাৰ সীমা কোন মধ্যাহ্নৰেখা?"
-    },
-    "options": [
-      {
-        "en": "About 25",
-        "as": "প্ৰায় ২৫"
-      },
-      {
-        "en": "About 40",
-        "as": "প্ৰায় ৪০"
-      },
-      {
-        "en": "The 141st Meridian.",
-        "as": "১৪১ সংখ্যাৰ মধ্যাহ্নৰেখা।"
-      },
-      {
-        "en": "About 12",
-        "as": "প্ৰায় ১২"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The 141st Meridian.",
-      "as": "১৪১ সংখ্যাৰ মধ্যাহ্নৰেখা।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-042",
-    "q": {
-      "en": "Which line was the German defensive line in Italy?",
-      "as": "ইটালীত জাৰ্মানৰ প্ৰতিৰক্ষা ৰেখা কোনটো আছিল?"
-    },
-    "options": [
-      {
-        "en": "The Canada-USA border.",
-        "as": "কানাডা-আমেৰিকা সীমা।"
-      },
-      {
-        "en": "The Gustav Line.",
-        "as": "গুস্তাভ ৰেখা।"
-      },
-      {
-        "en": "The Blue Line.",
-        "as": "নীল ৰেখা।"
-      },
-      {
-        "en": "The Berlin Wall.",
-        "as": "বাৰ্লিন প্ৰাচীৰ।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Gustav Line.",
-      "as": "গুস্তাভ ৰেখা।"
-    }
-  },
-  {
-    "id": "international-border-lines-world-043",
-    "q": {
-      "en": "What was the 'Iron Curtain'?",
-      "as": "'লৌহ পৰ্দা' কি আছিল?"
-    },
-    "options": [
-      {
-        "en": "The political barrier dividing Europe during the Cold War.",
-        "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপ বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ।"
-      },
-      {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
-      },
-      {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
-      },
-      {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The political barrier dividing Europe during the Cold War.",
-      "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপ বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ।"
+      "en": "The Inner German Border",
+      "as": "আভ্যন্তৰীণ জাৰ্মান সীমা"
     }
   },
   {
     "id": "international-border-lines-world-044",
     "q": {
-      "en": "What was the 'Bamboo Curtain'?",
-      "as": "'বাঁহৰ পৰ্দা' কি আছিল?"
+      "en": "What is the 'McMahon Line' disputed between?",
+      "as": "মেকমাহন ৰেখা কোন দুখন দেশৰ মাজত বিবাদিত?"
     },
     "options": [
       {
-        "en": "The defensive line of France along the German border.",
-        "as": "জাৰ্মান সীমান্তত ফ্ৰান্সৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "India and China",
+        "as": "ভাৰত আৰু চীন"
       },
       {
-        "en": "The defensive line of Germany during the Second World War.",
-        "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা।"
+        "en": "India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তান"
       },
       {
-        "en": "The border between India and China in the eastern sector.",
-        "as": "পূব খণ্ডত ভাৰত আৰু চীনৰ সীমা।"
+        "en": "India and Myanmar",
+        "as": "ভাৰত আৰু ম্যানমাৰ"
       },
       {
-        "en": "The political barrier between communist Asia and the West.",
-        "as": "সাম্যবাদী এছিয়া আৰু পাশ্চাত্যৰ মাজৰ ৰাজনৈতিক প্ৰাচীৰ।"
+        "en": "China and Bhutan",
+        "as": "চীন আৰু ভূটান"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The political barrier between communist Asia and the West.",
-      "as": "সাম্যবাদী এছিয়া আৰু পাশ্চাত্যৰ মাজৰ ৰাজনৈতিক প্ৰাচীৰ।"
+      "en": "India and China",
+      "as": "ভাৰত আৰু চীন"
     }
   },
   {
     "id": "international-border-lines-world-045",
     "q": {
-      "en": "Which wall separated East and West Berlin?",
-      "as": "পূব আৰু পশ্চিম বাৰ্লিন কোন প্ৰাচীৰে পৃথক কৰিছিল?"
+      "en": "How many Indian states share a border with Bhutan?",
+      "as": "কিমান ভাৰতীয় ৰাজ্যই ভূটানৰ সৈতে সীমা ভাগ কৰে?"
     },
     "options": [
       {
-        "en": "The Gustav Line.",
-        "as": "গুস্তাভ ৰেখা।"
+        "en": "Four",
+        "as": "চাৰিটা"
       },
       {
-        "en": "The Blue Line.",
-        "as": "নীল ৰেখা।"
+        "en": "Two",
+        "as": "দুটাকৈ"
       },
       {
-        "en": "The Berlin Wall.",
-        "as": "বাৰ্লিন প্ৰাচীৰ।"
+        "en": "Three",
+        "as": "তিনিটা"
       },
       {
-        "en": "The Canada-USA border.",
-        "as": "কানাডা-আমেৰিকা সীমা।"
+        "en": "Five",
+        "as": "পাঁচটা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Berlin Wall.",
-      "as": "বাৰ্লিন প্ৰাচীৰ।"
+      "en": "Four",
+      "as": "চাৰিটা"
     }
   },
   {
     "id": "international-border-lines-world-046",
     "q": {
-      "en": "Which ancient wall marked the Roman frontier in Britain?",
-      "as": "ব্ৰিটেইনত ৰোমান সীমা কোন প্ৰাচীন প্ৰাচীৰে চিহ্নিত কৰিছিল?"
+      "en": "Which Indian state has the longest border with Bhutan?",
+      "as": "ভূটানৰ সৈতে আটাইতকৈ দীঘল সীমা কোন ভাৰতীয় ৰাজ্যৰ?"
     },
     "options": [
       {
-        "en": "Offa's Dyke.",
-        "as": "অফাৰ বান্ধ।"
+        "en": "Assam",
+        "as": "অসম"
       },
       {
-        "en": "Hadrian's Wall.",
-        "as": "হেড্ৰিয়ানৰ প্ৰাচীৰ।"
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
       },
       {
-        "en": "The Rio Grande",
-        "as": "ৰিঅ' গ্ৰেণ্ডে"
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
       },
       {
-        "en": "The Golan Heights",
-        "as": "গলান উচ্চভূমি"
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Hadrian's Wall.",
-      "as": "হেড্ৰিয়ানৰ প্ৰাচীৰ।"
+      "en": "Assam",
+      "as": "অসম"
     }
   },
   {
     "id": "international-border-lines-world-047",
     "q": {
-      "en": "Which dyke marked the Anglo-Saxon border with Wales?",
-      "as": "ৱেলছৰ সৈতে এংলো-চেক্সন সীমা কোন বান্ধে চিহ্নিত কৰিছিল?"
+      "en": "How many Indian states share a border with Nepal?",
+      "as": "কিমান ভাৰতীয় ৰাজ্যই নেপালৰ সৈতে সীমা ভাগ কৰে?"
     },
     "options": [
       {
-        "en": "Offa's Dyke.",
-        "as": "অফাৰ বান্ধ।"
+        "en": "Five",
+        "as": "পাঁচটা"
       },
       {
-        "en": "Hadrian's Wall.",
-        "as": "হেড্ৰিয়ানৰ প্ৰাচীৰ।"
+        "en": "Three",
+        "as": "তিনিটা"
       },
       {
-        "en": "The Rio Grande",
-        "as": "ৰিঅ' গ্ৰেণ্ডে"
+        "en": "Four",
+        "as": "চাৰিটা"
       },
       {
-        "en": "The international date line",
-        "as": "আন্তৰ্জাতিক তাৰিখ ৰেখা"
+        "en": "Six",
+        "as": "ছয়টা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Offa's Dyke.",
-      "as": "অফাৰ বান্ধ।"
+      "en": "Five",
+      "as": "পাঁচটা"
     }
   },
   {
     "id": "international-border-lines-world-048",
     "q": {
-      "en": "Which line is the border between Israel and Lebanon?",
-      "as": "ইজৰাইল আৰু লেবাননৰ সীমা কোন ৰেখা?"
+      "en": "Which is the longest international border in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ দীঘল আন্তঃৰাষ্ট্ৰীয় সীমা কোনটো?"
     },
     "options": [
       {
-        "en": "The Berlin Wall.",
-        "as": "বাৰ্লিন প্ৰাচীৰ।"
+        "en": "The USA-Canada border",
+        "as": "আমেৰিকা-কানাডা সীমা"
       },
       {
-        "en": "The Gustav Line.",
-        "as": "গুস্তাভ ৰেখা।"
+        "en": "The India-Bangladesh border",
+        "as": "ভাৰত-বাংলাদেশ সীমা"
       },
       {
-        "en": "The Canada-USA border.",
-        "as": "কানাডা-আমেৰিকা সীমা।"
+        "en": "The Russia-China border",
+        "as": "ৰাছিয়া-চীন সীমা"
       },
       {
-        "en": "The Blue Line.",
-        "as": "নীল ৰেখা।"
+        "en": "The Chile-Argentina border",
+        "as": "চিলি-আৰ্জেণ্টিনা সীমা"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Blue Line.",
-      "as": "নীল ৰেখা।"
+      "en": "The USA-Canada border",
+      "as": "আমেৰিকা-কানাডা সীমা"
     }
   },
   {
     "id": "international-border-lines-world-049",
     "q": {
-      "en": "Which line is the 1949 ceasefire line in Kashmir?",
-      "as": "কাশ্মীৰত ১৯৪৯ চনৰ যুদ্ধবিৰতি ৰেখা কোনটো?"
+      "en": "What is the approximate length of the USA-Canada border?",
+      "as": "আমেৰিকা-কানাডা সীমাৰ দীঘ প্ৰায় কিমান?"
     },
     "options": [
       {
-        "en": "The Gustav Line.",
-        "as": "গুস্তাভ ৰেখা।"
+        "en": "About 8,891 km",
+        "as": "প্ৰায় 8,891 কিলোমিটাৰ"
       },
       {
-        "en": "The Berlin Wall.",
-        "as": "বাৰ্লিন প্ৰাচীৰ।"
+        "en": "About 4,096 km",
+        "as": "প্ৰায় 4,096 কিলোমিটাৰ"
       },
       {
-        "en": "The Line of Control.",
-        "as": "নিয়ন্ত্ৰণ ৰেখা।"
+        "en": "About 6,000 km",
+        "as": "প্ৰায় 6,000 কিলোমিটাৰ"
       },
       {
-        "en": "The Canada-USA border.",
-        "as": "কানাডা-আমেৰিকা সীমা।"
+        "en": "About 12,000 km",
+        "as": "প্ৰায় 12,000 কিলোমিটাৰ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Line of Control.",
-      "as": "নিয়ন্ত্ৰণ ৰেখা।"
+      "en": "About 8,891 km",
+      "as": "প্ৰায় 8,891 কিলোমিটাৰ"
     }
   },
   {
     "id": "international-border-lines-world-050",
     "q": {
-      "en": "What is the length of the Durand Line?",
-      "as": "ডুৰাণ্ড ৰেখাৰ দৈৰ্ঘ্য কিমান?"
+      "en": "Which Indian state has the shortest border with Bangladesh?",
+      "as": "বাংলাদেশৰ সৈতে আটাইতকৈ চুটি সীমা কোন ভাৰতীয় ৰাজ্যৰ?"
     },
     "options": [
       {
-        "en": "About 12,000 kilometres",
-        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+        "en": "Meghalaya",
+        "as": "মেঘালয়"
       },
       {
-        "en": "About 2,640 kilometres.",
-        "as": "প্ৰায় ২,৬৪০ কিলোমিটাৰ।"
+        "en": "Assam",
+        "as": "অসম"
       },
       {
-        "en": "About 2,000 kilometres",
-        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+        "en": "Tripura",
+        "as": "ত্ৰিপুৰা"
       },
       {
-        "en": "About 4,500 kilometres",
-        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+        "en": "Mizoram",
+        "as": "মিজোৰাম"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "About 2,640 kilometres.",
-      "as": "প্ৰায় ২,৬৪০ কিলোমিটাৰ।"
+      "en": "Meghalaya",
+      "as": "মেঘালয়"
     }
   }
 ]

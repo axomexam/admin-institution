@@ -2,1501 +2,1501 @@
   {
     "id": "atmosphere-layers-winds-cyclones-001",
     "q": {
-      "en": "What is the atmosphere?",
-      "as": "বায়ুমণ্ডল কি?"
+      "en": "What is the normal lapse rate of temperature in the troposphere?",
+      "as": "ট্ৰ'প'স্ফিয়াৰত উষ্ণতা হ্ৰাসৰ স্বাভাৱিক হাৰ কিমান?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "6.5 °C per km",
+        "as": "প্ৰতি কিলোমিটাৰত 6.5 °C"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "1 °C per km",
+        "as": "প্ৰতি কিলোমিটাৰত 1 °C"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "10 °C per km",
+        "as": "প্ৰতি কিলোমিটাৰত 10 °C"
       },
       {
-        "en": "In the stratosphere and the thermosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু থাৰ্ম'স্ফিয়াৰত।"
+        "en": "3.5 °C per km",
+        "as": "প্ৰতি কিলোমিটাৰত 3.5 °C"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The atmosphere is the blanket of gases surrounding the Earth.",
-      "as": "বায়ুমণ্ডল হৈছে পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+      "en": "6.5 °C per km",
+      "as": "প্ৰতি কিলোমিটাৰত 6.5 °C"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-002",
     "q": {
-      "en": "What is the main gas of the atmosphere?",
-      "as": "বায়ুমণ্ডলৰ মূল গেছ কোনটো?"
+      "en": "Over which region is the tropopause highest?",
+      "as": "কোন অঞ্চলৰ ওপৰত ট্ৰ'প'পজ আটাইতকৈ ওখ?"
     },
     "options": [
       {
-        "en": "About 40 per cent",
-        "as": "প্ৰায় ৪০ শতাংশ"
+        "en": "Over the equator",
+        "as": "বিষুবৰেখাৰ ওপৰত"
       },
       {
-        "en": "About 12 per cent",
-        "as": "প্ৰায় ১২ শতাংশ"
+        "en": "Over the poles",
+        "as": "মেৰু অঞ্চলৰ ওপৰত"
       },
       {
-        "en": "About 5 per cent",
-        "as": "প্ৰায় ৫ শতাংশ"
+        "en": "Over the mid-latitudes",
+        "as": "মধ্যম অক্ষাংশৰ ওপৰত"
       },
       {
-        "en": "Nitrogen (about 78%).",
-        "as": "নাইট্ৰজেন (প্ৰায় ৭৮%)।"
+        "en": "Over the Sahara desert",
+        "as": "চাহাৰা মৰুভূমিৰ ওপৰত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Nitrogen is the main gas of the atmosphere, making up about 78%.",
-      "as": "নাইট্ৰজেন বায়ুমণ্ডলৰ মূল গেছ, যি প্ৰায় ৭৮% গঠন কৰে।"
+      "en": "Over the equator",
+      "as": "বিষুবৰেখাৰ ওপৰত"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-003",
     "q": {
-      "en": "What is the second most abundant gas of the atmosphere?",
-      "as": "বায়ুমণ্ডলৰ দ্বিতীয় সৰ্বাধিক পৰিমাণৰ গেছ কোনটো?"
+      "en": "Why does temperature rise with height in the stratosphere?",
+      "as": "ষ্ট্ৰেট'স্ফিয়াৰত উচ্চতাৰ লগে লগে উষ্ণতা কিয় বৃদ্ধি পায়?"
     },
     "options": [
       {
-        "en": "About 12 per cent",
-        "as": "প্ৰায় ১২ শতাংশ"
+        "en": "Ozone absorbs ultraviolet radiation",
+        "as": "অ'জনে অতিবেঙুনীয়া ৰশ্মি শোষণ কৰে"
       },
       {
-        "en": "About 40 per cent",
-        "as": "প্ৰায় ৪০ শতাংশ"
+        "en": "Carbon dioxide traps heat",
+        "as": "কাৰ্বন ডাই-অক্সাইডে তাপ ধৰি ৰাখে"
       },
       {
-        "en": "Oxygen (about 21%).",
-        "as": "অক্সিজেন (প্ৰায় ২১%)।"
+        "en": "Water vapour releases latent heat",
+        "as": "জলীয় বাষ্পই লেটেণ্ট তাপ এৰি দিয়ে"
       },
       {
-        "en": "About 5 per cent",
-        "as": "প্ৰায় ৫ শতাংশ"
+        "en": "Air pressure increases with height",
+        "as": "উচ্চতাৰ লগে লগে বায়ুচাপ বৃদ্ধি পায়"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Oxygen is the second most abundant gas, making up about 21%.",
-      "as": "অক্সিজেন দ্বিতীয় সৰ্বাধিক গেছ, যি প্ৰায় ২১% গঠন কৰে।"
+      "en": "Ozone absorbs ultraviolet radiation",
+      "as": "অ'জনে অতিবেঙুনীয়া ৰশ্মি শোষণ কৰে"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-004",
     "q": {
-      "en": "What are the five layers of the atmosphere?",
-      "as": "বায়ুমণ্ডলৰ পাঁচটা স্তৰ কি কি?"
+      "en": "In which part of the atmosphere is the temperature lowest?",
+      "as": "বায়ুমণ্ডলৰ কোন অংশত উষ্ণতা আটাইতকৈ কম?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "At the mesopause",
+        "as": "মেছ'পজত"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "At the tropopause",
+        "as": "ট্ৰ'প'পজত"
       },
       {
-        "en": "In the stratosphere and the thermosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু থাৰ্ম'স্ফিয়াৰত।"
+        "en": "At the stratopause",
+        "as": "ষ্ট্ৰেট'পজত"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "At the exosphere",
+        "as": "এক্স'স্ফিয়াৰত"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The atmosphere has five layers: troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-      "as": "বায়ুমণ্ডলৰ পাঁচটা স্তৰ আছে: ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+      "en": "At the mesopause",
+      "as": "মেছ'পজত"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-005",
     "q": {
-      "en": "Which is the lowest layer of the atmosphere?",
-      "as": "বায়ুমণ্ডলৰ আটাইতকৈ তলৰ স্তৰটো কোনটো?"
+      "en": "What temperature can the thermosphere reach?",
+      "as": "থাৰ্ম'স্ফিয়াৰে কিমান উষ্ণতা লাভ কৰিব পাৰে?"
     },
     "options": [
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "About 1500 °C",
+        "as": "প্ৰায় 1500 °C"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "About 100 °C",
+        "as": "প্ৰায় 100 °C"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "About 300 °C",
+        "as": "প্ৰায় 300 °C"
       },
       {
-        "en": "The thermosphere.",
-        "as": "থাৰ্ম'স্ফিয়াৰ।"
+        "en": "About 50 °C",
+        "as": "প্ৰায় 50 °C"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The troposphere is the lowest layer of the atmosphere.",
-      "as": "ট্ৰপ'স্ফিয়াৰ বায়ুমণ্ডলৰ আটাইতকৈ তলৰ স্তৰ।"
+      "en": "About 1500 °C",
+      "as": "প্ৰায় 1500 °C"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-006",
     "q": {
-      "en": "In which layer do we live and weather occurs?",
-      "as": "আমি কোন স্তৰত বাস কৰো আৰু বতৰ ঘটে?"
+      "en": "At about what height does the exosphere begin?",
+      "as": "কিমান উচ্চতাত এক্স'স্ফিয়াৰ আৰম্ভ হয়?"
     },
     "options": [
       {
-        "en": "The thermosphere.",
-        "as": "থাৰ্ম'স্ফিয়াৰ।"
+        "en": "About 500 km",
+        "as": "প্ৰায় 500 কিলোমিটাৰ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "About 50 km",
+        "as": "প্ৰায় 50 কিলোমিটাৰ"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "About 80 km",
+        "as": "প্ৰায় 80 কিলোমিটাৰ"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰত।"
+        "en": "About 12 km",
+        "as": "প্ৰায় 12 কিলোমিটাৰ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "We live and weather occurs in the troposphere.",
-      "as": "আমি ট্ৰপ'স্ফিয়াৰত বাস কৰো আৰু বতৰ ইয়াতে ঘটে।"
+      "en": "About 500 km",
+      "as": "প্ৰায় 500 কিলোমিটাৰ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-007",
     "q": {
-      "en": "What is the average height of the troposphere?",
-      "as": "ট্ৰপ'স্ফিয়াৰৰ গড় উচ্চতা কিমান?"
+      "en": "What is the homosphere?",
+      "as": "সমন-মণ্ডল (homosphere) কি?"
     },
     "options": [
       {
-        "en": "About 4,500 kilometres",
-        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+        "en": "The lower atmosphere up to about 80 km where gases are evenly mixed",
+        "as": "প্ৰায় 80 কিলোমিটাৰ পৰ্যন্ত নিম্ন বায়ুমণ্ডল, য'ত গেছবোৰ সমানভাৱে মিহলি হৈ থাকে"
       },
       {
-        "en": "About 12,000 kilometres",
-        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+        "en": "The layer above 80 km where gases separate by weight",
+        "as": "80 কিলোমিটাৰৰ ওপৰৰ স্তৰ, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
       },
       {
-        "en": "About 13 to 14 kilometres.",
-        "as": "প্ৰায় ১৩ৰ পৰা ১৪ কিলোমিটাৰ।"
+        "en": "The layer where ozone is concentrated",
+        "as": "য'ত অ'জন ঘনীভূত হয় সেই স্তৰ"
       },
       {
-        "en": "About 2,000 kilometres",
-        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+        "en": "The layer where weather occurs",
+        "as": "য'ত বতাহ-পানীৰ পৰিৱৰ্তন হয় সেই স্তৰ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The average height of the troposphere is about 13 to 14 kilometres.",
-      "as": "ট্ৰপ'স্ফিয়াৰৰ গড় উচ্চতা প্ৰায় ১৩ৰ পৰা ১৪ কিলোমিটাৰ।"
+      "en": "The lower atmosphere up to about 80 km where gases are evenly mixed",
+      "as": "প্ৰায় 80 কিলোমিটাৰ পৰ্যন্ত নিম্ন বায়ুমণ্ডল, য'ত গেছবোৰ সমানভাৱে মিহলি হৈ থাকে"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-008",
     "q": {
-      "en": "Which layer contains the ozone layer?",
-      "as": "কোন স্তৰত ওজোন স্তৰ আছে?"
+      "en": "What is the heterosphere?",
+      "as": "বিষম-মণ্ডল (heterosphere) কি?"
     },
     "options": [
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The upper atmosphere above 80 km where gases separate by weight",
+        "as": "80 কিলোমিটাৰৰ ওপৰৰ উচ্চ বায়ুমণ্ডল, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The lower atmosphere up to 80 km",
+        "as": "80 কিলোমিটাৰ পৰ্যন্ত নিম্ন বায়ুমণ্ডল"
       },
       {
-        "en": "The thermosphere.",
-        "as": "থাৰ্ম'স্ফিয়াৰ।"
+        "en": "The ozone-rich layer",
+        "as": "অ'জনযুক্ত স্তৰ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The layer of charged particles",
+        "as": "আধানযুক্ত কণিকাৰ স্তৰ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The ozone layer is present in the stratosphere.",
-      "as": "ওজোন স্তৰ ষ্ট্ৰেট'স্ফিয়াৰত আছে।"
+      "en": "The upper atmosphere above 80 km where gases separate by weight",
+      "as": "80 কিলোমিটাৰৰ ওপৰৰ উচ্চ বায়ুমণ্ডল, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-009",
     "q": {
-      "en": "What does the ozone layer protect us from?",
-      "as": "ওজোন স্তৰে আমাক কিয় ৰক্ষা কৰে?"
+      "en": "In which unit is the amount of ozone in the atmosphere measured?",
+      "as": "বায়ুমণ্ডলত অ'জনৰ পৰিমাণ কোন এককত জোখা হয়?"
     },
     "options": [
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "Dobson Unit",
+        "as": "ডবছন একক"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "Richter Unit",
+        "as": "ৰিখটাৰ একক"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "Beaufort Unit",
+        "as": "বিউফ'ৰ্ট একক"
       },
       {
-        "en": "In the stratosphere and the thermosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু থাৰ্ম'স্ফিয়াৰত।"
+        "en": "Newton Unit",
+        "as": "নিউটন একক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ozone layer protects us from the harmful ultraviolet rays of the sun.",
-      "as": "ওজোন স্তৰে আমাক সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা ৰক্ষা কৰে।"
+      "en": "Dobson Unit",
+      "as": "ডবছন একক"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-010",
     "q": {
-      "en": "In which layer does the temperature increase with height?",
-      "as": "কোন স্তৰত উচ্চতা বৃদ্ধিৰ লগে লগে উষ্ণতা বৃদ্ধি হয়?"
+      "en": "What is the average thickness of the ozone layer?",
+      "as": "অ'জন স্তৰৰ গড় ঘনত্ব কিমান?"
     },
     "options": [
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "About 300 Dobson Units",
+        "as": "প্ৰায় 300 ডবছন একক"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "About 30 Dobson Units",
+        "as": "প্ৰায় 30 ডবছন একক"
       },
       {
-        "en": "In the stratosphere and the thermosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু থাৰ্ম'স্ফিয়াৰত।"
+        "en": "About 3000 Dobson Units",
+        "as": "প্ৰায় 3000 ডবছন একক"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "About 100 Dobson Units",
+        "as": "প্ৰায় 100 ডবছন একক"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Temperature increases with height in the stratosphere and the thermosphere.",
-      "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু থাৰ্ম'স্ফিয়াৰত উচ্চতা বৃদ্ধিৰ লগে লগে উষ্ণতা বৃদ্ধি হয়।"
+      "en": "About 300 Dobson Units",
+      "as": "প্ৰায় 300 ডবছন একক"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-011",
     "q": {
-      "en": "In which layer do the meteors burn up?",
-      "as": "কোন স্তৰত উল্কা জ্বলি নিঃশেষ হয়?"
+      "en": "Which gas forms the largest part of dry air by volume?",
+      "as": "আয়তন অনুসৰি শুকান বায়ুৰ আটাইতকৈ বেছি অংশ কোন গেছে গঠন কৰে?"
     },
     "options": [
       {
-        "en": "The thermosphere.",
-        "as": "থাৰ্ম'স্ফিয়াৰ।"
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "Argon",
+        "as": "আৰ্গন"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Meteors burn up in the mesosphere.",
-      "as": "উল্কা মেছ'স্ফিয়াৰত জ্বলি নিঃশেষ হয়।"
+      "en": "Nitrogen",
+      "as": "নাইট্ৰ'জেন"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-012",
     "q": {
-      "en": "Which layer contains the ionosphere used for radio communication?",
-      "as": "ৰেডিঅ' যোগাযোগত ব্যৱহৃত আয়ন'স্ফিয়াৰ কোন স্তৰত আছে?"
+      "en": "What is the approximate proportion of argon in the atmosphere?",
+      "as": "বায়ুমণ্ডলত আৰ্গনৰ পৰিমাণ প্ৰায় কিমান?"
     },
     "options": [
       {
-        "en": "The thermosphere.",
-        "as": "থাৰ্ম'স্ফিয়াৰ।"
+        "en": "0.93 per cent",
+        "as": "0.93 শতাংশ"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "9.3 per cent",
+        "as": "9.3 শতাংশ"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "0.093 per cent",
+        "as": "0.093 শতাংশ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "1.93 per cent",
+        "as": "1.93 শতাংশ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ionosphere, used for radio communication, lies in the thermosphere.",
-      "as": "ৰেডিঅ' যোগাযোগত ব্যৱহৃত আয়ন'স্ফিয়াৰ থাৰ্ম'স্ফিয়াৰত অৱস্থিত।"
+      "en": "0.93 per cent",
+      "as": "0.93 শতাংশ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-013",
     "q": {
-      "en": "Which is the uppermost layer of the atmosphere?",
-      "as": "বায়ুমণ্ডলৰ আটাইতকৈ ওপৰৰ স্তৰটো কোনটো?"
+      "en": "Which two gases together make up about 99 per cent of dry air?",
+      "as": "কোন দুটা গেছে একেলগে শুকান বায়ুৰ প্ৰায় 99 শতাংশ গঠন কৰে?"
     },
     "options": [
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "Nitrogen and oxygen",
+        "as": "নাইট্ৰ'জেন আৰু অক্সিজেন"
       },
       {
-        "en": "The exosphere.",
-        "as": "এক্স'স্ফিয়াৰ।"
+        "en": "Oxygen and argon",
+        "as": "অক্সিজেন আৰু আৰ্গন"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "Nitrogen and carbon dioxide",
+        "as": "নাইট্ৰ'জেন আৰু কাৰ্বন ডাই-অক্সাইড"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "Oxygen and water vapour",
+        "as": "অক্সিজেন আৰু জলীয় বাষ্প"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The exosphere is the uppermost layer of the atmosphere.",
-      "as": "এক্স'স্ফিয়াৰ বায়ুমণ্ডলৰ আটাইতকৈ ওপৰৰ স্তৰ।"
+      "en": "Nitrogen and oxygen",
+      "as": "নাইট্ৰ'জেন আৰু অক্সিজেন"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-014",
     "q": {
-      "en": "What is 'air pressure'?",
-      "as": "'বায়ুচাপ' কি?"
+      "en": "What is the approximate height of the troposphere over the poles?",
+      "as": "মেৰু অঞ্চলত ট্ৰ'প'স্ফিয়াৰৰ উচ্চতা প্ৰায় কিমান?"
     },
     "options": [
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "About 8 km",
+        "as": "প্ৰায় 8 কিলোমিটাৰ"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "About 18 km",
+        "as": "প্ৰায় 18 কিলোমিটাৰ"
       },
       {
-        "en": "The weight of the air pressing down on the Earth's surface.",
-        "as": "পৃথিৱী পৃষ্ঠত তললৈ চপা বায়ুৰ ওজন।"
+        "en": "About 12 km",
+        "as": "প্ৰায় 12 কিলোমিটাৰ"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "About 25 km",
+        "as": "প্ৰায় 25 কিলোমিটাৰ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Air pressure is the weight of the air pressing down on the Earth's surface.",
-      "as": "বায়ুচাপ হৈছে পৃথিৱী পৃষ্ঠত তললৈ চপা বায়ুৰ ওজন।"
+      "en": "About 8 km",
+      "as": "প্ৰায় 8 কিলোমিটাৰ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-015",
     "q": {
-      "en": "What are the permanent winds?",
-      "as": "স্থায়ী বতাহসমূহ কি কি?"
+      "en": "What is the boundary between the stratosphere and the mesosphere called?",
+      "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু মেছ'স্ফিয়াৰৰ সীমাক কি বোলে?"
     },
     "options": [
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "Stratopause",
+        "as": "ষ্ট্ৰেট'পজ"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "Tropopause",
+        "as": "ট্ৰ'প'পজ"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "Mesopause",
+        "as": "মেছ'পজ"
       },
       {
-        "en": "The trade winds, the westerlies and the polar easterlies.",
-        "as": "বাণিজ্য বতাহ, পশ্চিমীয়া বতাহ আৰু মেৰু পূবীয়া বতাহ।"
+        "en": "Thermopause",
+        "as": "থাৰ্ম'পজ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The permanent winds are the trade winds, the westerlies and the polar easterlies.",
-      "as": "স্থায়ী বতাহসমূহ হৈছে বাণিজ্য বতাহ, পশ্চিমীয়া বতাহ আৰু মেৰু পূবীয়া বতাহ।"
+      "en": "Stratopause",
+      "as": "ষ্ট্ৰেট'পজ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-016",
     "q": {
-      "en": "Which winds blow from the subtropical high to the equatorial low?",
-      "as": "কোন বতাহ উপ-ক্ৰান্তীয় উচ্চচাপৰ পৰা বিষুৱীয় নিম্নচাপলৈ বৈ যায়?"
+      "en": "Which wind belt blows from the subtropical high pressure towards the subpolar low pressure?",
+      "as": "কোন বতাহ-বলে উপক্ৰান্তীয় উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বয়?"
     },
     "options": [
       {
-        "en": "The trade winds.",
-        "as": "বাণিজ্য বতাহ।"
+        "en": "The westerlies",
+        "as": "পশ্চিমীয়া বতাহ"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The trade winds",
+        "as": "বাণিজ্যিক বতাহ"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The polar easterlies",
+        "as": "মেৰু পূবীয়া বতাহ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The monsoons",
+        "as": "মৌচুমী বতাহ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The trade winds blow from the subtropical high to the equatorial low.",
-      "as": "বাণিজ্য বতাহ উপ-ক্ৰান্তীয় উচ্চচাপৰ পৰা বিষুৱীয় নিম্নচাপলৈ বৈ যায়।"
+      "en": "The westerlies",
+      "as": "পশ্চিমীয়া বতাহ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-017",
     "q": {
-      "en": "What are the trade winds called in the northern hemisphere?",
-      "as": "উত্তৰ গোলাৰ্ধত বাণিজ্য বতাহ কাক বোলা হয়?"
+      "en": "Between which latitudes do the westerlies blow?",
+      "as": "পশ্চিমীয়া বতাহে কোন অক্ষাংশৰ মাজত বয়?"
     },
     "options": [
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "30° and 60° in both hemispheres",
+        "as": "উভয় গোলাৰ্ধত 30° আৰু 60°"
       },
       {
-        "en": "The North-East trade winds.",
-        "as": "উত্তৰ-পূব বাণিজ্য বতাহ।"
+        "en": "0° and 30° in both hemispheres",
+        "as": "উভয় গোলাৰ্ধত 0° আৰু 30°"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "60° and 90° in both hemispheres",
+        "as": "উভয় গোলাৰ্ধত 60° আৰু 90°"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "10° and 40° in both hemispheres",
+        "as": "উভয় গোলাৰ্ধত 10° আৰু 40°"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "In the northern hemisphere, the trade winds are called the North-East trade winds.",
-      "as": "উত্তৰ গোলাৰ্ধত বাণিজ্য বতাহক উত্তৰ-পূব বাণিজ্য বতাহ বোলা হয়।"
+      "en": "30° and 60° in both hemispheres",
+      "as": "উভয় গোলাৰ্ধত 30° আৰু 60°"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-018",
     "q": {
-      "en": "Which winds blow from the horse latitudes to the polar region?",
-      "as": "কোন বতাহ ঘোঁৰা অক্ষাংশৰ পৰা মেৰু অঞ্চললৈ বৈ যায়?"
+      "en": "What are the polar easterlies?",
+      "as": "মেৰু পূবীয়া বতাহ কি?"
     },
     "options": [
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "Cold winds blowing from the polar high towards the subpolar low",
+        "as": "মেৰু উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বোৱা ঠাণ্ডা বতাহ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "Warm winds blowing towards the equator",
+        "as": "বিষুবৰেখালৈ বোৱা উষ্ণ বতাহ"
       },
       {
-        "en": "The westerlies.",
-        "as": "পশ্চিমীয়া বতাহ।"
+        "en": "Winds blowing from the subtropical high to the equator",
+        "as": "উপক্ৰান্তীয় উচ্চচাপৰ পৰা বিষুবৰেখালৈ বোৱা বতাহ"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "Seasonal winds of the Indian Ocean",
+        "as": "ভাৰত মহাসাগৰৰ ঋতুভিত্তিক বতাহ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The westerlies blow from the horse latitudes to the polar region.",
-      "as": "পশ্চিমীয়া বতাহ ঘোঁৰা অক্ষাংশৰ পৰা মেৰু অঞ্চললৈ বৈ যায়।"
+      "en": "Cold winds blowing from the polar high towards the subpolar low",
+      "as": "মেৰু উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বোৱা ঠাণ্ডা বতাহ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-019",
     "q": {
-      "en": "What are the seasonal winds of India?",
-      "as": "ভাৰতৰ ঋতুভিত্তিক বতাহসমূহ কি কি?"
+      "en": "Which pressure belt is known as the ITCZ?",
+      "as": "কোন চাপ বলয়ক ITCZ বুলি জনা যায়?"
     },
     "options": [
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The equatorial low pressure belt",
+        "as": "বিষুবীয় নিম্নচাপ বলয়"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The subtropical high pressure belt",
+        "as": "উপক্ৰান্তীয় উচ্চচাপ বলয়"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The subpolar low pressure belt",
+        "as": "উপমেৰু নিম্নচাপ বলয়"
       },
       {
-        "en": "The monsoon winds.",
-        "as": "মৌচুমী বতাহ।"
+        "en": "The polar high pressure belt",
+        "as": "মেৰু উচ্চচাপ বলয়"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The seasonal winds of India are the monsoon winds.",
-      "as": "ভাৰতৰ ঋতুভিত্তিক বতাহসমূহ হৈছে মৌচুমী বতাহ।"
+      "en": "The equatorial low pressure belt",
+      "as": "বিষুবীয় নিম্নচাপ বলয়"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-020",
     "q": {
-      "en": "What is a cyclone?",
-      "as": "ঘূৰ্ণীবতাহ কি?"
+      "en": "Why does the ITCZ shift northwards in July?",
+      "as": "জুলাই মাহত ITCZ কিয় উত্তৰলৈ সৰি যায়?"
     },
     "options": [
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "Because the sun's vertical rays shift north",
+        "as": "কাৰণ সূৰ্যৰ লম্ব ৰশ্মি উত্তৰলৈ সৰি যায়"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "Because the ocean currents reverse",
+        "as": "কাৰণ মহাসাগৰীয় সোঁত ওলোটাই যায়"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "Because the ozone layer thickens",
+        "as": "কাৰণ অ'জন স্তৰ ডাঠ হয়"
       },
       {
-        "en": "A system of low pressure with strong winds rotating around a centre.",
-        "as": "কেন্দ্ৰৰ চৌপাশে ঘূৰি থকা প্ৰবল বতাহসহ নিম্নচাপ ব্যৱস্থা।"
+        "en": "Because the polar vortex weakens",
+        "as": "কাৰণ মেৰু ঘূৰ্ণন দুৰ্বল হয়"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "A cyclone is a system of low pressure with strong winds rotating around a centre.",
-      "as": "ঘূৰ্ণীবতাহ হৈছে কেন্দ্ৰৰ চৌপাশে ঘূৰি থকা প্ৰবল বতাহসহ নিম্নচাপ ব্যৱস্থা।"
+      "en": "Because the sun's vertical rays shift north",
+      "as": "কাৰণ সূৰ্যৰ লম্ব ৰশ্মি উত্তৰলৈ সৰি যায়"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-021",
     "q": {
-      "en": "What is the centre of a cyclone called?",
-      "as": "ঘূৰ্ণীবতাহৰ কেন্দ্ৰক কাক বোলা হয়?"
+      "en": "Which circulation cell is responsible for the trade winds?",
+      "as": "কোন পৰিসঞ্চৰণ কোষে বাণিজ্যিক বতাহৰ বাবে দায়ী?"
     },
     "options": [
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The Hadley cell",
+        "as": "হেডলি কোষ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The Ferrel cell",
+        "as": "ফেৰেল কোষ"
       },
       {
-        "en": "The eye of the cyclone.",
-        "as": "ঘূৰ্ণীবতাহৰ চকু।"
+        "en": "The polar cell",
+        "as": "মেৰু কোষ"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The Walker cell",
+        "as": "ৱাকাৰ কোষ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The centre of a cyclone is called the eye of the cyclone.",
-      "as": "ঘূৰ্ণীবতাহৰ কেন্দ্ৰক ঘূৰ্ণীবতাহৰ চকু বোলা হয়।"
+      "en": "The Hadley cell",
+      "as": "হেডলি কোষ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-022",
     "q": {
-      "en": "What is the 'eye' of the cyclone?",
-      "as": "ঘূৰ্ণীবতাহৰ 'চকু' কি?"
+      "en": "Which are the three main cells of the global atmospheric circulation?",
+      "as": "বিশ্ব বায়ুমণ্ডলীয় পৰিসঞ্চৰণৰ তিনিটা মূল কোষ কোন?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "Hadley, Ferrel and Polar cells",
+        "as": "হেডলি, ফেৰেল আৰু মেৰু কোষ"
       },
       {
-        "en": "The calm centre of the cyclone.",
-        "as": "ঘূৰ্ণীবতাহৰ শান্ত কেন্দ্ৰ।"
+        "en": "Walker, Monsoon and Trade cells",
+        "as": "ৱাকাৰ, মৌচুমী আৰু বাণিজ্যিক কোষ"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "Hadley, Walker and Rossby cells",
+        "as": "হেডলি, ৱাকাৰ আৰু ৰছবি কোষ"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "Ferrel, Polar and Jet cells",
+        "as": "ফেৰেল, মেৰু আৰু জেট কোষ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The 'eye' of a cyclone is its calm centre.",
-      "as": "ঘূৰ্ণীবতাহৰ 'চকু' হৈছে ইয়াৰ শান্ত কেন্দ্ৰ।"
+      "en": "Hadley, Ferrel and Polar cells",
+      "as": "হেডলি, ফেৰেল আৰু মেৰু কোষ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-023",
     "q": {
-      "en": "What are the cyclones of the Pacific Ocean called?",
-      "as": "প্ৰশান্ত মহাসাগৰৰ ঘূৰ্ণীবতাহক কি বোলা হয়?"
+      "en": "What is the Somali Jet?",
+      "as": "ছোমালি জেট কি?"
     },
     "options": [
       {
-        "en": "Typhoons.",
-        "as": "টাইফুন।"
+        "en": "A low level cross-equatorial jet that strengthens the Indian summer monsoon",
+        "as": "ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক শক্তিশালী কৰা নিম্নস্তৰৰ বিষুব-পাৰগামী প্ৰবাহ"
       },
       {
-        "en": "Hurricanes.",
-        "as": "হাৰিকেন।"
+        "en": "A high altitude wind over the Arctic",
+        "as": "আৰ্কটিকৰ ওপৰৰ উচ্চস্তৰৰ বতাহ"
       },
       {
-        "en": "Cyclones.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "A cold wind of the Sahara",
+        "as": "চাহাৰাৰ ঠাণ্ডা বতাহ"
       },
       {
-        "en": "Nitrogen",
-        "as": "নাইট্ৰজেন"
+        "en": "A current of the Indian Ocean",
+        "as": "ভাৰত মহাসাগৰৰ সোঁত"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Cyclones of the Pacific Ocean are called typhoons.",
-      "as": "প্ৰশান্ত মহাসাগৰৰ ঘূৰ্ণীবতাহক টাইফুন বোলা হয়।"
+      "en": "A low level cross-equatorial jet that strengthens the Indian summer monsoon",
+      "as": "ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক শক্তিশালী কৰা নিম্নস্তৰৰ বিষুব-পাৰগামী প্ৰবাহ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-024",
     "q": {
-      "en": "What are the cyclones of the Atlantic Ocean called?",
-      "as": "আটলাণ্টিক মহাসাগৰৰ ঘূৰ্ণীবতাহক কি বোলা হয়?"
+      "en": "What role does the Tibetan Plateau play in the Indian monsoon?",
+      "as": "ভাৰতীয় মৌচুমীত তিব্বত মালভূমিৰ ভূমিকা কি?"
     },
     "options": [
       {
-        "en": "Nitrogen",
-        "as": "নাইট্ৰজেন"
+        "en": "It acts as an elevated heat source that strengthens the monsoon",
+        "as": "ই এক উচ্চ তাপ-উৎস হিচাপে মৌচুমীক শক্তিশালী কৰে"
       },
       {
-        "en": "Cyclones.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "It blocks the monsoon winds completely",
+        "as": "ই মৌচুমী বতাহ সম্পূৰ্ণৰূপে ৰোধ কৰে"
       },
       {
-        "en": "Typhoons.",
-        "as": "টাইফুন।"
+        "en": "It cools the air and weakens the monsoon",
+        "as": "ই বায়ু ঠাণ্ডা কৰি মৌচুমী দুৰ্বল কৰে"
       },
       {
-        "en": "Hurricanes.",
-        "as": "হাৰিকেন।"
+        "en": "It has no effect on the monsoon",
+        "as": "ই মৌচুমীত কোনো প্ৰভাৱ নাপেলায়"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Cyclones of the Atlantic Ocean are called hurricanes.",
-      "as": "আটলাণ্টিক মহাসাগৰৰ ঘূৰ্ণীবতাহক হাৰিকেন বোলা হয়।"
+      "en": "It acts as an elevated heat source that strengthens the monsoon",
+      "as": "ই এক উচ্চ তাপ-উৎস হিচাপে মৌচুমীক শক্তিশালী কৰে"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-025",
     "q": {
-      "en": "What are the cyclones of the Indian Ocean called?",
-      "as": "ভাৰত মহাসাগৰৰ ঘূৰ্ণীবতাহক কি বোলা হয়?"
+      "en": "What is a 'break monsoon'?",
+      "as": "'ব্ৰেক মৌচুমী' কি?"
     },
     "options": [
       {
-        "en": "Hurricanes.",
-        "as": "হাৰিকেন।"
+        "en": "A spell when monsoon rainfall stops over most of India",
+        "as": "এনে সময় য'ত ভাৰতৰ বেছিভাগ অংশত মৌচুমী বৰষুণ বন্ধ হৈ যায়"
       },
       {
-        "en": "Nitrogen",
-        "as": "নাইট্ৰজেন"
+        "en": "The beginning of the monsoon",
+        "as": "মৌচুমীৰ আৰম্ভণি"
       },
       {
-        "en": "Cyclones.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "The withdrawal of the monsoon",
+        "as": "মৌচুমীৰ প্ৰত্যাৱৰ্তন"
       },
       {
-        "en": "Typhoons.",
-        "as": "টাইফুন।"
+        "en": "A period of heavy rainfall",
+        "as": "অতিভাৰী বৰষুণৰ সময়"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Cyclones of the Indian Ocean are called cyclones.",
-      "as": "ভাৰত মহাসাগৰৰ ঘূৰ্ণীবতাহক ঘূৰ্ণীবতাহ বোলা হয়।"
+      "en": "A spell when monsoon rainfall stops over most of India",
+      "as": "এনে সময় য'ত ভাৰতৰ বেছিভাগ অংশত মৌচুমী বৰষুণ বন্ধ হৈ যায়"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-026",
     "q": {
-      "en": "In which direction do the cyclones rotate in the northern hemisphere?",
-      "as": "উত্তৰ গোলাৰ্ধত ঘূৰ্ণীবতাহ কোন দিশত ঘূৰে?"
+      "en": "What is the Mascarene High?",
+      "as": "মাছকাৰিন উচ্চচাপ কি?"
     },
     "options": [
       {
-        "en": "Cyclonic storms.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "A high pressure cell in the southern Indian Ocean that drives cross-equatorial monsoon flow",
+        "as": "দক্ষিণ ভাৰত মহাসাগৰৰ উচ্চচাপ কোষ, যি বিষুব-পাৰগামী মৌচুমী প্ৰবাহ চলায়"
       },
       {
-        "en": "Anti-clockwise.",
-        "as": "বিপৰীত ঘড়ীৰ কাঁটা দিশত।"
+        "en": "A mountain range in Africa",
+        "as": "আফ্ৰিকাৰ পৰ্বতমালা"
       },
       {
-        "en": "A tornado",
-        "as": "টৰ্ণেডো"
+        "en": "A cyclone of the Bay of Bengal",
+        "as": "বঙ্গোপসাগৰৰ ঘূৰ্ণীবতাহ"
       },
       {
-        "en": "Carbon dioxide.",
-        "as": "কাৰ্বন ডাইঅক্সাইড।"
+        "en": "A desert wind of Arabia",
+        "as": "আৰবৰ মৰুভূমিৰ বতাহ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "In the northern hemisphere, cyclones rotate anti-clockwise.",
-      "as": "উত্তৰ গোলাৰ্ধত ঘূৰ্ণীবতাহ বিপৰীত ঘড়ীৰ কাঁটা দিশত ঘূৰে।"
+      "en": "A high pressure cell in the southern Indian Ocean that drives cross-equatorial monsoon flow",
+      "as": "দক্ষিণ ভাৰত মহাসাগৰৰ উচ্চচাপ কোষ, যি বিষুব-পাৰগামী মৌচুমী প্ৰবাহ চলায়"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-027",
     "q": {
-      "en": "What are the cyclones of the Bay of Bengal called?",
-      "as": "বঙ্গোপসাগৰৰ ঘূৰ্ণীবতাহক কি বোলা হয়?"
+      "en": "Which local wind is a cold katabatic wind blowing down the Rhone valley?",
+      "as": "কোন স্থানীয় বতাহ ৰ'ন উপত্যকাৰে তললৈ বোৱা ঠাণ্ডা কেটাবেটিক বতাহ?"
     },
     "options": [
       {
-        "en": "Cyclonic storms.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       },
       {
-        "en": "Anti-clockwise.",
-        "as": "বিপৰীত ঘড়ীৰ কাঁটা দিশত।"
+        "en": "The Sirocco",
+        "as": "ছিৰকো"
       },
       {
-        "en": "Carbon dioxide.",
-        "as": "কাৰ্বন ডাইঅক্সাইড।"
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
       },
       {
-        "en": "An anticyclone",
-        "as": "প্ৰতিঘূৰ্ণীবতাহ"
+        "en": "The Chinook",
+        "as": "চিনুক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Cyclones of the Bay of Bengal are called cyclonic storms.",
-      "as": "বঙ্গোপসাগৰৰ ঘূৰ্ণীবতাহক ঘূৰ্ণীবতাহ/চাইক্লনিক ষ্টৰ্ম বোলা হয়।"
+      "en": "The Mistral",
+      "as": "মিষ্ট্ৰাল"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-028",
     "q": {
-      "en": "What is the main cause of the cyclone formation?",
-      "as": "ঘূৰ্ণীবতাহ গঠনৰ মূল কাৰণ কি?"
+      "en": "Which local wind is a cold dry katabatic wind of the Adriatic coast?",
+      "as": "এড্ৰিয়াটিক উপকূলৰ ঠাণ্ডা শুকান কেটাবেটিক বতাহ কোনটো?"
     },
     "options": [
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "The Bora",
+        "as": "ব'ৰা"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "The Zonda",
+        "as": "জণ্ডা"
       },
       {
-        "en": "The warm ocean waters and the low pressure over the sea.",
-        "as": "উষ্ণ সাগৰীয় পানী আৰু সাগৰৰ ওপৰত নিম্নচাপ।"
+        "en": "The Berg wind",
+        "as": "বাৰ্গ বতাহ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The main cause of cyclone formation is the warm ocean waters and the low pressure over the sea.",
-      "as": "ঘূৰ্ণীবতাহ গঠনৰ মূল কাৰণ হৈছে উষ্ণ সাগৰীয় পানী আৰু সাগৰৰ ওপৰত নিম্নচাপ।"
+      "en": "The Bora",
+      "as": "ব'ৰা"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-029",
     "q": {
-      "en": "What is the 'cyclone warning' system of India called?",
-      "as": "ভাৰতৰ 'ঘূৰ্ণীবতাহ সতৰ্কতা' ব্যৱস্থাক কি বোলা হয়?"
+      "en": "Which local wind is a hot, dry, dusty wind from the Sahara reaching the Mediterranean?",
+      "as": "চাহাৰাৰ পৰা ভূমধ্য সাগৰলৈ অহা গৰম, শুকান, ধূলিময় বতাহ কোনটো?"
     },
     "options": [
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The Sirocco",
+        "as": "ছিৰকো"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       },
       {
-        "en": "The IMD cyclone warning system.",
-        "as": "IMD ঘূৰ্ণীবতাহ সতৰ্কতা ব্যৱস্থা।"
+        "en": "The Bora",
+        "as": "ব'ৰা"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "India's cyclone warning system is run by the India Meteorological Department (IMD).",
-      "as": "ভাৰতৰ ঘূৰ্ণীবতাহ সতৰ্কতা ব্যৱস্থা ভাৰতীয় বতৰ বিজ্ঞান বিভাগ (IMD) য়ে পৰিচালনা কৰে।"
+      "en": "The Sirocco",
+      "as": "ছিৰকো"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-030",
     "q": {
-      "en": "What is the effect of the global warming on the cyclones?",
-      "as": "গ্ল'বেল ৱাৰ্মিঙে ঘূৰ্ণীবতাহত কি প্ৰভাৱ পেলায়?"
+      "en": "Which local wind is the dry dusty wind of West Africa?",
+      "as": "পশ্চিম আফ্ৰিকাৰ শুকান ধূলিময় বতাহ কোনটো?"
     },
     "options": [
       {
-        "en": "It increases their frequency and intensity.",
-        "as": "ই ইয়াৰ সংঘটন আৰু তীব্ৰতা বৃদ্ধি কৰে।"
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "The Sirocco",
+        "as": "ছিৰকো"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "The Khamsin",
+        "as": "খামচিন"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "The Bora",
+        "as": "ব'ৰা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Global warming increases the frequency and intensity of cyclones due to warmer ocean waters.",
-      "as": "উষ্ণ সাগৰীয় পানীৰ বাবে গ্ল'বেল ৱাৰ্মিঙে ঘূৰ্ণীবতাহৰ সংঘটন আৰু তীব্ৰতা বৃদ্ধি কৰে।"
+      "en": "The Harmattan",
+      "as": "হাৰ্মাটান"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-031",
     "q": {
-      "en": "What percentage of the atmosphere is oxygen?",
-      "as": "বায়ুমণ্ডলৰ কিমান শতাংশ অক্সিজেন?"
+      "en": "Which local wind is a hot dry wind of South Africa?",
+      "as": "দক্ষিণ আফ্ৰিকাৰ গৰম শুকান বতাহ কোনটো?"
     },
     "options": [
       {
-        "en": "About 5 per cent",
-        "as": "প্ৰায় ৫ শতাংশ"
+        "en": "The Berg wind",
+        "as": "বাৰ্গ বতাহ"
       },
       {
-        "en": "About 21 per cent.",
-        "as": "প্ৰায় ২১ শতাংশ।"
+        "en": "The Zonda",
+        "as": "জণ্ডা"
       },
       {
-        "en": "About 40 per cent",
-        "as": "প্ৰায় ৪০ শতাংশ"
+        "en": "The Sirocco",
+        "as": "ছিৰকো"
       },
       {
-        "en": "About 12 per cent",
-        "as": "প্ৰায় ১২ শতাংশ"
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "About 21 per cent.",
-      "as": "প্ৰায় ২১ শতাংশ।"
+      "en": "The Berg wind",
+      "as": "বাৰ্গ বতাহ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-032",
     "q": {
-      "en": "Which gas do plants take from the air for photosynthesis?",
-      "as": "উদ্ভিদে পোহৰ-সংশ্লেষণৰ বাবে বায়ুৰ পৰা কোন গেছ লয়?"
+      "en": "Which local wind is a warm dry wind of Argentina?",
+      "as": "আৰ্জেণ্টিনাৰ উষ্ণ শুকান বতাহ কোনটো?"
     },
     "options": [
       {
-        "en": "Cyclonic storms.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "The Zonda",
+        "as": "জণ্ডা"
       },
       {
-        "en": "The thermosphere",
-        "as": "থাৰ্মস্ফিয়াৰ"
+        "en": "The Berg wind",
+        "as": "বাৰ্গ বতাহ"
       },
       {
-        "en": "Carbon dioxide.",
-        "as": "কাৰ্বন ডাইঅক্সাইড।"
+        "en": "The Chinook",
+        "as": "চিনুক"
       },
       {
-        "en": "Anti-clockwise.",
-        "as": "বিপৰীত ঘড়ীৰ কাঁটা দিশত।"
+        "en": "The Fohn",
+        "as": "ফন"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Carbon dioxide.",
-      "as": "কাৰ্বন ডাইঅক্সাইড।"
+      "en": "The Zonda",
+      "as": "জণ্ডা"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-033",
     "q": {
-      "en": "What is the boundary between the troposphere and the stratosphere called?",
-      "as": "ট্ৰ'পস্ফিয়াৰ আৰু ষ্ট্ৰেটস্ফিয়াৰৰ মাজৰ সীমাক কি বোলা হয়?"
+      "en": "Which local wind is a hot dry wind of California?",
+      "as": "কেলিফৰ্ণিয়াৰ গৰম শুকান বতাহ কোনটো?"
     },
     "options": [
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The Santa Ana",
+        "as": "ছাণ্টা আনা"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The Zonda",
+        "as": "জণ্ডা"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
       },
       {
-        "en": "The tropopause.",
-        "as": "ট্ৰ'প'পজ।"
+        "en": "The Bora",
+        "as": "ব'ৰা"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The tropopause.",
-      "as": "ট্ৰ'প'পজ।"
+      "en": "The Santa Ana",
+      "as": "ছাণ্টা আনা"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-034",
     "q": {
-      "en": "What is the 'jet stream'?",
-      "as": "'জেট ষ্ট্ৰিম' কি?"
+      "en": "At which latitude is the Coriolis force zero?",
+      "as": "কোন অক্ষাংশত কৰিঅ'লিছ বল শূন্য হয়?"
     },
     "options": [
       {
-        "en": "A fast-moving band of air in the upper troposphere.",
-        "as": "ওপৰৰ ট্ৰ'পস্ফিয়াৰত বেগেৰে চলা বায়ুৰ পটি।"
+        "en": "At the equator",
+        "as": "বিষুবৰেখাত"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "At 30° latitude",
+        "as": "30° অক্ষাংশত"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "At the poles",
+        "as": "মেৰুত"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "At 60° latitude",
+        "as": "60° অক্ষাংশত"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "A fast-moving band of air in the upper troposphere.",
-      "as": "ওপৰৰ ট্ৰ'পস্ফিয়াৰত বেগেৰে চলা বায়ুৰ পটি।"
+      "en": "At the equator",
+      "as": "বিষুবৰেখাত"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-035",
     "q": {
-      "en": "What is the 'ozone hole'?",
-      "as": "'অজ'ন ছিদ্ৰ' কি?"
+      "en": "What is a geostrophic wind?",
+      "as": "ভূ-স্থিতিক বতাহ (geostrophic wind) কি?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A wind that blows parallel to the isobars with pressure gradient balanced by the Coriolis force",
+        "as": "এনে বতাহ যি সমচাপ ৰেখাৰ সমান্তৰালভাৱে বয়, য'ত চাপ-প্ৰৱণতা কৰিঅ'লিছ বলৰ দ্বাৰা ভাৰসাম্যত থাকে"
       },
       {
-        "en": "The thinning of the ozone layer over Antarctica.",
-        "as": "এণ্টাৰ্কটিকাৰ ওপৰত অজ'ন স্তৰ পাতল হৈ যোৱা অৱস্থা।"
+        "en": "A wind that blows directly from high to low pressure",
+        "as": "উচ্চচাপৰ পৰা নিম্নচাপলৈ পোনপটীয়াকৈ বোৱা বতাহ"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A wind that blows only over the oceans",
+        "as": "কেৱল মহাসাগৰৰ ওপৰত বোৱা বতাহ"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A wind that reverses every season",
+        "as": "প্ৰতি ঋতুত দিশ সলনি কৰা বতাহ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The thinning of the ozone layer over Antarctica.",
-      "as": "এণ্টাৰ্কটিকাৰ ওপৰত অজ'ন স্তৰ পাতল হৈ যোৱা অৱস্থা।"
+      "en": "A wind that blows parallel to the isobars with pressure gradient balanced by the Coriolis force",
+      "as": "এনে বতাহ যি সমচাপ ৰেখাৰ সমান্তৰালভাৱে বয়, য'ত চাপ-প্ৰৱণতা কৰিঅ'লিছ বলৰ দ্বাৰা ভাৰসাম্যত থাকে"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-036",
     "q": {
-      "en": "Which gas from human activity is the main cause of the greenhouse effect?",
-      "as": "মানৱ কাৰ্য্যৰ পৰা ওলোৱা কোন গেছ সেউজগৃহ প্ৰভাৱৰ মূল কাৰণ?"
+      "en": "What does Buys Ballot's law state?",
+      "as": "বুইছ বেলটৰ সূত্ৰই কি কয়?"
     },
     "options": [
       {
-        "en": "Cyclonic storms.",
-        "as": "ঘূৰ্ণীবতাহ।"
+        "en": "In the Northern Hemisphere, with your back to the wind, low pressure lies to your left",
+        "as": "উত্তৰ গোলাৰ্ধত বতাহলৈ পিঠি দি থিয় হ'লে নিম্নচাপ বাওঁফালে থাকে"
       },
       {
-        "en": "The greenhouse effect",
-        "as": "সেউজগৃহ প্ৰভাৱ"
+        "en": "Low pressure always lies to the east",
+        "as": "নিম্নচাপ সদায় পূবে থাকে"
       },
       {
-        "en": "Carbon dioxide.",
-        "as": "কাৰ্বন ডাইঅক্সাইড।"
+        "en": "Wind always blows from the sea",
+        "as": "বতাহ সদায় সাগৰৰ পৰা বয়"
       },
       {
-        "en": "Anti-clockwise.",
-        "as": "বিপৰীত ঘড়ীৰ কাঁটা দিশত।"
+        "en": "Pressure is the same everywhere",
+        "as": "সৰ্বত্ৰ চাপ একে থাকে"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Carbon dioxide.",
-      "as": "কাৰ্বন ডাইঅক্সাইড।"
+      "en": "In the Northern Hemisphere, with your back to the wind, low pressure lies to your left",
+      "as": "উত্তৰ গোলাৰ্ধত বতাহলৈ পিঠি দি থিয় হ'লে নিম্নচাপ বাওঁফালে থাকে"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-037",
     "q": {
-      "en": "What is the 'Coriolis force'?",
-      "as": "'ক'ৰিঅলিছ বল' কি?"
+      "en": "What is an anticyclone?",
+      "as": "প্ৰতি-ঘূৰ্ণীবতাহ কি?"
     },
     "options": [
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A high pressure system with winds diverging outwards",
+        "as": "বাহিৰলৈ অপসাৰী বতাহযুক্ত উচ্চচাপ পদ্ধতি"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A low pressure system with winds converging inwards",
+        "as": "ভিতৰলৈ অভিসাৰী বতাহযুক্ত নিম্নচাপ পদ্ধতি"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A tornado over the sea",
+        "as": "সাগৰৰ ওপৰৰ টৰ্ণেড'"
       },
       {
-        "en": "The deflection of winds caused by the Earth's rotation.",
-        "as": "পৃথিৱীৰ ঘূৰ্ণনৰ বাবে বতাহৰ দিশ বেঁকা হোৱা প্ৰভাৱ।"
+        "en": "A cold front",
+        "as": "এক ঠাণ্ডা সম্মুখভাগ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The deflection of winds caused by the Earth's rotation.",
-      "as": "পৃথিৱীৰ ঘূৰ্ণনৰ বাবে বতাহৰ দিশ বেঁকা হোৱা প্ৰভাৱ।"
+      "en": "A high pressure system with winds diverging outwards",
+      "as": "বাহিৰলৈ অপসাৰী বতাহযুক্ত উচ্চচাপ পদ্ধতি"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-038",
     "q": {
-      "en": "What are the 'doldrums'?",
-      "as": "'ডলড্ৰাম্ছ' কি?"
+      "en": "In which direction do anticyclones rotate in the Southern Hemisphere?",
+      "as": "দক্ষিণ গোলাৰ্ধত প্ৰতি-ঘূৰ্ণীবতাহে কোন দিশত ঘূৰে?"
     },
     "options": [
       {
-        "en": "The equatorial low-pressure belt with calm winds.",
-        "as": "বিষুবীয় নিম্ন চাপৰ অঞ্চল য'ত বতাহ শান্ত।"
+        "en": "Anticlockwise",
+        "as": "ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "Clockwise",
+        "as": "ঘড়ীৰ কাঁটাৰ দিশত"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "They do not rotate",
+        "as": "সিহঁত ঘূৰে নহয়"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "Towards the equator only",
+        "as": "কেৱল বিষুবৰেখালৈ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The equatorial low-pressure belt with calm winds.",
-      "as": "বিষুবীয় নিম্ন চাপৰ অঞ্চল য'ত বতাহ শান্ত।"
+      "en": "Anticlockwise",
+      "as": "ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-039",
     "q": {
-      "en": "What are the 'horse latitudes'?",
-      "as": "'হৰ্ছ লেটিচিউড্ছ' কি?"
+      "en": "What is the Saffir-Simpson scale used to measure?",
+      "as": "ছাফিৰ-ছিম্পছন স্কেলৰ দ্বাৰা কি জোখা হয়?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "The intensity of hurricanes",
+        "as": "হাৰিকেনৰ তীব্ৰতা"
       },
       {
-        "en": "The subtropical high-pressure belts with calm winds.",
-        "as": "উপ-ক্ৰান্তীয় উচ্চ চাপৰ অঞ্চল য'ত বতাহ শান্ত।"
+        "en": "The intensity of earthquakes",
+        "as": "ভূমিকম্পৰ তীব্ৰতা"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "The intensity of rainfall",
+        "as": "বৰষুণৰ পৰিমাণ"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "The depth of the ocean",
+        "as": "মহাসাগৰৰ গভীৰতা"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The subtropical high-pressure belts with calm winds.",
-      "as": "উপ-ক্ৰান্তীয় উচ্চ চাপৰ অঞ্চল য'ত বতাহ শান্ত।"
+      "en": "The intensity of hurricanes",
+      "as": "হাৰিকেনৰ তীব্ৰতা"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-040",
     "q": {
-      "en": "Which local wind is a hot dry wind of North India?",
-      "as": "উত্তৰ ভাৰতৰ গৰম শুকান স্থানীয় বতাহক কি বোলা হয়?"
+      "en": "As per the IMD classification, what wind speed makes a super cyclonic storm?",
+      "as": "IMD শ্ৰেণীবিভাগ অনুসৰি কিমান বতাহৰ গতিক চুপাৰ ঘূৰ্ণীবতাহ বোলে?"
     },
     "options": [
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "222 km per hour and above",
+        "as": "প্ৰতি ঘণ্টাত 222 কিলোমিটাৰ আৰু তাতোধিক"
       },
       {
-        "en": "The loo.",
-        "as": "লু।"
+        "en": "120 km per hour and above",
+        "as": "প্ৰতি ঘণ্টাত 120 কিলোমিটাৰ আৰু তাতোধিক"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "60 km per hour and above",
+        "as": "প্ৰতি ঘণ্টাত 60 কিলোমিটাৰ আৰু তাতোধিক"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "90 km per hour and above",
+        "as": "প্ৰতি ঘণ্টাত 90 কিলোমিটাৰ আৰু তাতোধিক"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The loo.",
-      "as": "লু।"
+      "en": "222 km per hour and above",
+      "as": "প্ৰতি ঘণ্টাত 222 কিলোমিটাৰ আৰু তাতোধিক"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-041",
     "q": {
-      "en": "Which local wind is a warm dry wind of the Alps?",
-      "as": "আল্পছৰ উষ্ণ শুকান স্থানীয় বতাহক কি বোলা হয়?"
+      "en": "Which cyclone is remembered as the deadliest in India's recorded history?",
+      "as": "ভাৰতৰ লিখিত ইতিহাসত আটাইতকৈ ভয়াবহ ঘূৰ্ণীবতাহ কোনটো বুলি স্মৰণ কৰা হয়?"
     },
     "options": [
       {
-        "en": "The foehn.",
-        "as": "ফন।"
+        "en": "The 1999 Odisha Super Cyclone",
+        "as": "১৯৯৯ চনৰ ওড়িশা চুপাৰ ঘূৰ্ণীবতাহ"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The 1977 Andhra cyclone",
+        "as": "১৯৭৭ চনৰ অন্ধ্ৰ ঘূৰ্ণীবতাহ"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The 1990 Andhra cyclone",
+        "as": "১৯৯০ চনৰ অন্ধ্ৰ ঘূৰ্ণীবতাহ"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The 2013 Phailin",
+        "as": "২০১৩ চনৰ ফাইলিন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The foehn.",
-      "as": "ফন।"
+      "en": "The 1999 Odisha Super Cyclone",
+      "as": "১৯৯৯ চনৰ ওড়িশা চুপাৰ ঘূৰ্ণীবতাহ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-042",
     "q": {
-      "en": "Which local wind is a warm dry wind of the Rocky Mountains?",
-      "as": "ৰকি পৰ্বতমালাৰ উষ্ণ শুকান স্থানীয় বতাহক কি বোলা হয়?"
+      "en": "What is the Fujita scale used for?",
+      "as": "ফুজিতা স্কেল কি জুখিবলৈ ব্যৱহাৰ হয়?"
     },
     "options": [
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The intensity of tornadoes",
+        "as": "টৰ্ণেড'ৰ তীব্ৰতা"
       },
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The strength of ocean currents",
+        "as": "মহাসাগৰীয় সোঁতৰ শক্তি"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The height of waves",
+        "as": "তৰংগৰ উচ্চতা"
       },
       {
-        "en": "The chinook.",
-        "as": "চিনুক।"
+        "en": "The amount of snowfall",
+        "as": "বৰফপাতৰ পৰিমাণ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The chinook.",
-      "as": "চিনুক।"
+      "en": "The intensity of tornadoes",
+      "as": "টৰ্ণেড'ৰ তীব্ৰতা"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-043",
     "q": {
-      "en": "What is a 'sea breeze'?",
-      "as": "'সাগৰীয় বতাহ' কি?"
+      "en": "What is a tornado?",
+      "as": "টৰ্ণেড' কি?"
     },
     "options": [
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A violently rotating column of air extending from a thunderstorm to the ground",
+        "as": "বজ্ৰধ্বনি-ধুমুহাৰ পৰা ভূমিলৈ বিস্তৃত হোৱা প্ৰচণ্ড ঘূৰ্ণনশীল বায়ুস্তম্ভ"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A large ocean wave",
+        "as": "এক বিশাল মহাসাগৰীয় তৰংগ"
       },
       {
-        "en": "A daytime wind blowing from the sea to the land.",
-        "as": "দিনত সাগৰৰ পৰা মাটিলৈ বোৱা বতাহ।"
+        "en": "A high pressure system",
+        "as": "এক উচ্চচাপ পদ্ধতি"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A cold air mass",
+        "as": "এক ঠাণ্ডা বায়ুৰাশি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "A daytime wind blowing from the sea to the land.",
-      "as": "দিনত সাগৰৰ পৰা মাটিলৈ বোৱা বতাহ।"
+      "en": "A violently rotating column of air extending from a thunderstorm to the ground",
+      "as": "বজ্ৰধ্বনি-ধুমুহাৰ পৰা ভূমিলৈ বিস্তৃত হোৱা প্ৰচণ্ড ঘূৰ্ণনশীল বায়ুস্তম্ভ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-044",
     "q": {
-      "en": "What is a 'land breeze'?",
-      "as": "'স্থলীয় বতাহ' কি?"
+      "en": "What is a waterspout?",
+      "as": "ৱাটাৰস্পাউট কি?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A tornado-like vortex that forms over water",
+        "as": "পানীৰ ওপৰত সৃষ্টি হোৱা টৰ্ণেড'ৰ দৰে ঘূৰ্ণন"
       },
       {
-        "en": "A night wind blowing from the land to the sea.",
-        "as": "ৰাতি মাটিৰ পৰা সাগৰলৈ বোৱা বতাহ।"
+        "en": "A strong ocean current",
+        "as": "এক প্ৰবল মহাসাগৰীয় সোঁত"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A type of tidal wave",
+        "as": "এক প্ৰকাৰৰ জোৱাৰ-তৰংগ"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A cloud formation",
+        "as": "এক ডাৱৰৰ গঠন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "A night wind blowing from the land to the sea.",
-      "as": "ৰাতি মাটিৰ পৰা সাগৰলৈ বোৱা বতাহ।"
+      "en": "A tornado-like vortex that forms over water",
+      "as": "পানীৰ ওপৰত সৃষ্টি হোৱা টৰ্ণেড'ৰ দৰে ঘূৰ্ণন"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-045",
     "q": {
-      "en": "What is the 'eye wall' of a cyclone?",
-      "as": "ঘূৰ্ণীবতাহৰ 'চকুৰ বেৰ' কি?"
+      "en": "What is a squall line?",
+      "as": "স্কুৱল ৰেখা কি?"
     },
     "options": [
       {
-        "en": "The ring of strongest winds around the eye.",
-        "as": "চকুৰ চাৰিওফালে থকা সৰ্বাধিক শক্তিশালী বতাহৰ বৃত্ত।"
+        "en": "A line of severe thunderstorms that forms ahead of a cold front",
+        "as": "ঠাণ্ডা সম্মুখভাগৰ আগত সৃষ্টি হোৱা প্ৰচণ্ড বজ্ৰধ্বনি-ধুমুহাৰ শাৰী"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A line joining places of equal pressure",
+        "as": "সমান চাপৰ স্থানবোৰ সংযোগী ৰেখা"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A boundary between two oceans",
+        "as": "দুটা মহাসাগৰৰ সীমা"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A line of constant temperature",
+        "as": "স্থিৰ উষ্ণতাৰ ৰেখা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ring of strongest winds around the eye.",
-      "as": "চকুৰ চাৰিওফালে থকা সৰ্বাধিক শক্তিশালী বতাহৰ বৃত্ত।"
+      "en": "A line of severe thunderstorms that forms ahead of a cold front",
+      "as": "ঠাণ্ডা সম্মুখভাগৰ আগত সৃষ্টি হোৱা প্ৰচণ্ড বজ্ৰধ্বনি-ধুমুহাৰ শাৰী"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-046",
     "q": {
-      "en": "What is a 'storm surge'?",
-      "as": "'ধুমুহাৰ ঢৌ' কি?"
+      "en": "What is the Walker circulation?",
+      "as": "ৱাকাৰ পৰিসঞ্চৰণ কি?"
     },
     "options": [
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "An east-west atmospheric circulation over the equatorial Pacific",
+        "as": "বিষুবীয় প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিম বায়ুমণ্ডলীয় পৰিসঞ্চৰণ"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A north-south circulation over the Atlantic",
+        "as": "এটলাণ্টিকৰ ওপৰত উত্তৰ-দক্ষিণ পৰিসঞ্চৰণ"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A circulation confined to the stratosphere",
+        "as": "ষ্ট্ৰেট'স্ফিয়াৰত সীমাবদ্ধ পৰিসঞ্চৰণ"
       },
       {
-        "en": "A rise of sea level near the coast during a cyclone.",
-        "as": "ঘূৰ্ণীবতাহৰ সময়ত উপকূলৰ ওচৰত সাগৰৰ জলপৃষ্ঠ ওপৰলৈ উঠা।"
+        "en": "A tidal current of the Indian Ocean",
+        "as": "ভাৰত মহাসাগৰৰ জোৱাৰ সোঁত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "A rise of sea level near the coast during a cyclone.",
-      "as": "ঘূৰ্ণীবতাহৰ সময়ত উপকূলৰ ওচৰত সাগৰৰ জলপৃষ্ঠ ওপৰলৈ উঠা।"
+      "en": "An east-west atmospheric circulation over the equatorial Pacific",
+      "as": "বিষুবীয় প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিম বায়ুমণ্ডলীয় পৰিসঞ্চৰণ"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-047",
     "q": {
-      "en": "Which instrument measures air pressure?",
-      "as": "বায়ুৰ চাপ জোখা যন্ত্ৰ কোনটো?"
+      "en": "What does the Indian Ocean Dipole describe?",
+      "as": "ভাৰত মহাসাগৰীয় দ্বিমেৰু (IOD) এ কি বৰ্ণনা কৰে?"
     },
     "options": [
       {
-        "en": "The stratosphere.",
-        "as": "ষ্ট্ৰেট'স্ফিয়াৰ।"
+        "en": "The difference in sea surface temperature between the western and eastern Indian Ocean",
+        "as": "পশ্চিম আৰু পূব ভাৰত মহাসাগৰৰ মাজত সাগৰৰ পৃষ্ঠৰ উষ্ণতাৰ পাৰ্থক্য"
       },
       {
-        "en": "The mesosphere.",
-        "as": "মেছ'স্ফিয়াৰ।"
+        "en": "The difference in salinity between two seas",
+        "as": "দুটা সাগৰৰ লোণীয়তাৰ পাৰ্থক্য"
       },
       {
-        "en": "The barometer.",
-        "as": "বেৰ'মিটাৰ।"
+        "en": "The seasonal reversal of monsoon winds",
+        "as": "মৌচুমী বতাহৰ ঋতুভিত্তিক পৰিৱৰ্তন"
       },
       {
-        "en": "The troposphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ।"
+        "en": "The height difference between two tides",
+        "as": "দুটা জোৱাৰৰ উচ্চতাৰ পাৰ্থক্য"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The barometer.",
-      "as": "বেৰ'মিটাৰ।"
+      "en": "The difference in sea surface temperature between the western and eastern Indian Ocean",
+      "as": "পশ্চিম আৰু পূব ভাৰত মহাসাগৰৰ মাজত সাগৰৰ পৃষ্ঠৰ উষ্ণতাৰ পাৰ্থক্য"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-048",
     "q": {
-      "en": "What is an 'isobar'?",
-      "as": "'আইছ'বাৰ' কি?"
+      "en": "What is the Southern Oscillation?",
+      "as": "দক্ষিণ দোলন (Southern Oscillation) কি?"
     },
     "options": [
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A seesaw of atmospheric pressure between Tahiti and Darwin",
+        "as": "টাহিটি আৰু ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন"
       },
       {
-        "en": "A line joining places of equal air pressure.",
-        "as": "সমান বায়ুচাপৰ স্থানসমূহ সংযোগী ৰেখা।"
+        "en": "A shift of the ITCZ over Africa",
+        "as": "আফ্ৰিকাৰ ওপৰত ITCZ ৰ স্থানান্তৰ"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A periodic reversal of the Gulf Stream",
+        "as": "গাল্ফ ষ্ট্ৰিমৰ পৰ্যায়ক্ৰমিক প্ৰত্যাৱৰ্তন"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "A seasonal change in the ozone layer",
+        "as": "অ'জন স্তৰৰ ঋতুভিত্তিক পৰিৱৰ্তন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "A line joining places of equal air pressure.",
-      "as": "সমান বায়ুচাপৰ স্থানসমূহ সংযোগী ৰেখা।"
+      "en": "A seesaw of atmospheric pressure between Tahiti and Darwin",
+      "as": "টাহিটি আৰু ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-049",
     "q": {
-      "en": "What is 'humidity'?",
-      "as": "'আৰ্দ্ৰতা' কি?"
+      "en": "What are the pre-monsoon thunderstorms of Bengal and Assam called?",
+      "as": "বংগ আৰু অসমৰ পূৰ্ব-মৌচুমী বজ্ৰধ্বনি-ধুমুহাক কি বোলে?"
     },
     "options": [
       {
-        "en": "The amount of water vapour in the air.",
-        "as": "বায়ুত থকা জলীয় বাষ্পৰ পৰিমাণ।"
+        "en": "Kalbaishakhi",
+        "as": "কলবৈশাখী"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "Loo",
+        "as": "লু"
       },
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "Andhi",
+        "as": "আন্ধী"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "Mango shower",
+        "as": "আমবৰষুণ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The amount of water vapour in the air.",
-      "as": "বায়ুত থকা জলীয় বাষ্পৰ পৰিমাণ।"
+      "en": "Kalbaishakhi",
+      "as": "কলবৈশাখী"
     }
   },
   {
     "id": "atmosphere-layers-winds-cyclones-050",
     "q": {
-      "en": "What is 'El Nino'?",
-      "as": "'এল নিনো' কি?"
+      "en": "What is the Coriolis force?",
+      "as": "কৰিঅ'লিছ বল কি?"
     },
     "options": [
       {
-        "en": "Troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-        "as": "ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+        "en": "An apparent force caused by the rotation of the Earth",
+        "as": "পৃথিৱীৰ ঘূৰ্ণনৰ ফলত সৃষ্টি হোৱা আপাত বল"
       },
       {
-        "en": "From the harmful ultraviolet rays of the sun.",
-        "as": "সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা।"
+        "en": "A force caused by gravity",
+        "as": "মাধ্যাকৰ্ষণৰ ফলত সৃষ্টি হোৱা বল"
       },
       {
-        "en": "The abnormal warming of the eastern Pacific Ocean.",
-        "as": "পূব প্ৰশান্ত মহাসাগৰৰ অস্বাভাৱিক উষ্ণতা বৃদ্ধি।"
+        "en": "A force caused by air pressure",
+        "as": "বায়ুচাপৰ ফলত সৃষ্টি হোৱা বল"
       },
       {
-        "en": "The blanket of gases surrounding the Earth.",
-        "as": "পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+        "en": "A force caused by ocean currents",
+        "as": "মহাসাগৰীয় সোঁতৰ ফলত সৃষ্টি হোৱা বল"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The abnormal warming of the eastern Pacific Ocean.",
-      "as": "পূব প্ৰশান্ত মহাসাগৰৰ অস্বাভাৱিক উষ্ণতা বৃদ্ধি।"
+      "en": "An apparent force caused by the rotation of the Earth",
+      "as": "পৃথিৱীৰ ঘূৰ্ণনৰ ফলত সৃষ্টি হোৱা আপাত বল"
     }
   }
 ]

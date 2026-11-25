@@ -2,1148 +2,668 @@
   {
     "id": "mountains-deserts-islands-earthquakes-001",
     "q": {
-      "en": "What are the three types of mountains?",
-      "as": "পৰ্বতৰ তিনিটা প্ৰকাৰ কি কি?"
+      "en": "Which type of mountain is formed by the folding of crustal rocks?",
+      "as": "কোন প্ৰকাৰৰ পৰ্বত ভূত্বকৰ শিলাৰ ভাঁজৰ ফলত গঠিত হয়?"
     },
     "options": [
       {
-        "en": "A tsunami",
-        "as": "ছুনামি"
+        "en": "Fold mountain",
+        "as": "ভাঁজ পৰ্বত"
       },
       {
-        "en": "The focus",
-        "as": "কেন্দ্ৰবিন্দু"
+        "en": "Block mountain",
+        "as": "খণ্ড পৰ্বত"
       },
       {
-        "en": "Mauna Kea in Hawaii.",
-        "as": "হাৱাইৰ মাউনা কিয়া।"
+        "en": "Volcanic mountain",
+        "as": "আগ্নেয় পৰ্বত"
       },
       {
-        "en": "Fold, block and volcanic mountains.",
-        "as": "ভাঁজ, খণ্ড আৰু আগ্নেয় পৰ্বত।"
+        "en": "Residual mountain",
+        "as": "অৱশিষ্ট পৰ্বত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Fold, block and volcanic mountains.",
-      "as": "ভাঁজ, খণ্ড আৰু আগ্নেয় পৰ্বত।"
+      "en": "Fold mountain",
+      "as": "ভাঁজ পৰ্বত"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-002",
     "q": {
-      "en": "Which is the longest mountain range on land?",
-      "as": "স্থলত দীঘলতম পৰ্বতমালা কোনটো?"
+      "en": "What is the height of Mount Everest?",
+      "as": "মাউণ্ট এভাৰেষ্টৰ উচ্চতা কিমান?"
     },
     "options": [
       {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
+        "en": "8,849 m",
+        "as": "৮,৮৪৯ মিটাৰ"
       },
       {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
+        "en": "8,611 m",
+        "as": "৮,৬১১ মিটাৰ"
       },
       {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
+        "en": "8,586 m",
+        "as": "৮,৫৮৬ মিটাৰ"
       },
       {
-        "en": "The Richter scale.",
-        "as": "ৰিখটাৰ স্কেল।"
+        "en": "8,167 m",
+        "as": "৮,১৬৭ মিটাৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Andes of South America.",
-      "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
+      "en": "8,849 m",
+      "as": "৮,৮৪৯ মিটাৰ"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-003",
     "q": {
-      "en": "What is the length of the Andes?",
-      "as": "এণ্ডেছৰ দৈৰ্ঘ্য কিমান?"
+      "en": "Which is the second highest mountain peak in the world?",
+      "as": "বিশ্বৰ দ্বিতীয় আটাইতকৈ ওখ পৰ্বত শিখৰ কোনটো?"
     },
     "options": [
       {
-        "en": "About 2,000 kilometres",
-        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
+        "en": "K2",
+        "as": "কে-২"
       },
       {
-        "en": "About 7,000 kilometres.",
-        "as": "প্ৰায় ৭,০০০ কিলোমিটাৰ।"
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
       },
       {
-        "en": "About 12,000 kilometres",
-        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
+        "en": "Lhotse",
+        "as": "লোৎসে"
       },
       {
-        "en": "About 4,500 kilometres",
-        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
+        "en": "Makalu",
+        "as": "মাকালু"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "About 7,000 kilometres.",
-      "as": "প্ৰায় ৭,০০০ কিলোমিটাৰ।"
+      "en": "K2",
+      "as": "কে-২"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-004",
     "q": {
-      "en": "Which is the highest mountain range of the world?",
-      "as": "বিশ্বৰ সৰ্বোচ্চ পৰ্বতমালা কোনটো?"
+      "en": "Which is the highest peak of the Eastern Ghats?",
+      "as": "পূৰ্বী ঘাটৰ আটাইতকৈ ওখ শিখৰ কোনটো?"
     },
     "options": [
       {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
+        "en": "Arma Konda",
+        "as": "অৰ্মা কোণ্ডা"
       },
       {
-        "en": "The Richter scale.",
-        "as": "ৰিখটাৰ স্কেল।"
+        "en": "Anai Mudi",
+        "as": "আনাই মুদি"
       },
       {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
+        "en": "Doddabetta",
+        "as": "দ'দাবেট্টা"
       },
       {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
+        "en": "Mahendragiri",
+        "as": "মহেন্দ্ৰগিৰি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Himalayas.",
-      "as": "হিমালয়।"
+      "en": "Arma Konda",
+      "as": "অৰ্মা কোণ্ডা"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-005",
     "q": {
-      "en": "Which is the highest mountain peak of the world?",
-      "as": "বিশ্বৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
+      "en": "Which is the highest peak of the Western Ghats?",
+      "as": "পশ্চিমী ঘাটৰ আটাইতকৈ ওখ শিখৰ কোনটো?"
     },
     "options": [
       {
-        "en": "The Himalayas",
-        "as": "হিমালয়"
+        "en": "Anai Mudi",
+        "as": "আনাই মুদি"
       },
       {
-        "en": "Mount Kosciuszko",
-        "as": "মাউণ্ট কোছিউস্কো"
+        "en": "Doddabetta",
+        "as": "দ'দাবেট্টা"
       },
       {
-        "en": "Mount Vinson",
-        "as": "মাউণ্ট ভিনছন"
+        "en": "Kalsubai",
+        "as": "কলছুবাই"
       },
       {
-        "en": "Mount Everest, at 8,848 metres.",
-        "as": "মাউণ্ট এভাৰেষ্ট, ৮,৮৪৮ মিটাৰ।"
+        "en": "Mullayanagiri",
+        "as": "মুল্লায়নগিৰি"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Mount Everest, at 8,848 metres.",
-      "as": "মাউণ্ট এভাৰেষ্ট, ৮,৮৪৮ মিটাৰ।"
+      "en": "Anai Mudi",
+      "as": "আনাই মুদি"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-006",
     "q": {
-      "en": "Which is the highest peak of Africa?",
-      "as": "আফ্ৰিকা মহাদেশৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
+      "en": "Which is the highest peak of the Nilgiri hills?",
+      "as": "নীলগিৰি পাহাৰৰ আটাইতকৈ ওখ শিখৰ কোনটো?"
     },
     "options": [
       {
-        "en": "Mount Kilimanjaro, at 5,895 metres.",
-        "as": "মাউণ্ট কিলিমাঞ্জাৰো, ৫,৮৯৫ মিটাৰ।"
+        "en": "Doddabetta",
+        "as": "দ'দাবেট্টা"
       },
       {
-        "en": "The Thar",
-        "as": "থৰ"
+        "en": "Anai Mudi",
+        "as": "আনাই মুদি"
       },
       {
-        "en": "The Kalahari",
-        "as": "কালাহাৰী"
+        "en": "Arma Konda",
+        "as": "অৰ্মা কোণ্ডা"
       },
       {
-        "en": "The Atacama",
-        "as": "আটাকামা"
+        "en": "Mahendragiri",
+        "as": "মহেন্দ্ৰগিৰি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mount Kilimanjaro, at 5,895 metres.",
-      "as": "মাউণ্ট কিলিমাঞ্জাৰো, ৫,৮৯৫ মিটাৰ।"
+      "en": "Doddabetta",
+      "as": "দ'দাবেট্টা"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-007",
     "q": {
-      "en": "Which is the highest peak of North America?",
-      "as": "উত্তৰ আমেৰিকাৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
+      "en": "Which is the highest mountain peak in India?",
+      "as": "ভাৰতৰ আটাইতকৈ ওখ পৰ্বত শিখৰ কোনটো?"
     },
     "options": [
       {
-        "en": "The Richter scale",
-        "as": "ৰিখটাৰ স্কেল"
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
       },
       {
-        "en": "Mount Denali (McKinley), at 6,190 metres.",
-        "as": "মাউণ্ট ডেনালি (মেকিনলে), ৬,১৯০ মিটাৰ।"
-      },
-      {
-        "en": "The focus",
-        "as": "কেন্দ্ৰবিন্দু"
-      },
-      {
-        "en": "The epicentre",
-        "as": "উপকেন্দ্ৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Mount Denali (McKinley), at 6,190 metres.",
-      "as": "মাউণ্ট ডেনালি (মেকিনলে), ৬,১৯০ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-008",
-    "q": {
-      "en": "Which is the highest peak of South America?",
-      "as": "দক্ষিণ আমেৰিকাৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "About 2,500 metres",
-        "as": "প্ৰায় ২,৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 4,000 metres",
-        "as": "প্ৰায় ৪,০০০ মিটাৰ"
-      },
-      {
-        "en": "Aconcagua, at 6,961 metres.",
-        "as": "আকনকাগুয়া, ৬,৯৬১ মিটাৰ।"
-      },
-      {
-        "en": "About 500 metres",
-        "as": "প্ৰায় ৫০০ মিটাৰ"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Aconcagua, at 6,961 metres.",
-      "as": "আকনকাগুয়া, ৬,৯৬১ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-009",
-    "q": {
-      "en": "Which is the highest peak of Australia?",
-      "as": "অষ্ট্ৰেলিয়াৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Kalahari",
-        "as": "কালাহাৰী"
-      },
-      {
-        "en": "The Thar",
-        "as": "থৰ"
-      },
-      {
-        "en": "The Gobi",
-        "as": "গোবি"
-      },
-      {
-        "en": "Mount Kosciuszko, at 2,228 metres.",
-        "as": "মাউণ্ট কচিয়ুস্কো, ২,২২৮ মিটাৰ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Mount Kosciuszko, at 2,228 metres.",
-      "as": "মাউণ্ট কচিয়ুস্কো, ২,২২৮ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-010",
-    "q": {
-      "en": "Which is the highest peak of Europe?",
-      "as": "ইউৰোপৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Aconcagua",
-        "as": "একনকাগুয়া"
-      },
-      {
-        "en": "Mount Elbrus, at 5,642 metres.",
-        "as": "মাউণ্ট এলব্ৰাছ, ৫,৬৪২ মিটাৰ।"
-      },
-      {
-        "en": "Mount Kosciuszko",
-        "as": "মাউণ্ট কোছিউস্কো"
-      },
-      {
-        "en": "Mount Vinson",
-        "as": "মাউণ্ট ভিনছন"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Mount Elbrus, at 5,642 metres.",
-      "as": "মাউণ্ট এলব্ৰাছ, ৫,৬৪২ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-011",
-    "q": {
-      "en": "Which is the highest peak of Antarctica?",
-      "as": "এণ্টাৰ্কটিকা মহাদেশৰ সৰ্বোচ্চ শৃঙ্গ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Mount Vinson, at 4,892 metres.",
-        "as": "মাউণ্ট ভিনছন, ৪,৮৯২ মিটাৰ।"
-      },
-      {
-        "en": "The seismograph",
-        "as": "ভূমিকম্পলেখী"
-      },
-      {
-        "en": "The Richter scale",
-        "as": "ৰিখটাৰ স্কেল"
-      },
-      {
-        "en": "The epicentre",
-        "as": "উপকেন্দ্ৰ"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Mount Vinson, at 4,892 metres.",
-      "as": "মাউণ্ট ভিনছন, ৪,৮৯২ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-012",
-    "q": {
-      "en": "What is a desert?",
-      "as": "মৰুভূমি কি?"
-    },
-    "options": [
-      {
-        "en": "The Kalahari",
-        "as": "কালাহাৰী"
-      },
-      {
-        "en": "The Thar",
-        "as": "থৰ"
-      },
-      {
-        "en": "The Gobi",
-        "as": "গোবি"
-      },
-      {
-        "en": "An area with very low rainfall, less than 25 cm per year.",
-        "as": "অতি কম বৰষুণ থকা অঞ্চল, বছৰি ২৫ চেমিতকৈও কম।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "An area with very low rainfall, less than 25 cm per year.",
-      "as": "অতি কম বৰষুণ থকা অঞ্চল, বছৰি ২৫ চেমিতকৈও কম।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-013",
-    "q": {
-      "en": "Which is the largest hot desert of the world?",
-      "as": "বিশ্বৰ বৃহত্তম উষ্ণ মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
-      },
-      {
-        "en": "The Thar desert of Rajasthan.",
-        "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      },
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Sahara desert of Africa.",
-      "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-014",
-    "q": {
-      "en": "What is the area of the Sahara desert?",
-      "as": "চাহাৰা মৰুভূমিৰ মাটিকালি কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 3 million square kilometres",
-        "as": "প্ৰায় ৩০ লাখ বৰ্গ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 9 million square kilometres.",
-        "as": "প্ৰায় ৯ মিলিয়ন বৰ্গ কিলোমিটাৰ।"
-      },
-      {
-        "en": "About 90 million square kilometres",
-        "as": "প্ৰায় ৯০ লাখ বৰ্গ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 45 million square kilometres",
-        "as": "প্ৰায় ৪৫ লাখ বৰ্গ কিলোমিটাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "About 9 million square kilometres.",
-      "as": "প্ৰায় ৯ মিলিয়ন বৰ্গ কিলোমিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-015",
-    "q": {
-      "en": "Which is the largest cold desert of the world?",
-      "as": "বিশ্বৰ বৃহত্তম শীতল মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      },
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
-      },
-      {
-        "en": "The Thar desert of Rajasthan.",
-        "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The Antarctic desert.",
-      "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-016",
-    "q": {
-      "en": "Which is the largest desert of Asia?",
-      "as": "এছিয়া মহাদেশৰ বৃহত্তম মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Thar desert of Rajasthan.",
-        "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
-      },
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      },
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Gobi desert.",
-      "as": "গোবি মৰুভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-017",
-    "q": {
-      "en": "Which is the largest desert of India?",
-      "as": "ভাৰতৰ বৃহত্তম মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      },
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
-      },
-      {
-        "en": "The Thar desert of Rajasthan.",
-        "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Thar desert of Rajasthan.",
-      "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-018",
-    "q": {
-      "en": "Which is the largest island of the world?",
-      "as": "বিশ্বৰ বৃহত্তম দ্বীপ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
-      },
-      {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
-      },
-      {
-        "en": "Indonesia.",
-        "as": "ইণ্ডোনেছিয়া।"
-      },
-      {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Greenland.",
-      "as": "গ্ৰীনলেণ্ড।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-019",
-    "q": {
-      "en": "Which is the largest island of Asia?",
-      "as": "এছিয়াৰ বৃহত্তম দ্বীপ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
-      },
-      {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
-      },
-      {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
-      },
-      {
-        "en": "Indonesia.",
-        "as": "ইণ্ডোনেছিয়া।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Borneo.",
-      "as": "বৰ্নিঅ'।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-020",
-    "q": {
-      "en": "Which is the second largest island of the world?",
-      "as": "বিশ্বৰ দ্বিতীয় বৃহত্তম দ্বীপ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
-      },
-      {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
-      },
-      {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
-      },
-      {
-        "en": "Indonesia.",
-        "as": "ইণ্ডোনেছিয়া।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "New Guinea.",
-      "as": "নিউ গিনি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-021",
-    "q": {
-      "en": "Which is the largest island of India?",
-      "as": "ভাৰতৰ বৃহত্তম দ্বীপ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Baffin Island.",
-        "as": "বাফিন দ্বীপ।"
-      },
-      {
-        "en": "Middle Andaman island.",
-        "as": "মিডল আন্দামান দ্বীপ।"
+        "en": "Nanda Devi",
+        "as": "নন্দা দেৱী"
       },
       {
         "en": "K2",
-        "as": "কে২"
+        "as": "কে-২"
       },
       {
         "en": "Mount Everest",
         "as": "মাউণ্ট এভাৰেষ্ট"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Middle Andaman island.",
-      "as": "মিডল আন্দামান দ্বীপ।"
+      "en": "Kanchenjunga",
+      "as": "কাঞ্চনজঙ্ঘা"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-008",
+    "q": {
+      "en": "Which is the highest peak entirely within India?",
+      "as": "সম্পূৰ্ণৰূপে ভাৰতৰ ভিতৰত থকা আটাইতকৈ ওখ শিখৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Nanda Devi",
+        "as": "নন্দা দেৱী"
+      },
+      {
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
+      },
+      {
+        "en": "K2",
+        "as": "কে-২"
+      },
+      {
+        "en": "Kamet",
+        "as": "কামেট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nanda Devi",
+      "as": "নন্দা দেৱী"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-009",
+    "q": {
+      "en": "What is a block mountain formed by?",
+      "as": "খণ্ড পৰ্বত কিৰ ফলত গঠিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Faulting that raises a block between two faults",
+        "as": "দুটা ফল্টৰ মাজৰ খণ্ড ওপৰলৈ উঠাৰ ফলত"
+      },
+      {
+        "en": "Folding of rock layers",
+        "as": "শিলাৰ স্তৰৰ ভাঁজত"
+      },
+      {
+        "en": "Volcanic eruption",
+        "as": "আগ্নেয় উদ্গাৰত"
+      },
+      {
+        "en": "Erosion of a plateau",
+        "as": "মালভূমিৰ ক্ষয়ত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Faulting that raises a block between two faults",
+      "as": "দুটা ফল্টৰ মাজৰ খণ্ড ওপৰলৈ উঠাৰ ফলত"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-010",
+    "q": {
+      "en": "Which mountain range is a classic example of a block mountain?",
+      "as": "কোন পৰ্বতমালা খণ্ড পৰ্বতৰ এক ধ্ৰুপদী উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "The Vosges",
+        "as": "ভ'জেছ"
+      },
+      {
+        "en": "The Himalaya",
+        "as": "হিমালয়"
+      },
+      {
+        "en": "The Andes",
+        "as": "এণ্ডিছ"
+      },
+      {
+        "en": "The Alps",
+        "as": "আল্পছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Vosges",
+      "as": "ভ'জেছ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-011",
+    "q": {
+      "en": "Which is the longest mountain range on the ocean floor?",
+      "as": "সাগৰৰ তলিৰ আটাইতকৈ দীঘল পৰ্বতমালা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Mid-Atlantic Ridge",
+        "as": "মধ্য-এটলাণ্টিক শৈলশিৰি"
+      },
+      {
+        "en": "The Andes",
+        "as": "এণ্ডিছ"
+      },
+      {
+        "en": "The Himalaya",
+        "as": "হিমালয়"
+      },
+      {
+        "en": "The Rocky Mountains",
+        "as": "ৰকি পৰ্বতমালা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Mid-Atlantic Ridge",
+      "as": "মধ্য-এটলাণ্টিক শৈলশিৰি"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-012",
+    "q": {
+      "en": "What is the average height of the Himalaya?",
+      "as": "হিমালয়ৰ গড় উচ্চতা কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 6,000 m",
+        "as": "প্ৰায় ৬,০০০ মিটাৰ"
+      },
+      {
+        "en": "About 3,000 m",
+        "as": "প্ৰায় ৩,০০০ মিটাৰ"
+      },
+      {
+        "en": "About 8,000 m",
+        "as": "প্ৰায় ৮,০০০ মিটাৰ"
+      },
+      {
+        "en": "About 1,000 m",
+        "as": "প্ৰায় ১,০০০ মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About 6,000 m",
+      "as": "প্ৰায় ৬,০০০ মিটাৰ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-013",
+    "q": {
+      "en": "Which is the youngest fold mountain range in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ নৱজাত ভাঁজ পৰ্বতমালা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Himalaya",
+        "as": "হিমালয়"
+      },
+      {
+        "en": "The Aravalli",
+        "as": "আৰাৱলী"
+      },
+      {
+        "en": "The Appalachian",
+        "as": "এপালেছিয়ান"
+      },
+      {
+        "en": "The Ural",
+        "as": "উৰাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Himalaya",
+      "as": "হিমালয়"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-014",
+    "q": {
+      "en": "Which is the oldest fold mountain range in India?",
+      "as": "ভাৰতৰ আটাইতকৈ পুৰণি ভাঁজ পৰ্বতমালা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Aravalli",
+        "as": "আৰাৱলী"
+      },
+      {
+        "en": "The Himalaya",
+        "as": "হিমালয়"
+      },
+      {
+        "en": "The Western Ghats",
+        "as": "পশ্চিমী ঘাট"
+      },
+      {
+        "en": "The Vindhya",
+        "as": "বিন্ধ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Aravalli",
+      "as": "আৰাৱলী"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-015",
+    "q": {
+      "en": "What is a 'pediment' in desert landforms?",
+      "as": "মৰুভূমিৰ ভূমিৰূপত 'পেডিমেণ্ট' কি?"
+    },
+    "options": [
+      {
+        "en": "A gently sloping rock surface at the foot of a mountain",
+        "as": "পৰ্বতৰ গুৰিত থকা লেহুকা ঢালযুক্ত শিলাময় পৃষ্ঠ"
+      },
+      {
+        "en": "A sand dune",
+        "as": "বালিৰ দুবৈত"
+      },
+      {
+        "en": "A dry river bed",
+        "as": "শুকান নদীৰ গতি"
+      },
+      {
+        "en": "A salt lake",
+        "as": "লোণৰ হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A gently sloping rock surface at the foot of a mountain",
+      "as": "পৰ্বতৰ গুৰিত থকা লেহুকা ঢালযুক্ত শিলাময় পৃষ্ঠ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-016",
+    "q": {
+      "en": "What is a 'playa' in a desert?",
+      "as": "মৰুভূমিত 'প্লায়া' কি?"
+    },
+    "options": [
+      {
+        "en": "A temporary shallow lake in a desert basin",
+        "as": "মৰুভূমিৰ অৱবাহিকাত অস্থায়ী অগভীৰ হ্ৰদ"
+      },
+      {
+        "en": "A sand dune",
+        "as": "বালিৰ দুবৈত"
+      },
+      {
+        "en": "A mountain pass",
+        "as": "পৰ্বতৰ গিৰিপথ"
+      },
+      {
+        "en": "A dry waterfall",
+        "as": "শুকান জলপ্ৰপাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A temporary shallow lake in a desert basin",
+      "as": "মৰুভূমিৰ অৱবাহিকাত অস্থায়ী অগভীৰ হ্ৰদ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-017",
+    "q": {
+      "en": "What is a 'barchan'?",
+      "as": "'বাৰ্কান' কি?"
+    },
+    "options": [
+      {
+        "en": "A crescent-shaped sand dune",
+        "as": "অৰ্ধচন্দ্ৰাকৃতিৰ বালিৰ দুবৈত"
+      },
+      {
+        "en": "A salt flat",
+        "as": "লোণৰ সমতল"
+      },
+      {
+        "en": "A rocky plateau",
+        "as": "শিলাময় মালভূমি"
+      },
+      {
+        "en": "A dry river",
+        "as": "শুকান নদী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A crescent-shaped sand dune",
+      "as": "অৰ্ধচন্দ্ৰাকৃতিৰ বালিৰ দুবৈত"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-018",
+    "q": {
+      "en": "What is 'loess'?",
+      "as": "'লেছ' কি?"
+    },
+    "options": [
+      {
+        "en": "Wind-blown fine silt deposited as soil",
+        "as": "বতাহে কঢ়িয়াই অনা সূক্ষ্ম পলস, যি মাটি হিচাপে জমা হয়"
+      },
+      {
+        "en": "A glacial deposit",
+        "as": "হিমবাহৰ সঞ্চয়"
+      },
+      {
+        "en": "A volcanic rock",
+        "as": "আগ্নেয় শিল"
+      },
+      {
+        "en": "A coral limestone",
+        "as": "প্ৰবাল চূণশিলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wind-blown fine silt deposited as soil",
+      "as": "বতাহে কঢ়িয়াই অনা সূক্ষ্ম পলস, যি মাটি হিচাপে জমা হয়"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-019",
+    "q": {
+      "en": "Which desert is the largest in Asia?",
+      "as": "এছিয়াৰ আটাইতকৈ ডাঙৰ মৰুভূমি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Gobi",
+        "as": "গ'বি"
+      },
+      {
+        "en": "The Thar",
+        "as": "থৰ"
+      },
+      {
+        "en": "The Arabian",
+        "as": "আৰব"
+      },
+      {
+        "en": "The Karakum",
+        "as": "কাৰাকুম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Gobi",
+      "as": "গ'বি"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-020",
+    "q": {
+      "en": "Which desert lies between the Andes and the Pacific?",
+      "as": "এণ্ডিছ আৰু প্ৰশান্ত মহাসাগৰৰ মাজত কোন মৰুভূমি অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "The Atacama",
+        "as": "আটাকামা"
+      },
+      {
+        "en": "The Patagonian",
+        "as": "পেটাগনিয়ান"
+      },
+      {
+        "en": "The Sahara",
+        "as": "চাহাৰা"
+      },
+      {
+        "en": "The Namib",
+        "as": "নামিব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Atacama",
+      "as": "আটাকামা"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-021",
+    "q": {
+      "en": "Which is the driest desert in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ শুকান মৰুভূমি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Atacama",
+        "as": "আটাকামা"
+      },
+      {
+        "en": "The Sahara",
+        "as": "চাহাৰা"
+      },
+      {
+        "en": "The Gobi",
+        "as": "গ'বি"
+      },
+      {
+        "en": "The Thar",
+        "as": "থৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Atacama",
+      "as": "আটাকামা"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-022",
     "q": {
-      "en": "Which is the largest archipelago of the world?",
-      "as": "বিশ্বৰ বৃহত্তম দ্বীপপুঞ্জ কোনটো?"
+      "en": "Which is the largest desert in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ মৰুভূমি কোনটো?"
     },
     "options": [
       {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
+        "en": "Antarctica",
+        "as": "এণ্টাৰ্কটিকা"
       },
       {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
+        "en": "The Sahara",
+        "as": "চাহাৰা"
       },
       {
-        "en": "Indonesia.",
-        "as": "ইণ্ডোনেছিয়া।"
+        "en": "The Arabian",
+        "as": "আৰব"
       },
       {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
+        "en": "The Gobi",
+        "as": "গ'বি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Indonesia.",
-      "as": "ইণ্ডোনেছিয়া।"
+      "en": "Antarctica",
+      "as": "এণ্টাৰ্কটিকা"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-023",
     "q": {
-      "en": "What is an earthquake?",
-      "as": "ভূমিকম্প কি?"
-    },
-    "options": [
-      {
-        "en": "The Vosges and the Black Forest.",
-        "as": "ভ'জেছ আৰু কৃষ্ণ অৰণ্য।"
-      },
-      {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-      },
-      {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-      },
-      {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-      "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-024",
-    "q": {
-      "en": "What is the instrument used to measure earthquakes?",
-      "as": "ভূমিকম্প জুখিবলৈ ব্যৱহৃত যন্ত্ৰ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
-      },
-      {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
-      },
-      {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
-      },
-      {
-        "en": "The Richter scale.",
-        "as": "ৰিখটাৰ স্কেল।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The seismograph.",
-      "as": "ছেইজম'গ্ৰাফ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-025",
-    "q": {
-      "en": "What is the scale used to measure the magnitude of an earthquake?",
-      "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত স্কেল কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
-      },
-      {
-        "en": "The Richter scale.",
-        "as": "ৰিখটাৰ স্কেল।"
-      },
-      {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
-      },
-      {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Richter scale.",
-      "as": "ৰিখটাৰ স্কেল।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-026",
-    "q": {
-      "en": "What is the point of origin of an earthquake inside the Earth called?",
-      "as": "পৃথিৱীৰ ভিতৰত ভূমিকম্পৰ উৎপত্তি বিন্দুটো কাক বোলা হয়?"
-    },
-    "options": [
-      {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
-      },
-      {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
-      },
-      {
-        "en": "The focus (hypocentre).",
-        "as": "ফোকাছ (হাইপ'চেণ্টাৰ)।"
-      },
-      {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The focus (hypocentre).",
-      "as": "ফোকাছ (হাইপ'চেণ্টাৰ)।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-027",
-    "q": {
-      "en": "What is the point on the surface directly above the focus called?",
-      "as": "ফোকাছৰ ঠিক ওপৰত থকা পৃষ্ঠৰ বিন্দুটো কাক বোলা হয়?"
-    },
-    "options": [
-      {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
-      },
-      {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
-      },
-      {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
-      },
-      {
-        "en": "The epicentre.",
-        "as": "অধিকেন্দ্ৰ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The epicentre.",
-      "as": "অধিকেন্দ্ৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-028",
-    "q": {
-      "en": "Which is the most earthquake-prone zone of India?",
-      "as": "ভাৰতৰ সবাতোকৈ ভূমিকম্প-প্ৰৱণ অঞ্চল কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The North-Eastern region (Zone V).",
-        "as": "উত্তৰ-পূব অঞ্চল (জ'ন ৫)।"
-      },
-      {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
-      },
-      {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
-      },
-      {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The North-Eastern region (Zone V).",
-      "as": "উত্তৰ-পূব অঞ্চল (জ'ন ৫)।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-029",
-    "q": {
-      "en": "What is a tsunami?",
-      "as": "চুনামি কি?"
-    },
-    "options": [
-      {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-      },
-      {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-      },
-      {
-        "en": "The Vosges and the Black Forest.",
-        "as": "ভ'জেছ আৰু কৃষ্ণ অৰণ্য।"
-      },
-      {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "A series of giant ocean waves caused by an underwater earthquake.",
-      "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-030",
-    "q": {
-      "en": "What is the 'Richter scale'?",
-      "as": "'ৰিখটাৰ স্কেল' কি?"
-    },
-    "options": [
-      {
-        "en": "The Vosges and the Black Forest.",
-        "as": "ভ'জেছ আৰু কৃষ্ণ অৰণ্য।"
-      },
-      {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-      },
-      {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-      },
-      {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-      "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-031",
-    "q": {
-      "en": "Which are the oldest fold mountains of the world?",
-      "as": "বিশ্বৰ পুৰণিতম ভাঁজ পৰ্বতমালা কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Mount Kilimanjaro",
-        "as": "মাউণ্ট কিলিমাঞ্জাৰো"
-      },
-      {
-        "en": "Mount Denali",
-        "as": "মাউণ্ট ডেনালি"
-      },
-      {
-        "en": "The Aravalli range.",
-        "as": "আৰাৱলী পৰ্বতমালা।"
-      },
-      {
-        "en": "K2",
-        "as": "কে২"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Aravalli range.",
-      "as": "আৰাৱলী পৰ্বতমালা।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-032",
-    "q": {
-      "en": "Which mountains were formed by block faulting?",
-      "as": "কোন পৰ্বতমালা খণ্ড ফল্টৰ দ্বাৰা গঠিত?"
-    },
-    "options": [
-      {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-      },
-      {
-        "en": "The Vosges and the Black Forest.",
-        "as": "ভ'জেছ আৰু কৃষ্ণ অৰণ্য।"
-      },
-      {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-      },
-      {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Vosges and the Black Forest.",
-      "as": "ভ'জেছ আৰু কৃষ্ণ অৰণ্য।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-033",
-    "q": {
-      "en": "What is a 'horst'?",
-      "as": "'হৰ্ষ্ট' কি?"
-    },
-    "options": [
-      {
-        "en": "A block of land uplifted between two faults.",
-        "as": "দুটা ফল্টৰ মাজত ওপৰলৈ উঠা ভূখণ্ডৰ খণ্ড।"
-      },
-      {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-      },
-      {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-      },
-      {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "A block of land uplifted between two faults.",
-      "as": "দুটা ফল্টৰ মাজত ওপৰলৈ উঠা ভূখণ্ডৰ খণ্ড।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-034",
-    "q": {
-      "en": "What is a 'graben'?",
-      "as": "'গ্ৰাবেন' কি?"
-    },
-    "options": [
-      {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
-      },
-      {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
-      },
-      {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
-      },
-      {
-        "en": "A block of land sunk between two faults.",
-        "as": "দুটা ফল্টৰ মাজত তললৈ বহি যোৱা ভূখণ্ডৰ খণ্ড।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "A block of land sunk between two faults.",
-      "as": "দুটা ফল্টৰ মাজত তললৈ বহি যোৱা ভূখণ্ডৰ খণ্ড।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-035",
-    "q": {
-      "en": "Which is the largest rift valley of the world?",
-      "as": "বিশ্বৰ বৃহত্তম চিৰি উপত্যকা কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
-      },
-      {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
-      },
-      {
-        "en": "The East African Rift Valley.",
-        "as": "পূব আফ্ৰিকাৰ চিৰি উপত্যকা।"
-      },
-      {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The East African Rift Valley.",
-      "as": "পূব আফ্ৰিকাৰ চিৰি উপত্যকা।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-036",
-    "q": {
-      "en": "Which is the highest plateau of the world?",
-      "as": "বিশ্বৰ সৰ্বোচ্চ মালভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "New Guinea",
-        "as": "নিউ গিনি"
-      },
-      {
-        "en": "The Tibetan plateau.",
-        "as": "তিব্বত মালভূমি।"
-      },
-      {
-        "en": "Sumatra",
-        "as": "ছুমাত্ৰা"
-      },
-      {
-        "en": "Madagascar",
-        "as": "মাদাগাস্কাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Tibetan plateau.",
-      "as": "তিব্বত মালভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-037",
-    "q": {
-      "en": "Which is the highest peak of the Karakoram?",
-      "as": "কাৰাকোৰামৰ সৰ্বোচ্চ শৃংগ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "K2, at 8,611 metres.",
-        "as": "কে২, ৮,৬১১ মিটাৰ।"
-      },
-      {
-        "en": "About 500 metres",
-        "as": "প্ৰায় ৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 2,500 metres",
-        "as": "প্ৰায় ২,৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 4,000 metres",
-        "as": "প্ৰায় ৪,০০০ মিটাৰ"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "K2, at 8,611 metres.",
-      "as": "কে২, ৮,৬১১ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-038",
-    "q": {
-      "en": "Which is the third highest peak of the world?",
-      "as": "বিশ্বৰ তৃতীয় সৰ্বোচ্চ শৃংগ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "About 4,000 metres",
-        "as": "প্ৰায় ৪,০০০ মিটাৰ"
-      },
-      {
-        "en": "About 2,500 metres",
-        "as": "প্ৰায় ২,৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 500 metres",
-        "as": "প্ৰায় ৫০০ মিটাৰ"
-      },
-      {
-        "en": "Kangchenjunga, at 8,586 metres.",
-        "as": "কাঞ্চনজংঘা, ৮,৫৮৬ মিটাৰ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Kangchenjunga, at 8,586 metres.",
-      "as": "কাঞ্চনজংঘা, ৮,৫৮৬ মিটাৰ।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-039",
-    "q": {
-      "en": "Which is the tallest mountain from base to summit?",
-      "as": "পাদদেশৰ পৰা শিখৰলৈ সৰ্বাধিক ওখ পৰ্বত কোনটো?"
+      "en": "Which is the largest hot desert in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ উষ্ণ মৰুভূমি কোনটো?"
     },
     "options": [
       {
@@ -1151,149 +671,59 @@
         "as": "চাহাৰা"
       },
       {
+        "en": "The Arabian",
+        "as": "আৰব"
+      },
+      {
         "en": "The Gobi",
-        "as": "গোবি"
+        "as": "গ'বি"
       },
       {
-        "en": "Mauna Kea in Hawaii.",
-        "as": "হাৱাইৰ মাউনা কিয়া।"
-      },
-      {
-        "en": "Fold, block and volcanic mountains.",
-        "as": "ভাঁজ, খণ্ড আৰু আগ্নেয় পৰ্বত।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Mauna Kea in Hawaii.",
-      "as": "হাৱাইৰ মাউনা কিয়া।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-040",
-    "q": {
-      "en": "Which is the driest desert of the world?",
-      "as": "বিশ্বৰ শুকানতম মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      },
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
-      },
-      {
-        "en": "The Atacama desert.",
-        "as": "আটাকামা মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Atacama desert.",
-      "as": "আটাকামা মৰুভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-041",
-    "q": {
-      "en": "Which is the largest desert of the world?",
-      "as": "বিশ্বৰ বৃহত্তম মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Thar desert of Rajasthan.",
-        "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
-      },
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      },
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Antarctic desert.",
-      "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-    }
-  },
-  {
-    "id": "mountains-deserts-islands-earthquakes-042",
-    "q": {
-      "en": "Which is the largest desert of Australia?",
-      "as": "অষ্ট্ৰেলিয়াৰ বৃহত্তম মৰুভূমি কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Great Victoria desert.",
-        "as": "গ্ৰেট ভিক্টোৰিয়া মৰুভূমি।"
-      },
-      {
-        "en": "The Sahara desert of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
-      },
-      {
-        "en": "The Antarctic desert.",
-        "as": "এণ্টাৰ্কটিক মৰুভূমি।"
-      },
-      {
-        "en": "The Gobi desert.",
-        "as": "গোবি মৰুভূমি।"
+        "en": "The Kalahari",
+        "as": "কালাহাৰী"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Great Victoria desert.",
-      "as": "গ্ৰেট ভিক্টোৰিয়া মৰুভূমি।"
+      "en": "The Sahara",
+      "as": "চাহাৰা"
     }
   },
   {
-    "id": "mountains-deserts-islands-earthquakes-043",
+    "id": "mountains-deserts-islands-earthquakes-024",
     "q": {
-      "en": "Which is the largest island of Europe?",
-      "as": "ইউৰোপৰ বৃহত্তম দ্বীপ কোনটো?"
+      "en": "Which desert covers much of Mongolia?",
+      "as": "মংগোলিয়াৰ বেছিভাগ অংশ কোন মৰুভূমিয়ে সামৰি লৈছে?"
     },
     "options": [
       {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
+        "en": "The Gobi",
+        "as": "গ'বি"
       },
       {
-        "en": "Great Britain.",
-        "as": "গ্ৰেট ব্ৰিটেইন।"
+        "en": "The Taklamakan",
+        "as": "টাকলামাকান"
       },
       {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
+        "en": "The Karakum",
+        "as": "কাৰাকুম"
       },
       {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
+        "en": "The Thar",
+        "as": "থৰ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Great Britain.",
-      "as": "গ্ৰেট ব্ৰিটেইন।"
+      "en": "The Gobi",
+      "as": "গ'বি"
     }
   },
   {
-    "id": "mountains-deserts-islands-earthquakes-044",
+    "id": "mountains-deserts-islands-earthquakes-025",
     "q": {
-      "en": "Which is the largest island of Canada?",
-      "as": "কানাডাৰ বৃহত্তম দ্বীপ কোনটো?"
+      "en": "Which is the largest island of the Indian Ocean?",
+      "as": "ভাৰত মহাসাগৰৰ আটাইতকৈ ডাঙৰ দ্বীপ কোনটো?"
     },
     "options": [
       {
@@ -1301,202 +731,772 @@
         "as": "মাদাগাস্কাৰ"
       },
       {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      },
+      {
         "en": "Sumatra",
         "as": "ছুমাত্ৰা"
       },
       {
-        "en": "Baffin Island.",
-        "as": "বাফিন দ্বীপ।"
-      },
-      {
-        "en": "Middle Andaman island.",
-        "as": "মিডল আন্দামান দ্বীপ।"
+        "en": "Socotra",
+        "as": "ছ'ক'ট্ৰা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Baffin Island.",
-      "as": "বাফিন দ্বীপ।"
+      "en": "Madagascar",
+      "as": "মাদাগাস্কাৰ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-026",
+    "q": {
+      "en": "Which island lies south of India and is separated by the Palk Strait?",
+      "as": "ভাৰতৰ দক্ষিণে কোন দ্বীপ পাক খাদেৰে পৃথক হৈ আছে?"
+    },
+    "options": [
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      },
+      {
+        "en": "Maldives",
+        "as": "মালদ্বীপ"
+      },
+      {
+        "en": "Andaman",
+        "as": "আন্দামান"
+      },
+      {
+        "en": "Lakshadweep",
+        "as": "লাক্ষাদ্বীপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sri Lanka",
+      "as": "শ্ৰীলংকা"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-027",
+    "q": {
+      "en": "Which is the largest island group of India?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ দ্বীপপুঞ্জ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Andaman and Nicobar",
+        "as": "আন্দামান আৰু নিকোবৰ"
+      },
+      {
+        "en": "Lakshadweep",
+        "as": "লাক্ষাদ্বীপ"
+      },
+      {
+        "en": "Majuli",
+        "as": "মাজুলী"
+      },
+      {
+        "en": "Diu",
+        "as": "দিউ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Andaman and Nicobar",
+      "as": "আন্দামান আৰু নিকোবৰ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-028",
+    "q": {
+      "en": "Which is the largest river island in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ নদী দ্বীপ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Majuli",
+        "as": "মাজুলী"
+      },
+      {
+        "en": "Sriharikota",
+        "as": "শ্ৰীহৰিকোটা"
+      },
+      {
+        "en": "Divar",
+        "as": "দিবাৰ"
+      },
+      {
+        "en": "Bhavani",
+        "as": "ভৱানী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Majuli",
+      "as": "মাজুলী"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-029",
+    "q": {
+      "en": "Which is the largest archipelago in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ দ্বীপপুঞ্জ (archipelago) কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
+      },
+      {
+        "en": "Philippines",
+        "as": "ফিলিপাইনছ"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "Maldives",
+        "as": "মালদ্বীপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Indonesia",
+      "as": "ইণ্ডোনেছিয়া"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-030",
+    "q": {
+      "en": "What is an atoll?",
+      "as": "এটল (atoll) কি?"
+    },
+    "options": [
+      {
+        "en": "A ring-shaped coral reef enclosing a lagoon",
+        "as": "লেগুনক বেৰি থকা আঙুঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ"
+      },
+      {
+        "en": "A volcanic island",
+        "as": "আগ্নেয় দ্বীপ"
+      },
+      {
+        "en": "A sand bar",
+        "as": "বালিৰ পাৰ"
+      },
+      {
+        "en": "A glacial valley",
+        "as": "হিমবাহ উপত্যকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A ring-shaped coral reef enclosing a lagoon",
+      "as": "লেগুনক বেৰি থকা আঙুঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-031",
+    "q": {
+      "en": "Which country is made up almost entirely of atolls?",
+      "as": "কোন দেশ প্ৰায় সম্পূৰ্ণৰূপে এটলেৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Maldives",
+        "as": "মালদ্বীপ"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      },
+      {
+        "en": "Mauritius",
+        "as": "মৰিছাছ"
+      },
+      {
+        "en": "Seychelles",
+        "as": "ছেইচেলছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Maldives",
+      "as": "মালদ্বীপ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-032",
+    "q": {
+      "en": "What is the focus of an earthquake?",
+      "as": "ভূমিকম্পৰ কেন্দ্ৰ (focus) কি?"
+    },
+    "options": [
+      {
+        "en": "The point inside the Earth where the earthquake originates",
+        "as": "পৃথিৱীৰ ভিতৰত য'ত ভূমিকম্পৰ উৎপত্তি হয় সেই বিন্দু"
+      },
+      {
+        "en": "The point on the surface above it",
+        "as": "তাৰ ওপৰৰ পৃষ্ঠৰ বিন্দু"
+      },
+      {
+        "en": "The instrument that records it",
+        "as": "ইয়াক ৰেকৰ্ড কৰা যন্ত্ৰ"
+      },
+      {
+        "en": "The wave that travels from it",
+        "as": "ইয়াৰ পৰা যোৱা তৰংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The point inside the Earth where the earthquake originates",
+      "as": "পৃথিৱীৰ ভিতৰত য'ত ভূমিকম্পৰ উৎপত্তি হয় সেই বিন্দু"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-033",
+    "q": {
+      "en": "What is the epicentre of an earthquake?",
+      "as": "ভূমিকম্পৰ উপকেন্দ্ৰ (epicentre) কি?"
+    },
+    "options": [
+      {
+        "en": "The point on the surface directly above the focus",
+        "as": "কেন্দ্ৰৰ ঠিক ওপৰত অৱস্থিত পৃষ্ঠৰ বিন্দু"
+      },
+      {
+        "en": "The point of origin inside the Earth",
+        "as": "পৃথিৱীৰ ভিতৰৰ উৎপত্তি বিন্দু"
+      },
+      {
+        "en": "The deepest point of the fault",
+        "as": "ফল্টৰ আটাইতকৈ গভীৰ বিন্দু"
+      },
+      {
+        "en": "The centre of the Earth",
+        "as": "পৃথিৱীৰ কেন্দ্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The point on the surface directly above the focus",
+      "as": "কেন্দ্ৰৰ ঠিক ওপৰত অৱস্থিত পৃষ্ঠৰ বিন্দু"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-034",
+    "q": {
+      "en": "What is the deepest earthquake depth recorded in a subduction zone?",
+      "as": "অৱক্ষেপণ ক্ষেত্ৰত ৰেকৰ্ড কৰা আটাইতকৈ গভীৰ ভূমিকম্প কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 700 km",
+        "as": "প্ৰায় ৭০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 100 km",
+        "as": "প্ৰায় ১০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 300 km",
+        "as": "প্ৰায় ৩০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 1200 km",
+        "as": "প্ৰায় ১২০০ কিলোমিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About 700 km",
+      "as": "প্ৰায় ৭০০ কিলোমিটাৰ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-035",
+    "q": {
+      "en": "What is a seismic gap?",
+      "as": "ভূকম্পীয় ব্যৱধান (seismic gap) কি?"
+    },
+    "options": [
+      {
+        "en": "A segment of a fault that has not ruptured for a long time",
+        "as": "ফল্টৰ এনে অংশ, যি বহু সময় ধৰি ফাটি যোৱা নাই"
+      },
+      {
+        "en": "A gap between two seismic stations",
+        "as": "দুটা ভূকম্পীয় কেন্দ্ৰৰ মাজৰ ব্যৱধান"
+      },
+      {
+        "en": "A hole in the ground after an earthquake",
+        "as": "ভূমিকম্পৰ পিছত মাটিত হোৱা গাঁত"
+      },
+      {
+        "en": "The time between two earthquakes",
+        "as": "দুটা ভূমিকম্পৰ মাজৰ সময়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A segment of a fault that has not ruptured for a long time",
+      "as": "ফল্টৰ এনে অংশ, যি বহু সময় ধৰি ফাটি যোৱা নাই"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-036",
+    "q": {
+      "en": "Which earthquake was the most destructive in recorded history by death toll?",
+      "as": "মৃতু্য সংখ্যা অনুসৰি ইতিহাসত আটাইতকৈ ধ্বংসাত্মক ভূমিকম্প কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The 1556 Shaanxi earthquake",
+        "as": "১৫৫৬ চনৰ ছাঅানছি ভূমিকম্প"
+      },
+      {
+        "en": "The 2004 Indian Ocean earthquake",
+        "as": "২০০৪ চনৰ ভাৰত মহাসাগৰীয় ভূমিকম্প"
+      },
+      {
+        "en": "The 2011 Japan earthquake",
+        "as": "২০১১ চনৰ জাপান ভূমিকম্প"
+      },
+      {
+        "en": "The 1906 San Francisco earthquake",
+        "as": "১৯০৬ চনৰ ছান ফ্ৰান্সিস্কো ভূমিকম্প"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The 1556 Shaanxi earthquake",
+      "as": "১৫৫৬ চনৰ ছাঅানছি ভূমিকম্প"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-037",
+    "q": {
+      "en": "What magnitude was the 2004 Indian Ocean earthquake?",
+      "as": "২০০৪ চনৰ ভাৰত মহাসাগৰীয় ভূমিকম্পৰ প্ৰাবল্য কিমান আছিল?"
+    },
+    "options": [
+      {
+        "en": "About 9.1",
+        "as": "প্ৰায় ৯.১"
+      },
+      {
+        "en": "About 7.5",
+        "as": "প্ৰায় ৭.৫"
+      },
+      {
+        "en": "About 8.0",
+        "as": "প্ৰায় ৮.০"
+      },
+      {
+        "en": "About 6.5",
+        "as": "প্ৰায় ৬.৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About 9.1",
+      "as": "প্ৰায় ৯.১"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-038",
+    "q": {
+      "en": "Which country was worst affected by the 2004 Indian Ocean tsunami?",
+      "as": "২০০৪ চনৰ ভাৰত মহাসাগৰীয় ছুনামিত কোন দেশ আটাইতকৈ বেছি ক্ষতিগ্ৰস্ত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Indonesia",
+      "as": "ইণ্ডোনেছিয়া"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-039",
+    "q": {
+      "en": "What is the 'Pacific Ring of Fire' primarily a zone of?",
+      "as": "'প্ৰশান্ত মহাসাগৰীয় অগ্নিবলয়' মূলতঃ কিমানৰ অঞ্চল?"
+    },
+    "options": [
+      {
+        "en": "Subduction zones with frequent earthquakes and volcanoes",
+        "as": "সঘন ভূমিকম্প আৰু আগ্নেয়গিৰিযুক্ত অৱক্ষেপণ ক্ষেত্ৰ"
+      },
+      {
+        "en": "Mid-ocean ridges",
+        "as": "মহাসাগৰ মধ্য শৈলশিৰি"
+      },
+      {
+        "en": "Transform faults only",
+        "as": "কেৱল ৰূপান্তৰক ফল্ট"
+      },
+      {
+        "en": "Stable continental interiors",
+        "as": "স্থিৰ মহাদেশীয় অন্তৰ্ভাগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Subduction zones with frequent earthquakes and volcanoes",
+      "as": "সঘন ভূমিকম্প আৰু আগ্নেয়গিৰিযুক্ত অৱক্ষেপণ ক্ষেত্ৰ"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-040",
+    "q": {
+      "en": "What is a fault scarp?",
+      "as": "ফল্ট স্কাৰ্প কি?"
+    },
+    "options": [
+      {
+        "en": "A steep slope formed where the ground has moved along a fault",
+        "as": "ফল্টৰ কাষেৰে ভূমি স্থানান্তৰিত হৈ সৃষ্টি হোৱা খাড়া ঢাল"
+      },
+      {
+        "en": "A sand dune",
+        "as": "বালিৰ দুবৈত"
+      },
+      {
+        "en": "A volcanic cone",
+        "as": "আগ্নেয় শঙ্কু"
+      },
+      {
+        "en": "A river terrace",
+        "as": "নদীৰ খাপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A steep slope formed where the ground has moved along a fault",
+      "as": "ফল্টৰ কাষেৰে ভূমি স্থানান্তৰিত হৈ সৃষ্টি হোৱা খাড়া ঢাল"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-041",
+    "q": {
+      "en": "Which mountain pass connects India with Tibet through Sikkim?",
+      "as": "কোন গিৰিপথে ছিক্কিমেদি ভাৰতক তিব্বতৰ সৈতে সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Nathu La",
+        "as": "নাথু লা"
+      },
+      {
+        "en": "Shipki La",
+        "as": "শিপকি লা"
+      },
+      {
+        "en": "Rohtang Pass",
+        "as": "ৰোটাং পাছ"
+      },
+      {
+        "en": "Bomdi La",
+        "as": "ব'মডি লা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nathu La",
+      "as": "নাথু লা"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-042",
+    "q": {
+      "en": "Which pass connects the Kashmir valley with Ladakh?",
+      "as": "কোন গিৰিপথে কাশ্মীৰ উপত্যকাক লাডাখৰ সৈতে সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Zoji La",
+        "as": "জোজিলা"
+      },
+      {
+        "en": "Nathu La",
+        "as": "নাথু লা"
+      },
+      {
+        "en": "Rohtang Pass",
+        "as": "ৰোটাং পাছ"
+      },
+      {
+        "en": "Bomdi La",
+        "as": "ব'মডি লা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Zoji La",
+      "as": "জোজিলা"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-043",
+    "q": {
+      "en": "Which is the highest mountain pass in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ওখ গিৰিপথ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Khardung La",
+        "as": "খাৰডুং লা"
+      },
+      {
+        "en": "Nathu La",
+        "as": "নাথু লা"
+      },
+      {
+        "en": "Rohtang Pass",
+        "as": "ৰোটাং পাছ"
+      },
+      {
+        "en": "Zoji La",
+        "as": "জোজিলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Khardung La",
+      "as": "খাৰডুং লা"
+    }
+  },
+  {
+    "id": "mountains-deserts-islands-earthquakes-044",
+    "q": {
+      "en": "What is an 'inselberg'?",
+      "as": "'ইনছেলবাৰ্গ' কি?"
+    },
+    "options": [
+      {
+        "en": "An isolated residual hill rising from a plain",
+        "as": "সমতলৰ পৰা উঠি থকা বিচ্ছিন্ন অৱশিষ্ট পাহাৰ"
+      },
+      {
+        "en": "A coral island",
+        "as": "প্ৰবাল দ্বীপ"
+      },
+      {
+        "en": "A volcanic crater",
+        "as": "আগ্নেয় জ্বালামুখ"
+      },
+      {
+        "en": "A sand dune",
+        "as": "বালিৰ দুবৈত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An isolated residual hill rising from a plain",
+      "as": "সমতলৰ পৰা উঠি থকা বিচ্ছিন্ন অৱশিষ্ট পাহাৰ"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-045",
     "q": {
-      "en": "Which is the largest island of Japan?",
-      "as": "জাপানৰ বৃহত্তম দ্বীপ কোনটো?"
+      "en": "Which is the highest peak of the Karakoram range?",
+      "as": "কাৰাকোৰাম শ্ৰেণীৰ আটাইতকৈ ওখ শিখৰ কোনটো?"
     },
     "options": [
       {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
+        "en": "K2",
+        "as": "কে-২"
       },
       {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
+        "en": "Mount Everest",
+        "as": "মাউণ্ট এভাৰেষ্ট"
       },
       {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
       },
       {
-        "en": "Honshu.",
-        "as": "হংচু।"
+        "en": "Nanga Parbat",
+        "as": "নাংগা পৰ্বত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Honshu.",
-      "as": "হংচু।"
+      "en": "K2",
+      "as": "কে-২"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-046",
     "q": {
-      "en": "Which scale measures the intensity of an earthquake?",
-      "as": "কোন স্কেলে ভূমিকম্পৰ তীব্ৰতা জোখে?"
+      "en": "Which island is shared by Indonesia, Malaysia and Brunei?",
+      "as": "কোন দ্বীপ ইণ্ডোনেছিয়া, মালয়েছিয়া আৰু ব্ৰুনেইৰ মাজত বিভক্ত?"
     },
     "options": [
       {
-        "en": "The Mercalli scale.",
-        "as": "মাৰ্কেলি স্কেল।"
+        "en": "Borneo",
+        "as": "বৰ্ণিঅ'"
       },
       {
-        "en": "The Andes of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
+        "en": "Sumatra",
+        "as": "ছুমাত্ৰা"
       },
       {
-        "en": "The Himalayas.",
-        "as": "হিমালয়।"
+        "en": "Sulawesi",
+        "as": "ছুলাৱেছি"
       },
       {
-        "en": "The seismograph.",
-        "as": "ছেইজম'গ্ৰাফ।"
+        "en": "Java",
+        "as": "জাভা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Mercalli scale.",
-      "as": "মাৰ্কেলি স্কেল।"
+      "en": "Borneo",
+      "as": "বৰ্ণিঅ'"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-047",
     "q": {
-      "en": "What is an 'aftershock'?",
-      "as": "'পৰৱৰ্তী কম্পন' কি?"
+      "en": "Which strait separates Honshu from Hokkaido?",
+      "as": "কোন প্ৰণালীয়ে হনছুক হক্কাইড'ৰ পৰা পৃথক কৰে?"
     },
     "options": [
       {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
+        "en": "The Tsugaru Strait",
+        "as": "ছুগাৰু প্ৰণালী"
       },
       {
-        "en": "A smaller earthquake after the main shock.",
-        "as": "মূল কম্পনৰ পিছত হোৱা সৰু ভূমিকম্প।"
+        "en": "The Korea Strait",
+        "as": "কোৰিয়া প্ৰণালী"
       },
       {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
+        "en": "The La Perouse Strait",
+        "as": "লা পেৰুজ প্ৰণালী"
       },
       {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
+        "en": "The Bungo Channel",
+        "as": "বুংগ' চেনেল"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "A smaller earthquake after the main shock.",
-      "as": "মূল কম্পনৰ পিছত হোৱা সৰু ভূমিকম্প।"
+      "en": "The Tsugaru Strait",
+      "as": "ছুগাৰু প্ৰণালী"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-048",
     "q": {
-      "en": "Which ocean earthquake caused the 2004 tsunami?",
-      "as": "২০০৪ চনৰ ছুনামি কোন মহাসাগৰীয় ভূমিকম্পৰ বাবে হৈছিল?"
+      "en": "Which is the largest island of Denmark?",
+      "as": "ডেনমাৰ্কৰ আটাইতকৈ ডাঙৰ দ্বীপ কোনটো?"
     },
     "options": [
       {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
+        "en": "Zealand",
+        "as": "জিলেণ্ড"
       },
       {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
+        "en": "Funen",
+        "as": "ফুনেন"
       },
       {
-        "en": "The Indian Ocean earthquake off Sumatra.",
-        "as": "ছুমাত্ৰাৰ ওচৰৰ হিন্দ মহাসাগৰীয় ভূমিকম্প।"
+        "en": "Bornholm",
+        "as": "বৰ্নহল্ম"
       },
       {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
+        "en": "Lolland",
+        "as": "ললেণ্ড"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Indian Ocean earthquake off Sumatra.",
-      "as": "ছুমাত্ৰাৰ ওচৰৰ হিন্দ মহাসাগৰীয় ভূমিকম্প।"
+      "en": "Zealand",
+      "as": "জিলেণ্ড"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-049",
     "q": {
-      "en": "Which country suffered the 2011 tsunami and Fukushima disaster?",
-      "as": "২০১১ চনৰ ছুনামি আৰু ফুকুছিমা দুৰ্যোগ কোন দেশত হৈছিল?"
+      "en": "Which island lies between Italy and Tunisia?",
+      "as": "ইটালী আৰু টুনিছিয়াৰ মাজত কোন দ্বীপ অৱস্থিত?"
     },
     "options": [
       {
-        "en": "New Guinea.",
-        "as": "নিউ গিনি।"
+        "en": "Sicily",
+        "as": "ছিচিলি"
       },
       {
-        "en": "Borneo.",
-        "as": "বৰ্নিঅ'।"
+        "en": "Sardinia",
+        "as": "ছাৰ্ডিনিয়া"
       },
       {
-        "en": "Greenland.",
-        "as": "গ্ৰীনলেণ্ড।"
+        "en": "Corsica",
+        "as": "কৰ্ছিকা"
       },
       {
-        "en": "Japan.",
-        "as": "জাপান।"
+        "en": "Malta",
+        "as": "মাল্টা"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Japan.",
-      "as": "জাপান।"
+      "en": "Sicily",
+      "as": "ছিচিলি"
     }
   },
   {
     "id": "mountains-deserts-islands-earthquakes-050",
     "q": {
-      "en": "What is the 'moment magnitude scale'?",
-      "as": "'ম'মেণ্ট মেগনিচিউড স্কেল' কি?"
+      "en": "Which island is the smallest of the Greater Antilles?",
+      "as": "গ্ৰেটাৰ এণ্টিলিছৰ আটাইতকৈ সৰু দ্বীপ কোনটো?"
     },
     "options": [
       {
-        "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-        "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
+        "en": "Puerto Rico",
+        "as": "পুৱেৰ্ট' ৰিক'"
       },
       {
-        "en": "The modern scale that replaced the Richter scale.",
-        "as": "ৰিখটাৰ স্কেলৰ ঠাইত ব্যৱহৃত আধুনিক স্কেল।"
+        "en": "Cuba",
+        "as": "কিউবা"
       },
       {
-        "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-        "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
+        "en": "Jamaica",
+        "as": "জামাইকা"
       },
       {
-        "en": "A series of giant ocean waves caused by an underwater earthquake.",
-        "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
+        "en": "Hispaniola",
+        "as": "হিছপেনিঅ'লা"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The modern scale that replaced the Richter scale.",
-      "as": "ৰিখটাৰ স্কেলৰ ঠাইত ব্যৱহৃত আধুনিক স্কেল।"
+      "en": "Puerto Rico",
+      "as": "পুৱেৰ্ট' ৰিক'"
     }
   }
 ]

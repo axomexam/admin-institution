@@ -2,1501 +2,1501 @@
   {
     "id": "grasslands-agricultural-belts-world-001",
     "q": {
-      "en": "What are the grasslands?",
-      "as": "তৃণভূমি কি?"
+      "en": "What is the Russian term for a temperate grassland belt?",
+      "as": "নাতিশীতোষ্ণ তৃণভূমি বলয়ৰ বাবে ৰাছিয়ান শব্দ কি?"
     },
     "options": [
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Steppe",
+        "as": "ষ্টেপ"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Taiga",
+        "as": "টাইগা"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Tundra",
+        "as": "টুণ্ড্ৰা"
       },
       {
-        "en": "The temperate grasslands of the Prairies, the Steppes and the Pampas.",
-        "as": "প্ৰেৰিজ, ষ্টেপছ আৰু পাম্পাছৰ নাতিশীতোষ্ণ তৃণভূমি।"
+        "en": "Chernozem",
+        "as": "চাৰ্ন'জেম"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Large areas covered with grasses, where rainfall is moderate.",
-      "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+      "en": "Steppe",
+      "as": "ষ্টেপ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-002",
     "q": {
-      "en": "What are the temperate grasslands of North America called?",
-      "as": "উত্তৰ আমেৰিকাৰ নাতিশীতোষ্ণ তৃণভূমিক কি বোলা হয়?"
+      "en": "Which soil is characteristic of the Ukrainian steppe?",
+      "as": "ইউক্ৰেইনৰ ষ্টেপৰ বৈশিষ্ট্যপূৰ্ণ মাটি কোনটো?"
     },
     "options": [
       {
-        "en": "The Downs.",
-        "as": "ডাউনছ।"
+        "en": "Chernozem",
+        "as": "চাৰ্ন'জেম"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Laterite",
+        "as": "লেটেৰাইট"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Podzol",
+        "as": "পডজল"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Alluvial",
+        "as": "পলস"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Prairies.",
-      "as": "প্ৰেৰিজ।"
+      "en": "Chernozem",
+      "as": "চাৰ্ন'জেম"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-003",
     "q": {
-      "en": "What are the temperate grasslands of South America called?",
-      "as": "দক্ষিণ আমেৰিকাৰ নাতিশীতোষ্ণ তৃণভূমিক কি বোলা হয়?"
+      "en": "What does 'chernozem' literally mean?",
+      "as": "'চাৰ্ন'জেম' ৰ আক্ষৰিক অৰ্থ কি?"
     },
     "options": [
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Black earth",
+        "as": "ক'লা মাটি"
       },
       {
-        "en": "The Downs.",
-        "as": "ডাউনছ।"
+        "en": "Red soil",
+        "as": "ৰঙা মাটি"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Sandy soil",
+        "as": "বালিময় মাটি"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "White earth",
+        "as": "বগা মাটি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Pampas.",
-      "as": "পাম্পাছ।"
+      "en": "Black earth",
+      "as": "ক'লা মাটি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-004",
     "q": {
-      "en": "What are the temperate grasslands of Eurasia called?",
-      "as": "ইউৰাছিয়াৰ নাতিশীতোষ্ণ তৃণভূমিক কি বোলা হয়?"
+      "en": "Which grassland is the main wheat granary of North America?",
+      "as": "উত্তৰ আমেৰিকাৰ মূল ঘেঁহু ভঁৰাল কোন তৃণভূমি?"
     },
     "options": [
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "The Prairie",
+        "as": "প্ৰেইৰি"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "The Pampas",
+        "as": "পাম্পাছ"
       },
       {
-        "en": "The Downs.",
-        "as": "ডাউনছ।"
+        "en": "The Steppe",
+        "as": "ষ্টেপ"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "The Veld",
+        "as": "ভেল্ড"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The Steppes.",
-      "as": "ষ্টেপছ।"
+      "en": "The Prairie",
+      "as": "প্ৰেইৰি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-005",
     "q": {
-      "en": "What are the temperate grasslands of Australia called?",
-      "as": "অষ্ট্ৰেলিয়াৰ নাতিশীতোষ্ণ তৃণভূমিক কি বোলা হয়?"
+      "en": "Which grassland of Argentina is famous for cattle rearing?",
+      "as": "আৰ্জেণ্টিনাৰ কোন তৃণভূমি গৰু-ম'হ পোহনীয়াৰ বাবে বিখ্যাত?"
     },
     "options": [
       {
-        "en": "The Downs.",
-        "as": "ডাউনছ।"
+        "en": "The Pampas",
+        "as": "পাম্পাছ"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "The Prairie",
+        "as": "প্ৰেইৰি"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "The Steppe",
+        "as": "ষ্টেপ"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "The Downs",
+        "as": "ডাউনছ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Downs.",
-      "as": "ডাউনছ।"
+      "en": "The Pampas",
+      "as": "পাম্পাছ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-006",
     "q": {
-      "en": "What are the tropical grasslands of Africa called?",
-      "as": "আফ্ৰিকা মহাদেশৰ ক্ৰান্তীয় তৃণভূমিক কি বোলা হয়?"
+      "en": "Which grassland of South Africa is known as the Veld?",
+      "as": "দক্ষিণ আফ্ৰিকাৰ কোন তৃণভূমিক ভেল্ড বোলে?"
     },
     "options": [
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "The temperate grassland of the interior plateau",
+        "as": "অভ্যন্তৰীণ মালভূমিৰ নাতিশীতোষ্ণ তৃণভূমি"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "The tropical grassland of the coast",
+        "as": "উপকূলৰ ক্ৰান্তীয় তৃণভূমি"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "The desert of the Kalahari",
+        "as": "কালাহাৰী মৰুভূমি"
       },
       {
-        "en": "The Savanna.",
-        "as": "চাভানা।"
+        "en": "The Mediterranean scrub",
+        "as": "ভূমধ্য সাগৰীয় জোপোহা"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Savanna.",
-      "as": "চাভানা।"
+      "en": "The temperate grassland of the interior plateau",
+      "as": "অভ্যন্তৰীণ মালভূমিৰ নাতিশীতোষ্ণ তৃণভূমি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-007",
     "q": {
-      "en": "What are the tropical grasslands of South America called?",
-      "as": "দক্ষিণ আমেৰিকাৰ ক্ৰান্তীয় তৃণভূমিক কি বোলা হয়?"
+      "en": "What is the 'Bread Basket' of the United States?",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ 'ৰুটীৰ টোপোলা' কোনটো?"
     },
     "options": [
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "The wheat belt of the Great Plains",
+        "as": "মহান সমভূমিৰ ঘেঁহু বলয়"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "The cotton belt of the south",
+        "as": "দক্ষিণৰ কপাহ বলয়"
       },
       {
-        "en": "The Campos and the Llanos.",
-        "as": "কাম্প'ছ আৰু ল্লান'ছ।"
+        "en": "The dairy belt of the north-east",
+        "as": "উত্তৰ-পূবৰ গাখীৰ বলয়"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "The fruit belt of California",
+        "as": "কেলিফৰ্ণিয়াৰ ফল বলয়"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Campos and the Llanos.",
-      "as": "কাম্প'ছ আৰু ল্লান'ছ।"
+      "en": "The wheat belt of the Great Plains",
+      "as": "মহান সমভূমিৰ ঘেঁহু বলয়"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-008",
     "q": {
-      "en": "What are the tropical grasslands of India called?",
-      "as": "ভাৰতৰ ক্ৰান্তীয় তৃণভূমিক কি বোলা হয়?"
+      "en": "Which country is the largest exporter of wheat in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ঘেঁহু ৰপ্তানিকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Russia",
+        "as": "ৰাছিয়া"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "The temperate grasslands of the Prairies, the Steppes and the Pampas.",
-        "as": "প্ৰেৰিজ, ষ্টেপছ আৰু পাম্পাছৰ নাতিশীতোষ্ণ তৃণভূমি।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "France",
+        "as": "ফ্ৰান্স"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The savanna of the Deccan plateau.",
-      "as": "ডেক্কান মালভূমিৰ চাভানা।"
+      "en": "Russia",
+      "as": "ৰাছিয়া"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-009",
     "q": {
-      "en": "What is the 'steppe' climate?",
-      "as": "'ষ্টেপ' জলবায়ু কি?"
+      "en": "Which country is the largest exporter of rice in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ধান ৰপ্তানিকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
       },
       {
-        "en": "The temperate grasslands of the Prairies, the Steppes and the Pampas.",
-        "as": "প্ৰেৰিজ, ষ্টেপছ আৰু পাম্পাছৰ নাতিশীতোষ্ণ তৃণভূমি।"
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "A semi-arid climate of the temperate grasslands.",
-      "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+      "en": "India",
+      "as": "ভাৰত"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-010",
     "q": {
-      "en": "Which is the largest temperate grassland of the world?",
-      "as": "বিশ্বৰ বৃহত্তম নাতিশীতোষ্ণ তৃণভূমি কোনটো?"
+      "en": "Which country is the largest producer of palm oil?",
+      "as": "সৰ্বাধিক পাম তেল উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Malaysia",
+        "as": "মালয়েছিয়া"
       },
       {
-        "en": "The Eurasian Steppe.",
-        "as": "ইউৰাছিয়ান ষ্টেপ।"
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Nigeria",
+        "as": "নাইজেৰিয়া"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Eurasian Steppe.",
-      "as": "ইউৰাছিয়ান ষ্টেপ।"
+      "en": "Indonesia",
+      "as": "ইণ্ডোনেছিয়া"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-011",
     "q": {
-      "en": "What is the 'wheat belt' of the world?",
-      "as": "বিশ্বৰ 'গম অঞ্চল' কি?"
+      "en": "What is the 'Corn Belt' of the United States?",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ 'কৰ্ণ বেল্ট' কি?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "The maize growing region of the Midwest",
+        "as": "মধ্য-পশ্চিমৰ মাকৈ উৎপাদন অঞ্চল"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "The wheat region of the Great Plains",
+        "as": "মহান সমভূমিৰ ঘেঁহু অঞ্চল"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "The cotton region of the south",
+        "as": "দক্ষিণৰ কপাহ অঞ্চল"
       },
       {
-        "en": "The temperate grasslands of the Prairies, the Steppes and the Pampas.",
-        "as": "প্ৰেৰিজ, ষ্টেপছ আৰু পাম্পাছৰ নাতিশীতোষ্ণ তৃণভূমি।"
+        "en": "The dairy region of the north-east",
+        "as": "উত্তৰ-পূবৰ গাখীৰ অঞ্চল"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The temperate grasslands of the Prairies, the Steppes and the Pampas.",
-      "as": "প্ৰেৰিজ, ষ্টেপছ আৰু পাম্পাছৰ নাতিশীতোষ্ণ তৃণভূমি।"
+      "en": "The maize growing region of the Midwest",
+      "as": "মধ্য-পশ্চিমৰ মাকৈ উৎপাদন অঞ্চল"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-012",
     "q": {
-      "en": "Which is the largest producer of wheat in the world?",
-      "as": "বিশ্বৰ বৃহত্তম গম উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "What is 'shifting cultivation' also known as?",
+      "as": "'স্থানান্তৰিত খেতি'ক আৰু কি বোলে?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Slash and burn agriculture",
+        "as": "কাটি-পুৰি খেতি"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Terrace farming",
+        "as": "কেৰঙা খেতি"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Plantation agriculture",
+        "as": "বাগিচা খেতি"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Intensive farming",
+        "as": "নিবিড় খেতি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "Slash and burn agriculture",
+      "as": "কাটি-পুৰি খেতি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-013",
     "q": {
-      "en": "Which is the largest producer of rice in the world?",
-      "as": "বিশ্বৰ বৃহত্তম ধান উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "What is 'Jhum' cultivation?",
+      "as": "'ঝুম' খেতি কি?"
     },
     "options": [
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Shifting cultivation practised in North-East India",
+        "as": "উত্তৰ-পূব ভাৰতত প্ৰচলিত স্থানান্তৰিত খেতি"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Terrace farming of the Himalaya",
+        "as": "হিমালয়ৰ কেৰঙা খেতি"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Wet rice farming of the coast",
+        "as": "উপকূলৰ তিতা ধান খেতি"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Plantation farming of tea",
+        "as": "চাহৰ বাগিচা খেতি"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "Shifting cultivation practised in North-East India",
+      "as": "উত্তৰ-পূব ভাৰতত প্ৰচলিত স্থানান্তৰিত খেতি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-014",
     "q": {
-      "en": "What is the 'rice bowl' of the world?",
-      "as": "বিশ্বৰ 'ধান ভঁৰাল' কোনটো?"
+      "en": "What is 'Podzol' soil associated with?",
+      "as": "'পডজল' মাটি কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Coniferous forests of the cold temperate zone",
+        "as": "শীতল নাতিশীতোষ্ণ মণ্ডলৰ ক'নিফাৰাছ অৰণ্য"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Tropical rainforests",
+        "as": "ক্ৰান্তীয় বৰ্ষাৰণ্য"
       },
       {
-        "en": "The Mekong delta and the Indo-Gangetic plains.",
-        "as": "মেকং বদ্বীপ আৰু ইন্দো-গংগা সমভূমি।"
+        "en": "Hot deserts",
+        "as": "উষ্ণ মৰুভূমি"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "River deltas",
+        "as": "নদীৰ ব-দ্বীপ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Mekong delta and the Indo-Gangetic plains.",
-      "as": "মেকং বদ্বীপ আৰু ইন্দো-গংগা সমভূমি।"
+      "en": "Coniferous forests of the cold temperate zone",
+      "as": "শীতল নাতিশীতোষ্ণ মণ্ডলৰ ক'নিফাৰাছ অৰণ্য"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-015",
     "q": {
-      "en": "Which is the largest producer of cotton in the world?",
-      "as": "বিশ্বৰ বৃহত্তম কপাহ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Who is known as the father of the Green Revolution in India?",
+      "as": "ভাৰতত সেউজ বিপ্লৱৰ পিতৃ বুলি কাক জনা যায়?"
     },
     "options": [
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "M. S. Swaminathan",
+        "as": "এম এছ স্বামীনাথন"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Norman Borlaug",
+        "as": "নৰ্মান বাৰ্লাগ"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "William Gaud",
+        "as": "উইলিয়াম গাউড"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "M. S. Swaminathan",
+      "as": "এম এছ স্বামীনাথন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-016",
     "q": {
-      "en": "Which is the largest producer of tea in the world?",
-      "as": "বিশ্বৰ বৃহত্তম চাহ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Who is known as the father of the Green Revolution worldwide?",
+      "as": "বিশ্বজুৰি সেউজ বিপ্লৱৰ পিতৃ বুলি কাক জনা যায়?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Norman Borlaug",
+        "as": "নৰ্মান বাৰ্লাগ"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "M. S. Swaminathan",
+        "as": "এম এছ স্বামীনাথন"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "M. S. Randhawa",
+        "as": "এম এছ ৰন্ধাৱা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "Norman Borlaug",
+      "as": "নৰ্মান বাৰ্লাগ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-017",
     "q": {
-      "en": "Which is the largest producer of coffee in the world?",
-      "as": "বিশ্বৰ বৃহত্তম কফি উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "What is the 'White Revolution' in India related to?",
+      "as": "ভাৰতত 'শ্বেত বিপ্লৱ' কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Wheat production",
+        "as": "ঘেঁহু উৎপাদন"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Egg production",
+        "as": "কণী উৎপাদন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Brazil.",
-      "as": "ব্ৰাজিল।"
+      "en": "Milk production",
+      "as": "গাখীৰ উৎপাদন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-018",
     "q": {
-      "en": "Which is the largest producer of sugarcane in the world?",
-      "as": "বিশ্বৰ বৃহত্তম গুড় উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Who is regarded as the chief architect of Operation Flood?",
+      "as": "অপাৰেশ্যন ফ্লাডৰ প্ৰধান স্থপতি বুলি কাক গণ্য কৰা হয়?"
     },
     "options": [
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "M. S. Swaminathan",
+        "as": "এম এছ স্বামীনাথন"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Norman Borlaug",
+        "as": "নৰ্মান বাৰ্লাগ"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Sam Pitroda",
+        "as": "ছাম পিত্ৰদা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Brazil.",
-      "as": "ব্ৰাজিল।"
+      "en": "Verghese Kurien",
+      "as": "ভাৰ্গীজ কুৰিয়েন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-019",
     "q": {
-      "en": "What is the 'maize belt' of the world?",
-      "as": "বিশ্বৰ 'মাকৈ অঞ্চল' কোনটো?"
+      "en": "What is the 'Round Revolution' related to?",
+      "as": "'গোলাকাৰ বিপ্লৱ' কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Potato production",
+        "as": "আলু উৎপাদন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       },
       {
-        "en": "The Corn Belt of the USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ কৰ্ণ বেল্ট।"
+        "en": "Wheat production",
+        "as": "ঘেঁহু উৎপাদন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Corn Belt of the USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ কৰ্ণ বেল্ট।"
+      "en": "Potato production",
+      "as": "আলু উৎপাদন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-020",
     "q": {
-      "en": "What is the 'banana republic'?",
-      "as": "'কলা গণৰাজ্য' কি?"
+      "en": "What is the 'Brown Revolution' related to?",
+      "as": "'মটিয়া বিপ্লৱ' কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Leather and cocoa production",
+        "as": "চামৰা আৰু ক'ক' উৎপাদন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       },
       {
-        "en": "A country highly dependent on banana exports, like in Central America.",
-        "as": "কলা ৰপ্তানিৰ ওপৰত নিৰ্ভৰশীল দেশ, মধ্য আমেৰিকাৰ দৰে।"
+        "en": "Oilseed production",
+        "as": "তেলবীজ উৎপাদন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "A country highly dependent on banana exports, like in Central America.",
-      "as": "কলা ৰপ্তানিৰ ওপৰত নিৰ্ভৰশীল দেশ, মধ্য আমেৰিকাৰ দৰে।"
+      "en": "Leather and cocoa production",
+      "as": "চামৰা আৰু ক'ক' উৎপাদন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-021",
     "q": {
-      "en": "Which is the largest producer of maize in the world?",
-      "as": "বিশ্বৰ বৃহত্তম মাকৈ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Who is known as the father of the White Revolution in India?",
+      "as": "ভাৰতত শ্বেত বিপ্লৱৰ পিতৃ বুলি কাক জনা যায়?"
     },
     "options": [
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "M. S. Swaminathan",
+        "as": "এম এছ স্বামীনাথন"
       },
       {
-        "en": "The USA.",
-        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+        "en": "Norman Borlaug",
+        "as": "নৰ্মান বাৰ্লাগ"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Sam Pitroda",
+        "as": "ছাম পিত্ৰদা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "Verghese Kurien",
+      "as": "ভাৰ্গীজ কুৰিয়েন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-022",
     "q": {
-      "en": "What is the 'monoculture'?",
-      "as": "'একক শস্য খেতি' কি?"
+      "en": "What is the 'Golden Revolution' related to?",
+      "as": "'সোণালী বিপ্লৱ' কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Horticulture and honey production",
+        "as": "উদ্যানপালন আৰু মৌ-পালন"
       },
       {
-        "en": "The cultivation of a single crop over a large area.",
-        "as": "বৃহৎ অঞ্চলত এটা মাথোঁ শস্য খেতি।"
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Wheat production",
+        "as": "ঘেঁহু উৎপাদন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The cultivation of a single crop over a large area.",
-      "as": "বৃহৎ অঞ্চলত এটা মাথোঁ শস্য খেতি।"
+      "en": "Horticulture and honey production",
+      "as": "উদ্যানপালন আৰু মৌ-পালন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-023",
     "q": {
-      "en": "What is the 'plantation agriculture'?",
-      "as": "'ৰোপন কৃষি' কি?"
+      "en": "What is the 'Pink Revolution' related to?",
+      "as": "'গোলাপী বিপ্লৱ' কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "Large-scale cultivation of a single cash crop, like tea, coffee and rubber.",
-        "as": "চাহ, কফি আৰু ৰবাৰৰ দৰে এটা নগদ শস্যৰ বৃহৎ পৰিসৰৰ খেতি।"
+        "en": "Prawn and onion production",
+        "as": "মিছা মাছ আৰু পিয়াঁজ উৎপাদন"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Oilseed production",
+        "as": "তেলবীজ উৎপাদন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Large-scale cultivation of a single cash crop, like tea, coffee and rubber.",
-      "as": "চাহ, কফি আৰু ৰবাৰৰ দৰে এটা নগদ শস্যৰ বৃহৎ পৰিসৰৰ খেতি।"
+      "en": "Prawn and onion production",
+      "as": "মিছা মাছ আৰু পিয়াঁজ উৎপাদন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-024",
     "q": {
-      "en": "Which is the largest producer of rubber in the world?",
-      "as": "বিশ্বৰ বৃহত্তম ৰবাৰ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "What is the 'Silver Revolution' related to?",
+      "as": "'ৰূপালী বিপ্লৱ' কিমানৰ সৈতে জড়িত?"
     },
     "options": [
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Egg and poultry production",
+        "as": "কণী আৰু পক্ষীপালন উৎপাদন"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Honey production",
+        "as": "মৌ উৎপাদন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Thailand.",
-      "as": "থাইলেণ্ড।"
+      "en": "Egg and poultry production",
+      "as": "কণী আৰু পক্ষীপালন উৎপাদন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-025",
     "q": {
-      "en": "What is the 'slash and burn' agriculture?",
-      "as": "'কাটি-পুৰি' কৃষি কি?"
+      "en": "Which country leads the world in silk production?",
+      "as": "ৰেছম উৎপাদনত কোন দেশে বিশ্বত আগত?"
     },
     "options": [
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "A farming method where the forest is cut and burnt for cultivation.",
-        "as": "খেতিৰ বাবে বন কাটি পুৰি খেতি কৰা পদ্ধতি।"
+        "en": "Japan",
+        "as": "জাপান"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Italy",
+        "as": "ইটালী"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "A farming method where the forest is cut and burnt for cultivation.",
-      "as": "খেতিৰ বাবে বন কাটি পুৰি খেতি কৰা পদ্ধতি।"
+      "en": "China",
+      "as": "চীন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-026",
     "q": {
-      "en": "What is the 'shifting cultivation' of the North-East India called?",
-      "as": "উত্তৰ-পূব ভাৰতৰ 'স্থানান্তৰ খেতি' কাক বোলা হয়?"
+      "en": "Which state of India is the largest producer of tea?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "M. S. Swaminathan.",
-        "as": "এম. এছ. স্বামীনাথন।"
+        "en": "Assam",
+        "as": "অসম"
       },
       {
-        "en": "Jhum cultivation.",
-        "as": "ঝুম খেতি।"
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
       },
       {
-        "en": "Oilseed production.",
-        "as": "তেলবীজ উৎপাদন।"
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
       },
       {
-        "en": "Fish production.",
-        "as": "মাছ উৎপাদন।"
+        "en": "Kerala",
+        "as": "কেৰালা"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Jhum cultivation.",
-      "as": "ঝুম খেতি।"
+      "en": "Assam",
+      "as": "অসম"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-027",
     "q": {
-      "en": "Which is the largest producer of the pulses in the world?",
-      "as": "বিশ্বৰ বৃহত্তম ডাল উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which crop is grown in the 'Rice Bowl' of India?",
+      "as": "ভাৰতৰ 'ধানৰ ভঁৰাল' ত কোন শস্য খেতি কৰা হয়?"
     },
     "options": [
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Rice",
+        "as": "ধান"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Wheat",
+        "as": "ঘেঁহু"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Cotton",
+        "as": "কপাহ"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Sugarcane",
+        "as": "কুঁহিয়াৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "India.",
-      "as": "ভাৰত।"
+      "en": "Rice",
+      "as": "ধান"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-028",
     "q": {
-      "en": "What is the 'dairy belt' of the world?",
-      "as": "বিশ্বৰ 'গাখীৰ অঞ্চল' কোনটো?"
+      "en": "What is the 'Golden Fibre' of India?",
+      "as": "ভাৰতৰ 'সোণালী আঁহ' কি?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Jute",
+        "as": "পাট"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Cotton",
+        "as": "কপাহ"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Silk",
+        "as": "ৰেছম"
       },
       {
-        "en": "The temperate regions of Europe, New Zealand and the USA.",
-        "as": "ইউৰোপ, নিউজিলেণ্ড আৰু আমেৰিকাৰ নাতিশীতোষ্ণ অঞ্চল।"
+        "en": "Wool",
+        "as": "ঊণ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The temperate regions of Europe, New Zealand and the USA.",
-      "as": "ইউৰোপ, নিউজিলেণ্ড আৰু আমেৰিকাৰ নাতিশীতোষ্ণ অঞ্চল।"
+      "en": "Jute",
+      "as": "পাট"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-029",
     "q": {
-      "en": "Which is the largest producer of the milk in the world?",
-      "as": "বিশ্বৰ বৃহত্তম গাখীৰ উৎপাদনকাৰী দেশ কোনখন?"
+      "en": "Which state of India is the largest producer of jute?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ পাট উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
       },
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "Bihar",
+        "as": "বিহাৰ"
       },
       {
-        "en": "India.",
-        "as": "ভাৰত।"
+        "en": "Assam",
+        "as": "অসম"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "Odisha",
+        "as": "ওড়িশা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "India.",
-      "as": "ভাৰত।"
+      "en": "West Bengal",
+      "as": "পশ্চিম বংগ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-030",
     "q": {
-      "en": "What is the 'green revolution'?",
-      "as": "'সেউজ বিপ্লৱ' কি?"
+      "en": "What is 'agricultural diversification'?",
+      "as": "'কৃষি বৈচিত্ৰ্যকৰণ' কি?"
     },
     "options": [
       {
-        "en": "The increase in food production using high-yielding varieties and fertilisers.",
-        "as": "উচ্চ ফলনশীল প্ৰজাতি আৰু সাৰ ব্যৱহাৰেৰে খাদ্য উৎপাদন বৃদ্ধি।"
+        "en": "Shifting from grain farming to other crops and allied activities",
+        "as": "শস্য খেতিৰ পৰা অন্য শস্য আৰু সহায়ক কাৰ্যলৈ যোৱা"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Growing only one crop",
+        "as": "কেৱল এটা শস্য খেতি"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Growing crops without water",
+        "as": "পানী নোহোৱাকৈ শস্য খেতি"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Importing all crops",
+        "as": "সকলো শস্য আমদানি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The increase in food production using high-yielding varieties and fertilisers.",
-      "as": "উচ্চ ফলনশীল প্ৰজাতি আৰু সাৰ ব্যৱহাৰেৰে খাদ্য উৎপাদন বৃদ্ধি।"
+      "en": "Shifting from grain farming to other crops and allied activities",
+      "as": "শস্য খেতিৰ পৰা অন্য শস্য আৰু সহায়ক কাৰ্যলৈ যোৱা"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-031",
     "q": {
-      "en": "Which soil is characteristic of the Steppes?",
-      "as": "ষ্টেপ অঞ্চলৰ বৈশিষ্ট্যপূৰ্ণ মাটি কোনটো?"
+      "en": "What is 'contract farming'?",
+      "as": "'চুক্তি খেতি' কি?"
     },
     "options": [
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Farming under an agreement to supply produce to a buyer",
+        "as": "ক্ৰেতাক উৎপাদন যোগান ধৰাৰ চুক্তিৰ অধীনত খেতি"
       },
       {
-        "en": "The chernozem soil.",
-        "as": "চাৰ্ন'জেম মাটি।"
+        "en": "Farming on rented land without agreement",
+        "as": "চুক্তি নোহোৱাকৈ ভাড়া মাটিত খেতি"
       },
       {
-        "en": "The Downs.",
-        "as": "ডাউনছ।"
+        "en": "Farming only for self consumption",
+        "as": "কেৱল নিজৰ ব্যৱহাৰৰ বাবে খেতি"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Farming without seeds",
+        "as": "বীজ নোহোৱাকৈ খেতি"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The chernozem soil.",
-      "as": "চাৰ্ন'জেম মাটি।"
+      "en": "Farming under an agreement to supply produce to a buyer",
+      "as": "ক্ৰেতাক উৎপাদন যোগান ধৰাৰ চুক্তিৰ অধীনত খেতি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-032",
     "q": {
-      "en": "Which grassland is famous for merino sheep?",
-      "as": "মেৰিনো ভেড়াৰ বাবে কোন ঘাঁহনি বিখ্যাত?"
+      "en": "What is 'precision farming'?",
+      "as": "'সূক্ষ্ম খেতি' কি?"
     },
     "options": [
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Using sensors and data to manage inputs precisely",
+        "as": "ইনপুট সূক্ষ্মভাৱে পৰিচালনা কৰিবলৈ চেন্সৰ আৰু তথ্য ব্যৱহাৰ"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Farming with traditional tools",
+        "as": "পৰম্পৰাগত সঁজুলিৰে খেতি"
       },
       {
-        "en": "The Australian Downs.",
-        "as": "অষ্ট্ৰেলিয়াৰ ডাউনছ।"
+        "en": "Farming only in greenhouses",
+        "as": "কেৱল গ্ৰীণহাউছত খেতি"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Farming without any planning",
+        "as": "কোনো পৰিকল্পনা নোহোৱা খেতি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Australian Downs.",
-      "as": "অষ্ট্ৰেলিয়াৰ ডাউনছ।"
+      "en": "Using sensors and data to manage inputs precisely",
+      "as": "ইনপুট সূক্ষ্মভাৱে পৰিচালনা কৰিবলৈ চেন্সৰ আৰু তথ্য ব্যৱহাৰ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-033",
     "q": {
-      "en": "What are the temperate grasslands of South Africa called?",
-      "as": "দক্ষিণ আফ্ৰিকাৰ নাতিশীতোষ্ণ ঘাঁহনিক কি বোলা হয়?"
+      "en": "What is 'organic farming'?",
+      "as": "'জৈৱিক খেতি' কি?"
     },
     "options": [
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Farming without synthetic fertilisers and pesticides",
+        "as": "কৃত্ৰিম সাৰ আৰু কীটনাশক নোহোৱাকৈ খেতি"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Farming with maximum chemicals",
+        "as": "সৰ্বাধিক ৰাসায়নিকৰ সৈতে খেতি"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Farming only genetically modified crops",
+        "as": "কেৱল জিনীয় ৰূপান্তৰিত শস্যৰ খেতি"
       },
       {
-        "en": "The Veld.",
-        "as": "ভেল্ড।"
+        "en": "Farming without soil",
+        "as": "মাটি নোহোৱাকৈ খেতি"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Veld.",
-      "as": "ভেল্ড।"
+      "en": "Farming without synthetic fertilisers and pesticides",
+      "as": "কৃত্ৰিম সাৰ আৰু কীটনাশক নোহোৱাকৈ খেতি"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-034",
     "q": {
-      "en": "What are the temperate grasslands of Hungary called?",
-      "as": "হাংগেৰীৰ নাতিশীতোষ্ণ ঘাঁহনিক কি বোলা হয়?"
+      "en": "What is 'zero tillage'?",
+      "as": "'শূন্য হালবোৱা' কি?"
     },
     "options": [
       {
-        "en": "The Puszta.",
-        "as": "পুছটা।"
+        "en": "Sowing crops without ploughing the field",
+        "as": "পথাৰ হাল নবহাকৈ শস্য ৰোৱা"
       },
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Ploughing the field many times",
+        "as": "পথাৰ বহুবাৰ হালবোৱা"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Ploughing only once a year",
+        "as": "বছৰত মাত্ৰ এবাৰ হালবোৱা"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Ploughing without a tractor",
+        "as": "ট্ৰেক্টৰ নোহোৱাকৈ হালবোৱা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Puszta.",
-      "as": "পুছটা।"
+      "en": "Sowing crops without ploughing the field",
+      "as": "পথাৰ হাল নবহাকৈ শস্য ৰোৱা"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-035",
     "q": {
-      "en": "What is 'extensive farming'?",
-      "as": "'বিস্তৃত কৃষি' কি?"
+      "en": "What is 'watershed management'?",
+      "as": "'জলবিভাজিকা পৰিচালনা' কি?"
     },
     "options": [
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Conserving and managing water and land within a drainage basin",
+        "as": "নিষ্কাশন অৱবাহিকাৰ ভিতৰত পানী আৰু মাটি সংৰক্ষণ আৰু পৰিচালনা"
       },
       {
-        "en": "Farming over large areas with low labour input.",
-        "as": "কম শ্ৰমেৰে বহল অঞ্চলত কৰা কৃষি।"
+        "en": "Building dams only",
+        "as": "কেৱল বান্ধ নিৰ্মাণ"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Digging wells only",
+        "as": "কেৱল কুঁৱা খনন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Flooding fields",
+        "as": "পথাৰত পানী ভৰোৱা"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Farming over large areas with low labour input.",
-      "as": "কম শ্ৰমেৰে বহল অঞ্চলত কৰা কৃষি।"
+      "en": "Conserving and managing water and land within a drainage basin",
+      "as": "নিষ্কাশন অৱবাহিকাৰ ভিতৰত পানী আৰু মাটি সংৰক্ষণ আৰু পৰিচালনা"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-036",
     "q": {
-      "en": "What is 'truck farming'?",
-      "as": "'ট্ৰাক কৃষি' কি?"
+      "en": "What is 'crop intensity'?",
+      "as": "'শস্য তীব্ৰতা' কি?"
     },
     "options": [
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "The number of crops grown on a field in a year",
+        "as": "এখন পথাৰত বছৰত খেতি কৰা শস্যৰ সংখ্যা"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "The weight of a crop harvest",
+        "as": "শস্য চপোৱাৰ ওজন"
       },
       {
-        "en": "Growing vegetables for nearby city markets.",
-        "as": "ওচৰৰ চহৰৰ বজাৰৰ বাবে পাচলি খেতি কৰা।"
+        "en": "The price of a crop",
+        "as": "শস্যৰ মূল্য"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "The area under one crop",
+        "as": "এটা শস্যৰ অধীনৰ এলেকা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Growing vegetables for nearby city markets.",
-      "as": "ওচৰৰ চহৰৰ বজাৰৰ বাবে পাচলি খেতি কৰা।"
+      "en": "The number of crops grown on a field in a year",
+      "as": "এখন পথাৰত বছৰত খেতি কৰা শস্যৰ সংখ্যা"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-037",
     "q": {
-      "en": "What is 'horticulture'?",
-      "as": "'উদ্যান কৃষি' কি?"
+      "en": "Which Indian state is the largest producer of wheat?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ ঘেঁহু উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Punjab",
+        "as": "পাঞ্জাব"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Haryana",
+        "as": "হাৰিয়ানা"
       },
       {
-        "en": "The cultivation of fruits, vegetables and flowers.",
-        "as": "ফল, পাচলি আৰু ফুলৰ খেতি।"
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The cultivation of fruits, vegetables and flowers.",
-      "as": "ফল, পাচলি আৰু ফুলৰ খেতি।"
+      "en": "Uttar Pradesh",
+      "as": "উত্তৰ প্ৰদেশ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-038",
     "q": {
-      "en": "What is 'sericulture'?",
-      "as": "'ৰেশম কৃষি' কি?"
+      "en": "Which Indian state is the largest producer of rice?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ ধান উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "The rearing of silkworms for silk.",
-        "as": "ৰেশমৰ বাবে ৰেচম পোকা পালন।"
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Punjab",
+        "as": "পাঞ্জাব"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The rearing of silkworms for silk.",
-      "as": "ৰেশমৰ বাবে ৰেচম পোকা পালন।"
+      "en": "West Bengal",
+      "as": "পশ্চিম বংগ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-039",
     "q": {
-      "en": "What is 'apiculture'?",
-      "as": "'মৌপালন' কি?"
+      "en": "Which Indian state is the largest producer of cotton?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ কপাহ উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Gujarat",
+        "as": "গুজৰাট"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Punjab",
+        "as": "পাঞ্জাব"
       },
       {
-        "en": "The rearing of bees for honey.",
-        "as": "মৌৰ বাবে মৌমাখি পালন।"
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The rearing of bees for honey.",
-      "as": "মৌৰ বাবে মৌমাখি পালন।"
+      "en": "Gujarat",
+      "as": "গুজৰাট"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-040",
     "q": {
-      "en": "What is 'viticulture'?",
-      "as": "'দ্ৰাক্ষা কৃষি' কি?"
+      "en": "Which Indian state is the largest producer of sugarcane?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ কুঁহিয়াৰ উৎপাদনকাৰী ৰাজ্য কোন?"
     },
     "options": [
       {
-        "en": "The Prairies.",
-        "as": "প্ৰেৰিজ।"
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
       },
       {
-        "en": "The cultivation of grapes.",
-        "as": "আঙুৰৰ খেতি।"
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
       },
       {
-        "en": "The Steppes.",
-        "as": "ষ্টেপছ।"
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
       },
       {
-        "en": "The Pampas.",
-        "as": "পাম্পাছ।"
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The cultivation of grapes.",
-      "as": "আঙুৰৰ খেতি।"
+      "en": "Uttar Pradesh",
+      "as": "উত্তৰ প্ৰদেশ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-041",
     "q": {
-      "en": "What is 'crop rotation'?",
-      "as": "'শস্য পৰ্যায়ক্ৰম' কি?"
+      "en": "Which grassland supports the largest sheep flock in Australia?",
+      "as": "অষ্ট্ৰেলিয়াৰ আটাইতকৈ ডাঙৰ ভেড়াৰ জাক কোন তৃণভূমিত পোৱা যায়?"
     },
     "options": [
       {
-        "en": "Growing different crops in sequence on the same field.",
-        "as": "একে পথাৰত ক্ৰমে বেলেগ বেলেগ শস্য কৰা।"
+        "en": "The Australian Downs",
+        "as": "অষ্ট্ৰেলিয়ান ডাউনছ"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "The Pampas",
+        "as": "পাম্পাছ"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "The Veld",
+        "as": "ভেল্ড"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "The Steppe",
+        "as": "ষ্টেপ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Growing different crops in sequence on the same field.",
-      "as": "একে পথাৰত ক্ৰমে বেলেগ বেলেগ শস্য কৰা।"
+      "en": "The Australian Downs",
+      "as": "অষ্ট্ৰেলিয়ান ডাউনছ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-042",
     "q": {
-      "en": "What is 'dry farming'?",
-      "as": "'শুকান কৃষি' কি?"
+      "en": "Which country has the largest sheep population in the world?",
+      "as": "বিশ্বত আটাইতকৈ বেছি ভেড়া জনসংখ্যা কোন দেশত?"
     },
     "options": [
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Farming without irrigation in low-rainfall areas.",
-        "as": "কম বৰষুণৰ অঞ্চলত জলসিঞ্চন নোহোৱাকৈ কৰা কৃষি।"
+        "en": "New Zealand",
+        "as": "নিউজিলেণ্ড"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Farming without irrigation in low-rainfall areas.",
-      "as": "কম বৰষুণৰ অঞ্চলত জলসিঞ্চন নোহোৱাকৈ কৰা কৃষি।"
+      "en": "China",
+      "as": "চীন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-043",
     "q": {
-      "en": "What is 'terrace farming'?",
-      "as": "'চিৰি খেতি' কি?"
+      "en": "What is the 'dairy belt' of the United States located around?",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ 'গাখীৰ বলয়' কিমানৰ চাৰিওফালে অৱস্থিত?"
     },
     "options": [
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "The Great Lakes",
+        "as": "মহান হ্ৰদসমূহ"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "The Gulf of Mexico",
+        "as": "মেক্সিকো উপসাগৰ"
       },
       {
-        "en": "Cutting step-like fields on hill slopes.",
-        "as": "পাহাৰৰ ঢালত খটখটিয়া আকৃতিৰ পথাৰ কাটি কৰা খেতি।"
+        "en": "The Rocky Mountains",
+        "as": "ৰকি পৰ্বতমালা"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "The Pacific coast",
+        "as": "প্ৰশান্ত উপকূল"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Cutting step-like fields on hill slopes.",
-      "as": "পাহাৰৰ ঢালত খটখটিয়া আকৃতিৰ পথাৰ কাটি কৰা খেতি।"
+      "en": "The Great Lakes",
+      "as": "মহান হ্ৰদসমূহ"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-044",
     "q": {
-      "en": "What is 'contour ploughing'?",
-      "as": "'সমোন্নতি হালোৱা' কি?"
+      "en": "Which country is the largest producer of maize in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ মাকৈ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "USA",
+        "as": "আমেৰিকা"
       },
       {
-        "en": "Ploughing along the contours of a slope.",
-        "as": "ঢালৰ সমোন্নতি ৰেখাৰ লগে লগে হাল বোৱা।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Ploughing along the contours of a slope.",
-      "as": "ঢালৰ সমোন্নতি ৰেখাৰ লগে লগে হাল বোৱা।"
+      "en": "USA",
+      "as": "আমেৰিকা"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-045",
     "q": {
-      "en": "Who led the Green Revolution in India?",
-      "as": "ভাৰতত সেউজ বিপ্লৱৰ নেতৃত্ব কোনে দিছিল?"
+      "en": "Which country is the largest producer of milk in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ গাখীৰ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "M. S. Swaminathan.",
-        "as": "এম. এছ. স্বামীনাথন।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Jhum cultivation.",
-        "as": "ঝুম খেতি।"
+        "en": "USA",
+        "as": "আমেৰিকা"
       },
       {
-        "en": "Fish production.",
-        "as": "মাছ উৎপাদন।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Oilseed production.",
-        "as": "তেলবীজ উৎপাদন।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "M. S. Swaminathan.",
-      "as": "এম. এছ. স্বামীনাথন।"
+      "en": "India",
+      "as": "ভাৰত"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-046",
     "q": {
-      "en": "Who led the White Revolution in India?",
-      "as": "ভাৰতত শ্বেত বিপ্লৱৰ নেতৃত্ব কোনে দিছিল?"
+      "en": "Which country is the largest producer of pulses in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ মাহজাতীয় শস্য উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Thailand.",
-        "as": "থাইলেণ্ড।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Brazil.",
-        "as": "ব্ৰাজিল।"
+        "en": "Canada",
+        "as": "কানাডা"
       },
       {
-        "en": "China.",
-        "as": "চীন।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Verghese Kurien.",
-        "as": "ভাৰ্গিছ কুৰিয়ান।"
+        "en": "Myanmar",
+        "as": "ম্যানমাৰ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Verghese Kurien.",
-      "as": "ভাৰ্গিছ কুৰিয়ান।"
+      "en": "India",
+      "as": "ভাৰত"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-047",
     "q": {
-      "en": "What is the 'Blue Revolution' related to?",
-      "as": "'নীল বিপ্লৱ' কিৰ সৈতে সম্পৰ্কিত?"
+      "en": "Which country is the largest producer of tea in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "M. S. Swaminathan.",
-        "as": "এম. এছ. স্বামীনাথন।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "Oilseed production.",
-        "as": "তেলবীজ উৎপাদন।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Fish production.",
-        "as": "মাছ উৎপাদন।"
+        "en": "Kenya",
+        "as": "কেনিয়া"
       },
       {
-        "en": "Jhum cultivation.",
-        "as": "ঝুম খেতি।"
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Fish production.",
-      "as": "মাছ উৎপাদন।"
+      "en": "China",
+      "as": "চীন"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-048",
     "q": {
-      "en": "What is the 'Yellow Revolution' related to?",
-      "as": "'হালধীয়া বিপ্লৱ' কিৰ সৈতে সম্পৰ্কিত?"
+      "en": "Which country is the largest producer of coffee in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ কফি উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Jhum cultivation.",
-        "as": "ঝুম খেতি।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
-        "en": "Oilseed production.",
-        "as": "তেলবীজ উৎপাদন।"
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
       },
       {
-        "en": "Fish production.",
-        "as": "মাছ উৎপাদন।"
+        "en": "Colombia",
+        "as": "কলম্বিয়া"
       },
       {
-        "en": "M. S. Swaminathan.",
-        "as": "এম. এছ. স্বামীনাথন।"
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "Oilseed production.",
-      "as": "তেলবীজ উৎপাদন।"
+      "en": "Brazil",
+      "as": "ব্ৰাজিল"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-049",
     "q": {
-      "en": "What is 'food security'?",
-      "as": "'খাদ্য সুৰক্ষা' কি?"
+      "en": "Which country is the largest producer of sugarcane in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ কুঁহিয়াৰ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "Access to enough safe and nutritious food for all.",
-        "as": "সকলোৰে বাবে পৰ্যাপ্ত, সুৰক্ষিত আৰু পুষ্টিকৰ খাদ্যৰ উপলব্ধতা।"
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "China",
+        "as": "চীন"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Access to enough safe and nutritious food for all.",
-      "as": "সকলোৰে বাবে পৰ্যাপ্ত, সুৰক্ষিত আৰু পুষ্টিকৰ খাদ্যৰ উপলব্ধতা।"
+      "en": "Brazil",
+      "as": "ব্ৰাজিল"
     }
   },
   {
     "id": "grasslands-agricultural-belts-world-050",
     "q": {
-      "en": "What is 'agroforestry'?",
-      "as": "'কৃষি বনানীকৰণ' কি?"
+      "en": "Which country is the largest producer of natural rubber?",
+      "as": "সৰ্বাধিক প্ৰাকৃতিক ৰবৰ উৎপাদনকাৰী দেশ কোন?"
     },
     "options": [
       {
-        "en": "The savanna of the Deccan plateau.",
-        "as": "ডেক্কান মালভূমিৰ চাভানা।"
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
       },
       {
-        "en": "A semi-arid climate of the temperate grasslands.",
-        "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
-        "en": "Growing trees together with crops on the same land.",
-        "as": "একে মাটিত শস্যৰ লগতে গছ ৰোৱা।"
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "Large areas covered with grasses, where rainfall is moderate.",
-        "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+        "en": "Malaysia",
+        "as": "মালয়েছিয়া"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Growing trees together with crops on the same land.",
-      "as": "একে মাটিত শস্যৰ লগতে গছ ৰোৱা।"
+      "en": "Thailand",
+      "as": "থাইলেণ্ড"
     }
   }
 ]

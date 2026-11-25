@@ -2,818 +2,218 @@
   {
     "id": "oceans-currents-trenches-rivers-lakes-001",
     "q": {
-      "en": "How many oceans are there in the world?",
-      "as": "বিশ্বত কিমানখন মহাসাগৰ আছে?"
+      "en": "What is the average depth of the world's oceans?",
+      "as": "বিশ্বৰ মহাসাগৰৰ গড় গভীৰতা কিমান?"
     },
     "options": [
       {
-        "en": "Five oceans.",
-        "as": "পাঁচখন মহাসাগৰ।"
+        "en": "About 3,800 m",
+        "as": "প্ৰায় ৩,৮০০ মিটাৰ"
       },
       {
-        "en": "The Humboldt Current",
-        "as": "হামবল্ট সোঁত"
+        "en": "About 1,200 m",
+        "as": "প্ৰায় ১,২০০ মিটাৰ"
       },
       {
-        "en": "The Nile",
-        "as": "নীল নদী"
+        "en": "About 7,000 m",
+        "as": "প্ৰায় ৭,০০০ মিটাৰ"
       },
       {
-        "en": "The Amazon",
-        "as": "আমাজন নদী"
+        "en": "About 11,000 m",
+        "as": "প্ৰায় ১১,০০০ মিটাৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Five oceans.",
-      "as": "পাঁচখন মহাসাগৰ।"
+      "en": "About 3,800 m",
+      "as": "প্ৰায় ৩,৮০০ মিটাৰ"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-002",
     "q": {
-      "en": "Which is the largest ocean of the world?",
-      "as": "বিশ্বৰ বৃহত্তম মহাসাগৰ কোনখন?"
+      "en": "What is the salinity of normal sea water?",
+      "as": "সাধাৰণ সাগৰীয় পানীৰ লোণীয়তা কিমান?"
     },
     "options": [
       {
-        "en": "The Arctic Ocean.",
-        "as": "আৰ্কটিক মহাসাগৰ।"
+        "en": "About 35 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ অংশ"
       },
       {
-        "en": "The Indian Ocean.",
-        "as": "ভাৰত মহাসাগৰ।"
+        "en": "About 10 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ১০ অংশ"
       },
       {
-        "en": "The Atlantic Ocean.",
-        "as": "আটলাণ্টিক মহাসাগৰ।"
+        "en": "About 100 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ১০০ অংশ"
       },
       {
-        "en": "The Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰ।"
+        "en": "About 20 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ২০ অংশ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰ।"
+      "en": "About 35 parts per thousand",
+      "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ অংশ"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-003",
     "q": {
-      "en": "What is the area of the Pacific Ocean?",
-      "as": "প্ৰশান্ত মহাসাগৰৰ মাটিকালি কিমান?"
+      "en": "Which sea has the highest salinity in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ বেছি লোণীয়তা কোন সাগৰৰ?"
     },
     "options": [
       {
-        "en": "About 45 million square kilometres",
-        "as": "প্ৰায় ৪৫ লাখ বৰ্গ কিলোমিটাৰ"
+        "en": "The Dead Sea",
+        "as": "মৃত সাগৰ"
       },
       {
-        "en": "About 90 million square kilometres",
-        "as": "প্ৰায় ৯০ লাখ বৰ্গ কিলোমিটাৰ"
+        "en": "The Red Sea",
+        "as": "ৰঙা সাগৰ"
       },
       {
-        "en": "About 165 million square kilometres.",
-        "as": "প্ৰায় ১৬৫ মিলিয়ন বৰ্গ কিলোমিটাৰ।"
+        "en": "The Mediterranean Sea",
+        "as": "ভূমধ্য সাগৰ"
       },
       {
-        "en": "About 3 million square kilometres",
-        "as": "প্ৰায় ৩০ লাখ বৰ্গ কিলোমিটাৰ"
+        "en": "The Arabian Sea",
+        "as": "আৰব সাগৰ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "About 165 million square kilometres.",
-      "as": "প্ৰায় ১৬৫ মিলিয়ন বৰ্গ কিলোমিটাৰ।"
+      "en": "The Dead Sea",
+      "as": "মৃত সাগৰ"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-004",
     "q": {
-      "en": "Which is the second largest ocean of the world?",
-      "as": "বিশ্বৰ দ্বিতীয় বৃহত্তম মহাসাগৰ কোনখন?"
+      "en": "Why does the Dead Sea have such high salinity?",
+      "as": "মৃত সাগৰত ইমান বেছি লোণীয়তা কিয়?"
     },
     "options": [
       {
-        "en": "The Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰ।"
+        "en": "It has no outlet and loses water only by evaporation",
+        "as": "ইয়াৰ কোনো নিজৰা নাই আৰু কেৱল বাষ্পীভৱনেৰে পানী হেৰুৱায়"
       },
       {
-        "en": "The Atlantic Ocean.",
-        "as": "আটলাণ্টিক মহাসাগৰ।"
+        "en": "It receives water from many rivers",
+        "as": "ই বহু নদীৰ পৰা পানী পায়"
       },
       {
-        "en": "The Arctic Ocean.",
-        "as": "আৰ্কটিক মহাসাগৰ।"
+        "en": "It is connected to the ocean",
+        "as": "ই মহাসাগৰৰ সৈতে সংযুক্ত"
       },
       {
-        "en": "The Indian Ocean.",
-        "as": "ভাৰত মহাসাগৰ।"
+        "en": "It has volcanic springs",
+        "as": "ইয়াৰ আগ্নেয় উঁহ আছে"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The Atlantic Ocean.",
-      "as": "আটলাণ্টিক মহাসাগৰ।"
+      "en": "It has no outlet and loses water only by evaporation",
+      "as": "ইয়াৰ কোনো নিজৰা নাই আৰু কেৱল বাষ্পীভৱনেৰে পানী হেৰুৱায়"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-005",
     "q": {
-      "en": "Which is the third largest ocean of the world?",
-      "as": "বিশ্বৰ তৃতীয় বৃহত্তম মহাসাগৰ কোনখন?"
+      "en": "Which is the largest river in the world by drainage basin area?",
+      "as": "নিষ্কাশন অৱবাহিকা এলেকাৰ ফালৰ পৰা বিশ্বৰ আটাইতকৈ ডাঙৰ নদী কোনখন?"
     },
     "options": [
       {
-        "en": "The Indian Ocean.",
-        "as": "ভাৰত মহাসাগৰ।"
+        "en": "The Amazon",
+        "as": "আমাজন"
       },
       {
-        "en": "The Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰ।"
+        "en": "The Nile",
+        "as": "নীল"
       },
       {
-        "en": "The Atlantic Ocean.",
-        "as": "আটলাণ্টিক মহাসাগৰ।"
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
       },
       {
-        "en": "The Arctic Ocean.",
-        "as": "আৰ্কটিক মহাসাগৰ।"
+        "en": "The Mississippi",
+        "as": "মিছিছিপি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Indian Ocean.",
-      "as": "ভাৰত মহাসাগৰ।"
+      "en": "The Amazon",
+      "as": "আমাজন"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-006",
     "q": {
-      "en": "Which is the smallest ocean of the world?",
-      "as": "বিশ্বৰ ক্ষুদ্ৰতম মহাসাগৰ কোনখন?"
+      "en": "What is the length of the Amazon river?",
+      "as": "আমাজন নদীৰ দীঘ কিমান?"
     },
     "options": [
       {
-        "en": "The Indian Ocean.",
-        "as": "ভাৰত মহাসাগৰ।"
+        "en": "About 6,400 km",
+        "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ"
       },
       {
-        "en": "The Atlantic Ocean.",
-        "as": "আটলাণ্টিক মহাসাগৰ।"
+        "en": "About 6,650 km",
+        "as": "প্ৰায় ৬,৬৫০ কিলোমিটাৰ"
       },
       {
-        "en": "The Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰ।"
+        "en": "About 5,500 km",
+        "as": "প্ৰায় ৫,৫০০ কিলোমিটাৰ"
       },
       {
-        "en": "The Arctic Ocean.",
-        "as": "আৰ্কটিক মহাসাগৰ।"
+        "en": "About 7,000 km",
+        "as": "প্ৰায় ৭,০০০ কিলোমিটাৰ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Arctic Ocean.",
-      "as": "আৰ্কটিক মহাসাগৰ।"
+      "en": "About 6,400 km",
+      "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-007",
     "q": {
-      "en": "Which is the deepest ocean of the world?",
-      "as": "বিশ্বৰ গভীৰতম মহাসাগৰ কোনখন?"
+      "en": "Which river carries the largest volume of water in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ বেছি পানী কঢ়িয়াই নিয়া নদী কোনখন?"
     },
     "options": [
       {
-        "en": "The Indian Ocean.",
-        "as": "ভাৰত মহাসাগৰ।"
+        "en": "The Amazon",
+        "as": "আমাজন"
       },
       {
-        "en": "The Arctic Ocean.",
-        "as": "আৰ্কটিক মহাসাগৰ।"
+        "en": "The Nile",
+        "as": "নীল"
       },
       {
-        "en": "The Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰ।"
+        "en": "The Ganga",
+        "as": "গঙ্গা"
       },
       {
-        "en": "The Atlantic Ocean.",
-        "as": "আটলাণ্টিক মহাসাগৰ।"
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰ।"
+      "en": "The Amazon",
+      "as": "আমাজন"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-008",
     "q": {
-      "en": "What is the deepest point of the world's oceans?",
-      "as": "বিশ্বৰ মহাসাগৰসমূহৰ গভীৰতম বিন্দু কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The West Wind Drift (Antarctic Circumpolar).",
-        "as": "ৱেষ্ট ৱিণ্ড ড্ৰিফ্ট (এণ্টাৰ্কটিক ছিৰকামপোলাৰ)।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Mariana Trench in the Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-009",
-    "q": {
-      "en": "What is the depth of the Mariana Trench?",
-      "as": "মাৰিয়ানা খাদৰ গভীৰতা কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 10,994 metres.",
-        "as": "প্ৰায় ১০,৯৯৪ মিটাৰ।"
-      },
-      {
-        "en": "About 500 metres",
-        "as": "প্ৰায় ৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 2,500 metres",
-        "as": "প্ৰায় ২,৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 4,000 metres",
-        "as": "প্ৰায় ৪,০০০ মিটাৰ"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "About 10,994 metres.",
-      "as": "প্ৰায় ১০,৯৯৪ মিটাৰ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-010",
-    "q": {
-      "en": "What is the 'Challenger Deep'?",
-      "as": "'চেলেঞ্জাৰ ডিপ' কি?"
-    },
-    "options": [
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The West Wind Drift (Antarctic Circumpolar).",
-        "as": "ৱেষ্ট ৱিণ্ড ড্ৰিফ্ট (এণ্টাৰ্কটিক ছিৰকামপোলাৰ)।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The deepest point of the Mariana Trench.",
-      "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-011",
-    "q": {
-      "en": "Which is the deepest trench of the Indian Ocean?",
-      "as": "ভাৰত মহাসাগৰৰ গভীৰতম খাদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Caspian Sea",
-        "as": "কাস্পিয়ান সাগৰ"
-      },
-      {
-        "en": "The Tonga Trench.",
-        "as": "টংগা খাদ।"
-      },
-      {
-        "en": "The Puerto Rico Trench.",
-        "as": "পুৱেৰ্টো ৰিকো খাদ।"
-      },
-      {
-        "en": "The Java (Sunda) Trench.",
-        "as": "জাভা (ছুণ্ডা) খাদ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Java (Sunda) Trench.",
-      "as": "জাভা (ছুণ্ডা) খাদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-012",
-    "q": {
-      "en": "What is an ocean current?",
-      "as": "মহাসাগৰীয় স্ৰোত কি?"
-    },
-    "options": [
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The West Wind Drift (Antarctic Circumpolar).",
-        "as": "ৱেষ্ট ৱিণ্ড ড্ৰিফ্ট (এণ্টাৰ্কটিক ছিৰকামপোলাৰ)।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The continuous movement of ocean water in a definite direction.",
-      "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-013",
-    "q": {
-      "en": "Which is the largest warm ocean current?",
-      "as": "বৃহত্তম উষ্ণ মহাসাগৰীয় স্ৰোত কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Kuroshio Current",
-        "as": "কুৰশ্বিও সোঁত"
-      },
-      {
-        "en": "The Gulf Stream.",
-        "as": "গাল্ফ ষ্ট্ৰিম।"
-      },
-      {
-        "en": "The Humboldt Current",
-        "as": "হামবল্ট সোঁত"
-      },
-      {
-        "en": "The Labrador Current",
-        "as": "লাব্ৰাডৰ সোঁত"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Gulf Stream.",
-      "as": "গাল্ফ ষ্ট্ৰিম।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-014",
-    "q": {
-      "en": "Which is the largest cold ocean current?",
-      "as": "বৃহত্তম শীতল মহাসাগৰীয় স্ৰোত কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The West Wind Drift (Antarctic Circumpolar).",
-        "as": "ৱেষ্ট ৱিণ্ড ড্ৰিফ্ট (এণ্টাৰ্কটিক ছিৰকামপোলাৰ)।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The West Wind Drift (Antarctic Circumpolar).",
-      "as": "ৱেষ্ট ৱিণ্ড ড্ৰিফ্ট (এণ্টাৰ্কটিক ছিৰকামপোলাৰ)।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-015",
-    "q": {
-      "en": "Which current affects the climate of India?",
-      "as": "কোন স্ৰোতে ভাৰতৰ জলবায়ু প্ৰভাৱিত কৰে?"
-    },
-    "options": [
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The Indian Ocean monsoon currents and the El Nino effect.",
-        "as": "ভাৰত মহাসাগৰীয় মৌচুমী স্ৰোত আৰু এল নিনো প্ৰভাৱ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Indian Ocean monsoon currents and the El Nino effect.",
-      "as": "ভাৰত মহাসাগৰীয় মৌচুমী স্ৰোত আৰু এল নিনো প্ৰভাৱ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-016",
-    "q": {
-      "en": "Which is the longest river of the world?",
-      "as": "বিশ্বৰ দীঘলতম নদী কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Nile river of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
-      },
-      {
-        "en": "The Amazon river.",
-        "as": "আমাজন নদী।"
-      },
-      {
-        "en": "The Yangtze river of China.",
-        "as": "চীনৰ য়াংটজে নদী।"
-      },
-      {
-        "en": "The Volga river of Russia.",
-        "as": "ৰাছিয়াৰ ভলগা নদী।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The Nile river of Africa.",
-      "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-017",
-    "q": {
-      "en": "What is the length of the Nile river?",
-      "as": "নীল নদীৰ দৈৰ্ঘ্য কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 2,000 kilometres",
-        "as": "প্ৰায় ২,০০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 6,650 kilometres.",
-        "as": "প্ৰায় ৬,৬৫০ কিলোমিটাৰ।"
-      },
-      {
-        "en": "About 12,000 kilometres",
-        "as": "প্ৰায় ১২,০০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 4,500 kilometres",
-        "as": "প্ৰায় ৪,৫০০ কিলোমিটাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "About 6,650 kilometres.",
-      "as": "প্ৰায় ৬,৬৫০ কিলোমিটাৰ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-018",
-    "q": {
-      "en": "Which is the largest river of the world by discharge?",
-      "as": "পানীৰ পৰিমাণৰ দিশত বিশ্বৰ বৃহত্তম নদী কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The Amazon river of South America.",
-        "as": "দক্ষিণ আমেৰিকাৰ আমাজন নদী।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Amazon river of South America.",
-      "as": "দক্ষিণ আমেৰিকাৰ আমাজন নদী।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-019",
-    "q": {
-      "en": "Which is the largest river basin of the world?",
-      "as": "বিশ্বৰ বৃহত্তম নদী-অৱবাহিকা কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Puerto Rico Trench",
-        "as": "পুৱেৰ্টো ৰিকো খাদ"
-      },
-      {
-        "en": "The Ganga-Brahmaputra delta.",
-        "as": "গংগা-ব্ৰহ্মপুত্ৰৰ ব-দ্বীপ।"
-      },
-      {
-        "en": "The Great Barrier Reef.",
-        "as": "গ্ৰেট বেৰিয়াৰ ৰীফ।"
-      },
-      {
-        "en": "The Amazon basin.",
-        "as": "আমাজন অৱবাহিকা।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Amazon basin.",
-      "as": "আমাজন অৱবাহিকা।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-020",
-    "q": {
-      "en": "Which river is the longest of South America?",
-      "as": "দক্ষিণ আমেৰিকাৰ দীঘলতম নদী কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Volga river of Russia.",
-        "as": "ৰাছিয়াৰ ভলগা নদী।"
-      },
-      {
-        "en": "The Yangtze river of China.",
-        "as": "চীনৰ য়াংটজে নদী।"
-      },
-      {
-        "en": "The Nile river of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
-      },
-      {
-        "en": "The Amazon river.",
-        "as": "আমাজন নদী।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Amazon river.",
-      "as": "আমাজন নদী।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-021",
-    "q": {
-      "en": "Which is the longest river of Asia?",
-      "as": "এছিয়া মহাদেশৰ দীঘলতম নদী কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Amazon river.",
-        "as": "আমাজন নদী।"
-      },
-      {
-        "en": "The Volga river of Russia.",
-        "as": "ৰাছিয়াৰ ভলগা নদী।"
-      },
-      {
-        "en": "The Yangtze river of China.",
-        "as": "চীনৰ য়াংটজে নদী।"
-      },
-      {
-        "en": "The Nile river of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Yangtze river of China.",
-      "as": "চীনৰ য়াংটজে নদী।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-022",
-    "q": {
-      "en": "Which is the longest river of Europe?",
-      "as": "ইউৰোপ মহাদেশৰ দীঘলতম নদী কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Nile river of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
-      },
-      {
-        "en": "The Volga river of Russia.",
-        "as": "ৰাছিয়াৰ ভলগা নদী।"
-      },
-      {
-        "en": "The Yangtze river of China.",
-        "as": "চীনৰ য়াংটজে নদী।"
-      },
-      {
-        "en": "The Amazon river.",
-        "as": "আমাজন নদী।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Volga river of Russia.",
-      "as": "ৰাছিয়াৰ ভলগা নদী।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-023",
-    "q": {
-      "en": "Which is the longest river of North America?",
-      "as": "উত্তৰ আমেৰিকা মহাদেশৰ দীঘলতম নদী কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Mississippi-Missouri river system.",
-        "as": "মিচিছিপি-মিচোৰী নদী ব্যৱস্থা।"
-      },
-      {
-        "en": "The Nile river of Africa.",
-        "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
-      },
-      {
-        "en": "The Amazon river.",
-        "as": "আমাজন নদী।"
-      },
-      {
-        "en": "The Yangtze river of China.",
-        "as": "চীনৰ য়াংটজে নদী।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The Mississippi-Missouri river system.",
-      "as": "মিচিছিপি-মিচোৰী নদী ব্যৱস্থা।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-024",
-    "q": {
-      "en": "Which is the largest lake of the world?",
-      "as": "বিশ্বৰ বৃহত্তম হ্ৰদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Puerto Rico Trench",
-        "as": "পুৱেৰ্টো ৰিকো খাদ"
-      },
-      {
-        "en": "The Tonga Trench",
-        "as": "টংগা খাদ"
-      },
-      {
-        "en": "The Aral Sea.",
-        "as": "আৰল সাগৰ।"
-      },
-      {
-        "en": "The Caspian Sea.",
-        "as": "কাস্পিয়ান সাগৰ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Caspian Sea.",
-      "as": "কাস্পিয়ান সাগৰ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-025",
-    "q": {
-      "en": "Which is the largest freshwater lake of the world?",
-      "as": "বিশ্বৰ বৃহত্তম মিঠাপানী হ্ৰদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Lake Victoria.",
-        "as": "ভিক্টোৰিয়া হ্ৰদ।"
-      },
-      {
-        "en": "Lake Tanganyika.",
-        "as": "টাংগানিকা হ্ৰদ।"
-      },
-      {
-        "en": "Lake Superior in North America.",
-        "as": "উত্তৰ আমেৰিকাত অৱস্থিত চুপিৰিয়ৰ হ্ৰদ।"
-      },
-      {
-        "en": "Lake Baikal in Russia.",
-        "as": "ৰাছিয়াৰ বাইকাল হ্ৰদ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Lake Superior in North America.",
-      "as": "উত্তৰ আমেৰিকাত অৱস্থিত চুপিৰিয়ৰ হ্ৰদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-026",
-    "q": {
-      "en": "Which is the deepest lake of the world?",
-      "as": "বিশ্বৰ গভীৰতম হ্ৰদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Lake Superior in North America.",
-        "as": "উত্তৰ আমেৰিকাত অৱস্থিত চুপিৰিয়ৰ হ্ৰদ।"
-      },
-      {
-        "en": "Lake Baikal in Russia.",
-        "as": "ৰাছিয়াৰ বাইকাল হ্ৰদ।"
-      },
-      {
-        "en": "Lake Tanganyika.",
-        "as": "টাংগানিকা হ্ৰদ।"
-      },
-      {
-        "en": "Lake Victoria.",
-        "as": "ভিক্টোৰিয়া হ্ৰদ।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Lake Baikal in Russia.",
-      "as": "ৰাছিয়াৰ বাইকাল হ্ৰদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-027",
-    "q": {
-      "en": "What is the depth of Lake Baikal?",
-      "as": "বাইকাল হ্ৰদৰ গভীৰতা কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 1,642 metres.",
-        "as": "প্ৰায় ১,৬৪২ মিটাৰ।"
-      },
-      {
-        "en": "About 500 metres",
-        "as": "প্ৰায় ৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 2,500 metres",
-        "as": "প্ৰায় ২,৫০০ মিটাৰ"
-      },
-      {
-        "en": "About 4,000 metres",
-        "as": "প্ৰায় ৪,০০০ মিটাৰ"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "About 1,642 metres.",
-      "as": "প্ৰায় ১,৬৪২ মিটাৰ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-028",
-    "q": {
-      "en": "Which is the highest lake of the world?",
-      "as": "বিশ্বৰ উচ্চতম হ্ৰদ কোনটো?"
+      "en": "Which is the deepest trench in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ গভীৰ খাদ কোনটো?"
     },
     "options": [
       {
@@ -821,682 +221,1282 @@
         "as": "মাৰিয়ানা খাদ"
       },
       {
-        "en": "The Southern Ocean",
-        "as": "দক্ষিণ মহাসাগৰ"
+        "en": "The Tonga Trench",
+        "as": "টংগা খাদ"
       },
       {
-        "en": "The Arctic Ocean",
-        "as": "আর্কটিক মহাসাগৰ"
+        "en": "The Java Trench",
+        "as": "জাভা খাদ"
       },
       {
-        "en": "Lake Titicaca, in the Andes (about 3,812 metres).",
-        "as": "এণ্ডেছত অৱস্থিত টিটিকাকা হ্ৰদ (প্ৰায় ৩,৮১২ মিটাৰ)।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Lake Titicaca, in the Andes (about 3,812 metres).",
-      "as": "এণ্ডেছত অৱস্থিত টিটিকাকা হ্ৰদ (প্ৰায় ৩,৮১২ মিটাৰ)।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-029",
-    "q": {
-      "en": "Which is the largest lake of Africa?",
-      "as": "আফ্ৰিকা মহাদেশৰ বৃহত্তম হ্ৰদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Lake Baikal in Russia.",
-        "as": "ৰাছিয়াৰ বাইকাল হ্ৰদ।"
-      },
-      {
-        "en": "Lake Tanganyika.",
-        "as": "টাংগানিকা হ্ৰদ।"
-      },
-      {
-        "en": "Lake Victoria.",
-        "as": "ভিক্টোৰিয়া হ্ৰদ।"
-      },
-      {
-        "en": "Lake Superior in North America.",
-        "as": "উত্তৰ আমেৰিকাত অৱস্থিত চুপিৰিয়ৰ হ্ৰদ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Lake Victoria.",
-      "as": "ভিক্টোৰিয়া হ্ৰদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-030",
-    "q": {
-      "en": "Which river is the source of the Nile?",
-      "as": "নীল নদীৰ উৎস কোন নদী?"
-    },
-    "options": [
-      {
-        "en": "The White Nile and the Blue Nile.",
-        "as": "হোৱাইট নাইল আৰু ব্লু নাইল।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "The Puerto Rico Trench",
+        "as": "পুৱেৰ্ট' ৰিক' খাদ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The White Nile and the Blue Nile.",
-      "as": "হোৱাইট নাইল আৰু ব্লু নাইল।"
+      "en": "The Mariana Trench",
+      "as": "মাৰিয়ানা খাদ"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-031",
+    "id": "oceans-currents-trenches-rivers-lakes-009",
     "q": {
-      "en": "What is the 'continental shelf'?",
-      "as": "'মহাদেশীয় তট' কি?"
+      "en": "What is the name of the deepest point in the ocean?",
+      "as": "মহাসাগৰৰ আটাইতকৈ গভীৰ বিন্দুৰ নাম কি?"
     },
     "options": [
       {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
+        "en": "The Challenger Deep",
+        "as": "চেলেঞ্জাৰ ডিপ"
       },
       {
-        "en": "The shallow submerged edge of a continent.",
-        "as": "মহাদেশৰ পানীত ডুব যোৱা অগভীৰ কিনাৰ।"
+        "en": "The Mariana Deep",
+        "as": "মাৰিয়ানা ডিপ"
       },
       {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "The Guam Deep",
+        "as": "গুৱাম ডিপ"
       },
       {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The shallow submerged edge of a continent.",
-      "as": "মহাদেশৰ পানীত ডুব যোৱা অগভীৰ কিনাৰ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-032",
-    "q": {
-      "en": "What is the average salinity of sea water?",
-      "as": "সাগৰীয় পানীৰ গড় লোণীয়তা কিমান?"
-    },
-    "options": [
-      {
-        "en": "About 25",
-        "as": "প্ৰায় ২৫"
-      },
-      {
-        "en": "About 40",
-        "as": "প্ৰায় ৪০"
-      },
-      {
-        "en": "About 35 parts per thousand.",
-        "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ ভাগ।"
-      },
-      {
-        "en": "About 12",
-        "as": "প্ৰায় ১২"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "About 35 parts per thousand.",
-      "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ ভাগ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-033",
-    "q": {
-      "en": "Why is the Dead Sea so salty?",
-      "as": "মৃত সাগৰ ইমান লোণীয়া কিয়?"
-    },
-    "options": [
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "It has no outlet and loses water only by evaporation.",
-        "as": "ইয়াৰ পৰা পানী ওলাই যোৱাৰ পথ নাই, কেৱল বাষ্পীভৱনৰ দ্বাৰা পানী কমে।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "It has no outlet and loses water only by evaporation.",
-      "as": "ইয়াৰ পৰা পানী ওলাই যোৱাৰ পথ নাই, কেৱল বাষ্পীভৱনৰ দ্বাৰা পানী কমে।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-034",
-    "q": {
-      "en": "What causes tides?",
-      "as": "জোৱাৰ-ভাটা কিয় হয়?"
-    },
-    "options": [
-      {
-        "en": "The gravitational pull of the moon and the sun.",
-        "as": "চন্দ্ৰ আৰু সূৰ্যৰ মহাকৰ্ষণ শক্তিৰ বাবে।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "The Pacific Deep",
+        "as": "প্ৰশান্ত ডিপ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The gravitational pull of the moon and the sun.",
-      "as": "চন্দ্ৰ আৰু সূৰ্যৰ মহাকৰ্ষণ শক্তিৰ বাবে।"
+      "en": "The Challenger Deep",
+      "as": "চেলেঞ্জাৰ ডিপ"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-035",
+    "id": "oceans-currents-trenches-rivers-lakes-010",
     "q": {
-      "en": "What is a 'spring tide'?",
-      "as": "'বসন্ত জোৱাৰ' কি?"
+      "en": "What is the tidal range at neap tide compared with spring tide?",
+      "as": "মন্দ জোৱাৰৰ পৰিসৰ বসন্ত জোৱাৰৰ তুলনাত কিমান?"
     },
     "options": [
       {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
+        "en": "About half",
+        "as": "প্ৰায় আধা"
       },
       {
-        "en": "The highest tide at new moon and full moon.",
-        "as": "অমাৱস্যা আৰু পূৰ্ণিমাত হোৱা সৰ্বাধিক ওখ জোৱাৰ।"
+        "en": "About double",
+        "as": "প্ৰায় দুগুণ"
       },
       {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "Exactly the same",
+        "as": "ঠিক একে"
       },
       {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
+        "en": "About one-tenth",
+        "as": "প্ৰায় এক দশমাংশ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The highest tide at new moon and full moon.",
-      "as": "অমাৱস্যা আৰু পূৰ্ণিমাত হোৱা সৰ্বাধিক ওখ জোৱাৰ।"
+      "en": "About half",
+      "as": "প্ৰায় আধা"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-036",
+    "id": "oceans-currents-trenches-rivers-lakes-011",
     "q": {
-      "en": "What is a 'neap tide'?",
-      "as": "'নীপ জোৱাৰ' কি?"
+      "en": "What is a tidal bore?",
+      "as": "জোৱাৰৰ ঢৌ (tidal bore) কি?"
     },
     "options": [
       {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
+        "en": "A wave that travels up a river with the incoming tide",
+        "as": "জোৱাৰ অহাৰ লগে লগে নদীৰ ওপৰলৈ যোৱা তৰংগ"
       },
       {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "A wave caused by an earthquake",
+        "as": "ভূমিকম্পৰ দ্বাৰা সৃষ্টি হোৱা তৰংগ"
       },
       {
-        "en": "The lowest tide at the quarter moons.",
-        "as": "চন্দ্ৰৰ প্ৰথম আৰু তৃতীয় পক্ষত হোৱা সৰ্বনিম্ন জোৱাৰ।"
+        "en": "A current flowing out to sea",
+        "as": "সাগৰলৈ ওলাই যোৱা সোঁত"
       },
       {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
+        "en": "A whirlpool in a strait",
+        "as": "প্ৰণালীৰ এটা ঘূৰ্ণন"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The lowest tide at the quarter moons.",
-      "as": "চন্দ্ৰৰ প্ৰথম আৰু তৃতীয় পক্ষত হোৱা সৰ্বনিম্ন জোৱাৰ।"
+      "en": "A wave that travels up a river with the incoming tide",
+      "as": "জোৱাৰ অহাৰ লগে লগে নদীৰ ওপৰলৈ যোৱা তৰংগ"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-037",
+    "id": "oceans-currents-trenches-rivers-lakes-012",
     "q": {
-      "en": "Which bay has the highest tidal range of the world?",
-      "as": "বিশ্বৰ সৰ্বাধিক জোৱাৰ-ভাটাৰ পাৰ্থক্য কোন উপসাগৰত?"
+      "en": "Which ocean current is the largest warm current?",
+      "as": "আটাইতকৈ ডাঙৰ উষ্ণ মহাসাগৰীয় সোঁত কোনটো?"
     },
     "options": [
       {
-        "en": "The Mississippi",
-        "as": "মিছিছিপি নদী"
+        "en": "The Gulf Stream",
+        "as": "গাল্ফ ষ্ট্ৰিম"
+      },
+      {
+        "en": "The Kuroshio",
+        "as": "কুৰ'ছিঅ'"
+      },
+      {
+        "en": "The Canary Current",
+        "as": "কেনাৰী সোঁত"
+      },
+      {
+        "en": "The Humboldt Current",
+        "as": "হামবল্ড সোঁত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Gulf Stream",
+      "as": "গাল্ফ ষ্ট্ৰিম"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-013",
+    "q": {
+      "en": "Which river is famous for a large tidal bore?",
+      "as": "কোন নদী বৃহৎ জোৱাৰৰ ঢৌৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "The Qiantang in China",
+        "as": "চীনৰ ছিয়ানটাং"
+      },
+      {
+        "en": "The Amazon",
+        "as": "আমাজন"
+      },
+      {
+        "en": "The Nile",
+        "as": "নীল"
       },
       {
         "en": "The Volga",
-        "as": "ভল্গা নদী"
-      },
-      {
-        "en": "The Yangtze",
-        "as": "ইয়াংচি নদী"
-      },
-      {
-        "en": "The Bay of Fundy.",
-        "as": "ফাণ্ডি উপসাগৰ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Bay of Fundy.",
-      "as": "ফাণ্ডি উপসাগৰ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-038",
-    "q": {
-      "en": "What is an 'atoll'?",
-      "as": "'এটল' কি?"
-    },
-    "options": [
-      {
-        "en": "A ring-shaped coral reef around a lagoon.",
-        "as": "উপহ্ৰদৰ চাৰিওফালে থকা আঙঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "as": "ভল্গা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "A ring-shaped coral reef around a lagoon.",
-      "as": "উপহ্ৰদৰ চাৰিওফালে থকা আঙঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ।"
+      "en": "The Qiantang in China",
+      "as": "চীনৰ ছিয়ানটাং"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-039",
+    "id": "oceans-currents-trenches-rivers-lakes-014",
     "q": {
-      "en": "Which is the largest coral reef system of the world?",
-      "as": "বিশ্বৰ বৃহত্তম প্ৰবাল প্ৰাচীৰ কোনটো?"
+      "en": "Which current brings fog to the Grand Banks of Newfoundland?",
+      "as": "কোন সোঁতে নিউফাউণ্ডলেণ্ডৰ গ্ৰেণ্ড বেংকত কুঁৱলী আনে?"
     },
     "options": [
       {
-        "en": "The Amazon basin.",
-        "as": "আমাজন অৱবাহিকা।"
+        "en": "The meeting of the Gulf Stream and the Labrador Current",
+        "as": "গাল্ফ ষ্ট্ৰিম আৰু লেব্ৰাডৰ সোঁতৰ মিলন"
       },
       {
-        "en": "The Great Barrier Reef.",
-        "as": "গ্ৰেট বেৰিয়াৰ ৰীফ।"
+        "en": "The Benguela Current",
+        "as": "বেঙ্গুৱেলা সোঁত"
       },
       {
-        "en": "The Kuroshio Current",
-        "as": "কুৰশ্বিও সোঁত"
+        "en": "The Kuroshio",
+        "as": "কুৰ'ছিঅ'"
       },
       {
-        "en": "The Ganga-Brahmaputra delta.",
-        "as": "গংগা-ব্ৰহ্মপুত্ৰৰ ব-দ্বীপ।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Great Barrier Reef.",
-      "as": "গ্ৰেট বেৰিয়াৰ ৰীফ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-040",
-    "q": {
-      "en": "What is 'upwelling'?",
-      "as": "'আপৱেলিং' কি?"
-    },
-    "options": [
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The rise of cold nutrient-rich water to the surface.",
-        "as": "পুষ্টিকৰ ঠাণ্ডা পানী ওপৰলৈ উঠি অহা প্ৰক্ৰিয়া।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The rise of cold nutrient-rich water to the surface.",
-      "as": "পুষ্টিকৰ ঠাণ্ডা পানী ওপৰলৈ উঠি অহা প্ৰক্ৰিয়া।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-041",
-    "q": {
-      "en": "What is 'La Nina'?",
-      "as": "'লা নিনা' কি?"
-    },
-    "options": [
-      {
-        "en": "The abnormal cooling of the eastern Pacific Ocean.",
-        "as": "পূব প্ৰশান্ত মহাসাগৰৰ অস্বাভাৱিক শীতলতা বৃদ্ধি।"
-      },
-      {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
-      },
-      {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
-      },
-      {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "The Agulhas Current",
+        "as": "আগুলহাছ সোঁত"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The abnormal cooling of the eastern Pacific Ocean.",
-      "as": "পূব প্ৰশান্ত মহাসাগৰৰ অস্বাভাৱিক শীতলতা বৃদ্ধি।"
+      "en": "The meeting of the Gulf Stream and the Labrador Current",
+      "as": "গাল্ফ ষ্ট্ৰিম আৰু লেব্ৰাডৰ সোঁতৰ মিলন"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-042",
+    "id": "oceans-currents-trenches-rivers-lakes-015",
     "q": {
-      "en": "Which is the deepest trench of the Atlantic Ocean?",
-      "as": "আটলাণ্টিক মহাসাগৰৰ গভীৰতম খাদ কোনটো?"
+      "en": "Which current is a cold current of the Pacific coast of South America?",
+      "as": "দক্ষিণ আমেৰিকাৰ প্ৰশান্ত উপকূলৰ ঠাণ্ডা সোঁত কোনটো?"
     },
     "options": [
       {
-        "en": "The Southern Ocean",
-        "as": "দক্ষিণ মহাসাগৰ"
-      },
-      {
-        "en": "The Tonga Trench.",
-        "as": "টংগা খাদ।"
-      },
-      {
-        "en": "The Java (Sunda) Trench.",
-        "as": "জাভা (ছুণ্ডা) খাদ।"
-      },
-      {
-        "en": "The Puerto Rico Trench.",
-        "as": "পুৱেৰ্টো ৰিকো খাদ।"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The Puerto Rico Trench.",
-      "as": "পুৱেৰ্টো ৰিকো খাদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-043",
-    "q": {
-      "en": "Which is the second deepest trench of the world?",
-      "as": "বিশ্বৰ দ্বিতীয় গভীৰতম খাদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "The Puerto Rico Trench.",
-        "as": "পুৱেৰ্টো ৰিকো খাদ।"
-      },
-      {
-        "en": "Lake Baikal",
-        "as": "বৈকাল হ্ৰদ"
-      },
-      {
-        "en": "The Tonga Trench.",
-        "as": "টংগা খাদ।"
-      },
-      {
-        "en": "The Java (Sunda) Trench.",
-        "as": "জাভা (ছুণ্ডা) খাদ।"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The Tonga Trench.",
-      "as": "টংগা খাদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-044",
-    "q": {
-      "en": "Which river has the largest delta of the world?",
-      "as": "বিশ্বৰ বৃহত্তম ব-দ্বীপ কোন নদীৰ?"
-    },
-    "options": [
-      {
-        "en": "The Amazon basin.",
-        "as": "আমাজন অৱবাহিকা।"
-      },
-      {
-        "en": "The Ganga-Brahmaputra delta.",
-        "as": "গংগা-ব্ৰহ্মপুত্ৰৰ ব-দ্বীপ।"
-      },
-      {
-        "en": "The Pacific Ocean",
-        "as": "প্ৰশান্ত মহাসাগৰ"
-      },
-      {
-        "en": "The Great Barrier Reef.",
-        "as": "গ্ৰেট বেৰিয়াৰ ৰীফ।"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Ganga-Brahmaputra delta.",
-      "as": "গংগা-ব্ৰহ্মপুত্ৰৰ ব-দ্বীপ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-045",
-    "q": {
-      "en": "Which is the deepest lake of Africa?",
-      "as": "আফ্ৰিকাৰ গভীৰতম হ্ৰদ কোনটো?"
-    },
-    "options": [
-      {
-        "en": "Lake Tanganyika.",
-        "as": "টাংগানিকা হ্ৰদ।"
-      },
-      {
-        "en": "Lake Superior in North America.",
-        "as": "উত্তৰ আমেৰিকাত অৱস্থিত চুপিৰিয়ৰ হ্ৰদ।"
-      },
-      {
-        "en": "Lake Baikal in Russia.",
-        "as": "ৰাছিয়াৰ বাইকাল হ্ৰদ।"
-      },
-      {
-        "en": "Lake Victoria.",
-        "as": "ভিক্টোৰিয়া হ্ৰদ।"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Lake Tanganyika.",
-      "as": "টাংগানিকা হ্ৰদ।"
-    }
-  },
-  {
-    "id": "oceans-currents-trenches-rivers-lakes-046",
-    "q": {
-      "en": "Which sea is shrinking because of irrigation?",
-      "as": "সিঞ্চনৰ বাবে কোন সাগৰ শুকাই গৈ আছে?"
-    },
-    "options": [
-      {
-        "en": "The Kuroshio Current",
-        "as": "কুৰশ্বিও সোঁত"
+        "en": "The Humboldt Current",
+        "as": "হামবল্ড সোঁত"
       },
       {
         "en": "The Gulf Stream",
         "as": "গাল্ফ ষ্ট্ৰিম"
       },
       {
-        "en": "The Caspian Sea.",
-        "as": "কাস্পিয়ান সাগৰ।"
+        "en": "The Kuroshio",
+        "as": "কুৰ'ছিঅ'"
       },
       {
-        "en": "The Aral Sea.",
-        "as": "আৰল সাগৰ।"
+        "en": "The Agulhas Current",
+        "as": "আগুলহাছ সোঁত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The Aral Sea.",
-      "as": "আৰল সাগৰ।"
+      "en": "The Humboldt Current",
+      "as": "হামবল্ড সোঁত"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-047",
+    "id": "oceans-currents-trenches-rivers-lakes-016",
     "q": {
-      "en": "Which is the highest waterfall of the world?",
-      "as": "বিশ্বৰ সৰ্বোচ্চ জলপ্ৰপাত কোনটো?"
+      "en": "What is the difference between an ocean and a sea?",
+      "as": "মহাসাগৰ আৰু সাগৰৰ মাজত পাৰ্থক্য কি?"
     },
     "options": [
       {
-        "en": "Turkey",
-        "as": "তুৰস্ক"
+        "en": "Seas are partly enclosed by land; oceans are not",
+        "as": "সাগৰবোৰ আংশিকভাৱে স্থলভাগেৰে বেষ্টিত; মহাসাগৰ নহয়"
       },
       {
-        "en": "Greece",
-        "as": "গ্ৰীচ"
+        "en": "Oceans are smaller than seas",
+        "as": "মহাসাগৰ সাগৰতকৈ সৰু"
       },
       {
-        "en": "Angel Falls.",
-        "as": "এঞ্জেল জলপ্ৰপাত।"
+        "en": "Seas are always saltier",
+        "as": "সাগৰ সদায় বেছি লোণীয়া"
       },
       {
-        "en": "Egypt",
-        "as": "ইজিপ্ত"
+        "en": "There is no difference",
+        "as": "কোনো পাৰ্থক্য নাই"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "Angel Falls.",
-      "as": "এঞ্জেল জলপ্ৰপাত।"
+      "en": "Seas are partly enclosed by land; oceans are not",
+      "as": "সাগৰবোৰ আংশিকভাৱে স্থলভাগেৰে বেষ্টিত; মহাসাগৰ নহয়"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-048",
+    "id": "oceans-currents-trenches-rivers-lakes-017",
     "q": {
-      "en": "What is a 'guyot'?",
-      "as": "'গায়ট' কি?"
+      "en": "Which coast has a major upwelling fishery off Peru?",
+      "as": "পেৰুৰ উপকূলত কোন অঞ্চলত প্ৰধান উৰ্দ্ধগামী মাছধৰা হয়?"
     },
     "options": [
       {
-        "en": "The Mariana Trench in the Pacific Ocean.",
-        "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
+        "en": "The Peruvian coast",
+        "as": "পেৰুৰ উপকূল"
       },
       {
-        "en": "A flat-topped submarine mountain.",
-        "as": "চেপেটা শিখৰৰ সাগৰতলীৰ পৰ্বত।"
+        "en": "The Brazilian coast",
+        "as": "ব্ৰাজিলৰ উপকূল"
       },
       {
-        "en": "The continuous movement of ocean water in a definite direction.",
-        "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+        "en": "The Argentine coast",
+        "as": "আৰ্জেণ্টিনাৰ উপকূল"
       },
       {
-        "en": "The deepest point of the Mariana Trench.",
-        "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
+        "en": "The Caribbean coast",
+        "as": "কেৰিবিয়ান উপকূল"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "A flat-topped submarine mountain.",
-      "as": "চেপেটা শিখৰৰ সাগৰতলীৰ পৰ্বত।"
+      "en": "The Peruvian coast",
+      "as": "পেৰুৰ উপকূল"
     }
   },
   {
-    "id": "oceans-currents-trenches-rivers-lakes-049",
+    "id": "oceans-currents-trenches-rivers-lakes-018",
     "q": {
-      "en": "Which current keeps the ports of north-west Europe ice-free?",
-      "as": "কোন সোঁতে উত্তৰ-পশ্চিম ইউৰোপৰ বন্দৰবোৰ বৰফমুক্ত ৰাখে?"
+      "en": "Which layer of the ocean is called the photic zone?",
+      "as": "মহাসাগৰৰ কোন স্তৰক আলোকমণ্ডল (photic zone) বোলে?"
     },
     "options": [
       {
-        "en": "The Gulf Stream.",
-        "as": "গাল্ফ ষ্ট্ৰিম।"
+        "en": "The sunlit upper layer where photosynthesis occurs",
+        "as": "সূৰ্যৰ পোহৰ পোৱা ওপৰৰ স্তৰ, য'ত সালোকসংশ্লেষণ হয়"
+      },
+      {
+        "en": "The dark deep layer",
+        "as": "গাঢ় গভীৰ স্তৰ"
+      },
+      {
+        "en": "The ocean floor",
+        "as": "মহাসাগৰৰ তলি"
+      },
+      {
+        "en": "The tidal zone",
+        "as": "জোৱাৰৰ অঞ্চল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sunlit upper layer where photosynthesis occurs",
+      "as": "সূৰ্যৰ পোহৰ পোৱা ওপৰৰ স্তৰ, য'ত সালোকসংশ্লেষণ হয়"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-019",
+    "q": {
+      "en": "What is a spring tide?",
+      "as": "বসন্ত জোৱাৰ কি?"
+    },
+    "options": [
+      {
+        "en": "The highest tide, occurring at new and full moon",
+        "as": "সৰ্বোচ্চ জোৱাৰ, যি অমাৱস্যা আৰু পূৰ্ণিমাত হয়"
+      },
+      {
+        "en": "The lowest tide",
+        "as": "সৰ্বনিম্ন জোৱাৰ"
+      },
+      {
+        "en": "A tide in spring season",
+        "as": "বসন্ত ঋতুৰ জোৱাৰ"
+      },
+      {
+        "en": "A tide caused by wind",
+        "as": "বতাহে সৃষ্টি কৰা জোৱাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The highest tide, occurring at new and full moon",
+      "as": "সৰ্বোচ্চ জোৱাৰ, যি অমাৱস্যা আৰু পূৰ্ণিমাত হয়"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-020",
+    "q": {
+      "en": "What is a neap tide?",
+      "as": "মন্দ জোৱাৰ (neap tide) কি?"
+    },
+    "options": [
+      {
+        "en": "The lowest tide, occurring at the first and third quarters",
+        "as": "সৰ্বনিম্ন জোৱাৰ, যি প্ৰথম আৰু তৃতীয় চতুৰ্থাংশত হয়"
+      },
+      {
+        "en": "The highest tide",
+        "as": "সৰ্বোচ্চ জোৱাৰ"
+      },
+      {
+        "en": "A tide during a cyclone",
+        "as": "ঘূৰ্ণীবতাহৰ সময়ৰ জোৱাৰ"
+      },
+      {
+        "en": "A tide in winter",
+        "as": "শীতকালৰ জোৱাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The lowest tide, occurring at the first and third quarters",
+      "as": "সৰ্বনিম্ন জোৱাৰ, যি প্ৰথম আৰু তৃতীয় চতুৰ্থাংশত হয়"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-021",
+    "q": {
+      "en": "Which bay has the highest tidal range in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ বেছি জোৱাৰ পৰিসৰ কোন উপসাগৰত?"
+    },
+    "options": [
+      {
+        "en": "The Bay of Fundy",
+        "as": "ফাণ্ডি উপসাগৰ"
+      },
+      {
+        "en": "The Bay of Bengal",
+        "as": "বঙ্গোপসাগৰ"
+      },
+      {
+        "en": "The Hudson Bay",
+        "as": "হাডছন উপসাগৰ"
+      },
+      {
+        "en": "The Gulf of Mexico",
+        "as": "মেক্সিকো উপসাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Bay of Fundy",
+      "as": "ফাণ্ডি উপসাগৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-022",
+    "q": {
+      "en": "Which is the deepest lake in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ গভীৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Baikal",
+      "as": "বৈকাল হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-023",
+    "q": {
+      "en": "Which is the deepest lake in Africa?",
+      "as": "আফ্ৰিকাৰ আটাইতকৈ গভীৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
       },
       {
         "en": "Lake Victoria",
         "as": "ভিক্টোৰিয়া হ্ৰদ"
       },
       {
-        "en": "Lake Titicaca",
-        "as": "টিটিকাকা হ্ৰদ"
+        "en": "Lake Malawi",
+        "as": "মালাৱী হ্ৰদ"
       },
       {
-        "en": "The Pacific Ocean",
-        "as": "প্ৰশান্ত মহাসাগৰ"
+        "en": "Lake Chad",
+        "as": "চাদ হ্ৰদ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Gulf Stream.",
-      "as": "গাল্ফ ষ্ট্ৰিম।"
+      "en": "Lake Tanganyika",
+      "as": "টাংগানিকা হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-024",
+    "q": {
+      "en": "Which lake holds the largest volume of fresh water in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ বেছি মিঠা পানী কোন হ্ৰদত আছে?"
+    },
+    "options": [
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Baikal",
+      "as": "বৈকাল হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-025",
+    "q": {
+      "en": "Which is the largest lake in the world by area?",
+      "as": "এলেকাৰ ফালৰ পৰা বিশ্বৰ আটাইতকৈ ডাঙৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Caspian Sea",
+      "as": "কেছপিয়ান সাগৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-026",
+    "q": {
+      "en": "Which is the largest freshwater lake by area?",
+      "as": "এলেকাৰ ফালৰ পৰা আটাইতকৈ ডাঙৰ মিঠা পানীৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lake Superior",
+        "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Michigan",
+        "as": "মিছিগান হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Superior",
+      "as": "ছুপিৰিয়ৰ হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-027",
+    "q": {
+      "en": "Which is the largest lake in Africa?",
+      "as": "আফ্ৰিকাৰ আটাইতকৈ ডাঙৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Chad",
+        "as": "চাদ হ্ৰদ"
+      },
+      {
+        "en": "Lake Malawi",
+        "as": "মালাৱী হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Victoria",
+      "as": "ভিক্টোৰিয়া হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-028",
+    "q": {
+      "en": "Which is the highest large lake in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ওখ বৃহৎ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lake Titicaca",
+        "as": "টিটিকাকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Titicaca",
+      "as": "টিটিকাকা হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-029",
+    "q": {
+      "en": "Which river has the largest delta in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ব-দ্বীপ কোন নদীৰ?"
+    },
+    "options": [
+      {
+        "en": "The Ganga-Brahmaputra",
+        "as": "গঙ্গা-ব্ৰহ্মপুত্ৰ"
+      },
+      {
+        "en": "The Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "The Amazon",
+        "as": "আমাজন"
+      },
+      {
+        "en": "The Mississippi",
+        "as": "মিছিছিপি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Ganga-Brahmaputra",
+      "as": "গঙ্গা-ব্ৰহ্মপুত্ৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-030",
+    "q": {
+      "en": "Which river is the longest in Asia?",
+      "as": "এছিয়াৰ আটাইতকৈ দীঘল নদী কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
+      },
+      {
+        "en": "The Ganga",
+        "as": "গঙ্গা"
+      },
+      {
+        "en": "The Brahmaputra",
+        "as": "ব্ৰহ্মপুত্ৰ"
+      },
+      {
+        "en": "The Mekong",
+        "as": "মেকং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Yangtze",
+      "as": "য়াংঝি"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-031",
+    "q": {
+      "en": "Which river is the longest in Europe?",
+      "as": "ইউৰোপৰ আটাইতকৈ দীঘল নদী কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Volga",
+        "as": "ভল্গা"
+      },
+      {
+        "en": "The Danube",
+        "as": "ডানিউব"
+      },
+      {
+        "en": "The Rhine",
+        "as": "ৰাইন"
+      },
+      {
+        "en": "The Dnieper",
+        "as": "নিপাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Volga",
+      "as": "ভল্গা"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-032",
+    "q": {
+      "en": "Which river is the longest in North America?",
+      "as": "উত্তৰ আমেৰিকাৰ আটাইতকৈ দীঘল নদী কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Missouri-Mississippi",
+        "as": "মিছৌৰী-মিছিছিপি"
+      },
+      {
+        "en": "The Colorado",
+        "as": "ক'ল'ৰাড'"
+      },
+      {
+        "en": "The Rio Grande",
+        "as": "ৰিঅ' গ্ৰাণ্ডে"
+      },
+      {
+        "en": "The Yukon",
+        "as": "য়ুকন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Missouri-Mississippi",
+      "as": "মিছৌৰী-মিছিছিপি"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-033",
+    "q": {
+      "en": "Which is the longest river in South America?",
+      "as": "দক্ষিণ আমেৰিকাৰ আটাইতকৈ দীঘল নদী কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Amazon",
+        "as": "আমাজন"
+      },
+      {
+        "en": "The Parana",
+        "as": "পাৰানা"
+      },
+      {
+        "en": "The Orinoco",
+        "as": "অ'ৰিন'ক'"
+      },
+      {
+        "en": "The Sao Francisco",
+        "as": "চাও ফ্ৰান্সিস্ক'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Amazon",
+      "as": "আমাজন"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-034",
+    "q": {
+      "en": "What is the continental shelf?",
+      "as": "মহাদেশীয় তট (continental shelf) কি?"
+    },
+    "options": [
+      {
+        "en": "The shallow submerged edge of a continent",
+        "as": "মহাদেশৰ অগভীৰ নিমজ্জিত প্ৰান্ত"
+      },
+      {
+        "en": "The deepest part of the ocean",
+        "as": "মহাসাগৰৰ আটাইতকৈ গভীৰ অংশ"
+      },
+      {
+        "en": "A coral reef",
+        "as": "এক প্ৰবাল প্ৰাচীৰ"
+      },
+      {
+        "en": "A mid-ocean ridge",
+        "as": "মহাসাগৰ মধ্য শৈলশিৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The shallow submerged edge of a continent",
+      "as": "মহাদেশৰ অগভীৰ নিমজ্জিত প্ৰান্ত"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-035",
+    "q": {
+      "en": "Which is the largest lake in South America?",
+      "as": "দক্ষিণ আমেৰিকাৰ আটাইতকৈ ডাঙৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lake Maracaibo",
+        "as": "মাৰাকাইব' হ্ৰদ"
+      },
+      {
+        "en": "Lake Titicaca",
+        "as": "টিটিকাকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Poopo",
+        "as": "প'প' হ্ৰদ"
+      },
+      {
+        "en": "Lake Buenos Aires",
+        "as": "বুৱেনছ আয়াৰেছ হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Maracaibo",
+      "as": "মাৰাকাইব' হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-036",
+    "q": {
+      "en": "Which is the highest waterfall in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ওখ জলপ্ৰপাত কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Angel Falls",
+        "as": "এঞ্জেল জলপ্ৰপাত"
+      },
+      {
+        "en": "Niagara Falls",
+        "as": "নিয়াগ্ৰা জলপ্ৰপাত"
+      },
+      {
+        "en": "Victoria Falls",
+        "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
+      },
+      {
+        "en": "Iguazu Falls",
+        "as": "ইগুৱাছু জলপ্ৰপাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Angel Falls",
+      "as": "এঞ্জেল জলপ্ৰপাত"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-037",
+    "q": {
+      "en": "Which waterfall is known as the 'Smoke that Thunders'?",
+      "as": "কোন জলপ্ৰপাতক 'গৰ্জনকাৰী ধোঁৱা' বুলি জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Victoria Falls",
+        "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
+      },
+      {
+        "en": "Niagara Falls",
+        "as": "নিয়াগ্ৰা জলপ্ৰপাত"
+      },
+      {
+        "en": "Angel Falls",
+        "as": "এঞ্জেল জলপ্ৰপাত"
+      },
+      {
+        "en": "Iguazu Falls",
+        "as": "ইগুৱাছু জলপ্ৰপাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Victoria Falls",
+      "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-038",
+    "q": {
+      "en": "Which is the largest coral reef system in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ প্ৰবাল প্ৰাচীৰ প্ৰণালী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Great Barrier Reef",
+        "as": "মহা অৱৰোধ প্ৰবাল প্ৰাচীৰ"
+      },
+      {
+        "en": "The Belize Barrier Reef",
+        "as": "বেলিজ প্ৰবাল প্ৰাচীৰ"
+      },
+      {
+        "en": "The Red Sea Reef",
+        "as": "ৰঙা সাগৰৰ প্ৰবাল প্ৰাচীৰ"
+      },
+      {
+        "en": "The Maldives Reef",
+        "as": "মালদ্বীপ প্ৰবাল প্ৰাচীৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Great Barrier Reef",
+      "as": "মহা অৱৰোধ প্ৰবাল প্ৰাচীৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-039",
+    "q": {
+      "en": "Which is the second deepest ocean trench in the world?",
+      "as": "বিশ্বৰ দ্বিতীয় আটাইতকৈ গভীৰ মহাসাগৰীয় খাদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Tonga Trench",
+        "as": "টংগা খাদ"
+      },
+      {
+        "en": "The Java Trench",
+        "as": "জাভা খাদ"
+      },
+      {
+        "en": "The Puerto Rico Trench",
+        "as": "পুৱেৰ্ট' ৰিক' খাদ"
+      },
+      {
+        "en": "The Aleutian Trench",
+        "as": "আলিউটিয়ান খাদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Tonga Trench",
+      "as": "টংগা খাদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-040",
+    "q": {
+      "en": "Which sea is shrinking because of irrigation diversions?",
+      "as": "কোন সাগৰ জলসিঞ্চনৰ বাবে সংকুচিত হৈ আছে?"
+    },
+    "options": [
+      {
+        "en": "The Aral Sea",
+        "as": "আৰল সাগৰ"
+      },
+      {
+        "en": "The Dead Sea",
+        "as": "মৃত সাগৰ"
+      },
+      {
+        "en": "The Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "The Black Sea",
+        "as": "কৃষ্ণ সাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Aral Sea",
+      "as": "আৰল সাগৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-041",
+    "q": {
+      "en": "Which river is the source of the Blue Nile?",
+      "as": "নীল নদীৰ উৎস কোনখন নদী?"
+    },
+    "options": [
+      {
+        "en": "Lake Tana in Ethiopia",
+        "as": "ইথিঅ'পিয়াৰ টানা হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Albert",
+        "as": "আলবাৰ্ট হ্ৰদ"
+      },
+      {
+        "en": "Lake Turkana",
+        "as": "তুৰ্কানা হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Tana in Ethiopia",
+      "as": "ইথিঅ'পিয়াৰ টানা হ্ৰদ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-042",
+    "q": {
+      "en": "Which river forms the largest estuary in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ মোহনা কোন নদীয়ে গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Amazon",
+        "as": "আমাজন"
+      },
+      {
+        "en": "The Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "The Ganga",
+        "as": "গঙ্গা"
+      },
+      {
+        "en": "The Mississippi",
+        "as": "মিছিছপি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Amazon",
+      "as": "আমাজন"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-043",
+    "q": {
+      "en": "Which ocean current flows northwards along the east coast of Japan?",
+      "as": "জাপানৰ পূব উপকূলৰ কাষেৰে কোন মহাসাগৰীয় সোঁত উত্তৰলৈ বয়?"
+    },
+    "options": [
+      {
+        "en": "The Kuroshio Current",
+        "as": "কুৰ'ছিঅ' সোঁত"
+      },
+      {
+        "en": "The Oyashio Current",
+        "as": "অ'য়াছিঅ' সোঁত"
+      },
+      {
+        "en": "The Gulf Stream",
+        "as": "গাল্ফ ষ্ট্ৰিম"
+      },
+      {
+        "en": "The Humboldt Current",
+        "as": "হামবল্ড সোঁত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Kuroshio Current",
+      "as": "কুৰ'ছিঅ' সোঁত"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-044",
+    "q": {
+      "en": "Which is the smallest ocean in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ সৰু মহাসাগৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "The Arctic Ocean",
+        "as": "আৰ্কটিক মহাসাগৰ"
+      },
+      {
+        "en": "The Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "The Southern Ocean",
+        "as": "দক্ষিণ মহাসাগৰ"
+      },
+      {
+        "en": "The Atlantic Ocean",
+        "as": "এটলাণ্টিক মহাসাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Arctic Ocean",
+      "as": "আৰ্কটিক মহাসাগৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-045",
+    "q": {
+      "en": "Which ocean lies between Africa and Australia?",
+      "as": "আফ্ৰিকা আৰু অষ্ট্ৰেলিয়াৰ মাজত কোন মহাসাগৰ অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "The Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "The Atlantic Ocean",
+        "as": "এটলাণ্টিক মহাসাগৰ"
+      },
+      {
+        "en": "The Pacific Ocean",
+        "as": "প্ৰশান্ত মহাসাগৰ"
+      },
+      {
+        "en": "The Southern Ocean",
+        "as": "দক্ষিণ মহাসাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Indian Ocean",
+      "as": "ভাৰত মহাসাগৰ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-046",
+    "q": {
+      "en": "What is the 'thermohaline circulation'?",
+      "as": "'তাপ-লোণীয় পৰিসঞ্চৰণ' কি?"
+    },
+    "options": [
+      {
+        "en": "The deep ocean circulation driven by temperature and salinity",
+        "as": "উষ্ণতা আৰু লোণীয়তাৰ দ্বাৰা চলিত গভীৰ মহাসাগৰীয় পৰিসঞ্চৰণ"
+      },
+      {
+        "en": "The surface wind-driven circulation",
+        "as": "পৃষ্ঠ বতাহে চলোৱা পৰিসঞ্চৰণ"
+      },
+      {
+        "en": "The tidal circulation",
+        "as": "জোৱাৰৰ পৰিসঞ্চৰণ"
+      },
+      {
+        "en": "The river-ocean mixing",
+        "as": "নদী-মহাসাগৰ মিশ্ৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The deep ocean circulation driven by temperature and salinity",
+      "as": "উষ্ণতা আৰু লোণীয়তাৰ দ্বাৰা চলিত গভীৰ মহাসাগৰীয় পৰিসঞ্চৰণ"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-047",
+    "q": {
+      "en": "Which river is the longest in Africa?",
+      "as": "আফ্ৰিকাৰ আটাইতকৈ দীঘল নদী কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "The Congo",
+        "as": "কংগো"
+      },
+      {
+        "en": "The Niger",
+        "as": "নাইজাৰ"
+      },
+      {
+        "en": "The Zambezi",
+        "as": "জাম্বেজী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Nile",
+      "as": "নীল"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-048",
+    "q": {
+      "en": "Which river is the largest by discharge in Asia?",
+      "as": "এছিয়াত নিষ্কাশনৰ ফালৰ পৰা আটাইতকৈ ডাঙৰ নদী কোনখন?"
+    },
+    "options": [
+      {
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
+      },
+      {
+        "en": "The Ganga",
+        "as": "গঙ্গা"
+      },
+      {
+        "en": "The Brahmaputra",
+        "as": "ব্ৰহ্মপুত্ৰ"
+      },
+      {
+        "en": "The Mekong",
+        "as": "মেকং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Yangtze",
+      "as": "য়াংঝি"
+    }
+  },
+  {
+    "id": "oceans-currents-trenches-rivers-lakes-049",
+    "q": {
+      "en": "Which lake is the largest in India by area?",
+      "as": "এলেকাৰ ফালৰ পৰা ভাৰতৰ আটাইতকৈ ডাঙৰ হ্ৰদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Chilika Lake",
+        "as": "চিলিকা হ্ৰদ"
+      },
+      {
+        "en": "Wular Lake",
+        "as": "ৱুলাৰ হ্ৰদ"
+      },
+      {
+        "en": "Loktak Lake",
+        "as": "লোকটক হ্ৰদ"
+      },
+      {
+        "en": "Sambhar Lake",
+        "as": "সাম্বাৰ হ্ৰদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chilika Lake",
+      "as": "চিলিকা হ্ৰদ"
     }
   },
   {
     "id": "oceans-currents-trenches-rivers-lakes-050",
     "q": {
-      "en": "Which current brings fog to the Grand Banks?",
-      "as": "কোন সোঁতে গ্ৰেণ্ড বেংক্ছত কুঁৱলী আনে?"
+      "en": "Which is the largest saltwater lake in India?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ লোণীয়া পানীৰ হ্ৰদ কোনটো?"
     },
     "options": [
       {
-        "en": "The Humboldt Current",
-        "as": "হামবল্ট সোঁত"
+        "en": "Chilika Lake",
+        "as": "চিলিকা হ্ৰদ"
       },
       {
-        "en": "The Nile",
-        "as": "নীল নদী"
+        "en": "Sambhar Lake",
+        "as": "সাম্বাৰ হ্ৰদ"
       },
       {
-        "en": "The Labrador Current.",
-        "as": "লাব্ৰাডৰ সোঁত।"
+        "en": "Pulicat Lake",
+        "as": "পুলিকট হ্ৰদ"
       },
       {
-        "en": "The Kuroshio Current",
-        "as": "কুৰশ্বিও সোঁত"
+        "en": "Didwana Lake",
+        "as": "দিদৱানা হ্ৰদ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "en": "The Labrador Current.",
-      "as": "লাব্ৰাডৰ সোঁত।"
+      "en": "Chilika Lake",
+      "as": "চিলিকা হ্ৰদ"
     }
   }
 ]

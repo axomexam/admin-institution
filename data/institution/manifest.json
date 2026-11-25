@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:24:02.218Z",
+  "generatedAt": "2026-11-25T19:38:30.884Z",
   "brand": "axomexam.in",
   "exams": [
     {
@@ -1457,12 +1457,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones.pdf",
-              "bytes": 190469,
+              "bytes": 191313,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/atmosphere-layers-winds-cyclones-as.pdf",
-              "bytes": 242497,
+              "bytes": 245841,
               "pages": 9
             }
           }
@@ -1487,12 +1487,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes.pdf",
-              "bytes": 194561,
-              "pages": 9
+              "bytes": 188036,
+              "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/earth-layers-plates-volcanoes-as.pdf",
-              "bytes": 321189,
+              "bytes": 238313,
               "pages": 9
             }
           }
@@ -1517,12 +1517,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world.pdf",
-              "bytes": 185865,
+              "bytes": 183357,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/grasslands-agricultural-belts-world-as.pdf",
-              "bytes": 225691,
+              "bytes": 225334,
               "pages": 9
             }
           }
@@ -1547,12 +1547,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/international-border-lines-world.pdf",
-              "bytes": 192532,
+              "bytes": 184714,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/international-border-lines-world-as.pdf",
-              "bytes": 233573,
+              "bytes": 231052,
               "pages": 9
             }
           }
@@ -1577,12 +1577,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world.pdf",
-              "bytes": 186157,
+              "bytes": 182408,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/minerals-oil-belts-sea-routes-world-as.pdf",
-              "bytes": 222193,
+              "bytes": 220863,
               "pages": 9
             }
           }
@@ -1607,12 +1607,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes.pdf",
-              "bytes": 187456,
+              "bytes": 185592,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/mountains-deserts-islands-earthquakes-as.pdf",
-              "bytes": 226165,
+              "bytes": 275107,
               "pages": 9
             }
           }
@@ -1637,12 +1637,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes.pdf",
-              "bytes": 188219,
+              "bytes": 184283,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/oceans-currents-trenches-rivers-lakes-as.pdf",
-              "bytes": 230301,
+              "bytes": 230821,
               "pages": 9
             }
           }
@@ -1667,12 +1667,12 @@
           "pdfs": {
             "en": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs.pdf",
-              "bytes": 185980,
+              "bytes": 186292,
               "pages": 8
             },
             "as": {
               "pdf": "/data/download/adre-grade-3/general-knowledge-assam-gk/world-geography/straits-canals-seas-gulfs-as.pdf",
-              "bytes": 218442,
+              "bytes": 222544,
               "pages": 9
             }
           }
