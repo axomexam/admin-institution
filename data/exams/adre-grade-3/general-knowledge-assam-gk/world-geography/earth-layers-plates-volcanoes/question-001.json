@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Granite",
-        "as": "গ্ৰেনাইট"
-      },
-      {
-        "en": "Basalt",
-        "as": "বেছল্ট"
-      },
-      {
         "en": "Limestone",
         "as": "চূণশিলা"
       },
       {
+        "en": "Granite",
+        "as": "গ্ৰেনাইট"
+      },
+      {
         "en": "Sandstone",
         "as": "বালিশিলা"
+      },
+      {
+        "en": "Basalt",
+        "as": "বেছল্ট"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Granite",
       "as": "গ্ৰেনাইট"
@@ -41,16 +41,16 @@
         "as": "বেছল্ট"
       },
       {
-        "en": "Granite",
-        "as": "গ্ৰেনাইট"
+        "en": "Quartzite",
+        "as": "কোৱাৰ্টজাইট"
       },
       {
         "en": "Marble",
         "as": "মাৰ্বল"
       },
       {
-        "en": "Quartzite",
-        "as": "কোৱাৰ্টজাইট"
+        "en": "Granite",
+        "as": "গ্ৰেনাইট"
       }
     ],
     "correct": 0,
@@ -67,8 +67,8 @@
     },
     "options": [
       {
-        "en": "The boundary between the crust and the mantle",
-        "as": "ভূত্বক আৰু মেণ্টলৰ সীমা"
+        "en": "The boundary between the lithosphere and the asthenosphere",
+        "as": "শিলামণ্ডল আৰু দৃঢ়মণ্ডলৰ সীমা"
       },
       {
         "en": "The boundary between the mantle and the core",
@@ -79,11 +79,11 @@
         "as": "অন্তঃ আৰু বহিঃ কেন্দ্ৰৰ সীমা"
       },
       {
-        "en": "The boundary between the lithosphere and the asthenosphere",
-        "as": "শিলামণ্ডল আৰু দৃঢ়মণ্ডলৰ সীমা"
+        "en": "The boundary between the crust and the mantle",
+        "as": "ভূত্বক আৰু মেণ্টলৰ সীমা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The boundary between the crust and the mantle",
       "as": "ভূত্বক আৰু মেণ্টলৰ সীমা"
@@ -97,23 +97,23 @@
     },
     "options": [
       {
-        "en": "The boundary between the mantle and the core",
-        "as": "মেণ্টল আৰু কেন্দ্ৰৰ সীমা"
-      },
-      {
         "en": "The boundary between the crust and the mantle",
         "as": "ভূত্বক আৰু মেণ্টলৰ সীমা"
       },
       {
-        "en": "The boundary between the inner and outer core",
-        "as": "অন্তঃ আৰু বহিঃ কেন্দ্ৰৰ সীমা"
+        "en": "The boundary between the mantle and the core",
+        "as": "মেণ্টল আৰু কেন্দ্ৰৰ সীমা"
       },
       {
         "en": "The boundary within the asthenosphere",
         "as": "দৃঢ়মণ্ডলৰ ভিতৰৰ সীমা"
+      },
+      {
+        "en": "The boundary between the inner and outer core",
+        "as": "অন্তঃ আৰু বহিঃ কেন্দ্ৰৰ সীমা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The boundary between the mantle and the core",
       "as": "মেণ্টল আৰু কেন্দ্ৰৰ সীমা"
@@ -127,10 +127,6 @@
     },
     "options": [
       {
-        "en": "About 2900 km",
-        "as": "প্ৰায় 2900 কিলোমিটাৰ"
-      },
-      {
         "en": "About 1000 km",
         "as": "প্ৰায় 1000 কিলোমিটাৰ"
       },
@@ -141,9 +137,13 @@
       {
         "en": "About 70 km",
         "as": "প্ৰায় 70 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 2900 km",
+        "as": "প্ৰায় 2900 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 2900 km",
       "as": "প্ৰায় 2900 কিলোমিটাৰ"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "About 5150 km",
-        "as": "প্ৰায় 5150 কিলোমিটাৰ"
+        "en": "About 4000 km",
+        "as": "প্ৰায় 4000 কিলোমিটাৰ"
       },
       {
         "en": "About 2900 km",
         "as": "প্ৰায় 2900 কিলোমিটাৰ"
       },
       {
-        "en": "About 4000 km",
-        "as": "প্ৰায় 4000 কিলোমিটাৰ"
-      },
-      {
         "en": "About 6400 km",
         "as": "প্ৰায় 6400 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 5150 km",
+        "as": "প্ৰায় 5150 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 5150 km",
       "as": "প্ৰায় 5150 কিলোমিটাৰ"
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "S-waves cannot pass through it",
-        "as": "S-তৰংগই ইয়াৰ মাজেৰে যাব নোৱাৰে"
-      },
-      {
-        "en": "P-waves cannot pass through it",
-        "as": "P-তৰংগই ইয়াৰ মাজেৰে যাব নোৱাৰে"
-      },
-      {
         "en": "It is made of gas",
         "as": "ই গেছেৰে গঠিত"
       },
       {
         "en": "It is colder than the mantle",
         "as": "ই মেণ্টলতকৈ ঠাণ্ডা"
+      },
+      {
+        "en": "P-waves cannot pass through it",
+        "as": "P-তৰংগই ইয়াৰ মাজেৰে যাব নোৱাৰে"
+      },
+      {
+        "en": "S-waves cannot pass through it",
+        "as": "S-তৰংগই ইয়াৰ মাজেৰে যাব নোৱাৰে"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "S-waves cannot pass through it",
       "as": "S-তৰংগই ইয়াৰ মাজেৰে যাব নোৱাৰে"
@@ -217,23 +217,23 @@
     },
     "options": [
       {
-        "en": "The outer core",
-        "as": "বহিঃ কেন্দ্ৰ"
-      },
-      {
-        "en": "The inner core",
-        "as": "অন্তঃ কেন্দ্ৰ"
+        "en": "The crust",
+        "as": "ভূত্বক"
       },
       {
         "en": "The lower mantle",
         "as": "নিম্ন মেণ্টল"
       },
       {
-        "en": "The crust",
-        "as": "ভূত্বক"
+        "en": "The outer core",
+        "as": "বহিঃ কেন্দ্ৰ"
+      },
+      {
+        "en": "The inner core",
+        "as": "অন্তঃ কেন্দ্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The outer core",
       "as": "বহিঃ কেন্দ্ৰ"
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "The rate at which temperature rises with depth inside the Earth",
-        "as": "পৃথিৱীৰ ভিতৰত গভীৰতাৰ লগে লগে উষ্ণতা বৃদ্ধিৰ হাৰ"
-      },
-      {
-        "en": "The rate at which pressure falls with height",
-        "as": "উচ্চতাৰ লগে লগে চাপ হ্ৰাসৰ হাৰ"
-      },
-      {
         "en": "The rate at which the Earth cools",
         "as": "পৃথিৱী ঠাণ্ডা হোৱাৰ হাৰ"
       },
       {
         "en": "The rate of radioactive decay at the surface",
         "as": "ভূপৃষ্ঠত তেজস্ক্ৰীয় ক্ষয়ৰ হাৰ"
+      },
+      {
+        "en": "The rate at which temperature rises with depth inside the Earth",
+        "as": "পৃথিৱীৰ ভিতৰত গভীৰতাৰ লগে লগে উষ্ণতা বৃদ্ধিৰ হাৰ"
+      },
+      {
+        "en": "The rate at which pressure falls with height",
+        "as": "উচ্চতাৰ লগে লগে চাপ হ্ৰাসৰ হাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The rate at which temperature rises with depth inside the Earth",
       "as": "পৃথিৱীৰ ভিতৰত গভীৰতাৰ লগে লগে উষ্ণতা বৃদ্ধিৰ হাৰ"
@@ -277,23 +277,23 @@
     },
     "options": [
       {
-        "en": "Radioactive decay of isotopes",
-        "as": "সমস্থানিকৰ তেজস্ক্ৰীয় ক্ষয়"
+        "en": "Chemical weathering",
+        "as": "ৰাসায়নিক অপক্ষয়"
       },
       {
         "en": "Solar radiation",
         "as": "সৌৰ বিকিৰণ"
       },
       {
-        "en": "Friction of ocean tides",
-        "as": "সাগৰীয় জোৱাৰৰ ঘৰ্ষণ"
+        "en": "Radioactive decay of isotopes",
+        "as": "সমস্থানিকৰ তেজস্ক্ৰীয় ক্ষয়"
       },
       {
-        "en": "Chemical weathering",
-        "as": "ৰাসায়নিক অপক্ষয়"
+        "en": "Friction of ocean tides",
+        "as": "সাগৰীয় জোৱাৰৰ ঘৰ্ষণ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Radioactive decay of isotopes",
       "as": "সমস্থানিকৰ তেজস্ক্ৰীয় ক্ষয়"
@@ -307,23 +307,23 @@
     },
     "options": [
       {
-        "en": "The state of gravitational balance between the crust and the mantle",
-        "as": "ভূত্বক আৰু মেণ্টলৰ মাজত মহাকৰ্ষণীয় ভাৰসাম্যৰ অৱস্থা"
+        "en": "The equality of temperature in the mantle",
+        "as": "মেণ্টলত উষ্ণতাৰ সমতা"
       },
       {
         "en": "The balance between erosion and deposition",
         "as": "ক্ষয় আৰু সঞ্চয়ৰ মাজত ভাৰসাম্য"
       },
       {
-        "en": "The equality of temperature in the mantle",
-        "as": "মেণ্টলত উষ্ণতাৰ সমতা"
+        "en": "The state of gravitational balance between the crust and the mantle",
+        "as": "ভূত্বক আৰু মেণ্টলৰ মাজত মহাকৰ্ষণীয় ভাৰসাম্যৰ অৱস্থা"
       },
       {
         "en": "The balance between tides and currents",
         "as": "জোৱাৰ আৰু সোঁতৰ মাজত ভাৰসাম্য"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The state of gravitational balance between the crust and the mantle",
       "as": "ভূত্বক আৰু মেণ্টলৰ মাজত মহাকৰ্ষণীয় ভাৰসাম্যৰ অৱস্থা"
@@ -341,12 +341,12 @@
         "as": "ভূত্বক আৰু মেণ্টলৰ আটাইতকৈ ওপৰৰ কঠিন অংশ"
       },
       {
-        "en": "Only the crust",
-        "as": "কেৱল ভূত্বক"
-      },
-      {
         "en": "The crust and the outer core",
         "as": "ভূত্বক আৰু বহিঃ কেন্দ্ৰ"
+      },
+      {
+        "en": "Only the crust",
+        "as": "কেৱল ভূত্বক"
       },
       {
         "en": "The whole mantle",
@@ -367,12 +367,12 @@
     },
     "options": [
       {
-        "en": "About 100 km",
-        "as": "প্ৰায় 100 কিলোমিটাৰ"
-      },
-      {
         "en": "About 10 km",
         "as": "প্ৰায় 10 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 100 km",
+        "as": "প্ৰায় 100 কিলোমিটাৰ"
       },
       {
         "en": "About 500 km",
@@ -383,7 +383,7 @@
         "as": "প্ৰায় 2900 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 100 km",
       "as": "প্ৰায় 100 কিলোমিটাৰ"
@@ -397,8 +397,8 @@
     },
     "options": [
       {
-        "en": "The partly molten layer of the mantle below the lithosphere",
-        "as": "শিলামণ্ডলৰ তলত থকা মেণ্টলৰ আংশিকভাৱে গলিত স্তৰ"
+        "en": "The atmosphere above the surface",
+        "as": "ভূপৃষ্ঠৰ ওপৰৰ বায়ুমণ্ডল"
       },
       {
         "en": "The solid inner core",
@@ -409,11 +409,11 @@
         "as": "ভূত্বকৰ বাহিৰৰ স্তৰ"
       },
       {
-        "en": "The atmosphere above the surface",
-        "as": "ভূপৃষ্ঠৰ ওপৰৰ বায়ুমণ্ডল"
+        "en": "The partly molten layer of the mantle below the lithosphere",
+        "as": "শিলামণ্ডলৰ তলত থকা মেণ্টলৰ আংশিকভাৱে গলিত স্তৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The partly molten layer of the mantle below the lithosphere",
       "as": "শিলামণ্ডলৰ তলত থকা মেণ্টলৰ আংশিকভাৱে গলিত স্তৰ"
@@ -427,23 +427,23 @@
     },
     "options": [
       {
-        "en": "1912",
-        "as": "১৯১২"
-      },
-      {
-        "en": "1859",
-        "as": "১৮৫৯"
+        "en": "1957",
+        "as": "১৯৫৭"
       },
       {
         "en": "1930",
         "as": "১৯৩০"
       },
       {
-        "en": "1957",
-        "as": "১৯৫৭"
+        "en": "1912",
+        "as": "১৯১২"
+      },
+      {
+        "en": "1859",
+        "as": "১৮৫৯"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "1912",
       "as": "১৯১২"
@@ -461,12 +461,12 @@
         "as": "ৰ'ডিনিয়া"
       },
       {
-        "en": "Gondwana",
-        "as": "গণ্ডোৱানা"
-      },
-      {
         "en": "Laurasia",
         "as": "লৰেছিয়া"
+      },
+      {
+        "en": "Gondwana",
+        "as": "গণ্ডোৱানা"
       },
       {
         "en": "Tethys",
@@ -487,23 +487,23 @@
     },
     "options": [
       {
-        "en": "Laurasia and Gondwana",
-        "as": "লৰেছিয়া আৰু গণ্ডোৱানা"
-      },
-      {
         "en": "Rodinia and Tethys",
         "as": "ৰ'ডিনিয়া আৰু টেথিছ"
       },
       {
-        "en": "Eurasia and Africa",
-        "as": "ইউৰেছিয়া আৰু আফ্ৰিকা"
-      },
-      {
         "en": "Angaraland and Europe",
         "as": "আঙ্গাৰালেণ্ড আৰু ইউৰোপ"
+      },
+      {
+        "en": "Laurasia and Gondwana",
+        "as": "লৰেছিয়া আৰু গণ্ডোৱানা"
+      },
+      {
+        "en": "Eurasia and Africa",
+        "as": "ইউৰেছিয়া আৰু আফ্ৰিকা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Laurasia and Gondwana",
       "as": "লৰেছিয়া আৰু গণ্ডোৱানা"
@@ -517,23 +517,23 @@
     },
     "options": [
       {
-        "en": "The Indian Ocean",
-        "as": "ভাৰত মহাসাগৰ"
-      },
-      {
         "en": "The Pacific Ocean",
         "as": "প্ৰশান্ত মহাসাগৰ"
       },
       {
-        "en": "The Arctic Ocean",
-        "as": "আৰ্কটিক মহাসাগৰ"
-      },
-      {
         "en": "The Atlantic Ocean",
         "as": "এটলাণ্টিক মহাসাগৰ"
+      },
+      {
+        "en": "The Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "The Arctic Ocean",
+        "as": "আৰ্কটিক মহাসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Indian Ocean",
       "as": "ভাৰত মহাসাগৰ"
@@ -547,23 +547,23 @@
     },
     "options": [
       {
-        "en": "The Philippine Sea Plate",
-        "as": "ফিলিপাইন সাগৰীয় পাত"
-      },
-      {
-        "en": "The Arabian Plate",
-        "as": "আৰবীয় পাত"
-      },
-      {
         "en": "The Nazca Plate",
         "as": "নাজকা পাত"
       },
       {
         "en": "The Scotia Plate",
         "as": "স্ক'টিয়া পাত"
+      },
+      {
+        "en": "The Philippine Sea Plate",
+        "as": "ফিলিপাইন সাগৰীয় পাত"
+      },
+      {
+        "en": "The Arabian Plate",
+        "as": "আৰবীয় পাত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Philippine Sea Plate",
       "as": "ফিলিপাইন সাগৰীয় পাত"
@@ -577,12 +577,12 @@
     },
     "options": [
       {
-        "en": "A boundary where two plates slide past each other",
-        "as": "য'ত দুখন পাত ইখনৰ সিপিঠিয়ে পিছলি যায়"
-      },
-      {
         "en": "A boundary where plates move apart",
         "as": "য'ত পাতবোৰ পৃথক হৈ যায়"
+      },
+      {
+        "en": "A boundary where two plates slide past each other",
+        "as": "য'ত দুখন পাত ইখনৰ সিপিঠিয়ে পিছলি যায়"
       },
       {
         "en": "A boundary where one plate sinks below another",
@@ -593,7 +593,7 @@
         "as": "য'ত পাতবোৰ খুন্দা খাই ওপৰলৈ উঠে"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A boundary where two plates slide past each other",
       "as": "য'ত দুখন পাত ইখনৰ সিপিঠিয়ে পিছলি যায়"
@@ -607,23 +607,23 @@
     },
     "options": [
       {
-        "en": "A transform boundary",
-        "as": "ৰূপান্তৰক সীমা"
-      },
-      {
-        "en": "A convergent boundary",
-        "as": "অভিসাৰী সীমা"
-      },
-      {
         "en": "A divergent boundary",
         "as": "অপসাৰী সীমা"
       },
       {
+        "en": "A transform boundary",
+        "as": "ৰূপান্তৰক সীমা"
+      },
+      {
         "en": "A subduction boundary",
         "as": "অৱক্ষেপণ সীমা"
+      },
+      {
+        "en": "A convergent boundary",
+        "as": "অভিসাৰী সীমা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A transform boundary",
       "as": "ৰূপান্তৰক সীমা"
@@ -645,12 +645,12 @@
         "as": "য'ত মেগমা শৈলশিৰিত উঠে সেই ক্ষেত্ৰ"
       },
       {
-        "en": "The layer of the outer core",
-        "as": "বহিঃ কেন্দ্ৰৰ স্তৰ"
-      },
-      {
         "en": "The region of hot spot volcanism",
         "as": "হটস্পট আগ্নেয়গিৰিৰ অঞ্চল"
+      },
+      {
+        "en": "The layer of the outer core",
+        "as": "বহিঃ কেন্দ্ৰৰ স্তৰ"
       }
     ],
     "correct": 0,
@@ -667,23 +667,23 @@
     },
     "options": [
       {
-        "en": "About 700 km",
-        "as": "প্ৰায় 700 কিলোমিটাৰ"
+        "en": "About 300 km",
+        "as": "প্ৰায় 300 কিলোমিটাৰ"
       },
       {
         "en": "About 70 km",
         "as": "প্ৰায় 70 কিলোমিটাৰ"
       },
       {
-        "en": "About 300 km",
-        "as": "প্ৰায় 300 কিলোমিটাৰ"
-      },
-      {
         "en": "About 1500 km",
         "as": "প্ৰায় 1500 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 700 km",
+        "as": "প্ৰায় 700 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 700 km",
       "as": "প্ৰায় 700 কিলোমিটাৰ"
@@ -697,10 +697,6 @@
     },
     "options": [
       {
-        "en": "A deep earthquake occurring within a subducting slab",
-        "as": "অৱক্ষেপণশীল প্লেটৰ ভিতৰত হোৱা গভীৰ ভূমিকম্প"
-      },
-      {
         "en": "A shallow earthquake at a ridge",
         "as": "শৈলশিৰিত হোৱা অগভীৰ ভূমিকম্প"
       },
@@ -709,11 +705,15 @@
         "as": "আগ্নেয়গিৰিৰ বাবে হোৱা ভূমিকম্প"
       },
       {
+        "en": "A deep earthquake occurring within a subducting slab",
+        "as": "অৱক্ষেপণশীল প্লেটৰ ভিতৰত হোৱা গভীৰ ভূমিকম্প"
+      },
+      {
         "en": "An earthquake caused by a landslide",
         "as": "ভূমিস্খলনৰ বাবে হোৱা ভূমিকম্প"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A deep earthquake occurring within a subducting slab",
       "as": "অৱক্ষেপণশীল প্লেটৰ ভিতৰত হোৱা গভীৰ ভূমিকম্প"
@@ -731,16 +731,16 @@
         "as": "ৰাইঅ'লাইটিক মেগমা"
       },
       {
+        "en": "Oceanic magma",
+        "as": "মহাসাগৰীয় মেগমা"
+      },
+      {
         "en": "Basaltic magma",
         "as": "বেছল্টিক মেগমা"
       },
       {
         "en": "Andesitic magma",
         "as": "এণ্ডেছাইটিক মেগমা"
-      },
-      {
-        "en": "Oceanic magma",
-        "as": "মহাসাগৰীয় মেগমা"
       }
     ],
     "correct": 0,
@@ -757,6 +757,10 @@
     },
     "options": [
       {
+        "en": "Andesitic magma",
+        "as": "এণ্ডেছাইটিক মেগমা"
+      },
+      {
         "en": "Basaltic magma",
         "as": "বেছল্টিক মেগমা"
       },
@@ -765,15 +769,11 @@
         "as": "ৰাইঅ'লাইটিক মেগমা"
       },
       {
-        "en": "Andesitic magma",
-        "as": "এণ্ডেছাইটিক মেগমা"
-      },
-      {
         "en": "Granitic magma",
         "as": "গ্ৰেনাইটিক মেগমা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Basaltic magma",
       "as": "বেছল্টিক মেগমা"
@@ -787,12 +787,12 @@
     },
     "options": [
       {
-        "en": "About two-thirds",
-        "as": "প্ৰায় তিনিভাগৰ দুভাগ"
-      },
-      {
         "en": "About one-tenth",
         "as": "প্ৰায় দশভাগৰ একভাগ"
+      },
+      {
+        "en": "About two-thirds",
+        "as": "প্ৰায় তিনিভাগৰ দুভাগ"
       },
       {
         "en": "About one-third",
@@ -803,7 +803,7 @@
         "as": "প্ৰায় আধা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About two-thirds",
       "as": "প্ৰায় তিনিভাগৰ দুভাগ"
@@ -817,10 +817,6 @@
     },
     "options": [
       {
-        "en": "Magma is molten rock below the surface; lava is molten rock at the surface",
-        "as": "মেগমা ভূগৰ্ভস্থ গলিত শিলা; লাভা ভূপৃষ্ঠৰ গলিত শিলা"
-      },
-      {
         "en": "Magma is at the surface; lava is below it",
         "as": "মেগমা ভূপৃষ্ঠত; লাভা তাৰ তলত"
       },
@@ -829,11 +825,15 @@
         "as": "দুটাই একে বস্তু"
       },
       {
+        "en": "Magma is molten rock below the surface; lava is molten rock at the surface",
+        "as": "মেগমা ভূগৰ্ভস্থ গলিত শিলা; লাভা ভূপৃষ্ঠৰ গলিত শিলা"
+      },
+      {
         "en": "Magma is solid; lava is liquid",
         "as": "মেগমা কঠিন; লাভা তৰল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Magma is molten rock below the surface; lava is molten rock at the surface",
       "as": "মেগমা ভূগৰ্ভস্থ গলিত শিলা; লাভা ভূপৃষ্ঠৰ গলিত শিলা"
@@ -847,23 +847,23 @@
     },
     "options": [
       {
-        "en": "A fast-moving cloud of hot gas and volcanic ash",
-        "as": "গৰম গেছ আৰু আগ্নেয় ছাইৰ দ্ৰুতগামী ডাৱৰ"
+        "en": "A type of seismic wave",
+        "as": "এক প্ৰকাৰৰ ভূকম্পীয় তৰংগ"
       },
       {
         "en": "A slow flow of lava",
         "as": "লাভাৰ লেহেমীয়া প্ৰবাহ"
       },
       {
-        "en": "A stream of groundwater",
-        "as": "ভূগৰ্ভস্থ পানীৰ সোঁত"
+        "en": "A fast-moving cloud of hot gas and volcanic ash",
+        "as": "গৰম গেছ আৰু আগ্নেয় ছাইৰ দ্ৰুতগামী ডাৱৰ"
       },
       {
-        "en": "A type of seismic wave",
-        "as": "এক প্ৰকাৰৰ ভূকম্পীয় তৰংগ"
+        "en": "A stream of groundwater",
+        "as": "ভূগৰ্ভস্থ পানীৰ সোঁত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A fast-moving cloud of hot gas and volcanic ash",
       "as": "গৰম গেছ আৰু আগ্নেয় ছাইৰ দ্ৰুতগামী ডাৱৰ"
@@ -877,23 +877,23 @@
     },
     "options": [
       {
-        "en": "A mudflow of volcanic ash and water",
-        "as": "আগ্নেয় ছাই আৰু পানীৰ বোকা-প্ৰবাহ"
-      },
-      {
         "en": "A lava tube",
         "as": "লাভা নলী"
       },
       {
-        "en": "A volcanic gas",
-        "as": "আগ্নেয় গেছ"
-      },
-      {
         "en": "A type of crater",
         "as": "এক প্ৰকাৰৰ জ্বালামুখ"
+      },
+      {
+        "en": "A mudflow of volcanic ash and water",
+        "as": "আগ্নেয় ছাই আৰু পানীৰ বোকা-প্ৰবাহ"
+      },
+      {
+        "en": "A volcanic gas",
+        "as": "আগ্নেয় গেছ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A mudflow of volcanic ash and water",
       "as": "আগ্নেয় ছাই আৰু পানীৰ বোকা-প্ৰবাহ"
@@ -907,23 +907,23 @@
     },
     "options": [
       {
-        "en": "To measure the relative size of volcanic eruptions",
-        "as": "আগ্নেয় অগ্ন্যুৎপাতৰ তুলনামূলক আকাৰ জুখিবলৈ"
-      },
-      {
-        "en": "To measure earthquake magnitude",
-        "as": "ভূমিকম্পৰ প্ৰাবল্য জুখিবলৈ"
+        "en": "To measure magma temperature",
+        "as": "মেগমাৰ উষ্ণতা জুখিবলৈ"
       },
       {
         "en": "To measure the height of mountains",
         "as": "পৰ্বতৰ উচ্চতা জুখিবলৈ"
       },
       {
-        "en": "To measure magma temperature",
-        "as": "মেগমাৰ উষ্ণতা জুখিবলৈ"
+        "en": "To measure the relative size of volcanic eruptions",
+        "as": "আগ্নেয় অগ্ন্যুৎপাতৰ তুলনামূলক আকাৰ জুখিবলৈ"
+      },
+      {
+        "en": "To measure earthquake magnitude",
+        "as": "ভূমিকম্পৰ প্ৰাবল্য জুখিবলৈ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "To measure the relative size of volcanic eruptions",
       "as": "আগ্নেয় অগ্ন্যুৎপাতৰ তুলনামূলক আকাৰ জুখিবলৈ"
@@ -937,10 +937,6 @@
     },
     "options": [
       {
-        "en": "Novarupta in Alaska",
-        "as": "আলাস্কাৰ ন'ভাৰাপ্টা"
-      },
-      {
         "en": "Mount St Helens",
         "as": "মাউণ্ট ছেইণ্ট হেলেন্স"
       },
@@ -949,11 +945,15 @@
         "as": "মাউণ্ট পিনাটুব'"
       },
       {
+        "en": "Novarupta in Alaska",
+        "as": "আলাস্কাৰ ন'ভাৰাপ্টা"
+      },
+      {
         "en": "Krakatoa",
         "as": "ক্ৰাকাটোৱা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Novarupta in Alaska",
       "as": "আলাস্কাৰ ন'ভাৰাপ্টা"
@@ -967,6 +967,10 @@
     },
     "options": [
       {
+        "en": "It is sliding sideways",
+        "as": "ই কাষে কাষে পিছলি গৈ আছে"
+      },
+      {
         "en": "It is subducting beneath the Okhotsk Plate",
         "as": "ই অখটস্ক পাতৰ তলত অৱক্ষেপণ কৰি আছে"
       },
@@ -975,15 +979,11 @@
         "as": "ই ইয়াৰ পৰা পৃথক হৈ গৈ আছে"
       },
       {
-        "en": "It is sliding sideways",
-        "as": "ই কাষে কাষে পিছলি গৈ আছে"
-      },
-      {
         "en": "It is rising above it",
         "as": "ই ইয়াৰ ওপৰলৈ উঠি আছে"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "It is subducting beneath the Okhotsk Plate",
       "as": "ই অখটস্ক পাতৰ তলত অৱক্ষেপণ কৰি আছে"
@@ -1001,16 +1001,16 @@
         "as": "নাজকা পাত"
       },
       {
-        "en": "The Cocos Plate",
-        "as": "ক'ক'ছ পাত"
+        "en": "The Caribbean Plate",
+        "as": "কেৰিবিয়ান পাত"
       },
       {
         "en": "The African Plate",
         "as": "আফ্ৰিকান পাত"
       },
       {
-        "en": "The Caribbean Plate",
-        "as": "কেৰিবিয়ান পাত"
+        "en": "The Cocos Plate",
+        "as": "ক'ক'ছ পাত"
       }
     ],
     "correct": 0,
@@ -1027,23 +1027,23 @@
     },
     "options": [
       {
-        "en": "The Indian Plate",
-        "as": "ভাৰতীয় পাত"
-      },
-      {
         "en": "The Arabian Plate",
         "as": "আৰবীয় পাত"
+      },
+      {
+        "en": "The Pacific Plate",
+        "as": "প্ৰশান্ত মহাসাগৰীয় পাত"
       },
       {
         "en": "The African Plate",
         "as": "আফ্ৰিকান পাত"
       },
       {
-        "en": "The Pacific Plate",
-        "as": "প্ৰশান্ত মহাসাগৰীয় পাত"
+        "en": "The Indian Plate",
+        "as": "ভাৰতীয় পাত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Indian Plate",
       "as": "ভাৰতীয় পাত"
@@ -1057,6 +1057,10 @@
     },
     "options": [
       {
+        "en": "About 0.5 cm",
+        "as": "প্ৰায় 0.5 ছেণ্টিমিটাৰ"
+      },
+      {
         "en": "About 5 cm",
         "as": "প্ৰায় 5 ছেণ্টিমিটাৰ"
       },
@@ -1065,15 +1069,11 @@
         "as": "প্ৰায় 50 ছেণ্টিমিটাৰ"
       },
       {
-        "en": "About 0.5 cm",
-        "as": "প্ৰায় 0.5 ছেণ্টিমিটাৰ"
-      },
-      {
         "en": "About 5 m",
         "as": "প্ৰায় 5 মিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 5 cm",
       "as": "প্ৰায় 5 ছেণ্টিমিটাৰ"
@@ -1087,6 +1087,10 @@
     },
     "options": [
       {
+        "en": "The Alpine orogeny",
+        "as": "আলপাইন পৰ্বত-গঠন"
+      },
+      {
         "en": "The Aravalli orogeny",
         "as": "আৰাৱলী পৰ্বত-গঠন"
       },
@@ -1095,15 +1099,11 @@
         "as": "হিমালয় পৰ্বত-গঠন"
       },
       {
-        "en": "The Alpine orogeny",
-        "as": "আলপাইন পৰ্বত-গঠন"
-      },
-      {
         "en": "The Caledonian orogeny",
         "as": "কেলিড'নিয়ান পৰ্বত-গঠন"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Aravalli orogeny",
       "as": "আৰাৱলী পৰ্বত-গঠন"
@@ -1147,6 +1147,10 @@
     },
     "options": [
       {
+        "en": "The Rayleigh wave",
+        "as": "ৰেলি তৰংগ"
+      },
+      {
         "en": "The P-wave",
         "as": "P-তৰংগ"
       },
@@ -1157,13 +1161,9 @@
       {
         "en": "The Love wave",
         "as": "লাভ তৰংগ"
-      },
-      {
-        "en": "The Rayleigh wave",
-        "as": "ৰেলি তৰংগ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The P-wave",
       "as": "P-তৰংগ"
@@ -1177,23 +1177,23 @@
     },
     "options": [
       {
-        "en": "Surface waves",
-        "as": "পৃষ্ঠ তৰংগ"
-      },
-      {
-        "en": "P-waves",
-        "as": "P-তৰংগ"
-      },
-      {
         "en": "S-waves",
         "as": "S-তৰংগ"
       },
       {
         "en": "Body waves",
         "as": "দেহ তৰংগ"
+      },
+      {
+        "en": "Surface waves",
+        "as": "পৃষ্ঠ তৰংগ"
+      },
+      {
+        "en": "P-waves",
+        "as": "P-তৰংগ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Surface waves",
       "as": "পৃষ্ঠ তৰংগ"
@@ -1211,12 +1211,12 @@
         "as": "এনে অঞ্চল য'ত প্ৰত্যক্ষ ভূকম্পীয় তৰংগ ৰেকৰ্ড নহয়"
       },
       {
-        "en": "A region with no earthquakes",
-        "as": "ভূমিকম্প নোহোৱা অঞ্চল"
-      },
-      {
         "en": "A region of very strong shaking",
         "as": "অতি প্ৰবল কম্পনৰ অঞ্চল"
+      },
+      {
+        "en": "A region with no earthquakes",
+        "as": "ভূমিকম্প নোহোৱা অঞ্চল"
       },
       {
         "en": "A region where magma rises",
@@ -1237,23 +1237,23 @@
     },
     "options": [
       {
-        "en": "Zone V",
-        "as": "মণ্ডল V"
-      },
-      {
-        "en": "Zone II",
-        "as": "মণ্ডল II"
-      },
-      {
         "en": "Zone III",
         "as": "মণ্ডল III"
       },
       {
+        "en": "Zone V",
+        "as": "মণ্ডল V"
+      },
+      {
         "en": "Zone IV",
         "as": "মণ্ডল IV"
+      },
+      {
+        "en": "Zone II",
+        "as": "মণ্ডল II"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Zone V",
       "as": "মণ্ডল V"
@@ -1267,23 +1267,23 @@
     },
     "options": [
       {
-        "en": "Four",
-        "as": "চাৰিটা"
-      },
-      {
-        "en": "Five",
-        "as": "পাঁচটা"
+        "en": "Six",
+        "as": "ছয়টা"
       },
       {
         "en": "Three",
         "as": "তিনিটা"
       },
       {
-        "en": "Six",
-        "as": "ছয়টা"
+        "en": "Five",
+        "as": "পাঁচটা"
+      },
+      {
+        "en": "Four",
+        "as": "চাৰিটা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Four",
       "as": "চাৰিটা"
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "An instrument that records the motion of the ground",
-        "as": "ভূমিৰ কম্পন ৰেকৰ্ড কৰা যন্ত্ৰ"
+        "en": "An instrument that measures humidity",
+        "as": "আৰ্দ্ৰতা জোখা যন্ত্ৰ"
       },
       {
-        "en": "An instrument that measures air pressure",
-        "as": "বায়ুচাপ জোখা যন্ত্ৰ"
+        "en": "An instrument that records the motion of the ground",
+        "as": "ভূমিৰ কম্পন ৰেকৰ্ড কৰা যন্ত্ৰ"
       },
       {
         "en": "An instrument that records rainfall",
         "as": "বৰষুণ ৰেকৰ্ড কৰা যন্ত্ৰ"
       },
       {
-        "en": "An instrument that measures humidity",
-        "as": "আৰ্দ্ৰতা জোখা যন্ত্ৰ"
+        "en": "An instrument that measures air pressure",
+        "as": "বায়ুচাপ জোখা যন্ত্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "An instrument that records the motion of the ground",
       "as": "ভূমিৰ কম্পন ৰেকৰ্ড কৰা যন্ত্ৰ"
@@ -1327,8 +1327,8 @@
     },
     "options": [
       {
-        "en": "How stored strain energy is released as an earthquake",
-        "as": "সঞ্চিত বিকৃতি শক্তি কেনেকৈ ভূমিকম্প হিচাপে মুক্ত হয়"
+        "en": "How tides are formed",
+        "as": "জোৱাৰ কেনেকৈ সৃষ্টি হয়"
       },
       {
         "en": "How volcanoes erupt",
@@ -1339,11 +1339,11 @@
         "as": "পৰ্বত কেনেকৈ ক্ষয় হয়"
       },
       {
-        "en": "How tides are formed",
-        "as": "জোৱাৰ কেনেকৈ সৃষ্টি হয়"
+        "en": "How stored strain energy is released as an earthquake",
+        "as": "সঞ্চিত বিকৃতি শক্তি কেনেকৈ ভূমিকম্প হিচাপে মুক্ত হয়"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "How stored strain energy is released as an earthquake",
       "as": "সঞ্চিত বিকৃতি শক্তি কেনেকৈ ভূমিকম্প হিচাপে মুক্ত হয়"
@@ -1361,12 +1361,12 @@
         "as": "ডাঙৰ ভূমিকম্পৰ আগত হোৱা সৰু ভূমিকম্প"
       },
       {
-        "en": "A smaller earthquake after the main shock",
-        "as": "মুখ্য কম্পৰ পিছত হোৱা সৰু ভূমিকম্প"
-      },
-      {
         "en": "A volcanic tremor",
         "as": "আগ্নেয় কম্পন"
+      },
+      {
+        "en": "A smaller earthquake after the main shock",
+        "as": "মুখ্য কম্পৰ পিছত হোৱা সৰু ভূমিকম্প"
       },
       {
         "en": "A seismic wave",
@@ -1387,23 +1387,23 @@
     },
     "options": [
       {
-        "en": "Magnitude measures energy released; intensity measures effects at a place",
-        "as": "প্ৰাবল্যই মুক্ত শক্তি জুখে; তীব্ৰতাই কোনো স্থানত হোৱা প্ৰভাৱ জুখে"
-      },
-      {
-        "en": "Magnitude measures effects; intensity measures energy",
-        "as": "প্ৰাবল্যই প্ৰভাৱ জুখে; তীব্ৰতাই শক্তি জুখে"
-      },
-      {
         "en": "They are the same",
         "as": "দুটাই একে"
       },
       {
         "en": "Magnitude is for volcanoes; intensity is for earthquakes",
         "as": "প্ৰাবল্য আগ্নেয়গিৰিৰ বাবে; তীব্ৰতা ভূমিকম্পৰ বাবে"
+      },
+      {
+        "en": "Magnitude measures effects; intensity measures energy",
+        "as": "প্ৰাবল্যই প্ৰভাৱ জুখে; তীব্ৰতাই শক্তি জুখে"
+      },
+      {
+        "en": "Magnitude measures energy released; intensity measures effects at a place",
+        "as": "প্ৰাবল্যই মুক্ত শক্তি জুখে; তীব্ৰতাই কোনো স্থানত হোৱা প্ৰভাৱ জুখে"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Magnitude measures energy released; intensity measures effects at a place",
       "as": "প্ৰাবল্যই মুক্ত শক্তি জুখে; তীব্ৰতাই কোনো স্থানত হোৱা প্ৰভাৱ জুখে"
@@ -1417,23 +1417,23 @@
     },
     "options": [
       {
-        "en": "The Modified Mercalli scale",
-        "as": "পৰিৱৰ্তিত মাৰ্কেলি স্কেল"
-      },
-      {
-        "en": "The Richter scale",
-        "as": "ৰিখটাৰ স্কেল"
-      },
-      {
         "en": "The Beaufort scale",
         "as": "বিউফ'ৰ্ট স্কেল"
       },
       {
         "en": "The Fujita scale",
         "as": "ফুজিতা স্কেল"
+      },
+      {
+        "en": "The Richter scale",
+        "as": "ৰিখটাৰ স্কেল"
+      },
+      {
+        "en": "The Modified Mercalli scale",
+        "as": "পৰিৱৰ্তিত মাৰ্কেলি স্কেল"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Modified Mercalli scale",
       "as": "পৰিৱৰ্তিত মাৰ্কেলি স্কেল"
@@ -1447,23 +1447,23 @@
     },
     "options": [
       {
-        "en": "About 700 to 800 km per hour",
-        "as": "প্ৰতি ঘণ্টাত প্ৰায় 700 ৰ পৰা 800 কিলোমিটাৰ"
+        "en": "About 10 km per hour",
+        "as": "প্ৰতি ঘণ্টাত প্ৰায় 10 কিলোমিটাৰ"
       },
       {
         "en": "About 50 km per hour",
         "as": "প্ৰতি ঘণ্টাত প্ৰায় 50 কিলোমিটাৰ"
       },
       {
-        "en": "About 2000 km per hour",
-        "as": "প্ৰতি ঘণ্টাত প্ৰায় 2000 কিলোমিটাৰ"
+        "en": "About 700 to 800 km per hour",
+        "as": "প্ৰতি ঘণ্টাত প্ৰায় 700 ৰ পৰা 800 কিলোমিটাৰ"
       },
       {
-        "en": "About 10 km per hour",
-        "as": "প্ৰতি ঘণ্টাত প্ৰায় 10 কিলোমিটাৰ"
+        "en": "About 2000 km per hour",
+        "as": "প্ৰতি ঘণ্টাত প্ৰায় 2000 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "About 700 to 800 km per hour",
       "as": "প্ৰতি ঘণ্টাত প্ৰায় 700 ৰ পৰা 800 কিলোমিটাৰ"
@@ -1477,23 +1477,23 @@
     },
     "options": [
       {
-        "en": "About 35 km",
-        "as": "প্ৰায় 35 কিলোমিটাৰ"
-      },
-      {
-        "en": "About 7 km",
-        "as": "প্ৰায় 7 কিলোমিটাৰ"
-      },
-      {
         "en": "About 70 km",
         "as": "প্ৰায় 70 কিলোমিটাৰ"
       },
       {
         "en": "About 100 km",
         "as": "প্ৰায় 100 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 35 km",
+        "as": "প্ৰায় 35 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 7 km",
+        "as": "প্ৰায় 7 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "About 35 km",
       "as": "প্ৰায় 35 কিলোমিটাৰ"

@@ -7,10 +7,6 @@
     },
     "options": [
       {
-        "en": "Fold mountain",
-        "as": "ভাঁজ পৰ্বত"
-      },
-      {
         "en": "Block mountain",
         "as": "খণ্ড পৰ্বত"
       },
@@ -21,9 +17,13 @@
       {
         "en": "Residual mountain",
         "as": "অৱশিষ্ট পৰ্বত"
+      },
+      {
+        "en": "Fold mountain",
+        "as": "ভাঁজ পৰ্বত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Fold mountain",
       "as": "ভাঁজ পৰ্বত"
@@ -37,23 +37,23 @@
     },
     "options": [
       {
-        "en": "8,849 m",
-        "as": "৮,৮৪৯ মিটাৰ"
-      },
-      {
         "en": "8,611 m",
         "as": "৮,৬১১ মিটাৰ"
       },
       {
-        "en": "8,586 m",
-        "as": "৮,৫৮৬ মিটাৰ"
-      },
-      {
         "en": "8,167 m",
         "as": "৮,১৬৭ মিটাৰ"
+      },
+      {
+        "en": "8,849 m",
+        "as": "৮,৮৪৯ মিটাৰ"
+      },
+      {
+        "en": "8,586 m",
+        "as": "৮,৫৮৬ মিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "8,849 m",
       "as": "৮,৮৪৯ মিটাৰ"
@@ -67,6 +67,10 @@
     },
     "options": [
       {
+        "en": "Lhotse",
+        "as": "লোৎসে"
+      },
+      {
         "en": "K2",
         "as": "কে-২"
       },
@@ -75,15 +79,11 @@
         "as": "কাঞ্চনজঙ্ঘা"
       },
       {
-        "en": "Lhotse",
-        "as": "লোৎসে"
-      },
-      {
         "en": "Makalu",
         "as": "মাকালু"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "K2",
       "as": "কে-২"
@@ -101,16 +101,16 @@
         "as": "অৰ্মা কোণ্ডা"
       },
       {
-        "en": "Anai Mudi",
-        "as": "আনাই মুদি"
+        "en": "Mahendragiri",
+        "as": "মহেন্দ্ৰগিৰি"
       },
       {
         "en": "Doddabetta",
         "as": "দ'দাবেট্টা"
       },
       {
-        "en": "Mahendragiri",
-        "as": "মহেন্দ্ৰগিৰি"
+        "en": "Anai Mudi",
+        "as": "আনাই মুদি"
       }
     ],
     "correct": 0,
@@ -131,16 +131,16 @@
         "as": "আনাই মুদি"
       },
       {
+        "en": "Mullayanagiri",
+        "as": "মুল্লায়নগিৰি"
+      },
+      {
         "en": "Doddabetta",
         "as": "দ'দাবেট্টা"
       },
       {
         "en": "Kalsubai",
         "as": "কলছুবাই"
-      },
-      {
-        "en": "Mullayanagiri",
-        "as": "মুল্লায়নগিৰি"
       }
     ],
     "correct": 0,
@@ -161,12 +161,12 @@
         "as": "দ'দাবেট্টা"
       },
       {
-        "en": "Anai Mudi",
-        "as": "আনাই মুদি"
-      },
-      {
         "en": "Arma Konda",
         "as": "অৰ্মা কোণ্ডা"
+      },
+      {
+        "en": "Anai Mudi",
+        "as": "আনাই মুদি"
       },
       {
         "en": "Mahendragiri",
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "Kanchenjunga",
-        "as": "কাঞ্চনজঙ্ঘা"
-      },
-      {
-        "en": "Nanda Devi",
-        "as": "নন্দা দেৱী"
-      },
-      {
         "en": "K2",
         "as": "কে-২"
       },
       {
         "en": "Mount Everest",
         "as": "মাউণ্ট এভাৰেষ্ট"
+      },
+      {
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
+      },
+      {
+        "en": "Nanda Devi",
+        "as": "নন্দা দেৱী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Kanchenjunga",
       "as": "কাঞ্চনজঙ্ঘা"
@@ -221,16 +221,16 @@
         "as": "নন্দা দেৱী"
       },
       {
-        "en": "Kanchenjunga",
-        "as": "কাঞ্চনজঙ্ঘা"
+        "en": "Kamet",
+        "as": "কামেট"
       },
       {
         "en": "K2",
         "as": "কে-২"
       },
       {
-        "en": "Kamet",
-        "as": "কামেট"
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
       }
     ],
     "correct": 0,
@@ -247,10 +247,6 @@
     },
     "options": [
       {
-        "en": "Faulting that raises a block between two faults",
-        "as": "দুটা ফল্টৰ মাজৰ খণ্ড ওপৰলৈ উঠাৰ ফলত"
-      },
-      {
         "en": "Folding of rock layers",
         "as": "শিলাৰ স্তৰৰ ভাঁজত"
       },
@@ -261,9 +257,13 @@
       {
         "en": "Erosion of a plateau",
         "as": "মালভূমিৰ ক্ষয়ত"
+      },
+      {
+        "en": "Faulting that raises a block between two faults",
+        "as": "দুটা ফল্টৰ মাজৰ খণ্ড ওপৰলৈ উঠাৰ ফলত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Faulting that raises a block between two faults",
       "as": "দুটা ফল্টৰ মাজৰ খণ্ড ওপৰলৈ উঠাৰ ফলত"
@@ -281,16 +281,16 @@
         "as": "ভ'জেছ"
       },
       {
+        "en": "The Alps",
+        "as": "আল্পছ"
+      },
+      {
         "en": "The Himalaya",
         "as": "হিমালয়"
       },
       {
         "en": "The Andes",
         "as": "এণ্ডিছ"
-      },
-      {
-        "en": "The Alps",
-        "as": "আল্পছ"
       }
     ],
     "correct": 0,
@@ -307,23 +307,23 @@
     },
     "options": [
       {
-        "en": "The Mid-Atlantic Ridge",
-        "as": "মধ্য-এটলাণ্টিক শৈলশিৰি"
-      },
-      {
         "en": "The Andes",
         "as": "এণ্ডিছ"
       },
       {
-        "en": "The Himalaya",
-        "as": "হিমালয়"
+        "en": "The Mid-Atlantic Ridge",
+        "as": "মধ্য-এটলাণ্টিক শৈলশিৰি"
       },
       {
         "en": "The Rocky Mountains",
         "as": "ৰকি পৰ্বতমালা"
+      },
+      {
+        "en": "The Himalaya",
+        "as": "হিমালয়"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Mid-Atlantic Ridge",
       "as": "মধ্য-এটলাণ্টিক শৈলশিৰি"
@@ -337,6 +337,10 @@
     },
     "options": [
       {
+        "en": "About 8,000 m",
+        "as": "প্ৰায় ৮,০০০ মিটাৰ"
+      },
+      {
         "en": "About 6,000 m",
         "as": "প্ৰায় ৬,০০০ মিটাৰ"
       },
@@ -345,15 +349,11 @@
         "as": "প্ৰায় ৩,০০০ মিটাৰ"
       },
       {
-        "en": "About 8,000 m",
-        "as": "প্ৰায় ৮,০০০ মিটাৰ"
-      },
-      {
         "en": "About 1,000 m",
         "as": "প্ৰায় ১,০০০ মিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 6,000 m",
       "as": "প্ৰায় ৬,০০০ মিটাৰ"
@@ -397,23 +397,23 @@
     },
     "options": [
       {
-        "en": "The Aravalli",
-        "as": "আৰাৱলী"
-      },
-      {
-        "en": "The Himalaya",
-        "as": "হিমালয়"
-      },
-      {
         "en": "The Western Ghats",
         "as": "পশ্চিমী ঘাট"
       },
       {
+        "en": "The Aravalli",
+        "as": "আৰাৱলী"
+      },
+      {
         "en": "The Vindhya",
         "as": "বিন্ধ্য"
+      },
+      {
+        "en": "The Himalaya",
+        "as": "হিমালয়"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Aravalli",
       "as": "আৰাৱলী"
@@ -431,16 +431,16 @@
         "as": "পৰ্বতৰ গুৰিত থকা লেহুকা ঢালযুক্ত শিলাময় পৃষ্ঠ"
       },
       {
+        "en": "A salt lake",
+        "as": "লোণৰ হ্ৰদ"
+      },
+      {
         "en": "A sand dune",
         "as": "বালিৰ দুবৈত"
       },
       {
         "en": "A dry river bed",
         "as": "শুকান নদীৰ গতি"
-      },
-      {
-        "en": "A salt lake",
-        "as": "লোণৰ হ্ৰদ"
       }
     ],
     "correct": 0,
@@ -487,6 +487,10 @@
     },
     "options": [
       {
+        "en": "A rocky plateau",
+        "as": "শিলাময় মালভূমি"
+      },
+      {
         "en": "A crescent-shaped sand dune",
         "as": "অৰ্ধচন্দ্ৰাকৃতিৰ বালিৰ দুবৈত"
       },
@@ -495,15 +499,11 @@
         "as": "লোণৰ সমতল"
       },
       {
-        "en": "A rocky plateau",
-        "as": "শিলাময় মালভূমি"
-      },
-      {
         "en": "A dry river",
         "as": "শুকান নদী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A crescent-shaped sand dune",
       "as": "অৰ্ধচন্দ্ৰাকৃতিৰ বালিৰ দুবৈত"
@@ -517,23 +517,23 @@
     },
     "options": [
       {
-        "en": "Wind-blown fine silt deposited as soil",
-        "as": "বতাহে কঢ়িয়াই অনা সূক্ষ্ম পলস, যি মাটি হিচাপে জমা হয়"
+        "en": "A volcanic rock",
+        "as": "আগ্নেয় শিল"
       },
       {
         "en": "A glacial deposit",
         "as": "হিমবাহৰ সঞ্চয়"
       },
       {
-        "en": "A volcanic rock",
-        "as": "আগ্নেয় শিল"
-      },
-      {
         "en": "A coral limestone",
         "as": "প্ৰবাল চূণশিলা"
+      },
+      {
+        "en": "Wind-blown fine silt deposited as soil",
+        "as": "বতাহে কঢ়িয়াই অনা সূক্ষ্ম পলস, যি মাটি হিচাপে জমা হয়"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Wind-blown fine silt deposited as soil",
       "as": "বতাহে কঢ়িয়াই অনা সূক্ষ্ম পলস, যি মাটি হিচাপে জমা হয়"
@@ -547,23 +547,23 @@
     },
     "options": [
       {
-        "en": "The Gobi",
-        "as": "গ'বি"
-      },
-      {
         "en": "The Thar",
         "as": "থৰ"
+      },
+      {
+        "en": "The Karakum",
+        "as": "কাৰাকুম"
       },
       {
         "en": "The Arabian",
         "as": "আৰব"
       },
       {
-        "en": "The Karakum",
-        "as": "কাৰাকুম"
+        "en": "The Gobi",
+        "as": "গ'বি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Gobi",
       "as": "গ'বি"
@@ -577,6 +577,10 @@
     },
     "options": [
       {
+        "en": "The Sahara",
+        "as": "চাহাৰা"
+      },
+      {
         "en": "The Atacama",
         "as": "আটাকামা"
       },
@@ -585,15 +589,11 @@
         "as": "পেটাগনিয়ান"
       },
       {
-        "en": "The Sahara",
-        "as": "চাহাৰা"
-      },
-      {
         "en": "The Namib",
         "as": "নামিব"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Atacama",
       "as": "আটাকামা"
@@ -607,23 +607,23 @@
     },
     "options": [
       {
-        "en": "The Atacama",
-        "as": "আটাকামা"
-      },
-      {
-        "en": "The Sahara",
-        "as": "চাহাৰা"
-      },
-      {
         "en": "The Gobi",
         "as": "গ'বি"
       },
       {
         "en": "The Thar",
         "as": "থৰ"
+      },
+      {
+        "en": "The Atacama",
+        "as": "আটাকামা"
+      },
+      {
+        "en": "The Sahara",
+        "as": "চাহাৰা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Atacama",
       "as": "আটাকামা"
@@ -637,23 +637,23 @@
     },
     "options": [
       {
-        "en": "Antarctica",
-        "as": "এণ্টাৰ্কটিকা"
+        "en": "The Arabian",
+        "as": "আৰব"
       },
       {
         "en": "The Sahara",
         "as": "চাহাৰা"
       },
       {
-        "en": "The Arabian",
-        "as": "আৰব"
-      },
-      {
         "en": "The Gobi",
         "as": "গ'বি"
+      },
+      {
+        "en": "Antarctica",
+        "as": "এণ্টাৰ্কটিকা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Antarctica",
       "as": "এণ্টাৰ্কটিকা"
@@ -671,16 +671,16 @@
         "as": "চাহাৰা"
       },
       {
-        "en": "The Arabian",
-        "as": "আৰব"
+        "en": "The Kalahari",
+        "as": "কালাহাৰী"
       },
       {
         "en": "The Gobi",
         "as": "গ'বি"
       },
       {
-        "en": "The Kalahari",
-        "as": "কালাহাৰী"
+        "en": "The Arabian",
+        "as": "আৰব"
       }
     ],
     "correct": 0,
@@ -697,23 +697,23 @@
     },
     "options": [
       {
-        "en": "The Gobi",
-        "as": "গ'বি"
-      },
-      {
         "en": "The Taklamakan",
         "as": "টাকলামাকান"
+      },
+      {
+        "en": "The Thar",
+        "as": "থৰ"
       },
       {
         "en": "The Karakum",
         "as": "কাৰাকুম"
       },
       {
-        "en": "The Thar",
-        "as": "থৰ"
+        "en": "The Gobi",
+        "as": "গ'বি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Gobi",
       "as": "গ'বি"
@@ -727,12 +727,12 @@
     },
     "options": [
       {
-        "en": "Madagascar",
-        "as": "মাদাগাস্কাৰ"
-      },
-      {
         "en": "Sri Lanka",
         "as": "শ্ৰীলংকা"
+      },
+      {
+        "en": "Madagascar",
+        "as": "মাদাগাস্কাৰ"
       },
       {
         "en": "Sumatra",
@@ -743,7 +743,7 @@
         "as": "ছ'ক'ট্ৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Madagascar",
       "as": "মাদাগাস্কাৰ"
@@ -757,6 +757,10 @@
     },
     "options": [
       {
+        "en": "Andaman",
+        "as": "আন্দামান"
+      },
+      {
         "en": "Sri Lanka",
         "as": "শ্ৰীলংকা"
       },
@@ -765,15 +769,11 @@
         "as": "মালদ্বীপ"
       },
       {
-        "en": "Andaman",
-        "as": "আন্দামান"
-      },
-      {
         "en": "Lakshadweep",
         "as": "লাক্ষাদ্বীপ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Sri Lanka",
       "as": "শ্ৰীলংকা"
@@ -787,8 +787,8 @@
     },
     "options": [
       {
-        "en": "Andaman and Nicobar",
-        "as": "আন্দামান আৰু নিকোবৰ"
+        "en": "Diu",
+        "as": "দিউ"
       },
       {
         "en": "Lakshadweep",
@@ -799,11 +799,11 @@
         "as": "মাজুলী"
       },
       {
-        "en": "Diu",
-        "as": "দিউ"
+        "en": "Andaman and Nicobar",
+        "as": "আন্দামান আৰু নিকোবৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Andaman and Nicobar",
       "as": "আন্দামান আৰু নিকোবৰ"
@@ -817,23 +817,23 @@
     },
     "options": [
       {
-        "en": "Majuli",
-        "as": "মাজুলী"
+        "en": "Divar",
+        "as": "দিবাৰ"
       },
       {
         "en": "Sriharikota",
         "as": "শ্ৰীহৰিকোটা"
       },
       {
-        "en": "Divar",
-        "as": "দিবাৰ"
-      },
-      {
         "en": "Bhavani",
         "as": "ভৱানী"
+      },
+      {
+        "en": "Majuli",
+        "as": "মাজুলী"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Majuli",
       "as": "মাজুলী"
@@ -847,10 +847,6 @@
     },
     "options": [
       {
-        "en": "Indonesia",
-        "as": "ইণ্ডোনেছিয়া"
-      },
-      {
         "en": "Philippines",
         "as": "ফিলিপাইনছ"
       },
@@ -859,11 +855,15 @@
         "as": "জাপান"
       },
       {
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
+      },
+      {
         "en": "Maldives",
         "as": "মালদ্বীপ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Indonesia",
       "as": "ইণ্ডোনেছিয়া"
@@ -877,23 +877,23 @@
     },
     "options": [
       {
-        "en": "A ring-shaped coral reef enclosing a lagoon",
-        "as": "লেগুনক বেৰি থকা আঙুঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ"
+        "en": "A sand bar",
+        "as": "বালিৰ পাৰ"
       },
       {
         "en": "A volcanic island",
         "as": "আগ্নেয় দ্বীপ"
       },
       {
-        "en": "A sand bar",
-        "as": "বালিৰ পাৰ"
+        "en": "A ring-shaped coral reef enclosing a lagoon",
+        "as": "লেগুনক বেৰি থকা আঙুঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ"
       },
       {
         "en": "A glacial valley",
         "as": "হিমবাহ উপত্যকা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A ring-shaped coral reef enclosing a lagoon",
       "as": "লেগুনক বেৰি থকা আঙুঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ"
@@ -907,6 +907,10 @@
     },
     "options": [
       {
+        "en": "Mauritius",
+        "as": "মৰিছাছ"
+      },
+      {
         "en": "Maldives",
         "as": "মালদ্বীপ"
       },
@@ -915,15 +919,11 @@
         "as": "শ্ৰীলংকা"
       },
       {
-        "en": "Mauritius",
-        "as": "মৰিছাছ"
-      },
-      {
         "en": "Seychelles",
         "as": "ছেইচেলছ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Maldives",
       "as": "মালদ্বীপ"
@@ -937,12 +937,12 @@
     },
     "options": [
       {
-        "en": "The point inside the Earth where the earthquake originates",
-        "as": "পৃথিৱীৰ ভিতৰত য'ত ভূমিকম্পৰ উৎপত্তি হয় সেই বিন্দু"
-      },
-      {
         "en": "The point on the surface above it",
         "as": "তাৰ ওপৰৰ পৃষ্ঠৰ বিন্দু"
+      },
+      {
+        "en": "The point inside the Earth where the earthquake originates",
+        "as": "পৃথিৱীৰ ভিতৰত য'ত ভূমিকম্পৰ উৎপত্তি হয় সেই বিন্দু"
       },
       {
         "en": "The instrument that records it",
@@ -953,7 +953,7 @@
         "as": "ইয়াৰ পৰা যোৱা তৰংগ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The point inside the Earth where the earthquake originates",
       "as": "পৃথিৱীৰ ভিতৰত য'ত ভূমিকম্পৰ উৎপত্তি হয় সেই বিন্দু"
@@ -967,23 +967,23 @@
     },
     "options": [
       {
-        "en": "The point on the surface directly above the focus",
-        "as": "কেন্দ্ৰৰ ঠিক ওপৰত অৱস্থিত পৃষ্ঠৰ বিন্দু"
-      },
-      {
-        "en": "The point of origin inside the Earth",
-        "as": "পৃথিৱীৰ ভিতৰৰ উৎপত্তি বিন্দু"
-      },
-      {
         "en": "The deepest point of the fault",
         "as": "ফল্টৰ আটাইতকৈ গভীৰ বিন্দু"
       },
       {
+        "en": "The point on the surface directly above the focus",
+        "as": "কেন্দ্ৰৰ ঠিক ওপৰত অৱস্থিত পৃষ্ঠৰ বিন্দু"
+      },
+      {
         "en": "The centre of the Earth",
         "as": "পৃথিৱীৰ কেন্দ্ৰ"
+      },
+      {
+        "en": "The point of origin inside the Earth",
+        "as": "পৃথিৱীৰ ভিতৰৰ উৎপত্তি বিন্দু"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The point on the surface directly above the focus",
       "as": "কেন্দ্ৰৰ ঠিক ওপৰত অৱস্থিত পৃষ্ঠৰ বিন্দু"
@@ -997,8 +997,8 @@
     },
     "options": [
       {
-        "en": "About 700 km",
-        "as": "প্ৰায় ৭০০ কিলোমিটাৰ"
+        "en": "About 1200 km",
+        "as": "প্ৰায় ১২০০ কিলোমিটাৰ"
       },
       {
         "en": "About 100 km",
@@ -1009,11 +1009,11 @@
         "as": "প্ৰায় ৩০০ কিলোমিটাৰ"
       },
       {
-        "en": "About 1200 km",
-        "as": "প্ৰায় ১২০০ কিলোমিটাৰ"
+        "en": "About 700 km",
+        "as": "প্ৰায় ৭০০ কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 700 km",
       "as": "প্ৰায় ৭০০ কিলোমিটাৰ"
@@ -1027,23 +1027,23 @@
     },
     "options": [
       {
-        "en": "A segment of a fault that has not ruptured for a long time",
-        "as": "ফল্টৰ এনে অংশ, যি বহু সময় ধৰি ফাটি যোৱা নাই"
+        "en": "A hole in the ground after an earthquake",
+        "as": "ভূমিকম্পৰ পিছত মাটিত হোৱা গাঁত"
       },
       {
         "en": "A gap between two seismic stations",
         "as": "দুটা ভূকম্পীয় কেন্দ্ৰৰ মাজৰ ব্যৱধান"
       },
       {
-        "en": "A hole in the ground after an earthquake",
-        "as": "ভূমিকম্পৰ পিছত মাটিত হোৱা গাঁত"
-      },
-      {
         "en": "The time between two earthquakes",
         "as": "দুটা ভূমিকম্পৰ মাজৰ সময়"
+      },
+      {
+        "en": "A segment of a fault that has not ruptured for a long time",
+        "as": "ফল্টৰ এনে অংশ, যি বহু সময় ধৰি ফাটি যোৱা নাই"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A segment of a fault that has not ruptured for a long time",
       "as": "ফল্টৰ এনে অংশ, যি বহু সময় ধৰি ফাটি যোৱা নাই"
@@ -1061,16 +1061,16 @@
         "as": "১৫৫৬ চনৰ ছাঅানছি ভূমিকম্প"
       },
       {
-        "en": "The 2004 Indian Ocean earthquake",
-        "as": "২০০৪ চনৰ ভাৰত মহাসাগৰীয় ভূমিকম্প"
-      },
-      {
         "en": "The 2011 Japan earthquake",
         "as": "২০১১ চনৰ জাপান ভূমিকম্প"
       },
       {
         "en": "The 1906 San Francisco earthquake",
         "as": "১৯০৬ চনৰ ছান ফ্ৰান্সিস্কো ভূমিকম্প"
+      },
+      {
+        "en": "The 2004 Indian Ocean earthquake",
+        "as": "২০০৪ চনৰ ভাৰত মহাসাগৰীয় ভূমিকম্প"
       }
     ],
     "correct": 0,
@@ -1087,23 +1087,23 @@
     },
     "options": [
       {
-        "en": "About 9.1",
-        "as": "প্ৰায় ৯.১"
-      },
-      {
         "en": "About 7.5",
         "as": "প্ৰায় ৭.৫"
       },
       {
-        "en": "About 8.0",
-        "as": "প্ৰায় ৮.০"
+        "en": "About 9.1",
+        "as": "প্ৰায় ৯.১"
       },
       {
         "en": "About 6.5",
         "as": "প্ৰায় ৬.৫"
+      },
+      {
+        "en": "About 8.0",
+        "as": "প্ৰায় ৮.০"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 9.1",
       "as": "প্ৰায় ৯.১"
@@ -1121,16 +1121,16 @@
         "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "India",
-        "as": "ভাৰত"
-      },
-      {
         "en": "Thailand",
         "as": "থাইলেণ্ড"
       },
       {
         "en": "Sri Lanka",
         "as": "শ্ৰীলংকা"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
     "correct": 0,
@@ -1147,23 +1147,23 @@
     },
     "options": [
       {
-        "en": "Subduction zones with frequent earthquakes and volcanoes",
-        "as": "সঘন ভূমিকম্প আৰু আগ্নেয়গিৰিযুক্ত অৱক্ষেপণ ক্ষেত্ৰ"
+        "en": "Transform faults only",
+        "as": "কেৱল ৰূপান্তৰক ফল্ট"
       },
       {
         "en": "Mid-ocean ridges",
         "as": "মহাসাগৰ মধ্য শৈলশিৰি"
       },
       {
-        "en": "Transform faults only",
-        "as": "কেৱল ৰূপান্তৰক ফল্ট"
+        "en": "Subduction zones with frequent earthquakes and volcanoes",
+        "as": "সঘন ভূমিকম্প আৰু আগ্নেয়গিৰিযুক্ত অৱক্ষেপণ ক্ষেত্ৰ"
       },
       {
         "en": "Stable continental interiors",
         "as": "স্থিৰ মহাদেশীয় অন্তৰ্ভাগ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Subduction zones with frequent earthquakes and volcanoes",
       "as": "সঘন ভূমিকম্প আৰু আগ্নেয়গিৰিযুক্ত অৱক্ষেপণ ক্ষেত্ৰ"
@@ -1177,23 +1177,23 @@
     },
     "options": [
       {
-        "en": "A steep slope formed where the ground has moved along a fault",
-        "as": "ফল্টৰ কাষেৰে ভূমি স্থানান্তৰিত হৈ সৃষ্টি হোৱা খাড়া ঢাল"
-      },
-      {
-        "en": "A sand dune",
-        "as": "বালিৰ দুবৈত"
+        "en": "A river terrace",
+        "as": "নদীৰ খাপ"
       },
       {
         "en": "A volcanic cone",
         "as": "আগ্নেয় শঙ্কু"
       },
       {
-        "en": "A river terrace",
-        "as": "নদীৰ খাপ"
+        "en": "A steep slope formed where the ground has moved along a fault",
+        "as": "ফল্টৰ কাষেৰে ভূমি স্থানান্তৰিত হৈ সৃষ্টি হোৱা খাড়া ঢাল"
+      },
+      {
+        "en": "A sand dune",
+        "as": "বালিৰ দুবৈত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A steep slope formed where the ground has moved along a fault",
       "as": "ফল্টৰ কাষেৰে ভূমি স্থানান্তৰিত হৈ সৃষ্টি হোৱা খাড়া ঢাল"
@@ -1207,12 +1207,12 @@
     },
     "options": [
       {
-        "en": "Nathu La",
-        "as": "নাথু লা"
-      },
-      {
         "en": "Shipki La",
         "as": "শিপকি লা"
+      },
+      {
+        "en": "Nathu La",
+        "as": "নাথু লা"
       },
       {
         "en": "Rohtang Pass",
@@ -1223,7 +1223,7 @@
         "as": "ব'মডি লা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Nathu La",
       "as": "নাথু লা"
@@ -1237,23 +1237,23 @@
     },
     "options": [
       {
-        "en": "Zoji La",
-        "as": "জোজিলা"
+        "en": "Rohtang Pass",
+        "as": "ৰোটাং পাছ"
       },
       {
         "en": "Nathu La",
         "as": "নাথু লা"
       },
       {
-        "en": "Rohtang Pass",
-        "as": "ৰোটাং পাছ"
-      },
-      {
         "en": "Bomdi La",
         "as": "ব'মডি লা"
+      },
+      {
+        "en": "Zoji La",
+        "as": "জোজিলা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Zoji La",
       "as": "জোজিলা"
@@ -1267,23 +1267,23 @@
     },
     "options": [
       {
-        "en": "Khardung La",
-        "as": "খাৰডুং লা"
-      },
-      {
         "en": "Nathu La",
         "as": "নাথু লা"
+      },
+      {
+        "en": "Zoji La",
+        "as": "জোজিলা"
       },
       {
         "en": "Rohtang Pass",
         "as": "ৰোটাং পাছ"
       },
       {
-        "en": "Zoji La",
-        "as": "জোজিলা"
+        "en": "Khardung La",
+        "as": "খাৰডুং লা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Khardung La",
       "as": "খাৰডুং লা"
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "An isolated residual hill rising from a plain",
-        "as": "সমতলৰ পৰা উঠি থকা বিচ্ছিন্ন অৱশিষ্ট পাহাৰ"
-      },
-      {
         "en": "A coral island",
         "as": "প্ৰবাল দ্বীপ"
       },
       {
-        "en": "A volcanic crater",
-        "as": "আগ্নেয় জ্বালামুখ"
-      },
-      {
         "en": "A sand dune",
         "as": "বালিৰ দুবৈত"
+      },
+      {
+        "en": "An isolated residual hill rising from a plain",
+        "as": "সমতলৰ পৰা উঠি থকা বিচ্ছিন্ন অৱশিষ্ট পাহাৰ"
+      },
+      {
+        "en": "A volcanic crater",
+        "as": "আগ্নেয় জ্বালামুখ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "An isolated residual hill rising from a plain",
       "as": "সমতলৰ পৰা উঠি থকা বিচ্ছিন্ন অৱশিষ্ট পাহাৰ"
@@ -1327,23 +1327,23 @@
     },
     "options": [
       {
-        "en": "K2",
-        "as": "কে-২"
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
       },
       {
         "en": "Mount Everest",
         "as": "মাউণ্ট এভাৰেষ্ট"
       },
       {
-        "en": "Kanchenjunga",
-        "as": "কাঞ্চনজঙ্ঘা"
-      },
-      {
         "en": "Nanga Parbat",
         "as": "নাংগা পৰ্বত"
+      },
+      {
+        "en": "K2",
+        "as": "কে-২"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "K2",
       "as": "কে-২"
@@ -1357,23 +1357,23 @@
     },
     "options": [
       {
-        "en": "Borneo",
-        "as": "বৰ্ণিঅ'"
-      },
-      {
-        "en": "Sumatra",
-        "as": "ছুমাত্ৰা"
-      },
-      {
         "en": "Sulawesi",
         "as": "ছুলাৱেছি"
       },
       {
+        "en": "Borneo",
+        "as": "বৰ্ণিঅ'"
+      },
+      {
         "en": "Java",
         "as": "জাভা"
+      },
+      {
+        "en": "Sumatra",
+        "as": "ছুমাত্ৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Borneo",
       "as": "বৰ্ণিঅ'"
@@ -1387,6 +1387,10 @@
     },
     "options": [
       {
+        "en": "The Bungo Channel",
+        "as": "বুংগ' চেনেল"
+      },
+      {
         "en": "The Tsugaru Strait",
         "as": "ছুগাৰু প্ৰণালী"
       },
@@ -1397,13 +1401,9 @@
       {
         "en": "The La Perouse Strait",
         "as": "লা পেৰুজ প্ৰণালী"
-      },
-      {
-        "en": "The Bungo Channel",
-        "as": "বুংগ' চেনেল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Tsugaru Strait",
       "as": "ছুগাৰু প্ৰণালী"
@@ -1421,16 +1421,16 @@
         "as": "জিলেণ্ড"
       },
       {
+        "en": "Lolland",
+        "as": "ললেণ্ড"
+      },
+      {
         "en": "Funen",
         "as": "ফুনেন"
       },
       {
         "en": "Bornholm",
         "as": "বৰ্নহল্ম"
-      },
-      {
-        "en": "Lolland",
-        "as": "ললেণ্ড"
       }
     ],
     "correct": 0,
@@ -1447,23 +1447,23 @@
     },
     "options": [
       {
-        "en": "Sicily",
-        "as": "ছিচিলি"
+        "en": "Corsica",
+        "as": "কৰ্ছিকা"
       },
       {
         "en": "Sardinia",
         "as": "ছাৰ্ডিনিয়া"
       },
       {
-        "en": "Corsica",
-        "as": "কৰ্ছিকা"
+        "en": "Sicily",
+        "as": "ছিচিলি"
       },
       {
         "en": "Malta",
         "as": "মাল্টা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Sicily",
       "as": "ছিচিলি"
@@ -1477,23 +1477,23 @@
     },
     "options": [
       {
-        "en": "Puerto Rico",
-        "as": "পুৱেৰ্ট' ৰিক'"
+        "en": "Hispaniola",
+        "as": "হিছপেনিঅ'লা"
       },
       {
-        "en": "Cuba",
-        "as": "কিউবা"
+        "en": "Puerto Rico",
+        "as": "পুৱেৰ্ট' ৰিক'"
       },
       {
         "en": "Jamaica",
         "as": "জামাইকা"
       },
       {
-        "en": "Hispaniola",
-        "as": "হিছপেনিঅ'লা"
+        "en": "Cuba",
+        "as": "কিউবা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Puerto Rico",
       "as": "পুৱেৰ্ট' ৰিক'"

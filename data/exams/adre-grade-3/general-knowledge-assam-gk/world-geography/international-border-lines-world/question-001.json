@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "About 3,323 km",
-        "as": "প্ৰায় 3,323 কিলোমিটাৰ"
-      },
-      {
-        "en": "About 4,096 km",
-        "as": "প্ৰায় 4,096 কিলোমিটাৰ"
+        "en": "About 2,100 km",
+        "as": "প্ৰায় 2,100 কিলোমিটাৰ"
       },
       {
         "en": "About 1,643 km",
         "as": "প্ৰায় 1,643 কিলোমিটাৰ"
       },
       {
-        "en": "About 2,100 km",
-        "as": "প্ৰায় 2,100 কিলোমিটাৰ"
+        "en": "About 4,096 km",
+        "as": "প্ৰায় 4,096 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 3,323 km",
+        "as": "প্ৰায় 3,323 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 3,323 km",
       "as": "প্ৰায় 3,323 কিলোমিটাৰ"
@@ -37,10 +37,6 @@
     },
     "options": [
       {
-        "en": "About 3,488 km",
-        "as": "প্ৰায় 3,488 কিলোমিটাৰ"
-      },
-      {
         "en": "About 4,096 km",
         "as": "প্ৰায় 4,096 কিলোমিটাৰ"
       },
@@ -51,9 +47,13 @@
       {
         "en": "About 2,500 km",
         "as": "প্ৰায় 2,500 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 3,488 km",
+        "as": "প্ৰায় 3,488 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 3,488 km",
       "as": "প্ৰায় 3,488 কিলোমিটাৰ"
@@ -97,8 +97,8 @@
     },
     "options": [
       {
-        "en": "Ladakh",
-        "as": "লাডাখ"
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
       },
       {
         "en": "Arunachal Pradesh",
@@ -109,11 +109,11 @@
         "as": "ছিক্কিম"
       },
       {
-        "en": "Himachal Pradesh",
-        "as": "হিমাচল প্ৰদেশ"
+        "en": "Ladakh",
+        "as": "লাডাখ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Ladakh",
       "as": "লাডাখ"
@@ -127,23 +127,23 @@
     },
     "options": [
       {
-        "en": "Rajasthan",
-        "as": "ৰাজস্থান"
+        "en": "Jammu and Kashmir",
+        "as": "জম্মু আৰু কাশ্মীৰ"
       },
       {
         "en": "Punjab",
         "as": "পাঞ্জাব"
       },
       {
-        "en": "Gujarat",
-        "as": "গুজৰাট"
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
       },
       {
-        "en": "Jammu and Kashmir",
-        "as": "জম্মু আৰু কাশ্মীৰ"
+        "en": "Gujarat",
+        "as": "গুজৰাট"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Rajasthan",
       "as": "ৰাজস্থান"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "Five",
-        "as": "পাঁচটা"
-      },
-      {
-        "en": "Three",
-        "as": "তিনিটা"
-      },
-      {
         "en": "Four",
         "as": "চাৰিটা"
       },
       {
         "en": "Six",
         "as": "ছয়টা"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচটা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Five",
       "as": "পাঁচটা"
@@ -187,6 +187,10 @@
     },
     "options": [
       {
+        "en": "Mizoram",
+        "as": "মিজোৰাম"
+      },
+      {
         "en": "Arunachal Pradesh",
         "as": "অৰুণাচল প্ৰদেশ"
       },
@@ -195,15 +199,11 @@
         "as": "নাগালেণ্ড"
       },
       {
-        "en": "Mizoram",
-        "as": "মিজোৰাম"
-      },
-      {
         "en": "Manipur",
         "as": "মণিপুৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Arunachal Pradesh",
       "as": "অৰুণাচল প্ৰদেশ"
@@ -217,23 +217,23 @@
     },
     "options": [
       {
-        "en": "Four",
-        "as": "চাৰিটা"
-      },
-      {
-        "en": "Three",
-        "as": "তিনিটা"
-      },
-      {
         "en": "Five",
         "as": "পাঁচটা"
       },
       {
         "en": "Two",
         "as": "দুটাকৈ"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "Four",
+        "as": "চাৰিটা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Four",
       "as": "চাৰিটা"
@@ -251,16 +251,16 @@
         "as": "ভাৰত আৰু পাকিস্তান"
       },
       {
-        "en": "India and Bangladesh",
-        "as": "ভাৰত আৰু বাংলাদেশ"
+        "en": "Pakistan and Afghanistan",
+        "as": "পাকিস্তান আৰু আফগানিস্তান"
       },
       {
         "en": "India and China",
         "as": "ভাৰত আৰু চীন"
       },
       {
-        "en": "Pakistan and Afghanistan",
-        "as": "পাকিস্তান আৰু আফগানিস্তান"
+        "en": "India and Bangladesh",
+        "as": "ভাৰত আৰু বাংলাদেশ"
       }
     ],
     "correct": 0,
@@ -277,10 +277,6 @@
     },
     "options": [
       {
-        "en": "1947",
-        "as": "১৯৪৭"
-      },
-      {
         "en": "1949",
         "as": "১৯৪৯"
       },
@@ -291,9 +287,13 @@
       {
         "en": "1950",
         "as": "১৯৫০"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "1947",
       "as": "১৯৪৭"
@@ -307,23 +307,23 @@
     },
     "options": [
       {
-        "en": "Sir Cyril Radcliffe",
-        "as": "ছাৰ চিৰিল ৰেডক্লিফ"
-      },
-      {
-        "en": "Lord Mountbatten",
-        "as": "লৰ্ড মাউণ্টবেটেন"
+        "en": "Lord Wavell",
+        "as": "লৰ্ড ৱেভেল"
       },
       {
         "en": "Sir Stafford Cripps",
         "as": "ছাৰ ষ্টাফ'ৰ্ড ক্ৰিপছ"
       },
       {
-        "en": "Lord Wavell",
-        "as": "লৰ্ড ৱেভেল"
+        "en": "Lord Mountbatten",
+        "as": "লৰ্ড মাউণ্টবেটেন"
+      },
+      {
+        "en": "Sir Cyril Radcliffe",
+        "as": "ছাৰ চিৰিল ৰেডক্লিফ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Sir Cyril Radcliffe",
       "as": "ছাৰ চিৰিল ৰেডক্লিফ"
@@ -341,16 +341,16 @@
         "as": "আফগানিস্তান"
       },
       {
-        "en": "Iran",
-        "as": "ইৰাণ"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
       },
       {
         "en": "China",
         "as": "চীন"
+      },
+      {
+        "en": "Iran",
+        "as": "ইৰাণ"
       }
     ],
     "correct": 0,
@@ -367,8 +367,8 @@
     },
     "options": [
       {
-        "en": "1893",
-        "as": "১৮৯৩"
+        "en": "1913",
+        "as": "১৯১৩"
       },
       {
         "en": "1903",
@@ -379,11 +379,11 @@
         "as": "১৮৮৩"
       },
       {
-        "en": "1913",
-        "as": "১৯১৩"
+        "en": "1893",
+        "as": "১৮৯৩"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "1893",
       "as": "১৮৯৩"
@@ -401,16 +401,16 @@
         "as": "ছাৰ মৰ্টিমাৰ ডুৰাণ্ড"
       },
       {
-        "en": "Sir Cyril Radcliffe",
-        "as": "ছাৰ চিৰিল ৰেডক্লিফ"
+        "en": "Sir George Curzon",
+        "as": "ছাৰ জৰ্জ কাৰ্জন"
       },
       {
         "en": "Sir Henry McMahon",
         "as": "ছাৰ হেনৰী মেকমাহন"
       },
       {
-        "en": "Sir George Curzon",
-        "as": "ছাৰ জৰ্জ কাৰ্জন"
+        "en": "Sir Cyril Radcliffe",
+        "as": "ছাৰ চিৰিল ৰেডক্লিফ"
       }
     ],
     "correct": 0,
@@ -431,16 +431,16 @@
         "as": "প্ৰায় 1,100 কিলোমিটাৰ"
       },
       {
-        "en": "About 2,100 km",
-        "as": "প্ৰায় 2,100 কিলোমিটাৰ"
+        "en": "About 1,600 km",
+        "as": "প্ৰায় 1,600 কিলোমিটাৰ"
       },
       {
         "en": "About 550 km",
         "as": "প্ৰায় 550 কিলোমিটাৰ"
       },
       {
-        "en": "About 1,600 km",
-        "as": "প্ৰায় 1,600 কিলোমিটাৰ"
+        "en": "About 2,100 km",
+        "as": "প্ৰায় 2,100 কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -457,23 +457,23 @@
     },
     "options": [
       {
-        "en": "The Simla Convention of 1914",
-        "as": "১৯১৪ চনৰ ছিমলা সন্মিলন"
+        "en": "The Geneva Conference of 1954",
+        "as": "১৯৫৪ চনৰ জেনেভা সন্মিলন"
       },
       {
         "en": "The Yalta Conference of 1945",
         "as": "১৯৪৫ চনৰ য়াল্টা সন্মিলন"
       },
       {
-        "en": "The Geneva Conference of 1954",
-        "as": "১৯৫৪ চনৰ জেনেভা সন্মিলন"
+        "en": "The Simla Convention of 1914",
+        "as": "১৯১৪ চনৰ ছিমলা সন্মিলন"
       },
       {
         "en": "The Poona Pact of 1932",
         "as": "১৯৩২ চনৰ পুনা চুক্তি"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Simla Convention of 1914",
       "as": "১৯১৪ চনৰ ছিমলা সন্মিলন"
@@ -487,8 +487,8 @@
     },
     "options": [
       {
-        "en": "India and Pakistan",
-        "as": "ভাৰত আৰু পাকিস্তান"
+        "en": "Pakistan and Afghanistan",
+        "as": "পাকিস্তান আৰু আফগানিস্তান"
       },
       {
         "en": "India and China",
@@ -499,11 +499,11 @@
         "as": "ভাৰত আৰু বাংলাদেশ"
       },
       {
-        "en": "Pakistan and Afghanistan",
-        "as": "পাকিস্তান আৰু আফগানিস্তান"
+        "en": "India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তান"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "India and Pakistan",
       "as": "ভাৰত আৰু পাকিস্তান"
@@ -517,23 +517,23 @@
     },
     "options": [
       {
-        "en": "The 1971 Indo-Pak war",
-        "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
-      },
-      {
-        "en": "The 1965 Indo-Pak war",
-        "as": "১৯৬৫ চনৰ ভাৰত-পাক যুদ্ধ"
-      },
-      {
         "en": "The 1962 Sino-Indian war",
         "as": "১৯৬২ চনৰ চীন-ভাৰত যুদ্ধ"
       },
       {
+        "en": "The 1971 Indo-Pak war",
+        "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
+      },
+      {
         "en": "The 1999 Kargil war",
         "as": "১৯৯৯ চনৰ কৰ্গিল যুদ্ধ"
+      },
+      {
+        "en": "The 1965 Indo-Pak war",
+        "as": "১৯৬৫ চনৰ ভাৰত-পাক যুদ্ধ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The 1971 Indo-Pak war",
       "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
@@ -547,8 +547,8 @@
     },
     "options": [
       {
-        "en": "The Simla Agreement",
-        "as": "ছিমলা চুক্তি"
+        "en": "The Indus Waters Treaty",
+        "as": "সিন্ধু জল চুক্তি"
       },
       {
         "en": "The Tashkent Agreement",
@@ -559,11 +559,11 @@
         "as": "লাহোৰ ঘোষণাপত্ৰ"
       },
       {
-        "en": "The Indus Waters Treaty",
-        "as": "সিন্ধু জল চুক্তি"
+        "en": "The Simla Agreement",
+        "as": "ছিমলা চুক্তি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Simla Agreement",
       "as": "ছিমলা চুক্তি"
@@ -577,6 +577,10 @@
     },
     "options": [
       {
+        "en": "The border between India and Nepal",
+        "as": "ভাৰত আৰু নেপালৰ সীমা"
+      },
+      {
         "en": "The de facto border between India and China",
         "as": "ভাৰত আৰু চীনৰ মাজৰ প্ৰকৃত সীমা"
       },
@@ -585,15 +589,11 @@
         "as": "ভাৰত আৰু পাকিস্তানৰ মাজৰ প্ৰকৃত সীমা"
       },
       {
-        "en": "The border between India and Nepal",
-        "as": "ভাৰত আৰু নেপালৰ সীমা"
-      },
-      {
         "en": "The border between India and Bhutan",
         "as": "ভাৰত আৰু ভূটানৰ সীমা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The de facto border between India and China",
       "as": "ভাৰত আৰু চীনৰ মাজৰ প্ৰকৃত সীমা"
@@ -637,6 +637,10 @@
     },
     "options": [
       {
+        "en": "The 42nd Parallel",
+        "as": "৪২তম সমান্তৰাল"
+      },
+      {
         "en": "The 49th Parallel",
         "as": "৪৯তম সমান্তৰাল"
       },
@@ -645,15 +649,11 @@
         "as": "৩৮তম সমান্তৰাল"
       },
       {
-        "en": "The 42nd Parallel",
-        "as": "৪২তম সমান্তৰাল"
-      },
-      {
         "en": "The 17th Parallel",
         "as": "১৭তম সমান্তৰাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The 49th Parallel",
       "as": "৪৯তম সমান্তৰাল"
@@ -667,23 +667,23 @@
     },
     "options": [
       {
-        "en": "The 42nd Parallel",
-        "as": "৪২তম সমান্তৰাল"
-      },
-      {
-        "en": "The 49th Parallel",
-        "as": "৪৯তম সমান্তৰাল"
+        "en": "The 17th Parallel",
+        "as": "১৭তম সমান্তৰাল"
       },
       {
         "en": "The 38th Parallel",
         "as": "৩৮তম সমান্তৰাল"
       },
       {
-        "en": "The 17th Parallel",
-        "as": "১৭তম সমান্তৰাল"
+        "en": "The 42nd Parallel",
+        "as": "৪২তম সমান্তৰাল"
+      },
+      {
+        "en": "The 49th Parallel",
+        "as": "৪৯তম সমান্তৰাল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The 42nd Parallel",
       "as": "৪২তম সমান্তৰাল"
@@ -701,16 +701,16 @@
         "as": "প্ৰায় 250 কিলোমিটাৰ"
       },
       {
+        "en": "About 1000 km",
+        "as": "প্ৰায় 1000 কিলোমিটাৰ"
+      },
+      {
         "en": "About 500 km",
         "as": "প্ৰায় 500 কিলোমিটাৰ"
       },
       {
         "en": "About 100 km",
         "as": "প্ৰায় 100 কিলোমিটাৰ"
-      },
-      {
-        "en": "About 1000 km",
-        "as": "প্ৰায় 1000 কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -727,23 +727,23 @@
     },
     "options": [
       {
-        "en": "The 22nd Parallel",
-        "as": "২২তম সমান্তৰাল"
+        "en": "The 38th Parallel",
+        "as": "৩৮তম সমান্তৰাল"
       },
       {
         "en": "The 24th Parallel",
         "as": "২৪তম সমান্তৰাল"
       },
       {
-        "en": "The 38th Parallel",
-        "as": "৩৮তম সমান্তৰাল"
+        "en": "The 22nd Parallel",
+        "as": "২২তম সমান্তৰাল"
       },
       {
         "en": "The 49th Parallel",
         "as": "৪৯তম সমান্তৰাল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The 22nd Parallel",
       "as": "২২তম সমান্তৰাল"
@@ -757,23 +757,23 @@
     },
     "options": [
       {
-        "en": "The 141st meridian west",
-        "as": "১৪১তম পশ্চিম মধ্যৰেখা"
+        "en": "The 60th meridian west",
+        "as": "৬০তম পশ্চিম মধ্যৰেখা"
       },
       {
-        "en": "The 49th meridian west",
-        "as": "৪৯তম পশ্চিম মধ্যৰেখা"
+        "en": "The 141st meridian west",
+        "as": "১৪১তম পশ্চিম মধ্যৰেখা"
       },
       {
         "en": "The 100th meridian west",
         "as": "১০০তম পশ্চিম মধ্যৰেখা"
       },
       {
-        "en": "The 60th meridian west",
-        "as": "৬০তম পশ্চিম মধ্যৰেখা"
+        "en": "The 49th meridian west",
+        "as": "৪৯তম পশ্চিম মধ্যৰেখা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The 141st meridian west",
       "as": "১৪১তম পশ্চিম মধ্যৰেখা"
@@ -787,23 +787,23 @@
     },
     "options": [
       {
-        "en": "A plateau at the India-China-Bhutan trijunction",
-        "as": "ভাৰত-চীন-ভূটান ত্ৰিসন্ধিৰ এটা মালভূমি"
-      },
-      {
-        "en": "A river between India and Bangladesh",
-        "as": "ভাৰত আৰু বাংলাদেশৰ মাজৰ নদী"
+        "en": "A pass on the India-Pakistan border",
+        "as": "ভাৰত-পাকিস্তান সীমাৰ এটা গিৰিপথ"
       },
       {
         "en": "An island in the Bay of Bengal",
         "as": "বঙ্গোপসাগৰৰ এটা দ্বীপ"
       },
       {
-        "en": "A pass on the India-Pakistan border",
-        "as": "ভাৰত-পাকিস্তান সীমাৰ এটা গিৰিপথ"
+        "en": "A plateau at the India-China-Bhutan trijunction",
+        "as": "ভাৰত-চীন-ভূটান ত্ৰিসন্ধিৰ এটা মালভূমি"
+      },
+      {
+        "en": "A river between India and Bangladesh",
+        "as": "ভাৰত আৰু বাংলাদেশৰ মাজৰ নদী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A plateau at the India-China-Bhutan trijunction",
       "as": "ভাৰত-চীন-ভূটান ত্ৰিসন্ধিৰ এটা মালভূমি"
@@ -817,23 +817,23 @@
     },
     "options": [
       {
-        "en": "A narrow strip of West Bengal connecting the north-east to the rest of India",
-        "as": "উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগী পশ্চিম বংগৰ সংকীৰ্ণ ভূমি"
-      },
-      {
         "en": "A narrow pass in Ladakh",
         "as": "লাডাখৰ এটা সংকীৰ্ণ গিৰিপথ"
+      },
+      {
+        "en": "A coastal strip of Gujarat",
+        "as": "গুজৰাটৰ এটা উপকূলীয় ভূমি"
       },
       {
         "en": "A river delta in Bangladesh",
         "as": "বাংলাদেশৰ এটা নদীৰ ব-দ্বীপ"
       },
       {
-        "en": "A coastal strip of Gujarat",
-        "as": "গুজৰাটৰ এটা উপকূলীয় ভূমি"
+        "en": "A narrow strip of West Bengal connecting the north-east to the rest of India",
+        "as": "উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগী পশ্চিম বংগৰ সংকীৰ্ণ ভূমি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A narrow strip of West Bengal connecting the north-east to the rest of India",
       "as": "উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগী পশ্চিম বংগৰ সংকীৰ্ণ ভূমি"
@@ -851,16 +851,16 @@
         "as": "প্ৰায় 20 ৰ পৰা 22 কিলোমিটাৰ"
       },
       {
-        "en": "About 100 km",
-        "as": "প্ৰায় 100 কিলোমিটাৰ"
-      },
-      {
         "en": "About 5 km",
         "as": "প্ৰায় 5 কিলোমিটাৰ"
       },
       {
         "en": "About 60 km",
         "as": "প্ৰায় 60 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 100 km",
+        "as": "প্ৰায় 100 কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -877,23 +877,23 @@
     },
     "options": [
       {
-        "en": "Germany and Poland",
-        "as": "জাৰ্মানী আৰু প'লেণ্ড"
-      },
-      {
-        "en": "Germany and France",
-        "as": "জাৰ্মানী আৰু ফ্ৰান্স"
-      },
-      {
         "en": "Poland and Russia",
         "as": "প'লেণ্ড আৰু ৰাছিয়া"
       },
       {
+        "en": "Germany and Poland",
+        "as": "জাৰ্মানী আৰু প'লেণ্ড"
+      },
+      {
         "en": "Germany and Czechia",
         "as": "জাৰ্মানী আৰু চেকিয়া"
+      },
+      {
+        "en": "Germany and France",
+        "as": "জাৰ্মানী আৰু ফ্ৰান্স"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Germany and Poland",
       "as": "জাৰ্মানী আৰু প'লেণ্ড"
@@ -907,23 +907,23 @@
     },
     "options": [
       {
-        "en": "Poland and Belarus-Ukraine",
-        "as": "প'লেণ্ড আৰু বেলাৰুছ-ইউক্ৰেইন"
-      },
-      {
         "en": "Germany and Poland",
         "as": "জাৰ্মানী আৰু প'লেণ্ড"
       },
       {
-        "en": "Russia and Finland",
-        "as": "ৰাছিয়া আৰু ফিনলেণ্ড"
+        "en": "Poland and Belarus-Ukraine",
+        "as": "প'লেণ্ড আৰু বেলাৰুছ-ইউক্ৰেইন"
       },
       {
         "en": "Hungary and Romania",
         "as": "হাংগেৰী আৰু ৰোমানিয়া"
+      },
+      {
+        "en": "Russia and Finland",
+        "as": "ৰাছিয়া আৰু ফিনলেণ্ড"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Poland and Belarus-Ukraine",
       "as": "প'লেণ্ড আৰু বেলাৰুছ-ইউক্ৰেইন"
@@ -937,23 +937,23 @@
     },
     "options": [
       {
-        "en": "France",
-        "as": "ফ্ৰান্স"
-      },
-      {
         "en": "Germany",
         "as": "জাৰ্মানী"
       },
       {
-        "en": "Italy",
-        "as": "ইটালী"
+        "en": "France",
+        "as": "ফ্ৰান্স"
       },
       {
         "en": "Belgium",
         "as": "বেলজিয়াম"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "France",
       "as": "ফ্ৰান্স"
@@ -967,23 +967,23 @@
     },
     "options": [
       {
-        "en": "The Siegfried Line",
-        "as": "জিগফ্ৰাইড ৰেখা"
-      },
-      {
-        "en": "The Maginot Line",
-        "as": "মেজিন'ট ৰেখা"
+        "en": "The Hindenburg Line",
+        "as": "হিণ্ডেনবাৰ্গ ৰেখা"
       },
       {
         "en": "The Mannerheim Line",
         "as": "মেনাৰহাইম ৰেখা"
       },
       {
-        "en": "The Hindenburg Line",
-        "as": "হিণ্ডেনবাৰ্গ ৰেখা"
+        "en": "The Siegfried Line",
+        "as": "জিগফ্ৰাইড ৰেখা"
+      },
+      {
+        "en": "The Maginot Line",
+        "as": "মেজিন'ট ৰেখা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Siegfried Line",
       "as": "জিগফ্ৰাইড ৰেখা"
@@ -997,23 +997,23 @@
     },
     "options": [
       {
-        "en": "Finland",
-        "as": "ফিনলেণ্ড"
-      },
-      {
         "en": "Norway",
         "as": "নৰৱে"
       },
       {
-        "en": "Sweden",
-        "as": "ছুইডেন"
-      },
-      {
         "en": "Denmark",
         "as": "ডেনমাৰ্ক"
+      },
+      {
+        "en": "Finland",
+        "as": "ফিনলেণ্ড"
+      },
+      {
+        "en": "Sweden",
+        "as": "ছুইডেন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Finland",
       "as": "ফিনলেণ্ড"
@@ -1027,6 +1027,10 @@
     },
     "options": [
       {
+        "en": "Sunni and Shia",
+        "as": "চুন্নী আৰু চিয়া"
+      },
+      {
         "en": "Greek Cypriots and Turkish Cypriots",
         "as": "গ্ৰীক চাইপ্ৰিয়ট আৰু তুৰ্কী চাইপ্ৰিয়ট"
       },
@@ -1035,15 +1039,11 @@
         "as": "খ্ৰীষ্টান আৰু ইহুদী"
       },
       {
-        "en": "Sunni and Shia",
-        "as": "চুন্নী আৰু চিয়া"
-      },
-      {
         "en": "Arabs and Kurds",
         "as": "আৰব আৰু কুৰ্দ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Greek Cypriots and Turkish Cypriots",
       "as": "গ্ৰীক চাইপ্ৰিয়ট আৰু তুৰ্কী চাইপ্ৰিয়ট"
@@ -1057,23 +1057,23 @@
     },
     "options": [
       {
-        "en": "The Israel-Lebanon border drawn by the UN",
-        "as": "ৰাষ্ট্ৰসংঘই আঁকা ইজৰাইল-লেবানন সীমা"
-      },
-      {
-        "en": "The India-China border",
-        "as": "ভাৰত-চীন সীমা"
-      },
-      {
         "en": "The Germany-Poland border",
         "as": "জাৰ্মানী-প'লেণ্ড সীমা"
       },
       {
         "en": "The Korea demarcation",
         "as": "কোৰিয়াৰ সীমা নিৰ্ধাৰণ"
+      },
+      {
+        "en": "The India-China border",
+        "as": "ভাৰত-চীন সীমা"
+      },
+      {
+        "en": "The Israel-Lebanon border drawn by the UN",
+        "as": "ৰাষ্ট্ৰসংঘই আঁকা ইজৰাইল-লেবানন সীমা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Israel-Lebanon border drawn by the UN",
       "as": "ৰাষ্ট্ৰসংঘই আঁকা ইজৰাইল-লেবানন সীমা"
@@ -1087,23 +1087,23 @@
     },
     "options": [
       {
-        "en": "The political barrier dividing Europe during the Cold War",
-        "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপক বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ"
+        "en": "A border fence between the USA and Mexico",
+        "as": "আমেৰিকা আৰু মেক্সিকোৰ মাজৰ সীমা বেৰ"
       },
       {
         "en": "A defensive wall of ancient Rome",
         "as": "প্ৰাচীন ৰোমৰ প্ৰতিৰক্ষা দেৱাল"
       },
       {
-        "en": "A border fence between the USA and Mexico",
-        "as": "আমেৰিকা আৰু মেক্সিকোৰ মাজৰ সীমা বেৰ"
+        "en": "The political barrier dividing Europe during the Cold War",
+        "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপক বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ"
       },
       {
         "en": "A wall around the Kremlin",
         "as": "ক্ৰেমলিনৰ চাৰিওফালৰ দেৱাল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The political barrier dividing Europe during the Cold War",
       "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপক বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ"
@@ -1121,16 +1121,16 @@
         "as": "উইনষ্টন চাৰ্চিল"
       },
       {
-        "en": "Joseph Stalin",
-        "as": "জ'জেফ ষ্টেলিন"
+        "en": "George Marshall",
+        "as": "জৰ্জ মাৰ্শ্বেল"
       },
       {
         "en": "Harry Truman",
         "as": "হেৰী ট্ৰুমেন"
       },
       {
-        "en": "George Marshall",
-        "as": "জৰ্জ মাৰ্শ্বেল"
+        "en": "Joseph Stalin",
+        "as": "জ'জেফ ষ্টেলিন"
       }
     ],
     "correct": 0,
@@ -1147,23 +1147,23 @@
     },
     "options": [
       {
-        "en": "The Berlin Wall",
-        "as": "বেৰলিন দেৱাল"
+        "en": "The Atlantic Wall",
+        "as": "এটলাণ্টিক দেৱাল"
       },
       {
-        "en": "Hadrian's Wall",
-        "as": "হেড্ৰিয়ান দেৱাল"
+        "en": "The Berlin Wall",
+        "as": "বেৰলিন দেৱাল"
       },
       {
         "en": "The Great Wall",
         "as": "মহাপ্ৰাচীৰ"
       },
       {
-        "en": "The Atlantic Wall",
-        "as": "এটলাণ্টিক দেৱাল"
+        "en": "Hadrian's Wall",
+        "as": "হেড্ৰিয়ান দেৱাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Berlin Wall",
       "as": "বেৰলিন দেৱাল"
@@ -1177,23 +1177,23 @@
     },
     "options": [
       {
-        "en": "Hadrian's Wall",
-        "as": "হেড্ৰিয়ান দেৱাল"
-      },
-      {
         "en": "The Berlin Wall",
         "as": "বেৰলিন দেৱাল"
+      },
+      {
+        "en": "The Antonine Wall",
+        "as": "এণ্ট'নাইন দেৱাল"
       },
       {
         "en": "Offa's Dyke",
         "as": "অফাৰ বান্ধ"
       },
       {
-        "en": "The Antonine Wall",
-        "as": "এণ্ট'নাইন দেৱাল"
+        "en": "Hadrian's Wall",
+        "as": "হেড্ৰিয়ান দেৱাল"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Hadrian's Wall",
       "as": "হেড্ৰিয়ান দেৱাল"
@@ -1207,23 +1207,23 @@
     },
     "options": [
       {
-        "en": "Offa's Dyke",
-        "as": "অফাৰ বান্ধ"
+        "en": "The Antonine Wall",
+        "as": "এণ্ট'নাইন দেৱাল"
       },
       {
-        "en": "Hadrian's Wall",
-        "as": "হেড্ৰিয়ান দেৱাল"
+        "en": "Offa's Dyke",
+        "as": "অফাৰ বান্ধ"
       },
       {
         "en": "Wat's Dyke",
         "as": "ৱাটৰ বান্ধ"
       },
       {
-        "en": "The Antonine Wall",
-        "as": "এণ্ট'নাইন দেৱাল"
+        "en": "Hadrian's Wall",
+        "as": "হেড্ৰিয়ান দেৱাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Offa's Dyke",
       "as": "অফাৰ বান্ধ"
@@ -1237,8 +1237,8 @@
     },
     "options": [
       {
-        "en": "The boundary between free and slave states in the USA",
-        "as": "আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ মাজৰ সীমা"
+        "en": "The division of Ireland",
+        "as": "আয়াৰলেণ্ডৰ বিভাজন"
       },
       {
         "en": "The border between the USA and Canada",
@@ -1249,11 +1249,11 @@
         "as": "ভাৰত আৰু পাকিস্তানৰ সীমা"
       },
       {
-        "en": "The division of Ireland",
-        "as": "আয়াৰলেণ্ডৰ বিভাজন"
+        "en": "The boundary between free and slave states in the USA",
+        "as": "আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ মাজৰ সীমা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The boundary between free and slave states in the USA",
       "as": "আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ মাজৰ সীমা"
@@ -1271,16 +1271,16 @@
         "as": "আভ্যন্তৰীণ জাৰ্মান সীমা"
       },
       {
+        "en": "The Siegfried Line",
+        "as": "জিগফ্ৰাইড ৰেখা"
+      },
+      {
         "en": "The Oder-Neisse Line",
         "as": "অ'ডাৰ-নাইছে ৰেখা"
       },
       {
         "en": "The Curzon Line",
         "as": "কাৰ্জন ৰেখা"
-      },
-      {
-        "en": "The Siegfried Line",
-        "as": "জিগফ্ৰাইড ৰেখা"
       }
     ],
     "correct": 0,
@@ -1301,12 +1301,12 @@
         "as": "ভাৰত আৰু চীন"
       },
       {
-        "en": "India and Pakistan",
-        "as": "ভাৰত আৰু পাকিস্তান"
-      },
-      {
         "en": "India and Myanmar",
         "as": "ভাৰত আৰু ম্যানমাৰ"
+      },
+      {
+        "en": "India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তান"
       },
       {
         "en": "China and Bhutan",
@@ -1327,23 +1327,23 @@
     },
     "options": [
       {
-        "en": "Four",
-        "as": "চাৰিটা"
-      },
-      {
-        "en": "Two",
-        "as": "দুটাকৈ"
+        "en": "Five",
+        "as": "পাঁচটা"
       },
       {
         "en": "Three",
         "as": "তিনিটা"
       },
       {
-        "en": "Five",
-        "as": "পাঁচটা"
+        "en": "Four",
+        "as": "চাৰিটা"
+      },
+      {
+        "en": "Two",
+        "as": "দুটাকৈ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Four",
       "as": "চাৰিটা"
@@ -1357,23 +1357,23 @@
     },
     "options": [
       {
-        "en": "Assam",
-        "as": "অসম"
-      },
-      {
         "en": "West Bengal",
         "as": "পশ্চিম বংগ"
       },
       {
-        "en": "Arunachal Pradesh",
-        "as": "অৰুণাচল প্ৰদেশ"
+        "en": "Assam",
+        "as": "অসম"
       },
       {
         "en": "Sikkim",
         "as": "ছিক্কিম"
+      },
+      {
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Assam",
       "as": "অসম"
@@ -1391,16 +1391,16 @@
         "as": "পাঁচটা"
       },
       {
-        "en": "Three",
-        "as": "তিনিটা"
-      },
-      {
         "en": "Four",
         "as": "চাৰিটা"
       },
       {
         "en": "Six",
         "as": "ছয়টা"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিটা"
       }
     ],
     "correct": 0,
@@ -1425,12 +1425,12 @@
         "as": "ভাৰত-বাংলাদেশ সীমা"
       },
       {
-        "en": "The Russia-China border",
-        "as": "ৰাছিয়া-চীন সীমা"
-      },
-      {
         "en": "The Chile-Argentina border",
         "as": "চিলি-আৰ্জেণ্টিনা সীমা"
+      },
+      {
+        "en": "The Russia-China border",
+        "as": "ৰাছিয়া-চীন সীমা"
       }
     ],
     "correct": 0,
@@ -1447,10 +1447,6 @@
     },
     "options": [
       {
-        "en": "About 8,891 km",
-        "as": "প্ৰায় 8,891 কিলোমিটাৰ"
-      },
-      {
         "en": "About 4,096 km",
         "as": "প্ৰায় 4,096 কিলোমিটাৰ"
       },
@@ -1461,9 +1457,13 @@
       {
         "en": "About 12,000 km",
         "as": "প্ৰায় 12,000 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 8,891 km",
+        "as": "প্ৰায় 8,891 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 8,891 km",
       "as": "প্ৰায় 8,891 কিলোমিটাৰ"

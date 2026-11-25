@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "About 3,800 m",
-        "as": "প্ৰায় ৩,৮০০ মিটাৰ"
-      },
-      {
-        "en": "About 1,200 m",
-        "as": "প্ৰায় ১,২০০ মিটাৰ"
-      },
-      {
         "en": "About 7,000 m",
         "as": "প্ৰায় ৭,০০০ মিটাৰ"
       },
       {
+        "en": "About 3,800 m",
+        "as": "প্ৰায় ৩,৮০০ মিটাৰ"
+      },
+      {
         "en": "About 11,000 m",
         "as": "প্ৰায় ১১,০০০ মিটাৰ"
+      },
+      {
+        "en": "About 1,200 m",
+        "as": "প্ৰায় ১,২০০ মিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 3,800 m",
       "as": "প্ৰায় ৩,৮০০ মিটাৰ"
@@ -37,23 +37,23 @@
     },
     "options": [
       {
-        "en": "About 35 parts per thousand",
-        "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ অংশ"
-      },
-      {
-        "en": "About 10 parts per thousand",
-        "as": "প্ৰতি হাজাৰত প্ৰায় ১০ অংশ"
+        "en": "About 20 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ২০ অংশ"
       },
       {
         "en": "About 100 parts per thousand",
         "as": "প্ৰতি হাজাৰত প্ৰায় ১০০ অংশ"
       },
       {
-        "en": "About 20 parts per thousand",
-        "as": "প্ৰতি হাজাৰত প্ৰায় ২০ অংশ"
+        "en": "About 35 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ অংশ"
+      },
+      {
+        "en": "About 10 parts per thousand",
+        "as": "প্ৰতি হাজাৰত প্ৰায় ১০ অংশ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "About 35 parts per thousand",
       "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ অংশ"
@@ -71,16 +71,16 @@
         "as": "মৃত সাগৰ"
       },
       {
-        "en": "The Red Sea",
-        "as": "ৰঙা সাগৰ"
+        "en": "The Arabian Sea",
+        "as": "আৰব সাগৰ"
       },
       {
         "en": "The Mediterranean Sea",
         "as": "ভূমধ্য সাগৰ"
       },
       {
-        "en": "The Arabian Sea",
-        "as": "আৰব সাগৰ"
+        "en": "The Red Sea",
+        "as": "ৰঙা সাগৰ"
       }
     ],
     "correct": 0,
@@ -97,6 +97,10 @@
     },
     "options": [
       {
+        "en": "It has volcanic springs",
+        "as": "ইয়াৰ আগ্নেয় উঁহ আছে"
+      },
+      {
         "en": "It has no outlet and loses water only by evaporation",
         "as": "ইয়াৰ কোনো নিজৰা নাই আৰু কেৱল বাষ্পীভৱনেৰে পানী হেৰুৱায়"
       },
@@ -107,13 +111,9 @@
       {
         "en": "It is connected to the ocean",
         "as": "ই মহাসাগৰৰ সৈতে সংযুক্ত"
-      },
-      {
-        "en": "It has volcanic springs",
-        "as": "ইয়াৰ আগ্নেয় উঁহ আছে"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "It has no outlet and loses water only by evaporation",
       "as": "ইয়াৰ কোনো নিজৰা নাই আৰু কেৱল বাষ্পীভৱনেৰে পানী হেৰুৱায়"
@@ -131,16 +131,16 @@
         "as": "আমাজন"
       },
       {
-        "en": "The Nile",
-        "as": "নীল"
+        "en": "The Mississippi",
+        "as": "মিছিছিপি"
       },
       {
         "en": "The Yangtze",
         "as": "য়াংঝি"
       },
       {
-        "en": "The Mississippi",
-        "as": "মিছিছিপি"
+        "en": "The Nile",
+        "as": "নীল"
       }
     ],
     "correct": 0,
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "About 6,400 km",
-        "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 6,650 km",
-        "as": "প্ৰায় ৬,৬৫০ কিলোমিটাৰ"
-      },
-      {
         "en": "About 5,500 km",
         "as": "প্ৰায় ৫,৫০০ কিলোমিটাৰ"
       },
       {
+        "en": "About 6,400 km",
+        "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ"
+      },
+      {
         "en": "About 7,000 km",
         "as": "প্ৰায় ৭,০০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 6,650 km",
+        "as": "প্ৰায় ৬,৬৫০ কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 6,400 km",
       "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ"
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "The Amazon",
-        "as": "আমাজন"
-      },
-      {
         "en": "The Nile",
         "as": "নীল"
+      },
+      {
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
       },
       {
         "en": "The Ganga",
         "as": "গঙ্গা"
       },
       {
-        "en": "The Yangtze",
-        "as": "য়াংঝি"
+        "en": "The Amazon",
+        "as": "আমাজন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Amazon",
       "as": "আমাজন"
@@ -221,16 +221,16 @@
         "as": "মাৰিয়ানা খাদ"
       },
       {
+        "en": "The Puerto Rico Trench",
+        "as": "পুৱেৰ্ট' ৰিক' খাদ"
+      },
+      {
         "en": "The Tonga Trench",
         "as": "টংগা খাদ"
       },
       {
         "en": "The Java Trench",
         "as": "জাভা খাদ"
-      },
-      {
-        "en": "The Puerto Rico Trench",
-        "as": "পুৱেৰ্ট' ৰিক' খাদ"
       }
     ],
     "correct": 0,
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "The Challenger Deep",
-        "as": "চেলেঞ্জাৰ ডিপ"
-      },
-      {
-        "en": "The Mariana Deep",
-        "as": "মাৰিয়ানা ডিপ"
-      },
-      {
         "en": "The Guam Deep",
         "as": "গুৱাম ডিপ"
       },
       {
+        "en": "The Challenger Deep",
+        "as": "চেলেঞ্জাৰ ডিপ"
+      },
+      {
         "en": "The Pacific Deep",
         "as": "প্ৰশান্ত ডিপ"
+      },
+      {
+        "en": "The Mariana Deep",
+        "as": "মাৰিয়ানা ডিপ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Challenger Deep",
       "as": "চেলেঞ্জাৰ ডিপ"
@@ -277,10 +277,6 @@
     },
     "options": [
       {
-        "en": "About half",
-        "as": "প্ৰায় আধা"
-      },
-      {
         "en": "About double",
         "as": "প্ৰায় দুগুণ"
       },
@@ -289,11 +285,15 @@
         "as": "ঠিক একে"
       },
       {
+        "en": "About half",
+        "as": "প্ৰায় আধা"
+      },
+      {
         "en": "About one-tenth",
         "as": "প্ৰায় এক দশমাংশ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "About half",
       "as": "প্ৰায় আধা"
@@ -311,12 +311,12 @@
         "as": "জোৱাৰ অহাৰ লগে লগে নদীৰ ওপৰলৈ যোৱা তৰংগ"
       },
       {
-        "en": "A wave caused by an earthquake",
-        "as": "ভূমিকম্পৰ দ্বাৰা সৃষ্টি হোৱা তৰংগ"
-      },
-      {
         "en": "A current flowing out to sea",
         "as": "সাগৰলৈ ওলাই যোৱা সোঁত"
+      },
+      {
+        "en": "A wave caused by an earthquake",
+        "as": "ভূমিকম্পৰ দ্বাৰা সৃষ্টি হোৱা তৰংগ"
       },
       {
         "en": "A whirlpool in a strait",
@@ -337,23 +337,23 @@
     },
     "options": [
       {
-        "en": "The Gulf Stream",
-        "as": "গাল্ফ ষ্ট্ৰিম"
-      },
-      {
         "en": "The Kuroshio",
         "as": "কুৰ'ছিঅ'"
       },
       {
-        "en": "The Canary Current",
-        "as": "কেনাৰী সোঁত"
-      },
-      {
         "en": "The Humboldt Current",
         "as": "হামবল্ড সোঁত"
+      },
+      {
+        "en": "The Gulf Stream",
+        "as": "গাল্ফ ষ্ট্ৰিম"
+      },
+      {
+        "en": "The Canary Current",
+        "as": "কেনাৰী সোঁত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Gulf Stream",
       "as": "গাল্ফ ষ্ট্ৰিম"
@@ -367,23 +367,23 @@
     },
     "options": [
       {
-        "en": "The Qiantang in China",
-        "as": "চীনৰ ছিয়ানটাং"
-      },
-      {
         "en": "The Amazon",
         "as": "আমাজন"
       },
       {
-        "en": "The Nile",
-        "as": "নীল"
+        "en": "The Qiantang in China",
+        "as": "চীনৰ ছিয়ানটাং"
       },
       {
         "en": "The Volga",
         "as": "ভল্গা"
+      },
+      {
+        "en": "The Nile",
+        "as": "নীল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Qiantang in China",
       "as": "চীনৰ ছিয়ানটাং"
@@ -397,10 +397,6 @@
     },
     "options": [
       {
-        "en": "The meeting of the Gulf Stream and the Labrador Current",
-        "as": "গাল্ফ ষ্ট্ৰিম আৰু লেব্ৰাডৰ সোঁতৰ মিলন"
-      },
-      {
         "en": "The Benguela Current",
         "as": "বেঙ্গুৱেলা সোঁত"
       },
@@ -409,11 +405,15 @@
         "as": "কুৰ'ছিঅ'"
       },
       {
+        "en": "The meeting of the Gulf Stream and the Labrador Current",
+        "as": "গাল্ফ ষ্ট্ৰিম আৰু লেব্ৰাডৰ সোঁতৰ মিলন"
+      },
+      {
         "en": "The Agulhas Current",
         "as": "আগুলহাছ সোঁত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The meeting of the Gulf Stream and the Labrador Current",
       "as": "গাল্ফ ষ্ট্ৰিম আৰু লেব্ৰাডৰ সোঁতৰ মিলন"
@@ -431,16 +431,16 @@
         "as": "হামবল্ড সোঁত"
       },
       {
-        "en": "The Gulf Stream",
-        "as": "গাল্ফ ষ্ট্ৰিম"
-      },
-      {
         "en": "The Kuroshio",
         "as": "কুৰ'ছিঅ'"
       },
       {
         "en": "The Agulhas Current",
         "as": "আগুলহাছ সোঁত"
+      },
+      {
+        "en": "The Gulf Stream",
+        "as": "গাল্ফ ষ্ট্ৰিম"
       }
     ],
     "correct": 0,
@@ -457,23 +457,23 @@
     },
     "options": [
       {
-        "en": "Seas are partly enclosed by land; oceans are not",
-        "as": "সাগৰবোৰ আংশিকভাৱে স্থলভাগেৰে বেষ্টিত; মহাসাগৰ নহয়"
-      },
-      {
-        "en": "Oceans are smaller than seas",
-        "as": "মহাসাগৰ সাগৰতকৈ সৰু"
-      },
-      {
         "en": "Seas are always saltier",
         "as": "সাগৰ সদায় বেছি লোণীয়া"
       },
       {
+        "en": "Seas are partly enclosed by land; oceans are not",
+        "as": "সাগৰবোৰ আংশিকভাৱে স্থলভাগেৰে বেষ্টিত; মহাসাগৰ নহয়"
+      },
+      {
         "en": "There is no difference",
         "as": "কোনো পাৰ্থক্য নাই"
+      },
+      {
+        "en": "Oceans are smaller than seas",
+        "as": "মহাসাগৰ সাগৰতকৈ সৰু"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Seas are partly enclosed by land; oceans are not",
       "as": "সাগৰবোৰ আংশিকভাৱে স্থলভাগেৰে বেষ্টিত; মহাসাগৰ নহয়"
@@ -487,23 +487,23 @@
     },
     "options": [
       {
-        "en": "The Peruvian coast",
-        "as": "পেৰুৰ উপকূল"
+        "en": "The Argentine coast",
+        "as": "আৰ্জেণ্টিনাৰ উপকূল"
       },
       {
         "en": "The Brazilian coast",
         "as": "ব্ৰাজিলৰ উপকূল"
       },
       {
-        "en": "The Argentine coast",
-        "as": "আৰ্জেণ্টিনাৰ উপকূল"
-      },
-      {
         "en": "The Caribbean coast",
         "as": "কেৰিবিয়ান উপকূল"
+      },
+      {
+        "en": "The Peruvian coast",
+        "as": "পেৰুৰ উপকূল"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Peruvian coast",
       "as": "পেৰুৰ উপকূল"
@@ -517,6 +517,10 @@
     },
     "options": [
       {
+        "en": "The tidal zone",
+        "as": "জোৱাৰৰ অঞ্চল"
+      },
+      {
         "en": "The sunlit upper layer where photosynthesis occurs",
         "as": "সূৰ্যৰ পোহৰ পোৱা ওপৰৰ স্তৰ, য'ত সালোকসংশ্লেষণ হয়"
       },
@@ -527,13 +531,9 @@
       {
         "en": "The ocean floor",
         "as": "মহাসাগৰৰ তলি"
-      },
-      {
-        "en": "The tidal zone",
-        "as": "জোৱাৰৰ অঞ্চল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The sunlit upper layer where photosynthesis occurs",
       "as": "সূৰ্যৰ পোহৰ পোৱা ওপৰৰ স্তৰ, য'ত সালোকসংশ্লেষণ হয়"
@@ -547,23 +547,23 @@
     },
     "options": [
       {
-        "en": "The highest tide, occurring at new and full moon",
-        "as": "সৰ্বোচ্চ জোৱাৰ, যি অমাৱস্যা আৰু পূৰ্ণিমাত হয়"
-      },
-      {
         "en": "The lowest tide",
         "as": "সৰ্বনিম্ন জোৱাৰ"
       },
       {
-        "en": "A tide in spring season",
-        "as": "বসন্ত ঋতুৰ জোৱাৰ"
+        "en": "The highest tide, occurring at new and full moon",
+        "as": "সৰ্বোচ্চ জোৱাৰ, যি অমাৱস্যা আৰু পূৰ্ণিমাত হয়"
       },
       {
         "en": "A tide caused by wind",
         "as": "বতাহে সৃষ্টি কৰা জোৱাৰ"
+      },
+      {
+        "en": "A tide in spring season",
+        "as": "বসন্ত ঋতুৰ জোৱাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The highest tide, occurring at new and full moon",
       "as": "সৰ্বোচ্চ জোৱাৰ, যি অমাৱস্যা আৰু পূৰ্ণিমাত হয়"
@@ -577,23 +577,23 @@
     },
     "options": [
       {
-        "en": "The lowest tide, occurring at the first and third quarters",
-        "as": "সৰ্বনিম্ন জোৱাৰ, যি প্ৰথম আৰু তৃতীয় চতুৰ্থাংশত হয়"
-      },
-      {
-        "en": "The highest tide",
-        "as": "সৰ্বোচ্চ জোৱাৰ"
+        "en": "A tide in winter",
+        "as": "শীতকালৰ জোৱাৰ"
       },
       {
         "en": "A tide during a cyclone",
         "as": "ঘূৰ্ণীবতাহৰ সময়ৰ জোৱাৰ"
       },
       {
-        "en": "A tide in winter",
-        "as": "শীতকালৰ জোৱাৰ"
+        "en": "The highest tide",
+        "as": "সৰ্বোচ্চ জোৱাৰ"
+      },
+      {
+        "en": "The lowest tide, occurring at the first and third quarters",
+        "as": "সৰ্বনিম্ন জোৱাৰ, যি প্ৰথম আৰু তৃতীয় চতুৰ্থাংশত হয়"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The lowest tide, occurring at the first and third quarters",
       "as": "সৰ্বনিম্ন জোৱাৰ, যি প্ৰথম আৰু তৃতীয় চতুৰ্থাংশত হয়"
@@ -607,23 +607,23 @@
     },
     "options": [
       {
-        "en": "The Bay of Fundy",
-        "as": "ফাণ্ডি উপসাগৰ"
+        "en": "The Gulf of Mexico",
+        "as": "মেক্সিকো উপসাগৰ"
       },
       {
         "en": "The Bay of Bengal",
         "as": "বঙ্গোপসাগৰ"
       },
       {
-        "en": "The Hudson Bay",
-        "as": "হাডছন উপসাগৰ"
+        "en": "The Bay of Fundy",
+        "as": "ফাণ্ডি উপসাগৰ"
       },
       {
-        "en": "The Gulf of Mexico",
-        "as": "মেক্সিকো উপসাগৰ"
+        "en": "The Hudson Bay",
+        "as": "হাডছন উপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Bay of Fundy",
       "as": "ফাণ্ডি উপসাগৰ"
@@ -637,23 +637,23 @@
     },
     "options": [
       {
-        "en": "Lake Baikal",
-        "as": "বৈকাল হ্ৰদ"
-      },
-      {
-        "en": "Lake Tanganyika",
-        "as": "টাংগানিকা হ্ৰদ"
-      },
-      {
         "en": "Caspian Sea",
         "as": "কেছপিয়ান সাগৰ"
       },
       {
         "en": "Lake Superior",
         "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Lake Baikal",
       "as": "বৈকাল হ্ৰদ"
@@ -671,16 +671,16 @@
         "as": "টাংগানিকা হ্ৰদ"
       },
       {
+        "en": "Lake Chad",
+        "as": "চাদ হ্ৰদ"
+      },
+      {
         "en": "Lake Victoria",
         "as": "ভিক্টোৰিয়া হ্ৰদ"
       },
       {
         "en": "Lake Malawi",
         "as": "মালাৱী হ্ৰদ"
-      },
-      {
-        "en": "Lake Chad",
-        "as": "চাদ হ্ৰদ"
       }
     ],
     "correct": 0,
@@ -701,16 +701,16 @@
         "as": "বৈকাল হ্ৰদ"
       },
       {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      },
+      {
         "en": "Lake Superior",
         "as": "ছুপিৰিয়ৰ হ্ৰদ"
       },
       {
         "en": "Lake Victoria",
         "as": "ভিক্টোৰিয়া হ্ৰদ"
-      },
-      {
-        "en": "Lake Tanganyika",
-        "as": "টাংগানিকা হ্ৰদ"
       }
     ],
     "correct": 0,
@@ -727,23 +727,23 @@
     },
     "options": [
       {
-        "en": "The Caspian Sea",
-        "as": "কেছপিয়ান সাগৰ"
-      },
-      {
-        "en": "Lake Superior",
-        "as": "ছুপিৰিয়ৰ হ্ৰদ"
-      },
-      {
         "en": "Lake Victoria",
         "as": "ভিক্টোৰিয়া হ্ৰদ"
       },
       {
         "en": "Lake Baikal",
         "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "The Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Caspian Sea",
       "as": "কেছপিয়ান সাগৰ"
@@ -757,23 +757,23 @@
     },
     "options": [
       {
-        "en": "Lake Superior",
-        "as": "ছুপিৰিয়ৰ হ্ৰদ"
-      },
-      {
-        "en": "Lake Victoria",
-        "as": "ভিক্টোৰিয়া হ্ৰদ"
-      },
-      {
         "en": "Lake Baikal",
         "as": "বৈকাল হ্ৰদ"
       },
       {
         "en": "Lake Michigan",
         "as": "মিছিগান হ্ৰদ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপিৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্টোৰিয়া হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Lake Superior",
       "as": "ছুপিৰিয়ৰ হ্ৰদ"
@@ -791,16 +791,16 @@
         "as": "ভিক্টোৰিয়া হ্ৰদ"
       },
       {
-        "en": "Lake Tanganyika",
-        "as": "টাংগানিকা হ্ৰদ"
+        "en": "Lake Malawi",
+        "as": "মালাৱী হ্ৰদ"
       },
       {
         "en": "Lake Chad",
         "as": "চাদ হ্ৰদ"
       },
       {
-        "en": "Lake Malawi",
-        "as": "মালাৱী হ্ৰদ"
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
       }
     ],
     "correct": 0,
@@ -817,8 +817,8 @@
     },
     "options": [
       {
-        "en": "Lake Titicaca",
-        "as": "টিটিকাকা হ্ৰদ"
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
       },
       {
         "en": "Lake Baikal",
@@ -829,11 +829,11 @@
         "as": "ভিক্টোৰিয়া হ্ৰদ"
       },
       {
-        "en": "Caspian Sea",
-        "as": "কেছপিয়ান সাগৰ"
+        "en": "Lake Titicaca",
+        "as": "টিটিকাকা হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Lake Titicaca",
       "as": "টিটিকাকা হ্ৰদ"
@@ -847,23 +847,23 @@
     },
     "options": [
       {
-        "en": "The Ganga-Brahmaputra",
-        "as": "গঙ্গা-ব্ৰহ্মপুত্ৰ"
-      },
-      {
-        "en": "The Nile",
-        "as": "নীল"
-      },
-      {
         "en": "The Amazon",
         "as": "আমাজন"
       },
       {
         "en": "The Mississippi",
         "as": "মিছিছিপি"
+      },
+      {
+        "en": "The Ganga-Brahmaputra",
+        "as": "গঙ্গা-ব্ৰহ্মপুত্ৰ"
+      },
+      {
+        "en": "The Nile",
+        "as": "নীল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Ganga-Brahmaputra",
       "as": "গঙ্গা-ব্ৰহ্মপুত্ৰ"
@@ -877,23 +877,23 @@
     },
     "options": [
       {
-        "en": "The Yangtze",
-        "as": "য়াংঝি"
-      },
-      {
         "en": "The Ganga",
         "as": "গঙ্গা"
+      },
+      {
+        "en": "The Mekong",
+        "as": "মেকং"
       },
       {
         "en": "The Brahmaputra",
         "as": "ব্ৰহ্মপুত্ৰ"
       },
       {
-        "en": "The Mekong",
-        "as": "মেকং"
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Yangtze",
       "as": "য়াংঝি"
@@ -911,16 +911,16 @@
         "as": "ভল্গা"
       },
       {
+        "en": "The Dnieper",
+        "as": "নিপাৰ"
+      },
+      {
         "en": "The Danube",
         "as": "ডানিউব"
       },
       {
         "en": "The Rhine",
         "as": "ৰাইন"
-      },
-      {
-        "en": "The Dnieper",
-        "as": "নিপাৰ"
       }
     ],
     "correct": 0,
@@ -941,12 +941,12 @@
         "as": "মিছৌৰী-মিছিছিপি"
       },
       {
-        "en": "The Colorado",
-        "as": "ক'ল'ৰাড'"
-      },
-      {
         "en": "The Rio Grande",
         "as": "ৰিঅ' গ্ৰাণ্ডে"
+      },
+      {
+        "en": "The Colorado",
+        "as": "ক'ল'ৰাড'"
       },
       {
         "en": "The Yukon",
@@ -967,6 +967,10 @@
     },
     "options": [
       {
+        "en": "The Orinoco",
+        "as": "অ'ৰিন'ক'"
+      },
+      {
         "en": "The Amazon",
         "as": "আমাজন"
       },
@@ -975,15 +979,11 @@
         "as": "পাৰানা"
       },
       {
-        "en": "The Orinoco",
-        "as": "অ'ৰিন'ক'"
-      },
-      {
         "en": "The Sao Francisco",
         "as": "চাও ফ্ৰান্সিস্ক'"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Amazon",
       "as": "আমাজন"
@@ -997,10 +997,6 @@
     },
     "options": [
       {
-        "en": "The shallow submerged edge of a continent",
-        "as": "মহাদেশৰ অগভীৰ নিমজ্জিত প্ৰান্ত"
-      },
-      {
         "en": "The deepest part of the ocean",
         "as": "মহাসাগৰৰ আটাইতকৈ গভীৰ অংশ"
       },
@@ -1011,9 +1007,13 @@
       {
         "en": "A mid-ocean ridge",
         "as": "মহাসাগৰ মধ্য শৈলশিৰি"
+      },
+      {
+        "en": "The shallow submerged edge of a continent",
+        "as": "মহাদেশৰ অগভীৰ নিমজ্জিত প্ৰান্ত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The shallow submerged edge of a continent",
       "as": "মহাদেশৰ অগভীৰ নিমজ্জিত প্ৰান্ত"
@@ -1027,23 +1027,23 @@
     },
     "options": [
       {
-        "en": "Lake Maracaibo",
-        "as": "মাৰাকাইব' হ্ৰদ"
-      },
-      {
-        "en": "Lake Titicaca",
-        "as": "টিটিকাকা হ্ৰদ"
-      },
-      {
         "en": "Lake Poopo",
         "as": "প'প' হ্ৰদ"
       },
       {
         "en": "Lake Buenos Aires",
         "as": "বুৱেনছ আয়াৰেছ হ্ৰদ"
+      },
+      {
+        "en": "Lake Titicaca",
+        "as": "টিটিকাকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Maracaibo",
+        "as": "মাৰাকাইব' হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Lake Maracaibo",
       "as": "মাৰাকাইব' হ্ৰদ"
@@ -1061,16 +1061,16 @@
         "as": "এঞ্জেল জলপ্ৰপাত"
       },
       {
-        "en": "Niagara Falls",
-        "as": "নিয়াগ্ৰা জলপ্ৰপাত"
-      },
-      {
         "en": "Victoria Falls",
         "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
       },
       {
         "en": "Iguazu Falls",
         "as": "ইগুৱাছু জলপ্ৰপাত"
+      },
+      {
+        "en": "Niagara Falls",
+        "as": "নিয়াগ্ৰা জলপ্ৰপাত"
       }
     ],
     "correct": 0,
@@ -1087,10 +1087,6 @@
     },
     "options": [
       {
-        "en": "Victoria Falls",
-        "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
-      },
-      {
         "en": "Niagara Falls",
         "as": "নিয়াগ্ৰা জলপ্ৰপাত"
       },
@@ -1099,11 +1095,15 @@
         "as": "এঞ্জেল জলপ্ৰপাত"
       },
       {
+        "en": "Victoria Falls",
+        "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
+      },
+      {
         "en": "Iguazu Falls",
         "as": "ইগুৱাছু জলপ্ৰপাত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Victoria Falls",
       "as": "ভিক্টোৰিয়া জলপ্ৰপাত"
@@ -1117,23 +1117,23 @@
     },
     "options": [
       {
-        "en": "The Great Barrier Reef",
-        "as": "মহা অৱৰোধ প্ৰবাল প্ৰাচীৰ"
+        "en": "The Maldives Reef",
+        "as": "মালদ্বীপ প্ৰবাল প্ৰাচীৰ"
       },
       {
-        "en": "The Belize Barrier Reef",
-        "as": "বেলিজ প্ৰবাল প্ৰাচীৰ"
+        "en": "The Great Barrier Reef",
+        "as": "মহা অৱৰোধ প্ৰবাল প্ৰাচীৰ"
       },
       {
         "en": "The Red Sea Reef",
         "as": "ৰঙা সাগৰৰ প্ৰবাল প্ৰাচীৰ"
       },
       {
-        "en": "The Maldives Reef",
-        "as": "মালদ্বীপ প্ৰবাল প্ৰাচীৰ"
+        "en": "The Belize Barrier Reef",
+        "as": "বেলিজ প্ৰবাল প্ৰাচীৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Great Barrier Reef",
       "as": "মহা অৱৰোধ প্ৰবাল প্ৰাচীৰ"
@@ -1147,23 +1147,23 @@
     },
     "options": [
       {
-        "en": "The Tonga Trench",
-        "as": "টংগা খাদ"
-      },
-      {
         "en": "The Java Trench",
         "as": "জাভা খাদ"
       },
       {
-        "en": "The Puerto Rico Trench",
-        "as": "পুৱেৰ্ট' ৰিক' খাদ"
-      },
-      {
         "en": "The Aleutian Trench",
         "as": "আলিউটিয়ান খাদ"
+      },
+      {
+        "en": "The Tonga Trench",
+        "as": "টংগা খাদ"
+      },
+      {
+        "en": "The Puerto Rico Trench",
+        "as": "পুৱেৰ্ট' ৰিক' খাদ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Tonga Trench",
       "as": "টংগা খাদ"
@@ -1177,23 +1177,23 @@
     },
     "options": [
       {
-        "en": "The Aral Sea",
-        "as": "আৰল সাগৰ"
-      },
-      {
-        "en": "The Dead Sea",
-        "as": "মৃত সাগৰ"
+        "en": "The Black Sea",
+        "as": "কৃষ্ণ সাগৰ"
       },
       {
         "en": "The Caspian Sea",
         "as": "কেছপিয়ান সাগৰ"
       },
       {
-        "en": "The Black Sea",
-        "as": "কৃষ্ণ সাগৰ"
+        "en": "The Aral Sea",
+        "as": "আৰল সাগৰ"
+      },
+      {
+        "en": "The Dead Sea",
+        "as": "মৃত সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Aral Sea",
       "as": "আৰল সাগৰ"
@@ -1207,23 +1207,23 @@
     },
     "options": [
       {
-        "en": "Lake Tana in Ethiopia",
-        "as": "ইথিঅ'পিয়াৰ টানা হ্ৰদ"
+        "en": "Lake Albert",
+        "as": "আলবাৰ্ট হ্ৰদ"
       },
       {
         "en": "Lake Victoria",
         "as": "ভিক্টোৰিয়া হ্ৰদ"
       },
       {
-        "en": "Lake Albert",
-        "as": "আলবাৰ্ট হ্ৰদ"
+        "en": "Lake Tana in Ethiopia",
+        "as": "ইথিঅ'পিয়াৰ টানা হ্ৰদ"
       },
       {
         "en": "Lake Turkana",
         "as": "তুৰ্কানা হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Lake Tana in Ethiopia",
       "as": "ইথিঅ'পিয়াৰ টানা হ্ৰদ"
@@ -1237,23 +1237,23 @@
     },
     "options": [
       {
-        "en": "The Amazon",
-        "as": "আমাজন"
-      },
-      {
         "en": "The Nile",
         "as": "নীল"
       },
       {
-        "en": "The Ganga",
-        "as": "গঙ্গা"
+        "en": "The Amazon",
+        "as": "আমাজন"
       },
       {
         "en": "The Mississippi",
         "as": "মিছিছপি"
+      },
+      {
+        "en": "The Ganga",
+        "as": "গঙ্গা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Amazon",
       "as": "আমাজন"
@@ -1267,23 +1267,23 @@
     },
     "options": [
       {
-        "en": "The Kuroshio Current",
-        "as": "কুৰ'ছিঅ' সোঁত"
-      },
-      {
-        "en": "The Oyashio Current",
-        "as": "অ'য়াছিঅ' সোঁত"
-      },
-      {
         "en": "The Gulf Stream",
         "as": "গাল্ফ ষ্ট্ৰিম"
       },
       {
         "en": "The Humboldt Current",
         "as": "হামবল্ড সোঁত"
+      },
+      {
+        "en": "The Kuroshio Current",
+        "as": "কুৰ'ছিঅ' সোঁত"
+      },
+      {
+        "en": "The Oyashio Current",
+        "as": "অ'য়াছিঅ' সোঁত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Kuroshio Current",
       "as": "কুৰ'ছিঅ' সোঁত"
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "The Arctic Ocean",
-        "as": "আৰ্কটিক মহাসাগৰ"
-      },
-      {
-        "en": "The Indian Ocean",
-        "as": "ভাৰত মহাসাগৰ"
-      },
-      {
         "en": "The Southern Ocean",
         "as": "দক্ষিণ মহাসাগৰ"
       },
       {
+        "en": "The Arctic Ocean",
+        "as": "আৰ্কটিক মহাসাগৰ"
+      },
+      {
         "en": "The Atlantic Ocean",
         "as": "এটলাণ্টিক মহাসাগৰ"
+      },
+      {
+        "en": "The Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Arctic Ocean",
       "as": "আৰ্কটিক মহাসাগৰ"
@@ -1327,23 +1327,23 @@
     },
     "options": [
       {
-        "en": "The Indian Ocean",
-        "as": "ভাৰত মহাসাগৰ"
-      },
-      {
-        "en": "The Atlantic Ocean",
-        "as": "এটলাণ্টিক মহাসাগৰ"
+        "en": "The Southern Ocean",
+        "as": "দক্ষিণ মহাসাগৰ"
       },
       {
         "en": "The Pacific Ocean",
         "as": "প্ৰশান্ত মহাসাগৰ"
       },
       {
-        "en": "The Southern Ocean",
-        "as": "দক্ষিণ মহাসাগৰ"
+        "en": "The Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "The Atlantic Ocean",
+        "as": "এটলাণ্টিক মহাসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Indian Ocean",
       "as": "ভাৰত মহাসাগৰ"
@@ -1357,23 +1357,23 @@
     },
     "options": [
       {
-        "en": "The deep ocean circulation driven by temperature and salinity",
-        "as": "উষ্ণতা আৰু লোণীয়তাৰ দ্বাৰা চলিত গভীৰ মহাসাগৰীয় পৰিসঞ্চৰণ"
-      },
-      {
         "en": "The surface wind-driven circulation",
         "as": "পৃষ্ঠ বতাহে চলোৱা পৰিসঞ্চৰণ"
+      },
+      {
+        "en": "The river-ocean mixing",
+        "as": "নদী-মহাসাগৰ মিশ্ৰণ"
       },
       {
         "en": "The tidal circulation",
         "as": "জোৱাৰৰ পৰিসঞ্চৰণ"
       },
       {
-        "en": "The river-ocean mixing",
-        "as": "নদী-মহাসাগৰ মিশ্ৰণ"
+        "en": "The deep ocean circulation driven by temperature and salinity",
+        "as": "উষ্ণতা আৰু লোণীয়তাৰ দ্বাৰা চলিত গভীৰ মহাসাগৰীয় পৰিসঞ্চৰণ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The deep ocean circulation driven by temperature and salinity",
       "as": "উষ্ণতা আৰু লোণীয়তাৰ দ্বাৰা চলিত গভীৰ মহাসাগৰীয় পৰিসঞ্চৰণ"
@@ -1387,23 +1387,23 @@
     },
     "options": [
       {
-        "en": "The Nile",
-        "as": "নীল"
-      },
-      {
-        "en": "The Congo",
-        "as": "কংগো"
+        "en": "The Zambezi",
+        "as": "জাম্বেজী"
       },
       {
         "en": "The Niger",
         "as": "নাইজাৰ"
       },
       {
-        "en": "The Zambezi",
-        "as": "জাম্বেজী"
+        "en": "The Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "The Congo",
+        "as": "কংগো"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Nile",
       "as": "নীল"
@@ -1417,23 +1417,23 @@
     },
     "options": [
       {
-        "en": "The Yangtze",
-        "as": "য়াংঝি"
-      },
-      {
         "en": "The Ganga",
         "as": "গঙ্গা"
       },
       {
-        "en": "The Brahmaputra",
-        "as": "ব্ৰহ্মপুত্ৰ"
+        "en": "The Yangtze",
+        "as": "য়াংঝি"
       },
       {
         "en": "The Mekong",
         "as": "মেকং"
+      },
+      {
+        "en": "The Brahmaputra",
+        "as": "ব্ৰহ্মপুত্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Yangtze",
       "as": "য়াংঝি"
@@ -1451,12 +1451,12 @@
         "as": "চিলিকা হ্ৰদ"
       },
       {
-        "en": "Wular Lake",
-        "as": "ৱুলাৰ হ্ৰদ"
-      },
-      {
         "en": "Loktak Lake",
         "as": "লোকটক হ্ৰদ"
+      },
+      {
+        "en": "Wular Lake",
+        "as": "ৱুলাৰ হ্ৰদ"
       },
       {
         "en": "Sambhar Lake",
@@ -1477,23 +1477,23 @@
     },
     "options": [
       {
-        "en": "Chilika Lake",
-        "as": "চিলিকা হ্ৰদ"
-      },
-      {
         "en": "Sambhar Lake",
         "as": "সাম্বাৰ হ্ৰদ"
       },
       {
-        "en": "Pulicat Lake",
-        "as": "পুলিকট হ্ৰদ"
-      },
-      {
         "en": "Didwana Lake",
         "as": "দিদৱানা হ্ৰদ"
+      },
+      {
+        "en": "Chilika Lake",
+        "as": "চিলিকা হ্ৰদ"
+      },
+      {
+        "en": "Pulicat Lake",
+        "as": "পুলিকট হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Chilika Lake",
       "as": "চিলিকা হ্ৰদ"

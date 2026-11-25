@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "A strait is natural; a canal is man-made",
-        "as": "প্ৰণালী প্ৰাকৃতিক; খাল মানৱ-নিৰ্মিত"
-      },
-      {
-        "en": "A strait is man-made; a canal is natural",
-        "as": "প্ৰণালী মানৱ-নিৰ্মিত; খাল প্ৰাকৃতিক"
-      },
-      {
         "en": "Both are natural",
         "as": "দুটাই প্ৰাকৃতিক"
       },
       {
+        "en": "A strait is natural; a canal is man-made",
+        "as": "প্ৰণালী প্ৰাকৃতিক; খাল মানৱ-নিৰ্মিত"
+      },
+      {
         "en": "Both are man-made",
         "as": "দুটাই মানৱ-নিৰ্মিত"
+      },
+      {
+        "en": "A strait is man-made; a canal is natural",
+        "as": "প্ৰণালী মানৱ-নিৰ্মিত; খাল প্ৰাকৃতিক"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A strait is natural; a canal is man-made",
       "as": "প্ৰণালী প্ৰাকৃতিক; খাল মানৱ-নিৰ্মিত"
@@ -37,6 +37,10 @@
     },
     "options": [
       {
+        "en": "A man-made waterway",
+        "as": "মানৱ-নিৰ্মিত জলপথ"
+      },
+      {
         "en": "A large part of the sea partly enclosed by land",
         "as": "স্থলভাগে আংশিকভাৱে বেৰি থকা সাগৰৰ এটা বৃহৎ অংশ"
       },
@@ -45,15 +49,11 @@
         "as": "দুটা সাগৰৰ মাজৰ সংকীৰ্ণ পথ"
       },
       {
-        "en": "A man-made waterway",
-        "as": "মানৱ-নিৰ্মিত জলপথ"
-      },
-      {
         "en": "A freshwater lake",
         "as": "মিঠা পানীৰ হ্ৰদ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A large part of the sea partly enclosed by land",
       "as": "স্থলভাগে আংশিকভাৱে বেৰি থকা সাগৰৰ এটা বৃহৎ অংশ"
@@ -71,16 +71,16 @@
         "as": "স্থলভাগে আংশিকভাৱে বেৰি থকা জলভাগ, উপসাগৰতকৈ সৰু"
       },
       {
+        "en": "A river mouth",
+        "as": "নদীৰ মোহনা"
+      },
+      {
         "en": "A narrow strait",
         "as": "এক সংকীৰ্ণ প্ৰণালী"
       },
       {
         "en": "A man-made harbour",
         "as": "মানৱ-নিৰ্মিত বন্দৰ"
-      },
-      {
-        "en": "A river mouth",
-        "as": "নদীৰ মোহনা"
       }
     ],
     "correct": 0,
@@ -97,23 +97,23 @@
     },
     "options": [
       {
-        "en": "A narrow strip of land joining two larger landmasses",
-        "as": "দুটা ডাঙৰ ভূখণ্ড সংযোগী সংকীৰ্ণ ভূমি"
-      },
-      {
         "en": "A narrow waterway joining two seas",
         "as": "দুটা সাগৰ সংযোগী সংকীৰ্ণ জলপথ"
       },
       {
-        "en": "A group of islands",
-        "as": "দ্বীপৰ গোট"
-      },
-      {
         "en": "A shallow lagoon",
         "as": "অগভীৰ লেগুন"
+      },
+      {
+        "en": "A narrow strip of land joining two larger landmasses",
+        "as": "দুটা ডাঙৰ ভূখণ্ড সংযোগী সংকীৰ্ণ ভূমি"
+      },
+      {
+        "en": "A group of islands",
+        "as": "দ্বীপৰ গোট"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A narrow strip of land joining two larger landmasses",
       "as": "দুটা ডাঙৰ ভূখণ্ড সংযোগী সংকীৰ্ণ ভূমি"
@@ -127,12 +127,12 @@
     },
     "options": [
       {
-        "en": "The Isthmus of Panama",
-        "as": "পানামাৰ যোজকভূমি"
-      },
-      {
         "en": "The Isthmus of Suez",
         "as": "চুৱেজৰ যোজকভূমি"
+      },
+      {
+        "en": "The Isthmus of Panama",
+        "as": "পানামাৰ যোজকভূমি"
       },
       {
         "en": "The Isthmus of Corinth",
@@ -143,7 +143,7 @@
         "as": "ক্ৰাৰ যোজকভূমি"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Isthmus of Panama",
       "as": "পানামাৰ যোজকভূমি"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "The Davis Strait",
-        "as": "ডেভিছ প্ৰণালী"
-      },
-      {
-        "en": "The Strait of Malacca",
-        "as": "মালাকা প্ৰণালী"
-      },
-      {
         "en": "The Palk Strait",
         "as": "পাক খাদ"
       },
       {
         "en": "The Cook Strait",
         "as": "কুক প্ৰণালী"
+      },
+      {
+        "en": "The Strait of Malacca",
+        "as": "মালাকা প্ৰণালী"
+      },
+      {
+        "en": "The Davis Strait",
+        "as": "ডেভিছ প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Davis Strait",
       "as": "ডেভিছ প্ৰণালী"
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "The Bosphorus and the Dardanelles",
-        "as": "ব'সফৰাছ আৰু দাৰ্দানেলছ"
+        "en": "The Bab-el-Mandeb",
+        "as": "বাব-এল-মাণ্ডেব"
       },
       {
         "en": "The Strait of Gibraltar",
         "as": "জিব্ৰাল্টাৰ প্ৰণালী"
       },
       {
-        "en": "The Strait of Hormuz",
-        "as": "হৰমুজ প্ৰণালী"
+        "en": "The Bosphorus and the Dardanelles",
+        "as": "ব'সফৰাছ আৰু দাৰ্দানেলছ"
       },
       {
-        "en": "The Bab-el-Mandeb",
-        "as": "বাব-এল-মাণ্ডেব"
+        "en": "The Strait of Hormuz",
+        "as": "হৰমুজ প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Bosphorus and the Dardanelles",
       "as": "ব'সফৰাছ আৰু দাৰ্দানেলছ"
@@ -221,16 +221,16 @@
         "as": "চকুলোৰ দুৱাৰ"
       },
       {
-        "en": "The Gate of Winds",
-        "as": "বতাহৰ দুৱাৰ"
+        "en": "The Gate of Salt",
+        "as": "লোণৰ দুৱাৰ"
       },
       {
         "en": "The Gate of Sand",
         "as": "বালিৰ দুৱাৰ"
       },
       {
-        "en": "The Gate of Salt",
-        "as": "লোণৰ দুৱাৰ"
+        "en": "The Gate of Winds",
+        "as": "বতাহৰ দুৱাৰ"
       }
     ],
     "correct": 0,
@@ -247,10 +247,6 @@
     },
     "options": [
       {
-        "en": "The Strait of Gibraltar",
-        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
-      },
-      {
         "en": "The Bosphorus",
         "as": "ব'সফৰাছ"
       },
@@ -261,9 +257,13 @@
       {
         "en": "The Otranto Strait",
         "as": "অ'ট্ৰাণ্ট' প্ৰণালী"
+      },
+      {
+        "en": "The Strait of Gibraltar",
+        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Strait of Gibraltar",
       "as": "জিব্ৰাল্টাৰ প্ৰণালী"
@@ -281,16 +281,16 @@
         "as": "প্ৰায় ১৪ কিলোমিটাৰ"
       },
       {
+        "en": "About 80 km",
+        "as": "প্ৰায় ৮০ কিলোমিটাৰ"
+      },
+      {
         "en": "About 40 km",
         "as": "প্ৰায় ৪০ কিলোমিটাৰ"
       },
       {
         "en": "About 5 km",
         "as": "প্ৰায় ৫ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 80 km",
-        "as": "প্ৰায় ৮০ কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -311,16 +311,16 @@
         "as": "প্ৰায় ৮৫ কিলোমিটাৰ"
       },
       {
+        "en": "About 400 km",
+        "as": "প্ৰায় ৪০০ কিলোমিটাৰ"
+      },
+      {
         "en": "About 200 km",
         "as": "প্ৰায় ২০০ কিলোমিটাৰ"
       },
       {
         "en": "About 30 km",
         "as": "প্ৰায় ৩০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 400 km",
-        "as": "প্ৰায় ৪০০ কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -337,23 +337,23 @@
     },
     "options": [
       {
-        "en": "About 800 km",
-        "as": "প্ৰায় ৮০০ কিলোমিটাৰ"
-      },
-      {
-        "en": "About 300 km",
-        "as": "প্ৰায় ৩০০ কিলোমিটাৰ"
-      },
-      {
         "en": "About 1,500 km",
         "as": "প্ৰায় ১,৫০০ কিলোমিটাৰ"
       },
       {
         "en": "About 200 km",
         "as": "প্ৰায় ২০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 300 km",
+        "as": "প্ৰায় ৩০০ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 800 km",
+        "as": "প্ৰায় ৮০০ কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "About 800 km",
       "as": "প্ৰায় ৮০০ কিলোমিটাৰ"
@@ -367,23 +367,23 @@
     },
     "options": [
       {
-        "en": "The Atlantic and the Pacific",
-        "as": "এটলাণ্টিক আৰু প্ৰশান্ত"
-      },
-      {
-        "en": "The Atlantic and the Indian",
-        "as": "এটলাণ্টিক আৰু ভাৰত"
-      },
-      {
         "en": "The Pacific and the Indian",
         "as": "প্ৰশান্ত আৰু ভাৰত"
       },
       {
         "en": "The Arctic and the Pacific",
         "as": "আৰ্কটিক আৰু প্ৰশান্ত"
+      },
+      {
+        "en": "The Atlantic and the Pacific",
+        "as": "এটলাণ্টিক আৰু প্ৰশান্ত"
+      },
+      {
+        "en": "The Atlantic and the Indian",
+        "as": "এটলাণ্টিক আৰু ভাৰত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Atlantic and the Pacific",
       "as": "এটলাণ্টিক আৰু প্ৰশান্ত"
@@ -401,16 +401,16 @@
         "as": "প্ৰায় ৯৮ কিলোমিটাৰ"
       },
       {
-        "en": "About 40 km",
-        "as": "প্ৰায় ৪০ কিলোমিটাৰ"
-      },
-      {
         "en": "About 200 km",
         "as": "প্ৰায় ২০০ কিলোমিটাৰ"
       },
       {
         "en": "About 15 km",
         "as": "প্ৰায় ১৫ কিলোমিটাৰ"
+      },
+      {
+        "en": "About 40 km",
+        "as": "প্ৰায় ৪০ কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -431,16 +431,16 @@
         "as": "পাক খাদ"
       },
       {
-        "en": "The Ten Degree Channel",
-        "as": "দশ অংশ প্ৰণালী"
-      },
-      {
         "en": "The Nine Degree Channel",
         "as": "ন অংশ প্ৰণালী"
       },
       {
         "en": "The Coco Channel",
         "as": "ক'ক' প্ৰণালী"
+      },
+      {
+        "en": "The Ten Degree Channel",
+        "as": "দশ অংশ প্ৰণালী"
       }
     ],
     "correct": 0,
@@ -487,8 +487,8 @@
     },
     "options": [
       {
-        "en": "The Coco Channel",
-        "as": "ক'ক' প্ৰণালী"
+        "en": "The Duncan Passage",
+        "as": "ডাংকান পেছেজ"
       },
       {
         "en": "The Ten Degree Channel",
@@ -499,11 +499,11 @@
         "as": "ন অংশ প্ৰণালী"
       },
       {
-        "en": "The Duncan Passage",
-        "as": "ডাংকান পেছেজ"
+        "en": "The Coco Channel",
+        "as": "ক'ক' প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Coco Channel",
       "as": "ক'ক' প্ৰণালী"
@@ -517,10 +517,6 @@
     },
     "options": [
       {
-        "en": "Adam's Bridge",
-        "as": "আদমৰ সেতু"
-      },
-      {
         "en": "The Nine Degree Channel",
         "as": "ন অংশ প্ৰণালী"
       },
@@ -531,9 +527,13 @@
       {
         "en": "The Gulf of Mannar",
         "as": "মন্নাৰ উপসাগৰ"
+      },
+      {
+        "en": "Adam's Bridge",
+        "as": "আদমৰ সেতু"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Adam's Bridge",
       "as": "আদমৰ সেতু"
@@ -555,12 +555,12 @@
         "as": "ফ্ৰান্স"
       },
       {
-        "en": "Spain",
-        "as": "স্পেইন"
-      },
-      {
         "en": "Britain",
         "as": "ব্ৰিটেইন"
+      },
+      {
+        "en": "Spain",
+        "as": "স্পেইন"
       }
     ],
     "correct": 0,
@@ -577,23 +577,23 @@
     },
     "options": [
       {
-        "en": "The Channel Tunnel",
-        "as": "চেনেল টানেল"
+        "en": "The Gotthard Tunnel",
+        "as": "গটহাৰ্ড সুৰংগ"
       },
       {
         "en": "The Seikan Tunnel",
         "as": "ছেইকান সুৰংগ"
       },
       {
-        "en": "The Gotthard Tunnel",
-        "as": "গটহাৰ্ড সুৰংগ"
-      },
-      {
         "en": "The Brenner Tunnel",
         "as": "ব্ৰেনাৰ সুৰংগ"
+      },
+      {
+        "en": "The Channel Tunnel",
+        "as": "চেনেল টানেল"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Channel Tunnel",
       "as": "চেনেল টানেল"
@@ -607,10 +607,6 @@
     },
     "options": [
       {
-        "en": "The Indian and the Pacific",
-        "as": "ভাৰত আৰু প্ৰশান্ত"
-      },
-      {
         "en": "The Atlantic and the Pacific",
         "as": "এটলাণ্টিক আৰু প্ৰশান্ত"
       },
@@ -621,9 +617,13 @@
       {
         "en": "The Arctic and the Atlantic",
         "as": "আৰ্কটিক আৰু এটলাণ্টিক"
+      },
+      {
+        "en": "The Indian and the Pacific",
+        "as": "ভাৰত আৰু প্ৰশান্ত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Indian and the Pacific",
       "as": "ভাৰত আৰু প্ৰশান্ত"
@@ -641,12 +641,12 @@
         "as": "লা পেৰুজ প্ৰণালী"
       },
       {
-        "en": "The Korea Strait",
-        "as": "কোৰিয়া প্ৰণালী"
-      },
-      {
         "en": "The Tsugaru Strait",
         "as": "ছুগাৰু প্ৰণালী"
+      },
+      {
+        "en": "The Korea Strait",
+        "as": "কোৰিয়া প্ৰণালী"
       },
       {
         "en": "The Bering Strait",
@@ -671,16 +671,16 @@
         "as": "এজিয়ান সাগৰ আৰু মাৰ্মাৰা সাগৰ"
       },
       {
+        "en": "The Red Sea and the Mediterranean",
+        "as": "ৰঙা সাগৰ আৰু ভূমধ্য সাগৰ"
+      },
+      {
         "en": "The Black Sea and the Aegean Sea",
         "as": "কৃষ্ণ সাগৰ আৰু এজিয়ান সাগৰ"
       },
       {
         "en": "The Adriatic and the Aegean",
         "as": "এড্ৰিয়াটিক আৰু এজিয়ান"
-      },
-      {
-        "en": "The Red Sea and the Mediterranean",
-        "as": "ৰঙা সাগৰ আৰু ভূমধ্য সাগৰ"
       }
     ],
     "correct": 0,
@@ -727,12 +727,12 @@
     },
     "options": [
       {
-        "en": "The Strait of Magellan",
-        "as": "মেগেলান প্ৰণালী"
-      },
-      {
         "en": "The Drake Passage",
         "as": "ড্ৰেক পেছেজ"
+      },
+      {
+        "en": "The Strait of Magellan",
+        "as": "মেগেলান প্ৰণালী"
       },
       {
         "en": "The Beagle Channel",
@@ -743,7 +743,7 @@
         "as": "পাক খাদ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Strait of Magellan",
       "as": "মেগেলান প্ৰণালী"
@@ -757,10 +757,6 @@
     },
     "options": [
       {
-        "en": "St George's Channel",
-        "as": "ছেইণ্ট জৰ্জ প্ৰণালী"
-      },
-      {
         "en": "The English Channel",
         "as": "ইংৰাজী চেনেল"
       },
@@ -771,9 +767,13 @@
       {
         "en": "The Dover Strait",
         "as": "ডভাৰ প্ৰণালী"
+      },
+      {
+        "en": "St George's Channel",
+        "as": "ছেইণ্ট জৰ্জ প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "St George's Channel",
       "as": "ছেইণ্ট জৰ্জ প্ৰণালী"
@@ -787,6 +787,10 @@
     },
     "options": [
       {
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
+      },
+      {
         "en": "The Corinth Canal",
         "as": "কৰিন্থ খাল"
       },
@@ -795,15 +799,11 @@
         "as": "কিল খাল"
       },
       {
-        "en": "The Suez Canal",
-        "as": "চুৱেজ খাল"
-      },
-      {
         "en": "The Panama Canal",
         "as": "পানামা খাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Corinth Canal",
       "as": "কৰিন্থ খাল"
@@ -817,12 +817,12 @@
     },
     "options": [
       {
-        "en": "The Grand Canal of China",
-        "as": "চীনৰ মহাখাল"
-      },
-      {
         "en": "The Suez Canal",
         "as": "চুৱেজ খাল"
+      },
+      {
+        "en": "The Grand Canal of China",
+        "as": "চীনৰ মহাখাল"
       },
       {
         "en": "The Panama Canal",
@@ -833,7 +833,7 @@
         "as": "কিল খাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Grand Canal of China",
       "as": "চীনৰ মহাখাল"
@@ -851,16 +851,16 @@
         "as": "ভল্গা-ডন খাল"
       },
       {
+        "en": "The White Sea Canal",
+        "as": "শ্বেত সাগৰ খাল"
+      },
+      {
         "en": "The Kiel Canal",
         "as": "কিল খাল"
       },
       {
         "en": "The Suez Canal",
         "as": "চুৱেজ খাল"
-      },
-      {
-        "en": "The White Sea Canal",
-        "as": "শ্বেত সাগৰ খাল"
       }
     ],
     "correct": 0,
@@ -877,10 +877,6 @@
     },
     "options": [
       {
-        "en": "The South China Sea",
-        "as": "দক্ষিণ চীন সাগৰ"
-      },
-      {
         "en": "The Mediterranean Sea",
         "as": "ভূমধ্য সাগৰ"
       },
@@ -889,11 +885,15 @@
         "as": "কেৰিবিয়ান সাগৰ"
       },
       {
+        "en": "The South China Sea",
+        "as": "দক্ষিণ চীন সাগৰ"
+      },
+      {
         "en": "The Bering Sea",
         "as": "বেৰিং সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The South China Sea",
       "as": "দক্ষিণ চীন সাগৰ"
@@ -907,23 +907,23 @@
     },
     "options": [
       {
-        "en": "The Strait of Tartary",
-        "as": "টাৰ্টাৰী প্ৰণালী"
+        "en": "The Korea Strait",
+        "as": "কোৰিয়া প্ৰণালী"
       },
       {
         "en": "The La Perouse Strait",
         "as": "লা পেৰুজ প্ৰণালী"
       },
       {
-        "en": "The Bering Strait",
-        "as": "বেৰিং প্ৰণালী"
+        "en": "The Strait of Tartary",
+        "as": "টাৰ্টাৰী প্ৰণালী"
       },
       {
-        "en": "The Korea Strait",
-        "as": "কোৰিয়া প্ৰণালী"
+        "en": "The Bering Strait",
+        "as": "বেৰিং প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Strait of Tartary",
       "as": "টাৰ্টাৰী প্ৰণালী"
@@ -937,23 +937,23 @@
     },
     "options": [
       {
-        "en": "The Denmark Strait",
-        "as": "ডেনমাৰ্ক প্ৰণালী"
-      },
-      {
-        "en": "The Davis Strait",
-        "as": "ডেভিছ প্ৰণালী"
-      },
-      {
         "en": "The Barents Sea",
         "as": "বেৰেণ্টছ সাগৰ"
       },
       {
         "en": "The Norwegian Sea",
         "as": "নৰৱেজিয়ান সাগৰ"
+      },
+      {
+        "en": "The Denmark Strait",
+        "as": "ডেনমাৰ্ক প্ৰণালী"
+      },
+      {
+        "en": "The Davis Strait",
+        "as": "ডেভিছ প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Denmark Strait",
       "as": "ডেনমাৰ্ক প্ৰণালী"
@@ -967,23 +967,23 @@
     },
     "options": [
       {
-        "en": "The Davis Strait",
-        "as": "ডেভিছ প্ৰণালী"
-      },
-      {
-        "en": "The Denmark Strait",
-        "as": "ডেনমাৰ্ক প্ৰণালী"
-      },
-      {
         "en": "The Nares Strait",
         "as": "নেৰেছ প্ৰণালী"
       },
       {
+        "en": "The Davis Strait",
+        "as": "ডেভিছ প্ৰণালী"
+      },
+      {
         "en": "The Hudson Strait",
         "as": "হাডছন প্ৰণালী"
+      },
+      {
+        "en": "The Denmark Strait",
+        "as": "ডেনমাৰ্ক প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Davis Strait",
       "as": "ডেভিছ প্ৰণালী"
@@ -997,23 +997,23 @@
     },
     "options": [
       {
-        "en": "The Tasman Sea",
-        "as": "টাছমেন সাগৰ"
-      },
-      {
-        "en": "The Coral Sea",
-        "as": "কৰেল সাগৰ"
-      },
-      {
         "en": "The Arafura Sea",
         "as": "আৰাফুৰা সাগৰ"
       },
       {
         "en": "The Timor Sea",
         "as": "টিমৰ সাগৰ"
+      },
+      {
+        "en": "The Coral Sea",
+        "as": "কৰেল সাগৰ"
+      },
+      {
+        "en": "The Tasman Sea",
+        "as": "টাছমেন সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Tasman Sea",
       "as": "টাছমেন সাগৰ"
@@ -1027,23 +1027,23 @@
     },
     "options": [
       {
-        "en": "The Yellow Sea",
-        "as": "হালধীয়া সাগৰ"
-      },
-      {
-        "en": "The Sea of Japan",
-        "as": "জাপান সাগৰ"
-      },
-      {
         "en": "The East China Sea",
         "as": "পূব চীন সাগৰ"
       },
       {
         "en": "The Sea of Okhotsk",
         "as": "অখটস্ক সাগৰ"
+      },
+      {
+        "en": "The Sea of Japan",
+        "as": "জাপান সাগৰ"
+      },
+      {
+        "en": "The Yellow Sea",
+        "as": "হালধীয়া সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Yellow Sea",
       "as": "হালধীয়া সাগৰ"
@@ -1061,12 +1061,12 @@
         "as": "ছাৰ্গাছ' সাগৰ"
       },
       {
-        "en": "The Dead Sea",
-        "as": "মৃত সাগৰ"
-      },
-      {
         "en": "The Caspian Sea",
         "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "The Dead Sea",
+        "as": "মৃত সাগৰ"
       },
       {
         "en": "The Aral Sea",
@@ -1087,23 +1087,23 @@
     },
     "options": [
       {
-        "en": "The Gulf of Mexico",
-        "as": "মেক্সিকো উপসাগৰ"
-      },
-      {
-        "en": "The Gulf of Guinea",
-        "as": "গিনি উপসাগৰ"
-      },
-      {
         "en": "The Persian Gulf",
         "as": "পাৰস্য উপসাগৰ"
       },
       {
         "en": "The Gulf of Aden",
         "as": "এডেন উপসাগৰ"
+      },
+      {
+        "en": "The Gulf of Mexico",
+        "as": "মেক্সিকো উপসাগৰ"
+      },
+      {
+        "en": "The Gulf of Guinea",
+        "as": "গিনি উপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Gulf of Mexico",
       "as": "মেক্সিকো উপসাগৰ"
@@ -1117,23 +1117,23 @@
     },
     "options": [
       {
-        "en": "Baffin Bay",
-        "as": "বাফিন উপহ্ৰদ"
+        "en": "Ungava Bay",
+        "as": "উংগাভা উপহ্ৰদ"
       },
       {
         "en": "Hudson Bay",
         "as": "হাডছন উপহ্ৰদ"
       },
       {
-        "en": "The Bay of Fundy",
-        "as": "ফাণ্ডি উপসাগৰ"
+        "en": "Baffin Bay",
+        "as": "বাফিন উপহ্ৰদ"
       },
       {
-        "en": "Ungava Bay",
-        "as": "উংগাভা উপহ্ৰদ"
+        "en": "The Bay of Fundy",
+        "as": "ফাণ্ডি উপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Baffin Bay",
       "as": "বাফিন উপহ্ৰদ"
@@ -1147,6 +1147,10 @@
     },
     "options": [
       {
+        "en": "The Arabian Sea",
+        "as": "আৰব সাগৰ"
+      },
+      {
         "en": "The Baltic Sea",
         "as": "বাল্টিক সাগৰ"
       },
@@ -1155,15 +1159,11 @@
         "as": "ৰঙা সাগৰ"
       },
       {
-        "en": "The Arabian Sea",
-        "as": "আৰব সাগৰ"
-      },
-      {
         "en": "The Mediterranean Sea",
         "as": "ভূমধ্য সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Baltic Sea",
       "as": "বাল্টিক সাগৰ"
@@ -1177,23 +1177,23 @@
     },
     "options": [
       {
-        "en": "The Gulf of Martaban",
-        "as": "মাৰ্টাবান উপসাগৰ"
-      },
-      {
         "en": "The Gulf of Thailand",
         "as": "থাইলেণ্ড উপসাগৰ"
       },
       {
-        "en": "The Gulf of Mannar",
-        "as": "মন্নাৰ উপসাগৰ"
+        "en": "The Gulf of Martaban",
+        "as": "মাৰ্টাবান উপসাগৰ"
       },
       {
         "en": "The Gulf of Aden",
         "as": "এডেন উপসাগৰ"
+      },
+      {
+        "en": "The Gulf of Mannar",
+        "as": "মন্নাৰ উপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Gulf of Martaban",
       "as": "মাৰ্টাবান উপসাগৰ"
@@ -1207,6 +1207,10 @@
     },
     "options": [
       {
+        "en": "The Caribbean Sea",
+        "as": "কেৰিবিয়ান সাগৰ"
+      },
+      {
         "en": "The Mediterranean Sea",
         "as": "ভূমধ্য সাগৰ"
       },
@@ -1215,15 +1219,11 @@
         "as": "বাল্টিক সাগৰ"
       },
       {
-        "en": "The Caribbean Sea",
-        "as": "কেৰিবিয়ান সাগৰ"
-      },
-      {
         "en": "The Red Sea",
         "as": "ৰঙা সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Mediterranean Sea",
       "as": "ভূমধ্য সাগৰ"
@@ -1237,23 +1237,23 @@
     },
     "options": [
       {
-        "en": "The Persian Gulf",
-        "as": "পাৰস্য উপসাগৰ"
-      },
-      {
-        "en": "The Gulf of Mexico",
-        "as": "মেক্সিকো উপসাগৰ"
-      },
-      {
         "en": "The Gulf of Guinea",
         "as": "গিনি উপসাগৰ"
       },
       {
         "en": "The Gulf of Aden",
         "as": "এডেন উপসাগৰ"
+      },
+      {
+        "en": "The Gulf of Mexico",
+        "as": "মেক্সিকো উপসাগৰ"
+      },
+      {
+        "en": "The Persian Gulf",
+        "as": "পাৰস্য উপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Persian Gulf",
       "as": "পাৰস্য উপসাগৰ"
@@ -1267,6 +1267,10 @@
     },
     "options": [
       {
+        "en": "The Kiel Canal",
+        "as": "কিল খাল"
+      },
+      {
         "en": "The Suez Canal",
         "as": "চুৱেজ খাল"
       },
@@ -1275,15 +1279,11 @@
         "as": "পানামা খাল"
       },
       {
-        "en": "The Kiel Canal",
-        "as": "কিল খাল"
-      },
-      {
         "en": "The Corinth Canal",
         "as": "কৰিন্থ খাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Suez Canal",
       "as": "চুৱেজ খাল"
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "The Bay of Bengal",
-        "as": "বঙ্গোপসাগৰ"
-      },
-      {
-        "en": "The Hudson Bay",
-        "as": "হাডছন উপহ্ৰদ"
-      },
-      {
         "en": "The Gulf of Mexico",
         "as": "মেক্সিকো উপসাগৰ"
       },
       {
         "en": "The Arabian Sea",
         "as": "আৰব সাগৰ"
+      },
+      {
+        "en": "The Hudson Bay",
+        "as": "হাডছন উপহ্ৰদ"
+      },
+      {
+        "en": "The Bay of Bengal",
+        "as": "বঙ্গোপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Bay of Bengal",
       "as": "বঙ্গোপসাগৰ"
@@ -1327,23 +1327,23 @@
     },
     "options": [
       {
-        "en": "The Bay of Bengal",
-        "as": "বঙ্গোপসাগৰ"
-      },
-      {
         "en": "The Arabian Sea",
         "as": "আৰব সাগৰ"
       },
       {
-        "en": "The Andaman Sea",
-        "as": "আন্দামান সাগৰ"
-      },
-      {
         "en": "The Gulf of Thailand",
         "as": "থাইলেণ্ড উপসাগৰ"
+      },
+      {
+        "en": "The Bay of Bengal",
+        "as": "বঙ্গোপসাগৰ"
+      },
+      {
+        "en": "The Andaman Sea",
+        "as": "আন্দামান সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Bay of Bengal",
       "as": "বঙ্গোপসাগৰ"
@@ -1357,23 +1357,23 @@
     },
     "options": [
       {
-        "en": "The Arabian Sea",
-        "as": "আৰব সাগৰ"
-      },
-      {
-        "en": "The Bay of Bengal",
-        "as": "বঙ্গোপসাগৰ"
-      },
-      {
         "en": "The Red Sea",
         "as": "ৰঙা সাগৰ"
       },
       {
         "en": "The Andaman Sea",
         "as": "আন্দামান সাগৰ"
+      },
+      {
+        "en": "The Arabian Sea",
+        "as": "আৰব সাগৰ"
+      },
+      {
+        "en": "The Bay of Bengal",
+        "as": "বঙ্গোপসাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Arabian Sea",
       "as": "আৰব সাগৰ"
@@ -1387,23 +1387,23 @@
     },
     "options": [
       {
-        "en": "The Strait of Gibraltar",
-        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
-      },
-      {
         "en": "The Bosphorus",
         "as": "ব'সফৰাছ"
       },
       {
-        "en": "The Strait of Messina",
-        "as": "মেছিনা প্ৰণালী"
+        "en": "The Strait of Gibraltar",
+        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
       },
       {
         "en": "The Dardanelles",
         "as": "দাৰ্দানেলছ"
+      },
+      {
+        "en": "The Strait of Messina",
+        "as": "মেছিনা প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Strait of Gibraltar",
       "as": "জিব্ৰাল্টাৰ প্ৰণালী"
@@ -1417,23 +1417,23 @@
     },
     "options": [
       {
-        "en": "The Lombok Strait",
-        "as": "লম্বক প্ৰণালী"
+        "en": "The Makassar Strait",
+        "as": "মাকাছাৰ প্ৰণালী"
       },
       {
         "en": "The Sunda Strait",
         "as": "সুন্দা প্ৰণালী"
       },
       {
-        "en": "The Makassar Strait",
-        "as": "মাকাছাৰ প্ৰণালী"
+        "en": "The Lombok Strait",
+        "as": "লম্বক প্ৰণালী"
       },
       {
         "en": "The Malacca Strait",
         "as": "মালাকা প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Lombok Strait",
       "as": "লম্বক প্ৰণালী"
@@ -1447,23 +1447,23 @@
     },
     "options": [
       {
-        "en": "The Bosphorus",
-        "as": "ব'সফৰাছ"
-      },
-      {
-        "en": "The Strait of Gibraltar",
-        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
-      },
-      {
         "en": "The Strait of Malacca",
         "as": "মালাকা প্ৰণালী"
       },
       {
+        "en": "The Bosphorus",
+        "as": "ব'সফৰাছ"
+      },
+      {
         "en": "The Palk Strait",
         "as": "পাক খাদ"
+      },
+      {
+        "en": "The Strait of Gibraltar",
+        "as": "জিব্ৰাল্টাৰ প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Bosphorus",
       "as": "ব'সফৰাছ"
@@ -1477,23 +1477,23 @@
     },
     "options": [
       {
-        "en": "The Caspian Sea",
-        "as": "কেছপিয়ান সাগৰ"
-      },
-      {
-        "en": "The Black Sea",
-        "as": "কৃষ্ণ সাগৰ"
+        "en": "The Dead Sea",
+        "as": "মৃত সাগৰ"
       },
       {
         "en": "The Aral Sea",
         "as": "আৰল সাগৰ"
       },
       {
-        "en": "The Dead Sea",
-        "as": "মৃত সাগৰ"
+        "en": "The Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "The Black Sea",
+        "as": "কৃষ্ণ সাগৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Caspian Sea",
       "as": "কেছপিয়ান সাগৰ"

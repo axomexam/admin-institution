@@ -7,8 +7,8 @@
     },
     "options": [
       {
-        "en": "Steppe",
-        "as": "ষ্টেপ"
+        "en": "Chernozem",
+        "as": "চাৰ্ন'জেম"
       },
       {
         "en": "Taiga",
@@ -19,11 +19,11 @@
         "as": "টুণ্ড্ৰা"
       },
       {
-        "en": "Chernozem",
-        "as": "চাৰ্ন'জেম"
+        "en": "Steppe",
+        "as": "ষ্টেপ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Steppe",
       "as": "ষ্টেপ"
@@ -41,12 +41,12 @@
         "as": "চাৰ্ন'জেম"
       },
       {
-        "en": "Laterite",
-        "as": "লেটেৰাইট"
-      },
-      {
         "en": "Podzol",
         "as": "পডজল"
+      },
+      {
+        "en": "Laterite",
+        "as": "লেটেৰাইট"
       },
       {
         "en": "Alluvial",
@@ -71,16 +71,16 @@
         "as": "ক'লা মাটি"
       },
       {
-        "en": "Red soil",
-        "as": "ৰঙা মাটি"
-      },
-      {
         "en": "Sandy soil",
         "as": "বালিময় মাটি"
       },
       {
         "en": "White earth",
         "as": "বগা মাটি"
+      },
+      {
+        "en": "Red soil",
+        "as": "ৰঙা মাটি"
       }
     ],
     "correct": 0,
@@ -97,23 +97,23 @@
     },
     "options": [
       {
-        "en": "The Prairie",
-        "as": "প্ৰেইৰি"
-      },
-      {
-        "en": "The Pampas",
-        "as": "পাম্পাছ"
-      },
-      {
         "en": "The Steppe",
         "as": "ষ্টেপ"
       },
       {
+        "en": "The Prairie",
+        "as": "প্ৰেইৰি"
+      },
+      {
         "en": "The Veld",
         "as": "ভেল্ড"
+      },
+      {
+        "en": "The Pampas",
+        "as": "পাম্পাছ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Prairie",
       "as": "প্ৰেইৰি"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "The temperate grassland of the interior plateau",
-        "as": "অভ্যন্তৰীণ মালভূমিৰ নাতিশীতোষ্ণ তৃণভূমি"
-      },
-      {
-        "en": "The tropical grassland of the coast",
-        "as": "উপকূলৰ ক্ৰান্তীয় তৃণভূমি"
+        "en": "The Mediterranean scrub",
+        "as": "ভূমধ্য সাগৰীয় জোপোহা"
       },
       {
         "en": "The desert of the Kalahari",
         "as": "কালাহাৰী মৰুভূমি"
       },
       {
-        "en": "The Mediterranean scrub",
-        "as": "ভূমধ্য সাগৰীয় জোপোহা"
+        "en": "The tropical grassland of the coast",
+        "as": "উপকূলৰ ক্ৰান্তীয় তৃণভূমি"
+      },
+      {
+        "en": "The temperate grassland of the interior plateau",
+        "as": "অভ্যন্তৰীণ মালভূমিৰ নাতিশীতোষ্ণ তৃণভূমি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The temperate grassland of the interior plateau",
       "as": "অভ্যন্তৰীণ মালভূমিৰ নাতিশীতোষ্ণ তৃণভূমি"
@@ -187,8 +187,8 @@
     },
     "options": [
       {
-        "en": "The wheat belt of the Great Plains",
-        "as": "মহান সমভূমিৰ ঘেঁহু বলয়"
+        "en": "The fruit belt of California",
+        "as": "কেলিফৰ্ণিয়াৰ ফল বলয়"
       },
       {
         "en": "The cotton belt of the south",
@@ -199,11 +199,11 @@
         "as": "উত্তৰ-পূবৰ গাখীৰ বলয়"
       },
       {
-        "en": "The fruit belt of California",
-        "as": "কেলিফৰ্ণিয়াৰ ফল বলয়"
+        "en": "The wheat belt of the Great Plains",
+        "as": "মহান সমভূমিৰ ঘেঁহু বলয়"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The wheat belt of the Great Plains",
       "as": "মহান সমভূমিৰ ঘেঁহু বলয়"
@@ -217,8 +217,8 @@
     },
     "options": [
       {
-        "en": "Russia",
-        "as": "ৰাছিয়া"
+        "en": "France",
+        "as": "ফ্ৰান্স"
       },
       {
         "en": "China",
@@ -229,11 +229,11 @@
         "as": "ভাৰত"
       },
       {
-        "en": "France",
-        "as": "ফ্ৰান্স"
+        "en": "Russia",
+        "as": "ৰাছিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Russia",
       "as": "ৰাছিয়া"
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "India",
-        "as": "ভাৰত"
-      },
-      {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "Thailand",
         "as": "থাইলেণ্ড"
       },
       {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
         "en": "Vietnam",
         "as": "ভিয়েটনাম"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "India",
       "as": "ভাৰত"
@@ -277,23 +277,23 @@
     },
     "options": [
       {
-        "en": "Indonesia",
-        "as": "ইণ্ডোনেছিয়া"
-      },
-      {
-        "en": "Malaysia",
-        "as": "মালয়েছিয়া"
-      },
-      {
         "en": "Thailand",
         "as": "থাইলেণ্ড"
       },
       {
         "en": "Nigeria",
         "as": "নাইজেৰিয়া"
+      },
+      {
+        "en": "Malaysia",
+        "as": "মালয়েছিয়া"
+      },
+      {
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Indonesia",
       "as": "ইণ্ডোনেছিয়া"
@@ -307,6 +307,10 @@
     },
     "options": [
       {
+        "en": "The cotton region of the south",
+        "as": "দক্ষিণৰ কপাহ অঞ্চল"
+      },
+      {
         "en": "The maize growing region of the Midwest",
         "as": "মধ্য-পশ্চিমৰ মাকৈ উৎপাদন অঞ্চল"
       },
@@ -315,15 +319,11 @@
         "as": "মহান সমভূমিৰ ঘেঁহু অঞ্চল"
       },
       {
-        "en": "The cotton region of the south",
-        "as": "দক্ষিণৰ কপাহ অঞ্চল"
-      },
-      {
         "en": "The dairy region of the north-east",
         "as": "উত্তৰ-পূবৰ গাখীৰ অঞ্চল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The maize growing region of the Midwest",
       "as": "মধ্য-পশ্চিমৰ মাকৈ উৎপাদন অঞ্চল"
@@ -337,23 +337,23 @@
     },
     "options": [
       {
-        "en": "Slash and burn agriculture",
-        "as": "কাটি-পুৰি খেতি"
+        "en": "Plantation agriculture",
+        "as": "বাগিচা খেতি"
       },
       {
         "en": "Terrace farming",
         "as": "কেৰঙা খেতি"
       },
       {
-        "en": "Plantation agriculture",
-        "as": "বাগিচা খেতি"
-      },
-      {
         "en": "Intensive farming",
         "as": "নিবিড় খেতি"
+      },
+      {
+        "en": "Slash and burn agriculture",
+        "as": "কাটি-পুৰি খেতি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Slash and burn agriculture",
       "as": "কাটি-পুৰি খেতি"
@@ -371,16 +371,16 @@
         "as": "উত্তৰ-পূব ভাৰতত প্ৰচলিত স্থানান্তৰিত খেতি"
       },
       {
-        "en": "Terrace farming of the Himalaya",
-        "as": "হিমালয়ৰ কেৰঙা খেতি"
+        "en": "Plantation farming of tea",
+        "as": "চাহৰ বাগিচা খেতি"
       },
       {
         "en": "Wet rice farming of the coast",
         "as": "উপকূলৰ তিতা ধান খেতি"
       },
       {
-        "en": "Plantation farming of tea",
-        "as": "চাহৰ বাগিচা খেতি"
+        "en": "Terrace farming of the Himalaya",
+        "as": "হিমালয়ৰ কেৰঙা খেতি"
       }
     ],
     "correct": 0,
@@ -401,16 +401,16 @@
         "as": "শীতল নাতিশীতোষ্ণ মণ্ডলৰ ক'নিফাৰাছ অৰণ্য"
       },
       {
+        "en": "River deltas",
+        "as": "নদীৰ ব-দ্বীপ"
+      },
+      {
         "en": "Tropical rainforests",
         "as": "ক্ৰান্তীয় বৰ্ষাৰণ্য"
       },
       {
         "en": "Hot deserts",
         "as": "উষ্ণ মৰুভূমি"
-      },
-      {
-        "en": "River deltas",
-        "as": "নদীৰ ব-দ্বীপ"
       }
     ],
     "correct": 0,
@@ -427,23 +427,23 @@
     },
     "options": [
       {
-        "en": "M. S. Swaminathan",
-        "as": "এম এছ স্বামীনাথন"
-      },
-      {
-        "en": "Verghese Kurien",
-        "as": "ভাৰ্গীজ কুৰিয়েন"
-      },
-      {
         "en": "Norman Borlaug",
         "as": "নৰ্মান বাৰ্লাগ"
       },
       {
         "en": "William Gaud",
         "as": "উইলিয়াম গাউড"
+      },
+      {
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
+      },
+      {
+        "en": "M. S. Swaminathan",
+        "as": "এম এছ স্বামীনাথন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "M. S. Swaminathan",
       "as": "এম এছ স্বামীনাথন"
@@ -457,6 +457,10 @@
     },
     "options": [
       {
+        "en": "M. S. Randhawa",
+        "as": "এম এছ ৰন্ধাৱা"
+      },
+      {
         "en": "Norman Borlaug",
         "as": "নৰ্মান বাৰ্লাগ"
       },
@@ -467,13 +471,9 @@
       {
         "en": "Verghese Kurien",
         "as": "ভাৰ্গীজ কুৰিয়েন"
-      },
-      {
-        "en": "M. S. Randhawa",
-        "as": "এম এছ ৰন্ধাৱা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Norman Borlaug",
       "as": "নৰ্মান বাৰ্লাগ"
@@ -487,23 +487,23 @@
     },
     "options": [
       {
-        "en": "Milk production",
-        "as": "গাখীৰ উৎপাদন"
-      },
-      {
-        "en": "Wheat production",
-        "as": "ঘেঁহু উৎপাদন"
-      },
-      {
         "en": "Fish production",
         "as": "মাছ উৎপাদন"
       },
       {
         "en": "Egg production",
         "as": "কণী উৎপাদন"
+      },
+      {
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
+      },
+      {
+        "en": "Wheat production",
+        "as": "ঘেঁহু উৎপাদন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Milk production",
       "as": "গাখীৰ উৎপাদন"
@@ -517,23 +517,23 @@
     },
     "options": [
       {
-        "en": "Verghese Kurien",
-        "as": "ভাৰ্গীজ কুৰিয়েন"
+        "en": "Sam Pitroda",
+        "as": "ছাম পিত্ৰদা"
       },
       {
         "en": "M. S. Swaminathan",
         "as": "এম এছ স্বামীনাথন"
       },
       {
-        "en": "Norman Borlaug",
-        "as": "নৰ্মান বাৰ্লাগ"
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
       },
       {
-        "en": "Sam Pitroda",
-        "as": "ছাম পিত্ৰদা"
+        "en": "Norman Borlaug",
+        "as": "নৰ্মান বাৰ্লাগ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Verghese Kurien",
       "as": "ভাৰ্গীজ কুৰিয়েন"
@@ -547,23 +547,23 @@
     },
     "options": [
       {
-        "en": "Potato production",
-        "as": "আলু উৎপাদন"
-      },
-      {
         "en": "Milk production",
         "as": "গাখীৰ উৎপাদন"
       },
       {
-        "en": "Fish production",
-        "as": "মাছ উৎপাদন"
-      },
-      {
         "en": "Wheat production",
         "as": "ঘেঁহু উৎপাদন"
+      },
+      {
+        "en": "Potato production",
+        "as": "আলু উৎপাদন"
+      },
+      {
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Potato production",
       "as": "আলু উৎপাদন"
@@ -577,23 +577,23 @@
     },
     "options": [
       {
-        "en": "Leather and cocoa production",
-        "as": "চামৰা আৰু ক'ক' উৎপাদন"
-      },
-      {
-        "en": "Milk production",
-        "as": "গাখীৰ উৎপাদন"
-      },
-      {
         "en": "Fish production",
         "as": "মাছ উৎপাদন"
       },
       {
         "en": "Oilseed production",
         "as": "তেলবীজ উৎপাদন"
+      },
+      {
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
+      },
+      {
+        "en": "Leather and cocoa production",
+        "as": "চামৰা আৰু ক'ক' উৎপাদন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Leather and cocoa production",
       "as": "চামৰা আৰু ক'ক' উৎপাদন"
@@ -607,23 +607,23 @@
     },
     "options": [
       {
-        "en": "Verghese Kurien",
-        "as": "ভাৰ্গীজ কুৰিয়েন"
+        "en": "Norman Borlaug",
+        "as": "নৰ্মান বাৰ্লাগ"
       },
       {
         "en": "M. S. Swaminathan",
         "as": "এম এছ স্বামীনাথন"
       },
       {
-        "en": "Norman Borlaug",
-        "as": "নৰ্মান বাৰ্লাগ"
-      },
-      {
         "en": "Sam Pitroda",
         "as": "ছাম পিত্ৰদা"
+      },
+      {
+        "en": "Verghese Kurien",
+        "as": "ভাৰ্গীজ কুৰিয়েন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Verghese Kurien",
       "as": "ভাৰ্গীজ কুৰিয়েন"
@@ -645,12 +645,12 @@
         "as": "মাছ উৎপাদন"
       },
       {
-        "en": "Milk production",
-        "as": "গাখীৰ উৎপাদন"
-      },
-      {
         "en": "Wheat production",
         "as": "ঘেঁহু উৎপাদন"
+      },
+      {
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       }
     ],
     "correct": 0,
@@ -671,16 +671,16 @@
         "as": "মিছা মাছ আৰু পিয়াঁজ উৎপাদন"
       },
       {
-        "en": "Milk production",
-        "as": "গাখীৰ উৎপাদন"
-      },
-      {
         "en": "Fish production",
         "as": "মাছ উৎপাদন"
       },
       {
         "en": "Oilseed production",
         "as": "তেলবীজ উৎপাদন"
+      },
+      {
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       }
     ],
     "correct": 0,
@@ -697,23 +697,23 @@
     },
     "options": [
       {
-        "en": "Egg and poultry production",
-        "as": "কণী আৰু পক্ষীপালন উৎপাদন"
+        "en": "Honey production",
+        "as": "মৌ উৎপাদন"
       },
       {
         "en": "Fish production",
         "as": "মাছ উৎপাদন"
       },
       {
-        "en": "Milk production",
-        "as": "গাখীৰ উৎপাদন"
+        "en": "Egg and poultry production",
+        "as": "কণী আৰু পক্ষীপালন উৎপাদন"
       },
       {
-        "en": "Honey production",
-        "as": "মৌ উৎপাদন"
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Egg and poultry production",
       "as": "কণী আৰু পক্ষীপালন উৎপাদন"
@@ -727,10 +727,6 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
       },
@@ -739,11 +735,15 @@
         "as": "জাপান"
       },
       {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
         "en": "Italy",
         "as": "ইটালী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "China",
       "as": "চীন"
@@ -757,6 +757,10 @@
     },
     "options": [
       {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
         "en": "Assam",
         "as": "অসম"
       },
@@ -767,13 +771,9 @@
       {
         "en": "Tamil Nadu",
         "as": "তামিলনাডু"
-      },
-      {
-        "en": "Kerala",
-        "as": "কেৰালা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Assam",
       "as": "অসম"
@@ -787,23 +787,23 @@
     },
     "options": [
       {
-        "en": "Rice",
-        "as": "ধান"
-      },
-      {
-        "en": "Wheat",
-        "as": "ঘেঁহু"
-      },
-      {
         "en": "Cotton",
         "as": "কপাহ"
       },
       {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
         "en": "Sugarcane",
         "as": "কুঁহিয়াৰ"
+      },
+      {
+        "en": "Wheat",
+        "as": "ঘেঁহু"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Rice",
       "as": "ধান"
@@ -817,6 +817,10 @@
     },
     "options": [
       {
+        "en": "Wool",
+        "as": "ঊণ"
+      },
+      {
         "en": "Jute",
         "as": "পাট"
       },
@@ -827,13 +831,9 @@
       {
         "en": "Silk",
         "as": "ৰেছম"
-      },
-      {
-        "en": "Wool",
-        "as": "ঊণ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Jute",
       "as": "পাট"
@@ -847,23 +847,23 @@
     },
     "options": [
       {
-        "en": "West Bengal",
-        "as": "পশ্চিম বংগ"
-      },
-      {
         "en": "Bihar",
         "as": "বিহাৰ"
       },
       {
-        "en": "Assam",
-        "as": "অসম"
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
       },
       {
         "en": "Odisha",
         "as": "ওড়িশা"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "West Bengal",
       "as": "পশ্চিম বংগ"
@@ -877,6 +877,10 @@
     },
     "options": [
       {
+        "en": "Growing crops without water",
+        "as": "পানী নোহোৱাকৈ শস্য খেতি"
+      },
+      {
         "en": "Shifting from grain farming to other crops and allied activities",
         "as": "শস্য খেতিৰ পৰা অন্য শস্য আৰু সহায়ক কাৰ্যলৈ যোৱা"
       },
@@ -885,15 +889,11 @@
         "as": "কেৱল এটা শস্য খেতি"
       },
       {
-        "en": "Growing crops without water",
-        "as": "পানী নোহোৱাকৈ শস্য খেতি"
-      },
-      {
         "en": "Importing all crops",
         "as": "সকলো শস্য আমদানি"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Shifting from grain farming to other crops and allied activities",
       "as": "শস্য খেতিৰ পৰা অন্য শস্য আৰু সহায়ক কাৰ্যলৈ যোৱা"
@@ -915,12 +915,12 @@
         "as": "চুক্তি নোহোৱাকৈ ভাড়া মাটিত খেতি"
       },
       {
-        "en": "Farming only for self consumption",
-        "as": "কেৱল নিজৰ ব্যৱহাৰৰ বাবে খেতি"
-      },
-      {
         "en": "Farming without seeds",
         "as": "বীজ নোহোৱাকৈ খেতি"
+      },
+      {
+        "en": "Farming only for self consumption",
+        "as": "কেৱল নিজৰ ব্যৱহাৰৰ বাবে খেতি"
       }
     ],
     "correct": 0,
@@ -945,12 +945,12 @@
         "as": "পৰম্পৰাগত সঁজুলিৰে খেতি"
       },
       {
-        "en": "Farming only in greenhouses",
-        "as": "কেৱল গ্ৰীণহাউছত খেতি"
-      },
-      {
         "en": "Farming without any planning",
         "as": "কোনো পৰিকল্পনা নোহোৱা খেতি"
+      },
+      {
+        "en": "Farming only in greenhouses",
+        "as": "কেৱল গ্ৰীণহাউছত খেতি"
       }
     ],
     "correct": 0,
@@ -967,23 +967,23 @@
     },
     "options": [
       {
-        "en": "Farming without synthetic fertilisers and pesticides",
-        "as": "কৃত্ৰিম সাৰ আৰু কীটনাশক নোহোৱাকৈ খেতি"
+        "en": "Farming without soil",
+        "as": "মাটি নোহোৱাকৈ খেতি"
       },
       {
         "en": "Farming with maximum chemicals",
         "as": "সৰ্বাধিক ৰাসায়নিকৰ সৈতে খেতি"
       },
       {
-        "en": "Farming only genetically modified crops",
-        "as": "কেৱল জিনীয় ৰূপান্তৰিত শস্যৰ খেতি"
+        "en": "Farming without synthetic fertilisers and pesticides",
+        "as": "কৃত্ৰিম সাৰ আৰু কীটনাশক নোহোৱাকৈ খেতি"
       },
       {
-        "en": "Farming without soil",
-        "as": "মাটি নোহোৱাকৈ খেতি"
+        "en": "Farming only genetically modified crops",
+        "as": "কেৱল জিনীয় ৰূপান্তৰিত শস্যৰ খেতি"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Farming without synthetic fertilisers and pesticides",
       "as": "কৃত্ৰিম সাৰ আৰু কীটনাশক নোহোৱাকৈ খেতি"
@@ -997,23 +997,23 @@
     },
     "options": [
       {
-        "en": "Sowing crops without ploughing the field",
-        "as": "পথাৰ হাল নবহাকৈ শস্য ৰোৱা"
+        "en": "Ploughing only once a year",
+        "as": "বছৰত মাত্ৰ এবাৰ হালবোৱা"
       },
       {
         "en": "Ploughing the field many times",
         "as": "পথাৰ বহুবাৰ হালবোৱা"
       },
       {
-        "en": "Ploughing only once a year",
-        "as": "বছৰত মাত্ৰ এবাৰ হালবোৱা"
-      },
-      {
         "en": "Ploughing without a tractor",
         "as": "ট্ৰেক্টৰ নোহোৱাকৈ হালবোৱা"
+      },
+      {
+        "en": "Sowing crops without ploughing the field",
+        "as": "পথাৰ হাল নবহাকৈ শস্য ৰোৱা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Sowing crops without ploughing the field",
       "as": "পথাৰ হাল নবহাকৈ শস্য ৰোৱা"
@@ -1027,23 +1027,23 @@
     },
     "options": [
       {
-        "en": "Conserving and managing water and land within a drainage basin",
-        "as": "নিষ্কাশন অৱবাহিকাৰ ভিতৰত পানী আৰু মাটি সংৰক্ষণ আৰু পৰিচালনা"
+        "en": "Digging wells only",
+        "as": "কেৱল কুঁৱা খনন"
       },
       {
         "en": "Building dams only",
         "as": "কেৱল বান্ধ নিৰ্মাণ"
       },
       {
-        "en": "Digging wells only",
-        "as": "কেৱল কুঁৱা খনন"
+        "en": "Conserving and managing water and land within a drainage basin",
+        "as": "নিষ্কাশন অৱবাহিকাৰ ভিতৰত পানী আৰু মাটি সংৰক্ষণ আৰু পৰিচালনা"
       },
       {
         "en": "Flooding fields",
         "as": "পথাৰত পানী ভৰোৱা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Conserving and managing water and land within a drainage basin",
       "as": "নিষ্কাশন অৱবাহিকাৰ ভিতৰত পানী আৰু মাটি সংৰক্ষণ আৰু পৰিচালনা"
@@ -1061,12 +1061,12 @@
         "as": "এখন পথাৰত বছৰত খেতি কৰা শস্যৰ সংখ্যা"
       },
       {
-        "en": "The weight of a crop harvest",
-        "as": "শস্য চপোৱাৰ ওজন"
-      },
-      {
         "en": "The price of a crop",
         "as": "শস্যৰ মূল্য"
+      },
+      {
+        "en": "The weight of a crop harvest",
+        "as": "শস্য চপোৱাৰ ওজন"
       },
       {
         "en": "The area under one crop",
@@ -1091,16 +1091,16 @@
         "as": "উত্তৰ প্ৰদেশ"
       },
       {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
         "en": "Punjab",
         "as": "পাঞ্জাব"
       },
       {
         "en": "Haryana",
         "as": "হাৰিয়ানা"
-      },
-      {
-        "en": "Madhya Pradesh",
-        "as": "মধ্য প্ৰদেশ"
       }
     ],
     "correct": 0,
@@ -1117,23 +1117,23 @@
     },
     "options": [
       {
-        "en": "West Bengal",
-        "as": "পশ্চিম বংগ"
-      },
-      {
         "en": "Punjab",
         "as": "পাঞ্জাব"
       },
       {
-        "en": "Uttar Pradesh",
-        "as": "উত্তৰ প্ৰদেশ"
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
       },
       {
         "en": "Andhra Pradesh",
         "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "West Bengal",
       "as": "পশ্চিম বংগ"
@@ -1147,23 +1147,23 @@
     },
     "options": [
       {
-        "en": "Gujarat",
-        "as": "গুজৰাট"
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
       },
       {
         "en": "Maharashtra",
         "as": "মহাৰাষ্ট্ৰ"
       },
       {
-        "en": "Punjab",
-        "as": "পাঞ্জাব"
+        "en": "Gujarat",
+        "as": "গুজৰাট"
       },
       {
-        "en": "Rajasthan",
-        "as": "ৰাজস্থান"
+        "en": "Punjab",
+        "as": "পাঞ্জাব"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Gujarat",
       "as": "গুজৰাট"
@@ -1181,16 +1181,16 @@
         "as": "উত্তৰ প্ৰদেশ"
       },
       {
-        "en": "Maharashtra",
-        "as": "মহাৰাষ্ট্ৰ"
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
       },
       {
         "en": "Karnataka",
         "as": "কৰ্ণাটক"
       },
       {
-        "en": "Tamil Nadu",
-        "as": "তামিলনাডু"
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
       }
     ],
     "correct": 0,
@@ -1215,12 +1215,12 @@
         "as": "পাম্পাছ"
       },
       {
-        "en": "The Veld",
-        "as": "ভেল্ড"
-      },
-      {
         "en": "The Steppe",
         "as": "ষ্টেপ"
+      },
+      {
+        "en": "The Veld",
+        "as": "ভেল্ড"
       }
     ],
     "correct": 0,
@@ -1237,23 +1237,23 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
         "en": "Australia",
         "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "India",
-        "as": "ভাৰত"
+        "en": "China",
+        "as": "চীন"
       },
       {
         "en": "New Zealand",
         "as": "নিউজিলেণ্ড"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "China",
       "as": "চীন"
@@ -1267,12 +1267,12 @@
     },
     "options": [
       {
-        "en": "The Great Lakes",
-        "as": "মহান হ্ৰদসমূহ"
-      },
-      {
         "en": "The Gulf of Mexico",
         "as": "মেক্সিকো উপসাগৰ"
+      },
+      {
+        "en": "The Great Lakes",
+        "as": "মহান হ্ৰদসমূহ"
       },
       {
         "en": "The Rocky Mountains",
@@ -1283,7 +1283,7 @@
         "as": "প্ৰশান্ত উপকূল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Great Lakes",
       "as": "মহান হ্ৰদসমূহ"
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "USA",
-        "as": "আমেৰিকা"
-      },
-      {
         "en": "China",
         "as": "চীন"
       },
       {
-        "en": "Brazil",
-        "as": "ব্ৰাজিল"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
+      },
+      {
+        "en": "USA",
+        "as": "আমেৰিকা"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "USA",
       "as": "আমেৰিকা"
@@ -1327,23 +1327,23 @@
     },
     "options": [
       {
-        "en": "India",
-        "as": "ভাৰত"
+        "en": "China",
+        "as": "চীন"
       },
       {
         "en": "USA",
         "as": "আমেৰিকা"
       },
       {
-        "en": "China",
-        "as": "চীন"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
         "en": "Brazil",
         "as": "ব্ৰাজিল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "India",
       "as": "ভাৰত"
@@ -1357,8 +1357,8 @@
     },
     "options": [
       {
-        "en": "India",
-        "as": "ভাৰত"
+        "en": "Myanmar",
+        "as": "ম্যানমাৰ"
       },
       {
         "en": "Canada",
@@ -1369,11 +1369,11 @@
         "as": "চীন"
       },
       {
-        "en": "Myanmar",
-        "as": "ম্যানমাৰ"
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "India",
       "as": "ভাৰত"
@@ -1387,23 +1387,23 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
       },
       {
         "en": "Kenya",
         "as": "কেনিয়া"
       },
       {
-        "en": "Sri Lanka",
-        "as": "শ্ৰীলংকা"
+        "en": "China",
+        "as": "চীন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "China",
       "as": "চীন"
@@ -1417,23 +1417,23 @@
     },
     "options": [
       {
-        "en": "Brazil",
-        "as": "ব্ৰাজিল"
-      },
-      {
-        "en": "Vietnam",
-        "as": "ভিয়েটনাম"
-      },
-      {
         "en": "Colombia",
         "as": "কলম্বিয়া"
       },
       {
         "en": "Indonesia",
         "as": "ইণ্ডোনেছিয়া"
+      },
+      {
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Brazil",
       "as": "ব্ৰাজিল"
@@ -1447,12 +1447,12 @@
     },
     "options": [
       {
-        "en": "Brazil",
-        "as": "ব্ৰাজিল"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
       },
       {
         "en": "China",
@@ -1463,7 +1463,7 @@
         "as": "থাইলেণ্ড"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Brazil",
       "as": "ব্ৰাজিল"
@@ -1477,23 +1477,23 @@
     },
     "options": [
       {
-        "en": "Thailand",
-        "as": "থাইলেণ্ড"
+        "en": "Malaysia",
+        "as": "মালয়েছিয়া"
       },
       {
-        "en": "India",
-        "as": "ভাৰত"
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
       },
       {
         "en": "Indonesia",
         "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "Malaysia",
-        "as": "মালয়েছিয়া"
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Thailand",
       "as": "থাইলেণ্ড"

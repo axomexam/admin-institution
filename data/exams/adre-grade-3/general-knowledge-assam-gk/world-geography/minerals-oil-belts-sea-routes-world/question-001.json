@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
       },
       {
-        "en": "USA",
-        "as": "আমেৰিকা"
-      },
-      {
         "en": "Australia",
         "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "USA",
+        "as": "আমেৰিকা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "China",
       "as": "চীন"
@@ -45,12 +45,12 @@
         "as": "চীন"
       },
       {
-        "en": "India",
-        "as": "ভাৰত"
-      },
-      {
         "en": "Russia",
         "as": "ৰাছিয়া"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
       }
     ],
     "correct": 0,
@@ -67,10 +67,6 @@
     },
     "options": [
       {
-        "en": "India",
-        "as": "ভাৰত"
-      },
-      {
         "en": "USA",
         "as": "আমেৰিকা"
       },
@@ -79,11 +75,15 @@
         "as": "ইণ্ডোনেছিয়া"
       },
       {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
         "en": "Australia",
         "as": "অষ্ট্ৰেলিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "India",
       "as": "ভাৰত"
@@ -97,23 +97,23 @@
     },
     "options": [
       {
-        "en": "Jharia",
-        "as": "ঝাৰিয়া"
-      },
-      {
         "en": "Raniganj",
         "as": "ৰাণীগঞ্জ"
+      },
+      {
+        "en": "Singrauli",
+        "as": "সিঙৰৌলি"
       },
       {
         "en": "Korba",
         "as": "কৰ্বা"
       },
       {
-        "en": "Singrauli",
-        "as": "সিঙৰৌলি"
+        "en": "Jharia",
+        "as": "ঝাৰিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Jharia",
       "as": "ঝাৰিয়া"
@@ -127,23 +127,23 @@
     },
     "options": [
       {
-        "en": "Australia",
-        "as": "অষ্ট্ৰেলিয়া"
+        "en": "China",
+        "as": "চীন"
       },
       {
         "en": "Brazil",
         "as": "ব্ৰাজিল"
       },
       {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "India",
         "as": "ভাৰত"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Australia",
       "as": "অষ্ট্ৰেলিয়া"
@@ -161,16 +161,16 @@
         "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "China",
-        "as": "চীন"
+        "en": "Russia",
+        "as": "ৰাছিয়া"
       },
       {
         "en": "India",
         "as": "ভাৰত"
       },
       {
-        "en": "Russia",
-        "as": "ৰাছিয়া"
+        "en": "China",
+        "as": "চীন"
       }
     ],
     "correct": 0,
@@ -187,8 +187,8 @@
     },
     "options": [
       {
-        "en": "Bauxite",
-        "as": "বক্সাইট"
+        "en": "Gypsum",
+        "as": "জিপছাম"
       },
       {
         "en": "Haematite",
@@ -199,11 +199,11 @@
         "as": "মেগনেটাইট"
       },
       {
-        "en": "Gypsum",
-        "as": "জিপছাম"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Bauxite",
       "as": "বক্সাইট"
@@ -221,16 +221,16 @@
         "as": "হিমেটাইট"
       },
       {
-        "en": "Bauxite",
-        "as": "বক্সাইট"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       },
       {
         "en": "Gypsum",
         "as": "জিপছাম"
       },
       {
-        "en": "Mica",
-        "as": "অভ্ৰ"
+        "en": "Bauxite",
+        "as": "বক্সাইট"
       }
     ],
     "correct": 0,
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "Limestone",
-        "as": "চূণশিলা"
+        "en": "Manganese",
+        "as": "মেংগানিজ"
       },
       {
         "en": "Bauxite",
         "as": "বক্সাইট"
       },
       {
-        "en": "Mica",
-        "as": "অভ্ৰ"
+        "en": "Limestone",
+        "as": "চূণশিলা"
       },
       {
-        "en": "Manganese",
-        "as": "মেংগানিজ"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Limestone",
       "as": "চূণশিলা"
@@ -277,12 +277,12 @@
     },
     "options": [
       {
-        "en": "Venezuela",
-        "as": "ভেনিজুৱেলা"
-      },
-      {
         "en": "Saudi Arabia",
         "as": "ছৌদি আৰব"
+      },
+      {
+        "en": "Venezuela",
+        "as": "ভেনিজুৱেলা"
       },
       {
         "en": "Iran",
@@ -293,7 +293,7 @@
         "as": "ইৰাক"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Venezuela",
       "as": "ভেনিজুৱেলা"
@@ -307,23 +307,23 @@
     },
     "options": [
       {
-        "en": "Russia",
-        "as": "ৰাছিয়া"
-      },
-      {
-        "en": "Iran",
-        "as": "ইৰাণ"
-      },
-      {
         "en": "Qatar",
         "as": "কাটাৰ"
       },
       {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      },
+      {
         "en": "Turkmenistan",
         "as": "তুৰ্কমেনিস্তান"
+      },
+      {
+        "en": "Iran",
+        "as": "ইৰাণ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Russia",
       "as": "ৰাছিয়া"
@@ -337,23 +337,23 @@
     },
     "options": [
       {
-        "en": "Mica",
-        "as": "অভ্ৰ"
-      },
-      {
-        "en": "Haematite",
-        "as": "হিমেটাইট"
-      },
-      {
         "en": "Gypsum",
         "as": "জিপছাম"
       },
       {
         "en": "Bauxite",
         "as": "বক্সাইট"
+      },
+      {
+        "en": "Haematite",
+        "as": "হিমেটাইট"
+      },
+      {
+        "en": "Mica",
+        "as": "অভ্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Mica",
       "as": "অভ্ৰ"
@@ -367,23 +367,23 @@
     },
     "options": [
       {
-        "en": "Gypsum",
-        "as": "জিপছাম"
+        "en": "Magnetite",
+        "as": "মেগনেটাইট"
       },
       {
-        "en": "Mica",
-        "as": "অভ্ৰ"
+        "en": "Gypsum",
+        "as": "জিপছাম"
       },
       {
         "en": "Bauxite",
         "as": "বক্সাইট"
       },
       {
-        "en": "Magnetite",
-        "as": "মেগনেটাইট"
+        "en": "Mica",
+        "as": "অভ্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Gypsum",
       "as": "জিপছাম"
@@ -397,10 +397,6 @@
     },
     "options": [
       {
-        "en": "Andhra Pradesh",
-        "as": "অন্ধ্ৰ প্ৰদেশ"
-      },
-      {
         "en": "Jharkhand",
         "as": "ঝাৰখণ্ড"
       },
@@ -411,9 +407,13 @@
       {
         "en": "Rajasthan",
         "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Andhra Pradesh",
       "as": "অন্ধ্ৰ প্ৰদেশ"
@@ -435,12 +435,12 @@
         "as": "পেৰু"
       },
       {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "USA",
         "as": "আমেৰিকা"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
       }
     ],
     "correct": 0,
@@ -461,16 +461,16 @@
         "as": "অষ্ট্ৰেলিয়া"
       },
       {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
         "en": "Guinea",
         "as": "গিনি"
       },
       {
         "en": "Brazil",
         "as": "ব্ৰাজিল"
-      },
-      {
-        "en": "China",
-        "as": "চীন"
       }
     ],
     "correct": 0,
@@ -487,8 +487,8 @@
     },
     "options": [
       {
-        "en": "Guinea",
-        "as": "গিনি"
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
       },
       {
         "en": "Australia",
@@ -499,11 +499,11 @@
         "as": "ব্ৰাজিল"
       },
       {
-        "en": "Vietnam",
-        "as": "ভিয়েটনাম"
+        "en": "Guinea",
+        "as": "গিনি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Guinea",
       "as": "গিনি"
@@ -521,16 +521,16 @@
         "as": "ৰাজস্থান"
       },
       {
-        "en": "Madhya Pradesh",
-        "as": "মধ্য প্ৰদেশ"
-      },
-      {
         "en": "Karnataka",
         "as": "কৰ্ণাটক"
       },
       {
         "en": "Gujarat",
         "as": "গুজৰাট"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
       }
     ],
     "correct": 0,
@@ -547,8 +547,8 @@
     },
     "options": [
       {
-        "en": "Mumbai High",
-        "as": "মুম্বাই হাই"
+        "en": "Rajasthan-Barmer",
+        "as": "ৰাজস্থান-বাৰ্মেৰ"
       },
       {
         "en": "Ankleshwar",
@@ -559,11 +559,11 @@
         "as": "নাহৰকটীয়া"
       },
       {
-        "en": "Rajasthan-Barmer",
-        "as": "ৰাজস্থান-বাৰ্মেৰ"
+        "en": "Mumbai High",
+        "as": "মুম্বাই হাই"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Mumbai High",
       "as": "মুম্বাই হাই"
@@ -581,12 +581,12 @@
         "as": "OPEC"
       },
       {
-        "en": "SAARC",
-        "as": "চাৰ্ক"
-      },
-      {
         "en": "ASEAN",
         "as": "আছিয়ান"
+      },
+      {
+        "en": "SAARC",
+        "as": "চাৰ্ক"
       },
       {
         "en": "BRICS",
@@ -611,16 +611,16 @@
         "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Chile",
-        "as": "চিলি"
-      },
-      {
         "en": "China",
         "as": "চীন"
       },
       {
         "en": "Argentina",
         "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "Chile",
+        "as": "চিলি"
       }
     ],
     "correct": 0,
@@ -637,23 +637,23 @@
     },
     "options": [
       {
-        "en": "Monazite sands",
-        "as": "ম'নাজাইট বালি"
-      },
-      {
         "en": "Bauxite",
         "as": "বক্সাইট"
+      },
+      {
+        "en": "Gypsum",
+        "as": "জিপছাম"
       },
       {
         "en": "Haematite",
         "as": "হিমেটাইট"
       },
       {
-        "en": "Gypsum",
-        "as": "জিপছাম"
+        "en": "Monazite sands",
+        "as": "ম'নাজাইট বালি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Monazite sands",
       "as": "ম'নাজাইট বালি"
@@ -667,10 +667,6 @@
     },
     "options": [
       {
-        "en": "Jharkhand",
-        "as": "ঝাৰখণ্ড"
-      },
-      {
         "en": "Odisha",
         "as": "ওড়িশা"
       },
@@ -681,9 +677,13 @@
       {
         "en": "West Bengal",
         "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Jharkhand",
       "as": "ঝাৰখণ্ড"
@@ -697,10 +697,6 @@
     },
     "options": [
       {
-        "en": "Odisha",
-        "as": "ওড়িশা"
-      },
-      {
         "en": "Jharkhand",
         "as": "ঝাৰখণ্ড"
       },
@@ -711,9 +707,13 @@
       {
         "en": "Karnataka",
         "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Odisha",
       "as": "ওড়িশা"
@@ -727,23 +727,23 @@
     },
     "options": [
       {
-        "en": "Rajasthan",
-        "as": "ৰাজস্থান"
+        "en": "Assam",
+        "as": "অসম"
       },
       {
         "en": "Gujarat",
         "as": "গুজৰাট"
       },
       {
-        "en": "Assam",
-        "as": "অসম"
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
       },
       {
         "en": "Andhra Pradesh",
         "as": "অন্ধ্ৰ প্ৰদেশ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Rajasthan",
       "as": "ৰাজস্থান"
@@ -761,12 +761,12 @@
         "as": "অসম"
       },
       {
-        "en": "Gujarat",
-        "as": "গুজৰাট"
-      },
-      {
         "en": "Andhra Pradesh",
         "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
       },
       {
         "en": "Tripura",
@@ -787,23 +787,23 @@
     },
     "options": [
       {
-        "en": "Iran and Oman",
-        "as": "ইৰাণ আৰু ওমান"
+        "en": "Saudi Arabia and Egypt",
+        "as": "ছৌদি আৰব আৰু ইজিপ্ত"
       },
       {
         "en": "Iraq and Kuwait",
         "as": "ইৰাক আৰু কুৱেইট"
       },
       {
-        "en": "Saudi Arabia and Egypt",
-        "as": "ছৌদি আৰব আৰু ইজিপ্ত"
-      },
-      {
         "en": "Qatar and Bahrain",
         "as": "কাটাৰ আৰু বাহৰেইন"
+      },
+      {
+        "en": "Iran and Oman",
+        "as": "ইৰাণ আৰু ওমান"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Iran and Oman",
       "as": "ইৰাণ আৰু ওমান"
@@ -817,23 +817,23 @@
     },
     "options": [
       {
-        "en": "The Suez Canal",
-        "as": "চুৱেজ খাল"
-      },
-      {
         "en": "The Panama Canal",
         "as": "পানামা খাল"
       },
       {
-        "en": "The Strait of Malacca",
-        "as": "মালাকা প্ৰণালী"
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
       },
       {
         "en": "The Kiel Canal",
         "as": "কিল খাল"
+      },
+      {
+        "en": "The Strait of Malacca",
+        "as": "মালাকা প্ৰণালী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Suez Canal",
       "as": "চুৱেজ খাল"
@@ -847,6 +847,10 @@
     },
     "options": [
       {
+        "en": "About 250 km",
+        "as": "প্ৰায় 250 কিলোমিটাৰ"
+      },
+      {
         "en": "About 193 km",
         "as": "প্ৰায় 193 কিলোমিটাৰ"
       },
@@ -855,15 +859,11 @@
         "as": "প্ৰায় 120 কিলোমিটাৰ"
       },
       {
-        "en": "About 250 km",
-        "as": "প্ৰায় 250 কিলোমিটাৰ"
-      },
-      {
         "en": "About 80 km",
         "as": "প্ৰায় 80 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 193 km",
       "as": "প্ৰায় 193 কিলোমিটাৰ"
@@ -881,12 +881,12 @@
         "as": "চুৱেজ খাল"
       },
       {
-        "en": "The Panama Canal",
-        "as": "পানামা খাল"
-      },
-      {
         "en": "The Kiel Canal",
         "as": "কিল খাল"
+      },
+      {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
       },
       {
         "en": "The Corinth Canal",
@@ -907,12 +907,12 @@
     },
     "options": [
       {
-        "en": "The Panama Canal",
-        "as": "পানামা খাল"
-      },
-      {
         "en": "The Suez Canal",
         "as": "চুৱেজ খাল"
+      },
+      {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
       },
       {
         "en": "The Kiel Canal",
@@ -923,7 +923,7 @@
         "as": "ভল্গা-ডন খাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Panama Canal",
       "as": "পানামা খাল"
@@ -937,23 +937,23 @@
     },
     "options": [
       {
-        "en": "Panama",
-        "as": "পানামা"
+        "en": "Colombia",
+        "as": "কলম্বিয়া"
       },
       {
         "en": "Costa Rica",
         "as": "কোষ্টা ৰিকা"
       },
       {
-        "en": "Nicaragua",
-        "as": "নিকাৰাগুৱা"
+        "en": "Panama",
+        "as": "পানামা"
       },
       {
-        "en": "Colombia",
-        "as": "কলম্বিয়া"
+        "en": "Nicaragua",
+        "as": "নিকাৰাগুৱা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Panama",
       "as": "পানামা"
@@ -971,16 +971,16 @@
         "as": "মালাকা প্ৰণালী"
       },
       {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
+      },
+      {
         "en": "The Strait of Hormuz",
         "as": "হৰমুজ প্ৰণালী"
       },
       {
         "en": "The Suez Canal",
         "as": "চুৱেজ খাল"
-      },
-      {
-        "en": "The Panama Canal",
-        "as": "পানামা খাল"
       }
     ],
     "correct": 0,
@@ -997,23 +997,23 @@
     },
     "options": [
       {
-        "en": "The Malay Peninsula and Sumatra",
-        "as": "মালয় উপদ্বীপ আৰু ছুমাত্ৰা"
+        "en": "India and Sri Lanka",
+        "as": "ভাৰত আৰু শ্ৰীলংকা"
       },
       {
         "en": "Java and Borneo",
         "as": "জাভা আৰু বৰ্ণিঅ'"
       },
       {
-        "en": "India and Sri Lanka",
-        "as": "ভাৰত আৰু শ্ৰীলংকা"
+        "en": "The Malay Peninsula and Sumatra",
+        "as": "মালয় উপদ্বীপ আৰু ছুমাত্ৰা"
       },
       {
         "en": "Australia and New Guinea",
         "as": "অষ্ট্ৰেলিয়া আৰু নিউ গিনি"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Malay Peninsula and Sumatra",
       "as": "মালয় উপদ্বীপ আৰু ছুমাত্ৰা"
@@ -1027,23 +1027,23 @@
     },
     "options": [
       {
-        "en": "Shanghai",
-        "as": "ছাংহাই"
-      },
-      {
         "en": "Singapore",
         "as": "ছিংগাপুৰ"
       },
       {
-        "en": "Rotterdam",
-        "as": "ৰটাৰ্ডাম"
-      },
-      {
         "en": "Ningbo-Zhoushan",
         "as": "নিংব'-ঝৌছান"
+      },
+      {
+        "en": "Shanghai",
+        "as": "ছাংহাই"
+      },
+      {
+        "en": "Rotterdam",
+        "as": "ৰটাৰ্ডাম"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Shanghai",
       "as": "ছাংহাই"
@@ -1057,23 +1057,23 @@
     },
     "options": [
       {
-        "en": "Rotterdam",
-        "as": "ৰটাৰ্ডাম"
-      },
-      {
-        "en": "Hamburg",
-        "as": "হামবাৰ্গ"
-      },
-      {
         "en": "Antwerp",
         "as": "এণ্টৱাৰ্প"
       },
       {
         "en": "Marseille",
         "as": "মাৰ্চেইল"
+      },
+      {
+        "en": "Hamburg",
+        "as": "হামবাৰ্গ"
+      },
+      {
+        "en": "Rotterdam",
+        "as": "ৰটাৰ্ডাম"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Rotterdam",
       "as": "ৰটাৰ্ডাম"
@@ -1087,23 +1087,23 @@
     },
     "options": [
       {
-        "en": "Mundra",
-        "as": "মুন্দ্ৰা"
-      },
-      {
-        "en": "Jawaharlal Nehru Port",
-        "as": "জৱাহৰলাল নেহৰু বন্দৰ"
+        "en": "Chennai",
+        "as": "চেন্নাই"
       },
       {
         "en": "Kolkata",
         "as": "কলকাতা"
       },
       {
-        "en": "Chennai",
-        "as": "চেন্নাই"
+        "en": "Jawaharlal Nehru Port",
+        "as": "জৱাহৰলাল নেহৰু বন্দৰ"
+      },
+      {
+        "en": "Mundra",
+        "as": "মুন্দ্ৰা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Mundra",
       "as": "মুন্দ্ৰা"
@@ -1117,23 +1117,23 @@
     },
     "options": [
       {
-        "en": "A shipping route along Russia's Arctic coast",
-        "as": "ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ"
-      },
-      {
         "en": "A route through the Suez Canal",
         "as": "চুৱেজ খালেদি যোৱা পথ"
       },
       {
-        "en": "A route across the Sahara",
-        "as": "চাহাৰাৰ মাজেদি যোৱা পথ"
-      },
-      {
         "en": "A route around Cape Horn",
         "as": "কেপ হৰ্ণৰ চাৰিওফালে যোৱা পথ"
+      },
+      {
+        "en": "A shipping route along Russia's Arctic coast",
+        "as": "ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ"
+      },
+      {
+        "en": "A route across the Sahara",
+        "as": "চাহাৰাৰ মাজেদি যোৱা পথ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A shipping route along Russia's Arctic coast",
       "as": "ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ"
@@ -1147,23 +1147,23 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
+        "en": "India",
+        "as": "ভাৰত"
       },
       {
         "en": "USA",
         "as": "আমেৰিকা"
       },
       {
-        "en": "India",
-        "as": "ভাৰত"
+        "en": "China",
+        "as": "চীন"
       },
       {
         "en": "Japan",
         "as": "জাপান"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "China",
       "as": "চীন"
@@ -1177,8 +1177,8 @@
     },
     "options": [
       {
-        "en": "Qatar",
-        "as": "কাটাৰ"
+        "en": "Russia",
+        "as": "ৰাছিয়া"
       },
       {
         "en": "Australia",
@@ -1189,11 +1189,11 @@
         "as": "আমেৰিকা"
       },
       {
-        "en": "Russia",
-        "as": "ৰাছিয়া"
+        "en": "Qatar",
+        "as": "কাটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Qatar",
       "as": "কাটাৰ"
@@ -1207,23 +1207,23 @@
     },
     "options": [
       {
-        "en": "Jamnagar in India",
-        "as": "ভাৰতৰ জামনগৰ"
-      },
-      {
-        "en": "Ras Tanura in Saudi Arabia",
-        "as": "ছৌদি আৰবৰ ৰাছ তানুৰা"
-      },
-      {
         "en": "Baytown in the USA",
         "as": "আমেৰিকাৰ বে'টাউন"
       },
       {
+        "en": "Jamnagar in India",
+        "as": "ভাৰতৰ জামনগৰ"
+      },
+      {
         "en": "Ulsan in South Korea",
         "as": "দক্ষিণ কোৰিয়াৰ উলছান"
+      },
+      {
+        "en": "Ras Tanura in Saudi Arabia",
+        "as": "ছৌদি আৰবৰ ৰাছ তানুৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Jamnagar in India",
       "as": "ভাৰতৰ জামনগৰ"
@@ -1241,12 +1241,12 @@
         "as": "হৰমুজ প্ৰণালী"
       },
       {
-        "en": "The Strait of Malacca",
-        "as": "মালাকা প্ৰণালী"
-      },
-      {
         "en": "The Bosphorus",
         "as": "ব'সফৰাছ"
+      },
+      {
+        "en": "The Strait of Malacca",
+        "as": "মালাকা প্ৰণালী"
       },
       {
         "en": "The Palk Strait",
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "Kazakhstan",
-        "as": "কাজাখাস্তান"
+        "en": "Namibia",
+        "as": "নামিবিয়া"
       },
       {
-        "en": "Canada",
-        "as": "কানাডা"
+        "en": "Kazakhstan",
+        "as": "কাজাখাস্তান"
       },
       {
         "en": "Australia",
         "as": "অষ্ট্ৰেলিয়া"
       },
       {
-        "en": "Namibia",
-        "as": "নামিবিয়া"
+        "en": "Canada",
+        "as": "কানাডা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Kazakhstan",
       "as": "কাজাখাস্তান"
@@ -1331,16 +1331,16 @@
         "as": "মেক্সিকো"
       },
       {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
         "en": "Peru",
         "as": "পেৰু"
       },
       {
         "en": "China",
         "as": "চীন"
-      },
-      {
-        "en": "Australia",
-        "as": "অষ্ট্ৰেলিয়া"
       }
     ],
     "correct": 0,
@@ -1357,23 +1357,23 @@
     },
     "options": [
       {
-        "en": "The Panama Canal",
-        "as": "পানামা খাল"
-      },
-      {
-        "en": "The Suez Canal",
-        "as": "চুৱেজ খাল"
-      },
-      {
         "en": "The Strait of Magellan",
         "as": "মেগেলান প্ৰণালী"
       },
       {
+        "en": "The Panama Canal",
+        "as": "পানামা খাল"
+      },
+      {
         "en": "The Drake Passage",
         "as": "ড্ৰেক পেছেজ"
+      },
+      {
+        "en": "The Suez Canal",
+        "as": "চুৱেজ খাল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Panama Canal",
       "as": "পানামা খাল"
@@ -1391,16 +1391,16 @@
         "as": "গুড হোপ কেপ"
       },
       {
+        "en": "Cape York",
+        "as": "কেপ য়ৰ্ক"
+      },
+      {
         "en": "Cape Horn",
         "as": "কেপ হৰ্ণ"
       },
       {
         "en": "Cape Comorin",
         "as": "কেপ ক'মৰিন"
-      },
-      {
-        "en": "Cape York",
-        "as": "কেপ য়ৰ্ক"
       }
     ],
     "correct": 0,
@@ -1417,10 +1417,6 @@
     },
     "options": [
       {
-        "en": "The Dardanelles-Bosphorus route",
-        "as": "দাৰ্দানেলছ-ব'সফৰাছ পথ"
-      },
-      {
         "en": "The Suez Canal",
         "as": "চুৱেজ খাল"
       },
@@ -1429,11 +1425,15 @@
         "as": "কিল খাল"
       },
       {
+        "en": "The Dardanelles-Bosphorus route",
+        "as": "দাৰ্দানেলছ-ব'সফৰাছ পথ"
+      },
+      {
         "en": "The Corinth Canal",
         "as": "কৰিন্থ খাল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Dardanelles-Bosphorus route",
       "as": "দাৰ্দানেলছ-ব'সফৰাছ পথ"
@@ -1447,23 +1447,23 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
+        "en": "Myanmar",
+        "as": "ম্যানমাৰ"
       },
       {
         "en": "Indonesia",
         "as": "ইণ্ডোনেছিয়া"
       },
       {
-        "en": "Myanmar",
-        "as": "ম্যানমাৰ"
-      },
-      {
         "en": "Peru",
         "as": "পেৰু"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "China",
       "as": "চীন"
@@ -1477,12 +1477,12 @@
     },
     "options": [
       {
-        "en": "China",
-        "as": "চীন"
-      },
-      {
         "en": "Peru",
         "as": "পেৰু"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
       },
       {
         "en": "Australia",
@@ -1493,7 +1493,7 @@
         "as": "ভাৰত"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "China",
       "as": "চীন"

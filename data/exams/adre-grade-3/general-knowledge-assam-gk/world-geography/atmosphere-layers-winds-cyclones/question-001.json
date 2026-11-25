@@ -37,23 +37,23 @@
     },
     "options": [
       {
-        "en": "Over the equator",
-        "as": "বিষুবৰেখাৰ ওপৰত"
-      },
-      {
-        "en": "Over the poles",
-        "as": "মেৰু অঞ্চলৰ ওপৰত"
-      },
-      {
         "en": "Over the mid-latitudes",
         "as": "মধ্যম অক্ষাংশৰ ওপৰত"
       },
       {
         "en": "Over the Sahara desert",
         "as": "চাহাৰা মৰুভূমিৰ ওপৰত"
+      },
+      {
+        "en": "Over the poles",
+        "as": "মেৰু অঞ্চলৰ ওপৰত"
+      },
+      {
+        "en": "Over the equator",
+        "as": "বিষুবৰেখাৰ ওপৰত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Over the equator",
       "as": "বিষুবৰেখাৰ ওপৰত"
@@ -67,23 +67,23 @@
     },
     "options": [
       {
-        "en": "Ozone absorbs ultraviolet radiation",
-        "as": "অ'জনে অতিবেঙুনীয়া ৰশ্মি শোষণ কৰে"
-      },
-      {
-        "en": "Carbon dioxide traps heat",
-        "as": "কাৰ্বন ডাই-অক্সাইডে তাপ ধৰি ৰাখে"
-      },
-      {
         "en": "Water vapour releases latent heat",
         "as": "জলীয় বাষ্পই লেটেণ্ট তাপ এৰি দিয়ে"
       },
       {
+        "en": "Ozone absorbs ultraviolet radiation",
+        "as": "অ'জনে অতিবেঙুনীয়া ৰশ্মি শোষণ কৰে"
+      },
+      {
         "en": "Air pressure increases with height",
         "as": "উচ্চতাৰ লগে লগে বায়ুচাপ বৃদ্ধি পায়"
+      },
+      {
+        "en": "Carbon dioxide traps heat",
+        "as": "কাৰ্বন ডাই-অক্সাইডে তাপ ধৰি ৰাখে"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Ozone absorbs ultraviolet radiation",
       "as": "অ'জনে অতিবেঙুনীয়া ৰশ্মি শোষণ কৰে"
@@ -97,23 +97,23 @@
     },
     "options": [
       {
-        "en": "At the mesopause",
-        "as": "মেছ'পজত"
-      },
-      {
         "en": "At the tropopause",
         "as": "ট্ৰ'প'পজত"
       },
       {
-        "en": "At the stratopause",
-        "as": "ষ্ট্ৰেট'পজত"
+        "en": "At the mesopause",
+        "as": "মেছ'পজত"
       },
       {
         "en": "At the exosphere",
         "as": "এক্স'স্ফিয়াৰত"
+      },
+      {
+        "en": "At the stratopause",
+        "as": "ষ্ট্ৰেট'পজত"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "At the mesopause",
       "as": "মেছ'পজত"
@@ -127,23 +127,23 @@
     },
     "options": [
       {
-        "en": "About 1500 °C",
-        "as": "প্ৰায় 1500 °C"
+        "en": "About 50 °C",
+        "as": "প্ৰায় 50 °C"
       },
       {
         "en": "About 100 °C",
         "as": "প্ৰায় 100 °C"
       },
       {
-        "en": "About 300 °C",
-        "as": "প্ৰায় 300 °C"
+        "en": "About 1500 °C",
+        "as": "প্ৰায় 1500 °C"
       },
       {
-        "en": "About 50 °C",
-        "as": "প্ৰায় 50 °C"
+        "en": "About 300 °C",
+        "as": "প্ৰায় 300 °C"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "About 1500 °C",
       "as": "প্ৰায় 1500 °C"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "About 500 km",
-        "as": "প্ৰায় 500 কিলোমিটাৰ"
-      },
-      {
-        "en": "About 50 km",
-        "as": "প্ৰায় 50 কিলোমিটাৰ"
+        "en": "About 12 km",
+        "as": "প্ৰায় 12 কিলোমিটাৰ"
       },
       {
         "en": "About 80 km",
         "as": "প্ৰায় 80 কিলোমিটাৰ"
       },
       {
-        "en": "About 12 km",
-        "as": "প্ৰায় 12 কিলোমিটাৰ"
+        "en": "About 500 km",
+        "as": "প্ৰায় 500 কিলোমিটাৰ"
+      },
+      {
+        "en": "About 50 km",
+        "as": "প্ৰায় 50 কিলোমিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "About 500 km",
       "as": "প্ৰায় 500 কিলোমিটাৰ"
@@ -191,16 +191,16 @@
         "as": "প্ৰায় 80 কিলোমিটাৰ পৰ্যন্ত নিম্ন বায়ুমণ্ডল, য'ত গেছবোৰ সমানভাৱে মিহলি হৈ থাকে"
       },
       {
+        "en": "The layer where weather occurs",
+        "as": "য'ত বতাহ-পানীৰ পৰিৱৰ্তন হয় সেই স্তৰ"
+      },
+      {
         "en": "The layer above 80 km where gases separate by weight",
         "as": "80 কিলোমিটাৰৰ ওপৰৰ স্তৰ, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
       },
       {
         "en": "The layer where ozone is concentrated",
         "as": "য'ত অ'জন ঘনীভূত হয় সেই স্তৰ"
-      },
-      {
-        "en": "The layer where weather occurs",
-        "as": "য'ত বতাহ-পানীৰ পৰিৱৰ্তন হয় সেই স্তৰ"
       }
     ],
     "correct": 0,
@@ -217,23 +217,23 @@
     },
     "options": [
       {
-        "en": "The upper atmosphere above 80 km where gases separate by weight",
-        "as": "80 কিলোমিটাৰৰ ওপৰৰ উচ্চ বায়ুমণ্ডল, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
-      },
-      {
         "en": "The lower atmosphere up to 80 km",
         "as": "80 কিলোমিটাৰ পৰ্যন্ত নিম্ন বায়ুমণ্ডল"
       },
       {
-        "en": "The ozone-rich layer",
-        "as": "অ'জনযুক্ত স্তৰ"
+        "en": "The upper atmosphere above 80 km where gases separate by weight",
+        "as": "80 কিলোমিটাৰৰ ওপৰৰ উচ্চ বায়ুমণ্ডল, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
       },
       {
         "en": "The layer of charged particles",
         "as": "আধানযুক্ত কণিকাৰ স্তৰ"
+      },
+      {
+        "en": "The ozone-rich layer",
+        "as": "অ'জনযুক্ত স্তৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The upper atmosphere above 80 km where gases separate by weight",
       "as": "80 কিলোমিটাৰৰ ওপৰৰ উচ্চ বায়ুমণ্ডল, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "Dobson Unit",
-        "as": "ডবছন একক"
-      },
-      {
         "en": "Richter Unit",
         "as": "ৰিখটাৰ একক"
       },
       {
-        "en": "Beaufort Unit",
-        "as": "বিউফ'ৰ্ট একক"
+        "en": "Dobson Unit",
+        "as": "ডবছন একক"
       },
       {
         "en": "Newton Unit",
         "as": "নিউটন একক"
+      },
+      {
+        "en": "Beaufort Unit",
+        "as": "বিউফ'ৰ্ট একক"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Dobson Unit",
       "as": "ডবছন একক"
@@ -277,12 +277,12 @@
     },
     "options": [
       {
-        "en": "About 300 Dobson Units",
-        "as": "প্ৰায় 300 ডবছন একক"
-      },
-      {
         "en": "About 30 Dobson Units",
         "as": "প্ৰায় 30 ডবছন একক"
+      },
+      {
+        "en": "About 300 Dobson Units",
+        "as": "প্ৰায় 300 ডবছন একক"
       },
       {
         "en": "About 3000 Dobson Units",
@@ -293,7 +293,7 @@
         "as": "প্ৰায় 100 ডবছন একক"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "About 300 Dobson Units",
       "as": "প্ৰায় 300 ডবছন একক"
@@ -307,23 +307,23 @@
     },
     "options": [
       {
-        "en": "Nitrogen",
-        "as": "নাইট্ৰ'জেন"
-      },
-      {
         "en": "Oxygen",
         "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
       },
       {
         "en": "Argon",
         "as": "আৰ্গন"
       },
       {
-        "en": "Carbon dioxide",
-        "as": "কাৰ্বন ডাই-অক্সাইড"
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Nitrogen",
       "as": "নাইট্ৰ'জেন"
@@ -337,10 +337,6 @@
     },
     "options": [
       {
-        "en": "0.93 per cent",
-        "as": "0.93 শতাংশ"
-      },
-      {
         "en": "9.3 per cent",
         "as": "9.3 শতাংশ"
       },
@@ -351,9 +347,13 @@
       {
         "en": "1.93 per cent",
         "as": "1.93 শতাংশ"
+      },
+      {
+        "en": "0.93 per cent",
+        "as": "0.93 শতাংশ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "0.93 per cent",
       "as": "0.93 শতাংশ"
@@ -371,16 +371,16 @@
         "as": "নাইট্ৰ'জেন আৰু অক্সিজেন"
       },
       {
-        "en": "Oxygen and argon",
-        "as": "অক্সিজেন আৰু আৰ্গন"
+        "en": "Oxygen and water vapour",
+        "as": "অক্সিজেন আৰু জলীয় বাষ্প"
       },
       {
         "en": "Nitrogen and carbon dioxide",
         "as": "নাইট্ৰ'জেন আৰু কাৰ্বন ডাই-অক্সাইড"
       },
       {
-        "en": "Oxygen and water vapour",
-        "as": "অক্সিজেন আৰু জলীয় বাষ্প"
+        "en": "Oxygen and argon",
+        "as": "অক্সিজেন আৰু আৰ্গন"
       }
     ],
     "correct": 0,
@@ -401,16 +401,16 @@
         "as": "প্ৰায় 8 কিলোমিটাৰ"
       },
       {
-        "en": "About 18 km",
-        "as": "প্ৰায় 18 কিলোমিটাৰ"
+        "en": "About 25 km",
+        "as": "প্ৰায় 25 কিলোমিটাৰ"
       },
       {
         "en": "About 12 km",
         "as": "প্ৰায় 12 কিলোমিটাৰ"
       },
       {
-        "en": "About 25 km",
-        "as": "প্ৰায় 25 কিলোমিটাৰ"
+        "en": "About 18 km",
+        "as": "প্ৰায় 18 কিলোমিটাৰ"
       }
     ],
     "correct": 0,
@@ -431,16 +431,16 @@
         "as": "ষ্ট্ৰেট'পজ"
       },
       {
-        "en": "Tropopause",
-        "as": "ট্ৰ'প'পজ"
-      },
-      {
         "en": "Mesopause",
         "as": "মেছ'পজ"
       },
       {
         "en": "Thermopause",
         "as": "থাৰ্ম'পজ"
+      },
+      {
+        "en": "Tropopause",
+        "as": "ট্ৰ'প'পজ"
       }
     ],
     "correct": 0,
@@ -457,23 +457,23 @@
     },
     "options": [
       {
-        "en": "The westerlies",
-        "as": "পশ্চিমীয়া বতাহ"
+        "en": "The monsoons",
+        "as": "মৌচুমী বতাহ"
       },
       {
-        "en": "The trade winds",
-        "as": "বাণিজ্যিক বতাহ"
+        "en": "The westerlies",
+        "as": "পশ্চিমীয়া বতাহ"
       },
       {
         "en": "The polar easterlies",
         "as": "মেৰু পূবীয়া বতাহ"
       },
       {
-        "en": "The monsoons",
-        "as": "মৌচুমী বতাহ"
+        "en": "The trade winds",
+        "as": "বাণিজ্যিক বতাহ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The westerlies",
       "as": "পশ্চিমীয়া বতাহ"
@@ -487,10 +487,6 @@
     },
     "options": [
       {
-        "en": "30° and 60° in both hemispheres",
-        "as": "উভয় গোলাৰ্ধত 30° আৰু 60°"
-      },
-      {
         "en": "0° and 30° in both hemispheres",
         "as": "উভয় গোলাৰ্ধত 0° আৰু 30°"
       },
@@ -501,9 +497,13 @@
       {
         "en": "10° and 40° in both hemispheres",
         "as": "উভয় গোলাৰ্ধত 10° আৰু 40°"
+      },
+      {
+        "en": "30° and 60° in both hemispheres",
+        "as": "উভয় গোলাৰ্ধত 30° আৰু 60°"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "30° and 60° in both hemispheres",
       "as": "উভয় গোলাৰ্ধত 30° আৰু 60°"
@@ -517,23 +517,23 @@
     },
     "options": [
       {
-        "en": "Cold winds blowing from the polar high towards the subpolar low",
-        "as": "মেৰু উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বোৱা ঠাণ্ডা বতাহ"
-      },
-      {
-        "en": "Warm winds blowing towards the equator",
-        "as": "বিষুবৰেখালৈ বোৱা উষ্ণ বতাহ"
-      },
-      {
         "en": "Winds blowing from the subtropical high to the equator",
         "as": "উপক্ৰান্তীয় উচ্চচাপৰ পৰা বিষুবৰেখালৈ বোৱা বতাহ"
       },
       {
+        "en": "Cold winds blowing from the polar high towards the subpolar low",
+        "as": "মেৰু উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বোৱা ঠাণ্ডা বতাহ"
+      },
+      {
         "en": "Seasonal winds of the Indian Ocean",
         "as": "ভাৰত মহাসাগৰৰ ঋতুভিত্তিক বতাহ"
+      },
+      {
+        "en": "Warm winds blowing towards the equator",
+        "as": "বিষুবৰেখালৈ বোৱা উষ্ণ বতাহ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Cold winds blowing from the polar high towards the subpolar low",
       "as": "মেৰু উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বোৱা ঠাণ্ডা বতাহ"
@@ -551,12 +551,12 @@
         "as": "বিষুবীয় নিম্নচাপ বলয়"
       },
       {
-        "en": "The subtropical high pressure belt",
-        "as": "উপক্ৰান্তীয় উচ্চচাপ বলয়"
-      },
-      {
         "en": "The subpolar low pressure belt",
         "as": "উপমেৰু নিম্নচাপ বলয়"
+      },
+      {
+        "en": "The subtropical high pressure belt",
+        "as": "উপক্ৰান্তীয় উচ্চচাপ বলয়"
       },
       {
         "en": "The polar high pressure belt",
@@ -577,8 +577,8 @@
     },
     "options": [
       {
-        "en": "Because the sun's vertical rays shift north",
-        "as": "কাৰণ সূৰ্যৰ লম্ব ৰশ্মি উত্তৰলৈ সৰি যায়"
+        "en": "Because the polar vortex weakens",
+        "as": "কাৰণ মেৰু ঘূৰ্ণন দুৰ্বল হয়"
       },
       {
         "en": "Because the ocean currents reverse",
@@ -589,11 +589,11 @@
         "as": "কাৰণ অ'জন স্তৰ ডাঠ হয়"
       },
       {
-        "en": "Because the polar vortex weakens",
-        "as": "কাৰণ মেৰু ঘূৰ্ণন দুৰ্বল হয়"
+        "en": "Because the sun's vertical rays shift north",
+        "as": "কাৰণ সূৰ্যৰ লম্ব ৰশ্মি উত্তৰলৈ সৰি যায়"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Because the sun's vertical rays shift north",
       "as": "কাৰণ সূৰ্যৰ লম্ব ৰশ্মি উত্তৰলৈ সৰি যায়"
@@ -607,23 +607,23 @@
     },
     "options": [
       {
-        "en": "The Hadley cell",
-        "as": "হেডলি কোষ"
-      },
-      {
-        "en": "The Ferrel cell",
-        "as": "ফেৰেল কোষ"
-      },
-      {
         "en": "The polar cell",
         "as": "মেৰু কোষ"
       },
       {
         "en": "The Walker cell",
         "as": "ৱাকাৰ কোষ"
+      },
+      {
+        "en": "The Ferrel cell",
+        "as": "ফেৰেল কোষ"
+      },
+      {
+        "en": "The Hadley cell",
+        "as": "হেডলি কোষ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Hadley cell",
       "as": "হেডলি কোষ"
@@ -637,6 +637,10 @@
     },
     "options": [
       {
+        "en": "Hadley, Walker and Rossby cells",
+        "as": "হেডলি, ৱাকাৰ আৰু ৰছবি কোষ"
+      },
+      {
         "en": "Hadley, Ferrel and Polar cells",
         "as": "হেডলি, ফেৰেল আৰু মেৰু কোষ"
       },
@@ -645,15 +649,11 @@
         "as": "ৱাকাৰ, মৌচুমী আৰু বাণিজ্যিক কোষ"
       },
       {
-        "en": "Hadley, Walker and Rossby cells",
-        "as": "হেডলি, ৱাকাৰ আৰু ৰছবি কোষ"
-      },
-      {
         "en": "Ferrel, Polar and Jet cells",
         "as": "ফেৰেল, মেৰু আৰু জেট কোষ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Hadley, Ferrel and Polar cells",
       "as": "হেডলি, ফেৰেল আৰু মেৰু কোষ"
@@ -667,23 +667,23 @@
     },
     "options": [
       {
-        "en": "A low level cross-equatorial jet that strengthens the Indian summer monsoon",
-        "as": "ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক শক্তিশালী কৰা নিম্নস্তৰৰ বিষুব-পাৰগামী প্ৰবাহ"
+        "en": "A cold wind of the Sahara",
+        "as": "চাহাৰাৰ ঠাণ্ডা বতাহ"
       },
       {
         "en": "A high altitude wind over the Arctic",
         "as": "আৰ্কটিকৰ ওপৰৰ উচ্চস্তৰৰ বতাহ"
       },
       {
-        "en": "A cold wind of the Sahara",
-        "as": "চাহাৰাৰ ঠাণ্ডা বতাহ"
-      },
-      {
         "en": "A current of the Indian Ocean",
         "as": "ভাৰত মহাসাগৰৰ সোঁত"
+      },
+      {
+        "en": "A low level cross-equatorial jet that strengthens the Indian summer monsoon",
+        "as": "ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক শক্তিশালী কৰা নিম্নস্তৰৰ বিষুব-পাৰগামী প্ৰবাহ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A low level cross-equatorial jet that strengthens the Indian summer monsoon",
       "as": "ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক শক্তিশালী কৰা নিম্নস্তৰৰ বিষুব-পাৰগামী প্ৰবাহ"
@@ -727,23 +727,23 @@
     },
     "options": [
       {
-        "en": "A spell when monsoon rainfall stops over most of India",
-        "as": "এনে সময় য'ত ভাৰতৰ বেছিভাগ অংশত মৌচুমী বৰষুণ বন্ধ হৈ যায়"
+        "en": "A period of heavy rainfall",
+        "as": "অতিভাৰী বৰষুণৰ সময়"
       },
       {
-        "en": "The beginning of the monsoon",
-        "as": "মৌচুমীৰ আৰম্ভণি"
+        "en": "A spell when monsoon rainfall stops over most of India",
+        "as": "এনে সময় য'ত ভাৰতৰ বেছিভাগ অংশত মৌচুমী বৰষুণ বন্ধ হৈ যায়"
       },
       {
         "en": "The withdrawal of the monsoon",
         "as": "মৌচুমীৰ প্ৰত্যাৱৰ্তন"
       },
       {
-        "en": "A period of heavy rainfall",
-        "as": "অতিভাৰী বৰষুণৰ সময়"
+        "en": "The beginning of the monsoon",
+        "as": "মৌচুমীৰ আৰম্ভণি"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A spell when monsoon rainfall stops over most of India",
       "as": "এনে সময় য'ত ভাৰতৰ বেছিভাগ অংশত মৌচুমী বৰষুণ বন্ধ হৈ যায়"
@@ -761,16 +761,16 @@
         "as": "দক্ষিণ ভাৰত মহাসাগৰৰ উচ্চচাপ কোষ, যি বিষুব-পাৰগামী মৌচুমী প্ৰবাহ চলায়"
       },
       {
-        "en": "A mountain range in Africa",
-        "as": "আফ্ৰিকাৰ পৰ্বতমালা"
+        "en": "A desert wind of Arabia",
+        "as": "আৰবৰ মৰুভূমিৰ বতাহ"
       },
       {
         "en": "A cyclone of the Bay of Bengal",
         "as": "বঙ্গোপসাগৰৰ ঘূৰ্ণীবতাহ"
       },
       {
-        "en": "A desert wind of Arabia",
-        "as": "আৰবৰ মৰুভূমিৰ বতাহ"
+        "en": "A mountain range in Africa",
+        "as": "আফ্ৰিকাৰ পৰ্বতমালা"
       }
     ],
     "correct": 0,
@@ -787,23 +787,23 @@
     },
     "options": [
       {
-        "en": "The Mistral",
-        "as": "মিষ্ট্ৰাল"
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
       },
       {
         "en": "The Sirocco",
         "as": "ছিৰকো"
       },
       {
-        "en": "The Harmattan",
-        "as": "হাৰ্মাটান"
-      },
-      {
         "en": "The Chinook",
         "as": "চিনুক"
+      },
+      {
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Mistral",
       "as": "মিষ্ট্ৰাল"
@@ -821,12 +821,12 @@
         "as": "ব'ৰা"
       },
       {
-        "en": "The Mistral",
-        "as": "মিষ্ট্ৰাল"
-      },
-      {
         "en": "The Zonda",
         "as": "জণ্ডা"
+      },
+      {
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       },
       {
         "en": "The Berg wind",
@@ -851,16 +851,16 @@
         "as": "ছিৰকো"
       },
       {
-        "en": "The Mistral",
-        "as": "মিষ্ট্ৰাল"
-      },
-      {
         "en": "The Bora",
         "as": "ব'ৰা"
       },
       {
         "en": "The Harmattan",
         "as": "হাৰ্মাটান"
+      },
+      {
+        "en": "The Mistral",
+        "as": "মিষ্ট্ৰাল"
       }
     ],
     "correct": 0,
@@ -877,8 +877,8 @@
     },
     "options": [
       {
-        "en": "The Harmattan",
-        "as": "হাৰ্মাটান"
+        "en": "The Bora",
+        "as": "ব'ৰা"
       },
       {
         "en": "The Sirocco",
@@ -889,11 +889,11 @@
         "as": "খামচিন"
       },
       {
-        "en": "The Bora",
-        "as": "ব'ৰা"
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Harmattan",
       "as": "হাৰ্মাটান"
@@ -907,23 +907,23 @@
     },
     "options": [
       {
-        "en": "The Berg wind",
-        "as": "বাৰ্গ বতাহ"
-      },
-      {
         "en": "The Zonda",
         "as": "জণ্ডা"
       },
       {
-        "en": "The Sirocco",
-        "as": "ছিৰকো"
+        "en": "The Berg wind",
+        "as": "বাৰ্গ বতাহ"
       },
       {
         "en": "The Mistral",
         "as": "মিষ্ট্ৰাল"
+      },
+      {
+        "en": "The Sirocco",
+        "as": "ছিৰকো"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Berg wind",
       "as": "বাৰ্গ বতাহ"
@@ -937,23 +937,23 @@
     },
     "options": [
       {
-        "en": "The Zonda",
-        "as": "জণ্ডা"
-      },
-      {
-        "en": "The Berg wind",
-        "as": "বাৰ্গ বতাহ"
+        "en": "The Fohn",
+        "as": "ফন"
       },
       {
         "en": "The Chinook",
         "as": "চিনুক"
       },
       {
-        "en": "The Fohn",
-        "as": "ফন"
+        "en": "The Berg wind",
+        "as": "বাৰ্গ বতাহ"
+      },
+      {
+        "en": "The Zonda",
+        "as": "জণ্ডা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Zonda",
       "as": "জণ্ডা"
@@ -967,6 +967,10 @@
     },
     "options": [
       {
+        "en": "The Harmattan",
+        "as": "হাৰ্মাটান"
+      },
+      {
         "en": "The Santa Ana",
         "as": "ছাণ্টা আনা"
       },
@@ -975,15 +979,11 @@
         "as": "জণ্ডা"
       },
       {
-        "en": "The Harmattan",
-        "as": "হাৰ্মাটান"
-      },
-      {
         "en": "The Bora",
         "as": "ব'ৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Santa Ana",
       "as": "ছাণ্টা আনা"
@@ -997,23 +997,23 @@
     },
     "options": [
       {
-        "en": "At the equator",
-        "as": "বিষুবৰেখাত"
+        "en": "At the poles",
+        "as": "মেৰুত"
       },
       {
         "en": "At 30° latitude",
         "as": "30° অক্ষাংশত"
       },
       {
-        "en": "At the poles",
-        "as": "মেৰুত"
+        "en": "At the equator",
+        "as": "বিষুবৰেখাত"
       },
       {
         "en": "At 60° latitude",
         "as": "60° অক্ষাংশত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "At the equator",
       "as": "বিষুবৰেখাত"
@@ -1027,8 +1027,8 @@
     },
     "options": [
       {
-        "en": "A wind that blows parallel to the isobars with pressure gradient balanced by the Coriolis force",
-        "as": "এনে বতাহ যি সমচাপ ৰেখাৰ সমান্তৰালভাৱে বয়, য'ত চাপ-প্ৰৱণতা কৰিঅ'লিছ বলৰ দ্বাৰা ভাৰসাম্যত থাকে"
+        "en": "A wind that reverses every season",
+        "as": "প্ৰতি ঋতুত দিশ সলনি কৰা বতাহ"
       },
       {
         "en": "A wind that blows directly from high to low pressure",
@@ -1039,11 +1039,11 @@
         "as": "কেৱল মহাসাগৰৰ ওপৰত বোৱা বতাহ"
       },
       {
-        "en": "A wind that reverses every season",
-        "as": "প্ৰতি ঋতুত দিশ সলনি কৰা বতাহ"
+        "en": "A wind that blows parallel to the isobars with pressure gradient balanced by the Coriolis force",
+        "as": "এনে বতাহ যি সমচাপ ৰেখাৰ সমান্তৰালভাৱে বয়, য'ত চাপ-প্ৰৱণতা কৰিঅ'লিছ বলৰ দ্বাৰা ভাৰসাম্যত থাকে"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A wind that blows parallel to the isobars with pressure gradient balanced by the Coriolis force",
       "as": "এনে বতাহ যি সমচাপ ৰেখাৰ সমান্তৰালভাৱে বয়, য'ত চাপ-প্ৰৱণতা কৰিঅ'লিছ বলৰ দ্বাৰা ভাৰসাম্যত থাকে"
@@ -1057,6 +1057,10 @@
     },
     "options": [
       {
+        "en": "Wind always blows from the sea",
+        "as": "বতাহ সদায় সাগৰৰ পৰা বয়"
+      },
+      {
         "en": "In the Northern Hemisphere, with your back to the wind, low pressure lies to your left",
         "as": "উত্তৰ গোলাৰ্ধত বতাহলৈ পিঠি দি থিয় হ'লে নিম্নচাপ বাওঁফালে থাকে"
       },
@@ -1065,15 +1069,11 @@
         "as": "নিম্নচাপ সদায় পূবে থাকে"
       },
       {
-        "en": "Wind always blows from the sea",
-        "as": "বতাহ সদায় সাগৰৰ পৰা বয়"
-      },
-      {
         "en": "Pressure is the same everywhere",
         "as": "সৰ্বত্ৰ চাপ একে থাকে"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "In the Northern Hemisphere, with your back to the wind, low pressure lies to your left",
       "as": "উত্তৰ গোলাৰ্ধত বতাহলৈ পিঠি দি থিয় হ'লে নিম্নচাপ বাওঁফালে থাকে"
@@ -1087,23 +1087,23 @@
     },
     "options": [
       {
-        "en": "A high pressure system with winds diverging outwards",
-        "as": "বাহিৰলৈ অপসাৰী বতাহযুক্ত উচ্চচাপ পদ্ধতি"
-      },
-      {
         "en": "A low pressure system with winds converging inwards",
         "as": "ভিতৰলৈ অভিসাৰী বতাহযুক্ত নিম্নচাপ পদ্ধতি"
       },
       {
-        "en": "A tornado over the sea",
-        "as": "সাগৰৰ ওপৰৰ টৰ্ণেড'"
-      },
-      {
         "en": "A cold front",
         "as": "এক ঠাণ্ডা সম্মুখভাগ"
+      },
+      {
+        "en": "A high pressure system with winds diverging outwards",
+        "as": "বাহিৰলৈ অপসাৰী বতাহযুক্ত উচ্চচাপ পদ্ধতি"
+      },
+      {
+        "en": "A tornado over the sea",
+        "as": "সাগৰৰ ওপৰৰ টৰ্ণেড'"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A high pressure system with winds diverging outwards",
       "as": "বাহিৰলৈ অপসাৰী বতাহযুক্ত উচ্চচাপ পদ্ধতি"
@@ -1151,16 +1151,16 @@
         "as": "হাৰিকেনৰ তীব্ৰতা"
       },
       {
+        "en": "The depth of the ocean",
+        "as": "মহাসাগৰৰ গভীৰতা"
+      },
+      {
         "en": "The intensity of earthquakes",
         "as": "ভূমিকম্পৰ তীব্ৰতা"
       },
       {
         "en": "The intensity of rainfall",
         "as": "বৰষুণৰ পৰিমাণ"
-      },
-      {
-        "en": "The depth of the ocean",
-        "as": "মহাসাগৰৰ গভীৰতা"
       }
     ],
     "correct": 0,
@@ -1177,10 +1177,6 @@
     },
     "options": [
       {
-        "en": "222 km per hour and above",
-        "as": "প্ৰতি ঘণ্টাত 222 কিলোমিটাৰ আৰু তাতোধিক"
-      },
-      {
         "en": "120 km per hour and above",
         "as": "প্ৰতি ঘণ্টাত 120 কিলোমিটাৰ আৰু তাতোধিক"
       },
@@ -1191,9 +1187,13 @@
       {
         "en": "90 km per hour and above",
         "as": "প্ৰতি ঘণ্টাত 90 কিলোমিটাৰ আৰু তাতোধিক"
+      },
+      {
+        "en": "222 km per hour and above",
+        "as": "প্ৰতি ঘণ্টাত 222 কিলোমিটাৰ আৰু তাতোধিক"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "222 km per hour and above",
       "as": "প্ৰতি ঘণ্টাত 222 কিলোমিটাৰ আৰু তাতোধিক"
@@ -1207,10 +1207,6 @@
     },
     "options": [
       {
-        "en": "The 1999 Odisha Super Cyclone",
-        "as": "১৯৯৯ চনৰ ওড়িশা চুপাৰ ঘূৰ্ণীবতাহ"
-      },
-      {
         "en": "The 1977 Andhra cyclone",
         "as": "১৯৭৭ চনৰ অন্ধ্ৰ ঘূৰ্ণীবতাহ"
       },
@@ -1219,11 +1215,15 @@
         "as": "১৯৯০ চনৰ অন্ধ্ৰ ঘূৰ্ণীবতাহ"
       },
       {
+        "en": "The 1999 Odisha Super Cyclone",
+        "as": "১৯৯৯ চনৰ ওড়িশা চুপাৰ ঘূৰ্ণীবতাহ"
+      },
+      {
         "en": "The 2013 Phailin",
         "as": "২০১৩ চনৰ ফাইলিন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The 1999 Odisha Super Cyclone",
       "as": "১৯৯৯ চনৰ ওড়িশা চুপাৰ ঘূৰ্ণীবতাহ"
@@ -1245,12 +1245,12 @@
         "as": "মহাসাগৰীয় সোঁতৰ শক্তি"
       },
       {
-        "en": "The height of waves",
-        "as": "তৰংগৰ উচ্চতা"
-      },
-      {
         "en": "The amount of snowfall",
         "as": "বৰফপাতৰ পৰিমাণ"
+      },
+      {
+        "en": "The height of waves",
+        "as": "তৰংগৰ উচ্চতা"
       }
     ],
     "correct": 0,
@@ -1271,16 +1271,16 @@
         "as": "বজ্ৰধ্বনি-ধুমুহাৰ পৰা ভূমিলৈ বিস্তৃত হোৱা প্ৰচণ্ড ঘূৰ্ণনশীল বায়ুস্তম্ভ"
       },
       {
-        "en": "A large ocean wave",
-        "as": "এক বিশাল মহাসাগৰীয় তৰংগ"
-      },
-      {
         "en": "A high pressure system",
         "as": "এক উচ্চচাপ পদ্ধতি"
       },
       {
         "en": "A cold air mass",
         "as": "এক ঠাণ্ডা বায়ুৰাশি"
+      },
+      {
+        "en": "A large ocean wave",
+        "as": "এক বিশাল মহাসাগৰীয় তৰংগ"
       }
     ],
     "correct": 0,
@@ -1297,23 +1297,23 @@
     },
     "options": [
       {
-        "en": "A tornado-like vortex that forms over water",
-        "as": "পানীৰ ওপৰত সৃষ্টি হোৱা টৰ্ণেড'ৰ দৰে ঘূৰ্ণন"
-      },
-      {
-        "en": "A strong ocean current",
-        "as": "এক প্ৰবল মহাসাগৰীয় সোঁত"
-      },
-      {
         "en": "A type of tidal wave",
         "as": "এক প্ৰকাৰৰ জোৱাৰ-তৰংগ"
       },
       {
         "en": "A cloud formation",
         "as": "এক ডাৱৰৰ গঠন"
+      },
+      {
+        "en": "A strong ocean current",
+        "as": "এক প্ৰবল মহাসাগৰীয় সোঁত"
+      },
+      {
+        "en": "A tornado-like vortex that forms over water",
+        "as": "পানীৰ ওপৰত সৃষ্টি হোৱা টৰ্ণেড'ৰ দৰে ঘূৰ্ণন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A tornado-like vortex that forms over water",
       "as": "পানীৰ ওপৰত সৃষ্টি হোৱা টৰ্ণেড'ৰ দৰে ঘূৰ্ণন"
@@ -1327,23 +1327,23 @@
     },
     "options": [
       {
-        "en": "A line of severe thunderstorms that forms ahead of a cold front",
-        "as": "ঠাণ্ডা সম্মুখভাগৰ আগত সৃষ্টি হোৱা প্ৰচণ্ড বজ্ৰধ্বনি-ধুমুহাৰ শাৰী"
+        "en": "A line of constant temperature",
+        "as": "স্থিৰ উষ্ণতাৰ ৰেখা"
       },
       {
-        "en": "A line joining places of equal pressure",
-        "as": "সমান চাপৰ স্থানবোৰ সংযোগী ৰেখা"
+        "en": "A line of severe thunderstorms that forms ahead of a cold front",
+        "as": "ঠাণ্ডা সম্মুখভাগৰ আগত সৃষ্টি হোৱা প্ৰচণ্ড বজ্ৰধ্বনি-ধুমুহাৰ শাৰী"
       },
       {
         "en": "A boundary between two oceans",
         "as": "দুটা মহাসাগৰৰ সীমা"
       },
       {
-        "en": "A line of constant temperature",
-        "as": "স্থিৰ উষ্ণতাৰ ৰেখা"
+        "en": "A line joining places of equal pressure",
+        "as": "সমান চাপৰ স্থানবোৰ সংযোগী ৰেখা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A line of severe thunderstorms that forms ahead of a cold front",
       "as": "ঠাণ্ডা সম্মুখভাগৰ আগত সৃষ্টি হোৱা প্ৰচণ্ড বজ্ৰধ্বনি-ধুমুহাৰ শাৰী"
@@ -1357,23 +1357,23 @@
     },
     "options": [
       {
-        "en": "An east-west atmospheric circulation over the equatorial Pacific",
-        "as": "বিষুবীয় প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিম বায়ুমণ্ডলীয় পৰিসঞ্চৰণ"
-      },
-      {
         "en": "A north-south circulation over the Atlantic",
         "as": "এটলাণ্টিকৰ ওপৰত উত্তৰ-দক্ষিণ পৰিসঞ্চৰণ"
+      },
+      {
+        "en": "A tidal current of the Indian Ocean",
+        "as": "ভাৰত মহাসাগৰৰ জোৱাৰ সোঁত"
       },
       {
         "en": "A circulation confined to the stratosphere",
         "as": "ষ্ট্ৰেট'স্ফিয়াৰত সীমাবদ্ধ পৰিসঞ্চৰণ"
       },
       {
-        "en": "A tidal current of the Indian Ocean",
-        "as": "ভাৰত মহাসাগৰৰ জোৱাৰ সোঁত"
+        "en": "An east-west atmospheric circulation over the equatorial Pacific",
+        "as": "বিষুবীয় প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিম বায়ুমণ্ডলীয় পৰিসঞ্চৰণ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "An east-west atmospheric circulation over the equatorial Pacific",
       "as": "বিষুবীয় প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিম বায়ুমণ্ডলীয় পৰিসঞ্চৰণ"
@@ -1387,6 +1387,10 @@
     },
     "options": [
       {
+        "en": "The height difference between two tides",
+        "as": "দুটা জোৱাৰৰ উচ্চতাৰ পাৰ্থক্য"
+      },
+      {
         "en": "The difference in sea surface temperature between the western and eastern Indian Ocean",
         "as": "পশ্চিম আৰু পূব ভাৰত মহাসাগৰৰ মাজত সাগৰৰ পৃষ্ঠৰ উষ্ণতাৰ পাৰ্থক্য"
       },
@@ -1397,13 +1401,9 @@
       {
         "en": "The seasonal reversal of monsoon winds",
         "as": "মৌচুমী বতাহৰ ঋতুভিত্তিক পৰিৱৰ্তন"
-      },
-      {
-        "en": "The height difference between two tides",
-        "as": "দুটা জোৱাৰৰ উচ্চতাৰ পাৰ্থক্য"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The difference in sea surface temperature between the western and eastern Indian Ocean",
       "as": "পশ্চিম আৰু পূব ভাৰত মহাসাগৰৰ মাজত সাগৰৰ পৃষ্ঠৰ উষ্ণতাৰ পাৰ্থক্য"
@@ -1417,23 +1417,23 @@
     },
     "options": [
       {
-        "en": "A seesaw of atmospheric pressure between Tahiti and Darwin",
-        "as": "টাহিটি আৰু ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন"
+        "en": "A periodic reversal of the Gulf Stream",
+        "as": "গাল্ফ ষ্ট্ৰিমৰ পৰ্যায়ক্ৰমিক প্ৰত্যাৱৰ্তন"
       },
       {
         "en": "A shift of the ITCZ over Africa",
         "as": "আফ্ৰিকাৰ ওপৰত ITCZ ৰ স্থানান্তৰ"
       },
       {
-        "en": "A periodic reversal of the Gulf Stream",
-        "as": "গাল্ফ ষ্ট্ৰিমৰ পৰ্যায়ক্ৰমিক প্ৰত্যাৱৰ্তন"
+        "en": "A seesaw of atmospheric pressure between Tahiti and Darwin",
+        "as": "টাহিটি আৰু ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন"
       },
       {
         "en": "A seasonal change in the ozone layer",
         "as": "অ'জন স্তৰৰ ঋতুভিত্তিক পৰিৱৰ্তন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A seesaw of atmospheric pressure between Tahiti and Darwin",
       "as": "টাহিটি আৰু ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন"
@@ -1447,10 +1447,6 @@
     },
     "options": [
       {
-        "en": "Kalbaishakhi",
-        "as": "কলবৈশাখী"
-      },
-      {
         "en": "Loo",
         "as": "লু"
       },
@@ -1459,11 +1455,15 @@
         "as": "আন্ধী"
       },
       {
+        "en": "Kalbaishakhi",
+        "as": "কলবৈশাখী"
+      },
+      {
         "en": "Mango shower",
         "as": "আমবৰষুণ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Kalbaishakhi",
       "as": "কলবৈশাখী"
@@ -1477,6 +1477,10 @@
     },
     "options": [
       {
+        "en": "A force caused by ocean currents",
+        "as": "মহাসাগৰীয় সোঁতৰ ফলত সৃষ্টি হোৱা বল"
+      },
+      {
         "en": "An apparent force caused by the rotation of the Earth",
         "as": "পৃথিৱীৰ ঘূৰ্ণনৰ ফলত সৃষ্টি হোৱা আপাত বল"
       },
@@ -1487,13 +1491,9 @@
       {
         "en": "A force caused by air pressure",
         "as": "বায়ুচাপৰ ফলত সৃষ্টি হোৱা বল"
-      },
-      {
-        "en": "A force caused by ocean currents",
-        "as": "মহাসাগৰীয় সোঁতৰ ফলত সৃষ্টি হোৱা বল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "An apparent force caused by the rotation of the Earth",
       "as": "পৃথিৱীৰ ঘূৰ্ণনৰ ফলত সৃষ্টি হোৱা আপাত বল"
