@@ -627,7 +627,9 @@ const CLIENT_JS = `
     return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
 
-  function label(t) { return t && (t.en || t.as) ? esc(t.en || t.as) : ""; }
+  /* Raw text; callers escape when interpolating into HTML. Escaping here
+   * double-escapes the folder cards and shows "&amp;" to the reader. */
+  function label(t) { return t && (t.en || t.as) ? t.en || t.as : ""; }
 
   function fileCard(f) {
     var en = f.pdfs && f.pdfs.en;
@@ -638,7 +640,7 @@ const CLIENT_JS = `
     return '<a class="card file" href="' + esc(en ? en.pdf : "#") + '" download data-dl="' + esc(f.path) + '">' +
       '<span class="ic">' + ICO.file + "</span>" +
       "<span>" +
-        '<span class="nm">' + label(f.name) + "</span>" +
+        '<span class="nm">' + esc(label(f.name)) + "</span>" +
         '<span class="sub">' + bits.join(" &middot; ") + "</span>" +
         '<span class="dl">' + ICO.dl + "Download PDF</span>" +
       "</span></a>";
@@ -662,8 +664,8 @@ const CLIENT_JS = `
     var cards = [];
 
     crumbs.push('<button type="button" data-open="exam">All books</button>');
-    if (s) crumbs.push('<span class="sep">/</span><button type="button" data-open="sec">' + label(s.title) + "</button>");
-    if (g) crumbs.push('<span class="sep">/</span><span class="cur">' + label(g.title) + "</span>");
+    if (s) crumbs.push('<span class="sep">/</span><button type="button" data-open="sec">' + esc(label(s.title)) + "</button>");
+    if (g) crumbs.push('<span class="sep">/</span><span class="cur">' + esc(label(g.title)) + "</span>");
 
     if (q) {
       /* Search spans the whole selected book so a reader can jump straight to
@@ -684,7 +686,7 @@ const CLIENT_JS = `
       crumbs = ['<span class="cur">Search: ' + esc(state.q) + "</span>"];
       cards = hits.map(function (h) {
         var c = fileCard(h.f);
-        return c.replace('<span class="sub">', '<span class="sub">' + h.where + " &middot; ");
+        return c.replace('<span class="sub">', '<span class="sub">' + esc(h.where) + " &middot; ");
       });
       elCount.textContent = hits.length + (hits.length === 1 ? " topic" : " topics");
     } else if (!s) {
