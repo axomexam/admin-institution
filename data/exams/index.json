@@ -689,7 +689,10 @@
       },
       "cover": "/images/exams/adre-grade-3-cover.webp",
       "logo": "/images/exams/adre-grade-3-logo.webp",
-      "logoAlt": { "en": "Government of Assam official logo", "as": "অসম চৰকাৰৰ চৰকাৰী ল'গ'" },
+      "logoAlt": {
+        "en": "Government of Assam official logo",
+        "as": "অসম চৰকাৰৰ চৰকাৰী ল'গ'"
+      },
       "coverAlt": {
         "en": "ADRE 3.0 (Assam Direct Recruitment Examination) Grade III — book front cover",
         "as": "ADRE 3.0 (অসম প্ৰত্যক্ষ নিযুক্তি পৰীক্ষা) গ্ৰেড III — কিতাপৰ বেটুপাত"
