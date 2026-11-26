@@ -25,8 +25,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The atmosphere is the blanket of gases surrounding the Earth.",
-      "as": "বায়ুমণ্ডল হৈছে পৃথিৱীৰ চৌপাশে থকা গেছৰ আৱৰণ।"
+      "en": "The atmosphere is the envelope of gases held to the Earth by gravity, and it is what makes life possible on the planet.",
+      "as": "বায়ুমণ্ডল হৈছে মহাকৰ্ষণে পৃথিৱীৰ লগত বান্ধি ৰখা গেছৰ আৱৰণ, আৰু এই আৱৰণেই পৃথিৱীত জীৱন সম্ভৱ কৰি তুলিছে।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Nitrogen is the main gas of the atmosphere, making up about 78%.",
-      "as": "নাইট্ৰজেন বায়ুমণ্ডলৰ মূল গেছ, যি প্ৰায় ৭৮% গঠন কৰে।"
+      "en": "Nitrogen is the main gas of the atmosphere at about 78 per cent, followed by oxygen at about 21 per cent.",
+      "as": "নাইট্ৰজেন বায়ুমণ্ডলৰ মূল গেছ, প্ৰায় ৭৮ শতাংশ; ইয়াৰ পিছতেই অক্সিজেন প্ৰায় ২১ শতাংশ।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Oxygen is the second most abundant gas, making up about 21%.",
-      "as": "অক্সিজেন দ্বিতীয় সৰ্বাধিক গেছ, যি প্ৰায় ২১% গঠন কৰে।"
+      "en": "Oxygen is the second most abundant gas at about 21 per cent, and it is the gas that humans and animals breathe in.",
+      "as": "অক্সিজেন দ্বিতীয় সৰ্বাধিক পোৱা গেছ, প্ৰায় ২১ শতাংশ, আৰু মানুহে তথা প্ৰাণীয়ে উশাহত যি গেছ লয় সেয়াই অক্সিজেন।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The atmosphere has five layers: troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
-      "as": "বায়ুমণ্ডলৰ পাঁচটা স্তৰ আছে: ট্ৰপ'স্ফিয়াৰ, ষ্ট্ৰেট'স্ফিয়াৰ, মেছ'স্ফিয়াৰ, থাৰ্ম'স্ফিয়াৰ আৰু এক্স'স্ফিয়াৰ।"
+      "en": "The atmosphere is divided into five layers, and weather changes occur mainly in the lowest one, the troposphere.",
+      "as": "বায়ুমণ্ডলক পাঁচটা স্তৰত ভগা হৈছে, আৰু বতৰৰ পৰিৱৰ্তন মূলতঃ আটাইতকৈ তলৰ স্তৰ ট্ৰপ'স্ফিয়াৰত হয়।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The troposphere is the lowest layer of the atmosphere.",
-      "as": "ট্ৰপ'স্ফিয়াৰ বায়ুমণ্ডলৰ আটাইতকৈ তলৰ স্তৰ।"
+      "en": "The troposphere is the lowest layer, about 8 km at the poles to 18 km at the equator, and holds most of the air and water vapour.",
+      "as": "ট্ৰপ'স্ফিয়াৰ আটাইতকৈ তলৰ স্তৰ, মেৰুত প্ৰায় ৮ কিলোমিটাৰৰপৰা বিষুৱৰেখাত ১৮ কিলোমিটাৰলৈ, আৰু ইয়াত বায়ু তথা জলবাষ্পৰ বেছিভাগ থাকে।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "We live and weather occurs in the troposphere.",
-      "as": "আমি ট্ৰপ'স্ফিয়াৰত বাস কৰো আৰু বতৰ ইয়াতে ঘটে।"
+      "en": "We live and all weather occurs in the troposphere, because almost all the water vapour and air is concentrated there.",
+      "as": "আমি ট্ৰপ'স্ফিয়াৰত বাস কৰো আৰু সকলো বতৰ ইয়াতে ঘটে, কাৰণ প্ৰায় সকলো জলবাষ্প আৰু বায়ু ইয়াতেই কেন্দ্ৰীভূত।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The average height of the troposphere is about 13 to 14 kilometres.",
-      "as": "ট্ৰপ'স্ফিয়াৰৰ গড় উচ্চতা প্ৰায় ১৩ৰ পৰা ১৪ কিলোমিটাৰ।"
+      "en": "The troposphere is about 13 to 14 km high on average, and about 8 km at the poles to 18 km at the equator.",
+      "as": "ট্ৰপ'স্ফিয়াৰৰ গড় উচ্চতা প্ৰায় ১৩ ৰপৰা ১৪ কিলোমিটাৰ, মেৰুত প্ৰায় ৮ কিলোমিটাৰৰপৰা বিষুৱৰেখাত ১৮ কিলোমিটাৰলৈ।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The ozone layer is present in the stratosphere.",
-      "as": "ওজোন স্তৰ ষ্ট্ৰেট'স্ফিয়াৰত আছে।"
+      "en": "The ozone layer lies in the stratosphere, at about 15 to 35 km height.",
+      "as": "অ'জ'ন স্তৰ ষ্ট্ৰেট'স্ফিয়াৰত, প্ৰায় ১৫ ৰপৰা ৩৫ কিলোমিটাৰ উচ্চতাত অৱস্থিত।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ozone layer protects us from the harmful ultraviolet rays of the sun.",
-      "as": "ওজোন স্তৰে আমাক সূৰ্যৰ ক্ষতিকাৰক অতিবেগুনী ৰশ্মিৰ পৰা ৰক্ষা কৰে।"
+      "en": "The ozone layer absorbs the harmful ultraviolet rays of the sun, which would damage skin and plants.",
+      "as": "অ'জ'ন স্তৰে সূৰ্যৰ ক্ষতিকাৰক অতি-বেঙুনী ৰশ্মি শোষণ কৰে, যি নহ'লে ছাল আৰু উদ্ভিদৰ ক্ষতি হ'ব।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Temperature increases with height in the stratosphere and the thermosphere.",
-      "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু থাৰ্ম'স্ফিয়াৰত উচ্চতা বৃদ্ধিৰ লগে লগে উষ্ণতা বৃদ্ধি হয়।"
+      "en": "Temperature rises with height in the stratosphere, because ozone absorbs ultraviolet rays, and in the thermosphere, because gases absorb high-energy radiation.",
+      "as": "ষ্ট্ৰেট'স্ফিয়াৰত অ'জ'নে অতি-বেঙুনী ৰশ্মি শোষণ কৰাৰ বাবে আৰু থাৰ্ম'স্ফিয়াৰত গেছে উচ্চ-শক্তিৰ বিকিৰণ শোষণ কৰাৰ বাবে ওপৰলৈ যোৱাৰ লগে লগে তাপমাত্ৰা বাঢ়ে।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Meteors burn up in the mesosphere.",
-      "as": "উল্কা মেছ'স্ফিয়াৰত জ্বলি নিঃশেষ হয়।"
+      "en": "Meteors burn up in the mesosphere, where friction with the thin air heats them white-hot.",
+      "as": "উল্কা মেছ'স্ফিয়াৰত জ্বলি যায়, য'ত পাতল বায়ুৰ লগত ঘৰ্ষণত সেইবোৰ তপত হৈ জ্বলি উঠে।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ionosphere, used for radio communication, lies in the thermosphere.",
-      "as": "ৰেডিঅ' যোগাযোগত ব্যৱহৃত আয়ন'স্ফিয়াৰ থাৰ্ম'স্ফিয়াৰত অৱস্থিত।"
+      "en": "The ionosphere lies in the thermosphere and reflects radio waves back to the earth, making long-distance radio possible.",
+      "as": "আয়ন'স্ফিয়াৰ থাৰ্ম'স্ফিয়াৰত অৱস্থিত আৰু ৰেডিঅ' তৰংগক ঘূৰাই পৃথিৱীলৈ পঠিয়ায়, যাৰ ফলত দূৰ-দূৰণি ৰেডিঅ' যোগাযোগ সম্ভৱ হয়।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The exosphere is the uppermost layer of the atmosphere.",
-      "as": "এক্স'স্ফিয়াৰ বায়ুমণ্ডলৰ আটাইতকৈ ওপৰৰ স্তৰ।"
+      "en": "The exosphere is the uppermost layer, fading gradually into space above about 500 km.",
+      "as": "এক্স'স্ফিয়াৰ আটাইতকৈ ওপৰৰ স্তৰ, যি প্ৰায় ৫০০ কিলোমিটাৰৰ ওপৰত ক্ৰমে মহাকাশলৈ মিলি যায়।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Air pressure is the weight of the air pressing down on the Earth's surface.",
-      "as": "বায়ুচাপ হৈছে পৃথিৱী পৃষ্ঠত তললৈ চপা বায়ুৰ ওজন।"
+      "en": "Air pressure is the weight of the column of air pressing down on the Earth's surface.",
+      "as": "বায়ুচাপ হৈছে পৃথিৱীৰ পৃষ্ঠৰ ওপৰত বায়ুৰ স্তম্ভই তললৈ কৰা ওজন।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The permanent winds are the trade winds, the westerlies and the polar easterlies.",
-      "as": "স্থায়ী বতাহসমূহ হৈছে বাণিজ্য বতাহ, পশ্চিমীয়া বতাহ আৰু মেৰু পূবীয়া বতাহ।"
+      "en": "Permanent winds blow all year round and include the trade winds, the westerlies and the polar easterlies.",
+      "as": "স্থায়ী বতাহ বছৰজুৰি বৈ থাকে আৰু ইয়াত বাণিজ্য বতাহ, ৱেষ্টাৰলী আৰু মেৰুৱা পূবীয়া বতাহ পৰে।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The trade winds blow from the subtropical high to the equatorial low.",
-      "as": "বাণিজ্য বতাহ উপ-ক্ৰান্তীয় উচ্চচাপৰ পৰা বিষুৱীয় নিম্নচাপলৈ বৈ যায়।"
+      "en": "The trade winds blow from the subtropical high pressure belt at 30° toward the equatorial low pressure belt.",
+      "as": "বাণিজ্য বতাহে ৩০° ৰ উপ-ক্ৰান্তীয় উচ্চ চাপৰ পট্টিৰপৰা বিষুৱীয় নিম্ন চাপৰ পট্টিলৈ বৈ যায়।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "In the northern hemisphere, the trade winds are called the North-East trade winds.",
-      "as": "উত্তৰ গোলাৰ্ধত বাণিজ্য বতাহক উত্তৰ-পূব বাণিজ্য বতাহ বোলা হয়।"
+      "en": "In the northern hemisphere the trade winds bend to the right and blow from the north-east, so they are called the North-East trade winds.",
+      "as": "উত্তৰ গোলাৰ্ধত বাণিজ্য বতাহ সোঁফালে বেঁকা হৈ উত্তৰ-পূবৰপৰা বৈ আহে, সেয়ে ইয়াক উত্তৰ-পূব বাণিজ্য বতাহ বোলে।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The westerlies blow from the horse latitudes to the polar region.",
-      "as": "পশ্চিমীয়া বতাহ ঘোঁৰা অক্ষাংশৰ পৰা মেৰু অঞ্চললৈ বৈ যায়।"
+      "en": "The westerlies blow from the horse latitudes at 30° toward the poles, between 30° and 60° latitude.",
+      "as": "ৱেষ্টাৰলীবোৰে ৩০° ৰ অশ্ব অক্ষাংশৰপৰা মেৰুলৈ, ৩০° আৰু ৬০° অক্ষাংশৰ মাজেৰে বৈ যায়।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The seasonal winds of India are the monsoon winds.",
-      "as": "ভাৰতৰ ঋতুভিত্তিক বতাহসমূহ হৈছে মৌচুমী বতাহ।"
+      "en": "The monsoon winds are seasonal winds that reverse direction between summer and winter, bringing rain to India in summer.",
+      "as": "মৌচুমী বতাহ ঋতুভিত্তিক বতাহ, যি গ্ৰীষ্ম আৰু শীতকালত দিশ সলনি কৰে আৰু গ্ৰীষ্মকালত ভাৰতলৈ বৰষুণ আনে।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A cyclone is a system of low pressure with strong winds rotating around a centre.",
-      "as": "ঘূৰ্ণীবতাহ হৈছে কেন্দ্ৰৰ চৌপাশে ঘূৰি থকা প্ৰবল বতাহসহ নিম্নচাপ ব্যৱস্থা।"
+      "en": "A cyclone is a low pressure system with strong winds spiralling inward around a centre.",
+      "as": "ঘূৰ্ণীবতাহ এটা নিম্ন চাপৰ ব্যৱস্থা, য'ত শক্তিশালী বতাহ কেন্দ্ৰৰ চাৰিওফালে ভিতৰলৈ ঘূৰি ঘূৰি বৈ যায়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The centre of a cyclone is called the eye of the cyclone.",
-      "as": "ঘূৰ্ণীবতাহৰ কেন্দ্ৰক ঘূৰ্ণীবতাহৰ চকু বোলা হয়।"
+      "en": "The centre of a cyclone is called the eye, a calm clear region of sinking air.",
+      "as": "ঘূৰ্ণীবতাহৰ কেন্দ্ৰক চকু বোলে, যি নামি অহা বায়ুৰ শান্ত আৰু পৰিষ্কাৰ অঞ্চল।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The 'eye' of a cyclone is its calm centre.",
-      "as": "ঘূৰ্ণীবতাহৰ 'চকু' হৈছে ইয়াৰ শান্ত কেন্দ্ৰ।"
+      "en": "The eye of a cyclone is the calm centre, usually 30 to 60 km across, with light winds and no rain.",
+      "as": "ঘূৰ্ণীবতাহৰ চকু হৈছে শান্ত কেন্দ্ৰ, সাধাৰণতে ৩০ ৰপৰা ৬০ কিলোমিটাৰ পৰ্যন্ত, য'ত পাতল বতাহ আৰু বৰষুণ নাথাকে।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Cyclones of the Pacific Ocean are called typhoons.",
-      "as": "প্ৰশান্ত মহাসাগৰৰ ঘূৰ্ণীবতাহক টাইফুন বোলা হয়।"
+      "en": "Tropical cyclones of the western Pacific are called typhoons.",
+      "as": "পশ্চিম পেছিফিকৰ ক্ৰান্তীয় ঘূৰ্ণীবতাহক টাইফুন বোলে।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Cyclones of the Atlantic Ocean are called hurricanes.",
-      "as": "আটলাণ্টিক মহাসাগৰৰ ঘূৰ্ণীবতাহক হাৰিকেন বোলা হয়।"
+      "en": "Tropical cyclones of the Atlantic and eastern Pacific are called hurricanes.",
+      "as": "আটলাণ্টিক আৰু পূব পেছিফিকৰ ক্ৰান্তীয় ঘূৰ্ণীবতাহক হাৰিকেন বোলে।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Cyclones of the Indian Ocean are called cyclones.",
-      "as": "ভাৰত মহাসাগৰৰ ঘূৰ্ণীবতাহক ঘূৰ্ণীবতাহ বোলা হয়।"
+      "en": "Tropical cyclones of the Indian Ocean are simply called cyclones.",
+      "as": "ভাৰত মহাসাগৰৰ ক্ৰান্তীয় ঘূৰ্ণীবতাহক সাধাৰণতে ঘূৰ্ণীবতাহ বুলি কোৱা হয়।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "In the northern hemisphere, cyclones rotate anti-clockwise.",
-      "as": "উত্তৰ গোলাৰ্ধত ঘূৰ্ণীবতাহ বিপৰীত ঘড়ীৰ কাঁটা দিশত ঘূৰে।"
+      "en": "In the northern hemisphere cyclones rotate anti-clockwise, because the Coriolis force deflects inward-blowing winds to the right.",
+      "as": "উত্তৰ গোলাৰ্ধত ঘূৰ্ণীবতাহে ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত ঘূৰে, কাৰণ ক'ৰিঅ'লিছ বল ভিতৰলৈ অহা বতাহক সোঁফালে বেঁকা কৰে।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Cyclones of the Bay of Bengal are called cyclonic storms.",
-      "as": "বঙ্গোপসাগৰৰ ঘূৰ্ণীবতাহক ঘূৰ্ণীবতাহ/চাইক্লনিক ষ্টৰ্ম বোলা হয়।"
+      "en": "Cyclones that form over the Bay of Bengal are called cyclonic storms and often strike Odisha, West Bengal and Bangladesh.",
+      "as": "বংগ উপসাগৰত সৃষ্টি হোৱা ঘূৰ্ণীবতাহক ঘূৰ্ণীবতাহী ধুমুহা বোলে, যি প্ৰায়ে ওড়িশা, পশ্চিম বংগ আৰু বাংলাদেশত আঘাত কৰে।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The main cause of cyclone formation is the warm ocean waters and the low pressure over the sea.",
-      "as": "ঘূৰ্ণীবতাহ গঠনৰ মূল কাৰণ হৈছে উষ্ণ সাগৰীয় পানী আৰু সাগৰৰ ওপৰত নিম্নচাপ।"
+      "en": "Cyclones form over warm ocean water above about 27 °C, where evaporation feeds a low pressure centre.",
+      "as": "ঘূৰ্ণীবতাহ প্ৰায় ২৭ °চে.ৰ ওপৰৰ উষ্ণ সাগৰীয় পানীত গঠন হয়, য'ত বাষ্পীভৱনে নিম্ন চাপৰ কেন্দ্ৰ পুষ্টি যোগায়।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "India's cyclone warning system is run by the India Meteorological Department (IMD).",
-      "as": "ভাৰতৰ ঘূৰ্ণীবতাহ সতৰ্কতা ব্যৱস্থা ভাৰতীয় বতৰ বিজ্ঞান বিভাগ (IMD) য়ে পৰিচালনা কৰে।"
+      "en": "The India Meteorological Department runs the cyclone warning system, issuing colour-coded alerts for coastal states.",
+      "as": "ভাৰতীয় বতৰ বিজ্ঞান বিভাগে ঘূৰ্ণীবতাহ সতৰ্কতা ব্যৱস্থা চলায় আৰু উপকূলীয় ৰাজ্যৰ বাবে ৰঙৰ কোডযুক্ত সতৰ্কবাণী জাৰি কৰে।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Global warming increases the frequency and intensity of cyclones due to warmer ocean waters.",
-      "as": "উষ্ণ সাগৰীয় পানীৰ বাবে গ্ল'বেল ৱাৰ্মিঙে ঘূৰ্ণীবতাহৰ সংঘটন আৰু তীব্ৰতা বৃদ্ধি কৰে।"
+      "en": "Global warming raises sea surface temperatures and adds moisture, so it increases the frequency and intensity of cyclones.",
+      "as": "গোলকীয় উষ্ণতাই সাগৰপৃষ্ঠৰ তাপমাত্ৰা বঢ়ায় আৰু আৰ্দ্ৰতা যোগ কৰে; সেয়ে ই ঘূৰ্ণীবতাহৰ সঘনতা আৰু তীব্ৰতা দুয়োটা বঢ়ায়।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 21 per cent.",
-      "as": "প্ৰায় ২১ শতাংশ।"
+      "en": "Oxygen makes up about 21 per cent of the atmosphere, second only to nitrogen.",
+      "as": "অক্সিজেনে বায়ুমণ্ডলৰ প্ৰায় ২১ শতাংশ গঠন কৰে, নাইট্ৰজেনৰ পিছত মাত্ৰ দ্বিতীয়।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Carbon dioxide.",
-      "as": "কাৰ্বন ডাইঅক্সাইড।"
+      "en": "Plants take carbon dioxide from the air and use it with water and sunlight to make food in photosynthesis.",
+      "as": "উদ্ভিদে বায়ুৰপৰা কাৰ্বন ডাই-অক্সাইড লয় আৰু পানী তথা সূৰ্যৰ পোহৰৰ সৈতে ব্যৱহাৰ কৰি সালোক-সংশ্লেষণত খাদ্য বনায়।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The tropopause.",
-      "as": "ট্ৰ'প'পজ।"
+      "en": "The boundary between the troposphere and the stratosphere is the tropopause, where temperature stops falling with height.",
+      "as": "ট্ৰপ'স্ফিয়াৰ আৰু ষ্ট্ৰেট'স্ফিয়াৰৰ মাজৰ সীমাক ট্ৰপ'পজ বোলে, য'ত ওপৰলৈ যোৱাৰ লগে লগে তাপমাত্ৰা কমা বন্ধ হয়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A fast-moving band of air in the upper troposphere.",
-      "as": "ওপৰৰ ট্ৰ'পস্ফিয়াৰত বেগেৰে চলা বায়ুৰ পটি।"
+      "en": "The jet stream is a narrow band of very fast wind in the upper troposphere, often reaching 300 km per hour.",
+      "as": "জেট ষ্ট্ৰীম হৈছে ওপৰৰ ট্ৰপ'স্ফিয়াৰত অতি দ্ৰুত বতাহৰ এটা সংকীৰ্ণ পটি, যি প্ৰায়ে ঘণ্টাত ৩০০ কিলোমিটাৰ পৰ্যন্ত হয়।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The thinning of the ozone layer over Antarctica.",
-      "as": "এণ্টাৰ্কটিকাৰ ওপৰত অজ'ন স্তৰ পাতল হৈ যোৱা অৱস্থা।"
+      "en": "The ozone hole is the seasonal thinning of the ozone layer over Antarctica, caused mainly by chlorofluorocarbons.",
+      "as": "অ'জ'ন ছিদ্ৰ এণ্টাৰ্কটিকাৰ ওপৰত অ'জ'ন স্তৰ ঋতুভিত্তিকভাৱে পাতল হৈ যোৱা, যি মূলতঃ ক্ল'ৰ'ফ্লুৰ'কাৰ্বনৰ বাবে হয়।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Carbon dioxide.",
-      "as": "কাৰ্বন ডাইঅক্সাইড।"
+      "en": "Carbon dioxide from burning fossil fuels is the main human cause of the greenhouse effect.",
+      "as": "জীৱাশ্ম ইন্ধন জ্বলোৱাৰপৰা ওলোৱা কাৰ্বন ডাই-অক্সাইড গ্ৰীণহাউছ প্ৰভাৱৰ মূল মানৱীয় কাৰণ।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The deflection of winds caused by the Earth's rotation.",
-      "as": "পৃথিৱীৰ ঘূৰ্ণনৰ বাবে বতাহৰ দিশ বেঁকা হোৱা প্ৰভাৱ।"
+      "en": "The Coriolis force is the deflection of winds caused by the Earth's rotation, to the right in the northern hemisphere.",
+      "as": "ক'ৰিঅ'লিছ বল পৃথিৱীৰ ঘূৰ্ণনৰ ফলত বতাহ বেঁকা হোৱা, যি উত্তৰ গোলাৰ্ধত সোঁফালে হয়।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The equatorial low-pressure belt with calm winds.",
-      "as": "বিষুবীয় নিম্ন চাপৰ অঞ্চল য'ত বতাহ শান্ত।"
+      "en": "The doldrums are the equatorial low pressure belt, where winds are calm and air rises with heavy convectional rain.",
+      "as": "ড'লড্ৰামছ বিষুৱীয় নিম্ন চাপৰ পট্টি, য'ত বতাহ শান্ত থাকে আৰু বায়ু ওপৰলৈ উঠি তীব্ৰ পৰিৱৰ্তনীয় বৰষুণ আনে।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The subtropical high-pressure belts with calm winds.",
-      "as": "উপ-ক্ৰান্তীয় উচ্চ চাপৰ অঞ্চল য'ত বতাহ শান্ত।"
+      "en": "The horse latitudes are the subtropical high pressure belts at about 30°, where winds are calm and air sinks.",
+      "as": "অশ্ব অক্ষাংশ প্ৰায় ৩০° ৰ উপ-ক্ৰান্তীয় উচ্চ চাপৰ পট্টি, য'ত বতাহ শান্ত আৰু বায়ু তললৈ নামে।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The loo.",
-      "as": "লু।"
+      "en": "The loo is a hot, dry dusty wind of North India that blows in May and June and can cause heatstroke.",
+      "as": "লু উত্তৰ ভাৰতৰ গৰম, শুকান আৰু ধূলিময় বতাহ, যি মে' আৰু জুন মাহত বৈ যায় আৰু তাপঘাতৰ সৃষ্টি কৰিব পাৰে।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The foehn.",
-      "as": "ফন।"
+      "en": "The foehn is a warm, dry wind that descends the leeward side of the Alps after losing its moisture.",
+      "as": "ফ'নে আল্পচৰ বতাহ-ছাঁৰ ফালে নামি অহা উষ্ণ আৰু শুকান বতাহ, যি আৰ্দ্ৰতা হেৰুৱাই পেলাইছে।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The chinook.",
-      "as": "চিনুক।"
+      "en": "The chinook is a warm, dry wind of the Rocky Mountains, known as the snow-eater for melting snow quickly.",
+      "as": "চিনুক ৰকি পৰ্বতমালাৰ উষ্ণ আৰু শুকান বতাহ, যি বৰফ সোনকালে গলাই দিয়াৰ বাবে 'বৰফ-ভক্ষক' নামে জনাজাত।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A daytime wind blowing from the sea to the land.",
-      "as": "দিনত সাগৰৰ পৰা মাটিলৈ বোৱা বতাহ।"
+      "en": "A sea breeze blows from the sea to the land during the day, because the land heats faster than the water.",
+      "as": "দিনত সাগৰৰপৰা স্থললৈ সাগৰীয় বতাহ বৈ যায়, কাৰণ পানীতকৈ মাটি সোনকালে গৰম হয়।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A night wind blowing from the land to the sea.",
-      "as": "ৰাতি মাটিৰ পৰা সাগৰলৈ বোৱা বতাহ।"
+      "en": "A land breeze blows from the land to the sea at night, because the land cools faster than the water.",
+      "as": "ৰাতি স্থলৰপৰা সাগৰলৈ স্থলীয় বতাহ বৈ যায়, কাৰণ পানীতকৈ মাটি সোনকালে ঠাণ্ডা হয়।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The ring of strongest winds around the eye.",
-      "as": "চকুৰ চাৰিওফালে থকা সৰ্বাধিক শক্তিশালী বতাহৰ বৃত্ত।"
+      "en": "The eye wall is the ring of tall clouds and strongest winds immediately around the eye of a cyclone.",
+      "as": "চকুৰ প্ৰাচীৰ হৈছে ঘূৰ্ণীবতাহৰ চকুৰ চাৰিওফালে থকা ওখ মেঘ আৰু সৰ্বাধিক শক্তিশালী বতাহৰ বৃত্ত।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A rise of sea level near the coast during a cyclone.",
-      "as": "ঘূৰ্ণীবতাহৰ সময়ত উপকূলৰ ওচৰত সাগৰৰ জলপৃষ্ঠ ওপৰলৈ উঠা।"
+      "en": "A storm surge is the abnormal rise of sea level near the coast during a cyclone, caused by wind and low pressure.",
+      "as": "ধুমুহাৰ জোৱাৰ হৈছে ঘূৰ্ণীবতাহৰ সময়ত বতাহ আৰু নিম্ন চাপৰ বাবে উপকূলৰ ওচৰত সাগৰপৃষ্ঠ অস্বাভাৱিকভাৱে ওপৰলৈ উঠা।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The barometer.",
-      "as": "বেৰ'মিটাৰ।"
+      "en": "A barometer measures air pressure, usually in millibars or hectopascals.",
+      "as": "বেৰ'মিটাৰে বায়ুচাপ জোখে, সাধাৰণতে মিলিবাৰ বা হেক্ট'পাস্কেলত।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A line joining places of equal air pressure.",
-      "as": "সমান বায়ুচাপৰ স্থানসমূহ সংযোগী ৰেখা।"
+      "en": "An isobar is a line on a map joining places of equal air pressure.",
+      "as": "আইছ'বাৰ হৈছে মানচিত্ৰত সমান বায়ুচাপ থকা ঠাইবোৰ সংযোগ কৰা ৰেখা।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The amount of water vapour in the air.",
-      "as": "বায়ুত থকা জলীয় বাষ্পৰ পৰিমাণ।"
+      "en": "Humidity is the amount of water vapour present in the air, usually expressed as a percentage of saturation.",
+      "as": "আৰ্দ্ৰতা হৈছে বায়ুত থকা জলবাষ্পৰ পৰিমাণ, যি সাধাৰণতে সম্পৃক্ততাৰ শতাংশ হিচাপে প্ৰকাশ কৰা হয়।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The abnormal warming of the eastern Pacific Ocean.",
-      "as": "পূব প্ৰশান্ত মহাসাগৰৰ অস্বাভাৱিক উষ্ণতা বৃদ্ধি।"
+      "en": "El Nino is the abnormal warming of the eastern Pacific Ocean off the coast of Peru, which disturbs rainfall and the monsoon.",
+      "as": "এল নিন' হৈছে পেৰুৰ উপকূলৰ ওচৰত পূব পেছিফিক মহাসাগৰ অস্বাভাৱিকভাৱে উষ্ণ হোৱা, যি বৰষুণ আৰু মৌচুমীক ব্যাঘাত কৰে।"
     }
   }
 ]

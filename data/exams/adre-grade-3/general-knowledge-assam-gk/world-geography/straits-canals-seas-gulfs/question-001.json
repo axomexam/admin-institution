@@ -25,8 +25,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A strait is natural; a canal is man-made",
-      "as": "প্ৰণালী প্ৰাকৃতিক; খাল মানৱ-নিৰ্মিত"
+      "en": "A strait is a natural passage of water between two landmasses, while a canal is dug by people to join two water bodies.",
+      "as": "প্ৰণালী (strait) হৈছে দুখন ভূখণ্ডৰ মাজেৰে যোৱা প্ৰাকৃতিক জলপথ, আনহাতে খাল (canal) মানুহে খান্দি দুটা জলভাগ সংযোগ কৰা পথ।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A large part of the sea partly enclosed by land",
-      "as": "স্থলভাগে আংশিকভাৱে বেৰি থকা সাগৰৰ এটা বৃহৎ অংশ"
+      "en": "A gulf is a large part of the sea that pushes into the land and is partly enclosed by it, such as the Gulf of Mexico.",
+      "as": "উপসাগৰ (gulf) হৈছে সাগৰৰ এটা ডাঙৰ অংশ যি ভূখণ্ডৰ ভিতৰলৈ সোমাই যায় আৰু ভূখণ্ডই ইয়াৰ বেছিভাগ চাৰিওফালে বেৰি ধৰে, যেনে মেক্সিকোৰ উপসাগৰ।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A body of water partly enclosed by land, smaller than a gulf",
-      "as": "স্থলভাগে আংশিকভাৱে বেৰি থকা জলভাগ, উপসাগৰতকৈ সৰু"
+      "en": "A bay is also a body of water partly enclosed by land, but it is smaller and has a wider mouth than a gulf.",
+      "as": "উপহ্ৰদ (bay)ও ভূখণ্ডই আংশিকভাৱে বেৰি ধৰা জলভাগ, কিন্তু ই উপসাগৰতকৈ সৰু আৰু ইয়াৰ মুখখন বেছি বহল।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A narrow strip of land joining two larger landmasses",
-      "as": "দুটা ডাঙৰ ভূখণ্ড সংযোগী সংকীৰ্ণ ভূমি"
+      "en": "An isthmus is a narrow strip of land that joins two larger landmasses and has water on both sides, such as the Isthmus of Panama.",
+      "as": "স্থলসন্ধি (isthmus) হৈছে সৰু ভূখণ্ডৰ এডাল সংকীৰ্ণ পটি যি দুখন ডাঙৰ ভূখণ্ড সংযোগ কৰে আৰু দুয়োকাষে পানী থাকে, যেনে পানামাৰ স্থলসন্ধি।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Isthmus of Panama",
-      "as": "পানামাৰ যোজকভূমি"
+      "en": "The Panama Canal was dug across the Isthmus of Panama, the narrow land strip joining North and South America.",
+      "as": "পানামা খাল পানামাৰ স্থলসন্ধিৰ মাজেৰে খন্দা হৈছিল, যি উত্তৰ আৰু দক্ষিণ আমেৰিকা সংযোগ কৰা সংকীৰ্ণ ভূখণ্ডৰ পটি।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Davis Strait",
-      "as": "ডেভিছ প্ৰণালী"
+      "en": "The Davis Strait, between Greenland and Canada, is about 338 km wide at its narrowest and is the widest strait in the world.",
+      "as": "গ্ৰীণলেণ্ড আৰু কানাডাৰ মাজৰ ডেভিছ প্ৰণালীৰ আটাইতকৈ সংকীৰ্ণ ঠাইত প্ৰায় ৩৩৮ কিলোমিটাৰ বহল, আৰু এইটো পৃথিৱীৰ আটাইতকৈ বহল প্ৰণালী।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Bosphorus and the Dardanelles",
-      "as": "ব'সফৰাছ আৰু দাৰ্দানেলছ"
+      "en": "The Bosphorus links the Black Sea to the Sea of Marmara, and the Dardanelles then links the Sea of Marmara to the Aegean Sea.",
+      "as": "বসফৰাছ ষ্ট্ৰেইটে কৃষ্ণ সাগৰক মাৰ্মাৰা সাগৰৰ সৈতে সংযোগ কৰে, আৰু তাৰপিছত ডাৰ্ডানেলছে মাৰ্মাৰা সাগৰক এজিয়ান সাগৰৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Gate of Tears",
-      "as": "চকুলোৰ দুৱাৰ"
+      "en": "Bab-el-Mandeb is Arabic for the Gate of Tears, a name given because many ships were wrecked in its dangerous currents.",
+      "as": "বাব-এল-মাণ্ডেব আৰবী ভাষাত 'চকুলোৰ দুৱাৰ' অৰ্থ দিয়ে; ইয়াৰ বিপদজনক সোঁতত বহু জাহাজ ধ্বংস হোৱাৰ বাবেই এই নাম পাইছিল।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Strait of Gibraltar",
-      "as": "জিব্ৰাল্টাৰ প্ৰণালী"
+      "en": "The Strait of Gibraltar lies between Spain in Europe and Morocco in Africa, and it is the only natural outlet of the Mediterranean Sea.",
+      "as": "জিব্ৰাল্টৰ প্ৰণালী ইউৰোপৰ স্পেইন আৰু আফ্ৰিকাৰ মৰক্কোৰ মাজত অৱস্থিত, আৰু এইটো ভূমধ্য সাগৰৰ একমাত্ৰ প্ৰাকৃতিক বাট।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 14 km",
-      "as": "প্ৰায় ১৪ কিলোমিটাৰ"
+      "en": "At its narrowest point the Strait of Gibraltar is only about 14 km wide, between Point Marroqui and Point Cires.",
+      "as": "আটাইতকৈ সংকীৰ্ণ ঠাইত জিব্ৰাল্টৰ প্ৰণালী মাত্ৰ প্ৰায় ১৪ কিলোমিটাৰ বহল, মাৰ'কুই বিন্দু আৰু চিৰেছ বিন্দুৰ মাজত।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 85 km",
-      "as": "প্ৰায় ৮৫ কিলোমিটাৰ"
+      "en": "The Bering Strait, which separates Asia from North America, is only about 85 km wide at its narrowest.",
+      "as": "এছিয়া আৰু উত্তৰ আমেৰিকা পৃথক কৰা বেৰিং প্ৰণালী আটাইতকৈ সংকীৰ্ণ ঠাইত মাত্ৰ প্ৰায় ৮৫ কিলোমিটাৰ বহল।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 800 km",
-      "as": "প্ৰায় ৮০০ কিলোমিটাৰ"
+      "en": "The Strait of Malacca runs about 800 km between the Malay Peninsula and Sumatra, and it is the main shipping lane between the Indian and Pacific Oceans.",
+      "as": "মালাক্কা প্ৰণালী মালয় উপদ্বীপ আৰু সুমাত্ৰাৰ মাজেৰে প্ৰায় ৮০০ কিলোমিটাৰ পৰ্যন্ত বিস্তৃত, আৰু ভাৰত মহাসাগৰ আৰু প্ৰশান্ত মহাসাগৰৰ মাজৰ মূল জাহাজ পথ।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Atlantic and the Pacific",
-      "as": "এটলাণ্টিক আৰু প্ৰশান্ত"
+      "en": "The Panama Canal joins the Atlantic Ocean (through the Caribbean Sea) with the Pacific Ocean, cutting the voyage between them by thousands of kilometres.",
+      "as": "পানামা খাল আটলাণ্টিক মহাসাগৰক (কেৰিবিয়ান সাগৰৰ জৰিয়তে) প্ৰশান্ত মহাসাগৰৰ সৈতে সংযোগ কৰে, আৰু দুয়োৰে মাজৰ যাত্ৰা হাজাৰ হাজাৰ কিলোমিটাৰ কমাই দিয়ে।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 98 km",
-      "as": "প্ৰায় ৯৮ কিলোমিটাৰ"
+      "en": "The Kiel Canal in northern Germany is about 98 km long and links the North Sea with the Baltic Sea.",
+      "as": "উত্তৰ জাৰ্মানীৰ কিল খাল প্ৰায় ৯৮ কিলোমিটাৰ দীঘল আৰু উত্তৰ সাগৰক বাল্টিক সাগৰৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Palk Strait",
-      "as": "পাক খাদ"
+      "en": "The Palk Strait separates the island of Sri Lanka from the southern tip of India, lying between Tamil Nadu and Sri Lanka.",
+      "as": "পাল্ক প্ৰণালীয়ে শ্ৰীলংকা দ্বীপক ভাৰতৰ দক্ষিণ মূৰৰ পৰা পৃথক কৰে, তামিলনাডু আৰু শ্ৰীলংকাৰ মাজত অৱস্থিত।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "France",
-      "as": "ফ্ৰান্স"
+      "en": "The Suez Canal was built by the French company of Ferdinand de Lesseps and opened in 1869, though Britain later bought a controlling share.",
+      "as": "চুৱেজ খাল ফাৰ্ডিনাণ্ড ডি লেছেপছৰ ফৰাছী কোম্পানীয়ে নিৰ্মাণ কৰিছিল আৰু ১৮৬৯ চনত মুকলি হয়; পিছত ব্ৰিটেইনে নিয়ন্ত্ৰণমূলক অংশ কিনি লয়।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Coco Channel",
-      "as": "ক'ক' প্ৰণালী"
+      "en": "The Coco Channel separates the Andaman Islands from Myanmar (Burma) and lies in the northern part of the Andaman Sea.",
+      "as": "ক'ক' চেনেলে আন্দামান দ্বীপপুঞ্জক ম্যানমাৰৰ (বাৰ্মা) পৰা পৃথক কৰে আৰু আন্দামান সাগৰৰ উত্তৰ অংশত অৱস্থিত।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Adam's Bridge",
-      "as": "আদমৰ সেতু"
+      "en": "Adam's Bridge is a chain of shallow sandbanks and reefs between India and Sri Lanka, with water only a few metres deep.",
+      "as": "আদমৰ সেতু ভাৰত আৰু শ্ৰীলংকাৰ মাজত অৱস্থিত অগভীৰ বালিৰ চৰ আৰু প্ৰৱাল শিলাৰ শৃংখলা, য'ত পানী মাত্ৰ কেইমিটাৰমান গভীৰ।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The USA",
-      "as": "আমেৰিকা"
+      "en": "The United States controlled the Panama Canal Zone from 1903 and handed the canal over to Panama on 31 December 1999.",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰই ১৯০৩ চনৰপৰা পানামা খাল অঞ্চল নিয়ন্ত্ৰণ কৰিছিল আৰু ১৯৯৯ চনৰ ৩১ ডিচেম্বৰত খালটো পানামাৰ হাতত অৰ্পণ কৰে।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Channel Tunnel",
-      "as": "চেনেল টানেল"
+      "en": "The Channel Tunnel, a 50 km undersea rail tunnel beneath the English Channel, links England and France.",
+      "as": "চেনেল টানেল ইংৰাজী চেনেলৰ তলৰ ৫০ কিলোমিটাৰ দীঘল সমুদ্ৰতলীয় ৰে'ল সুৰংগ, যি ইংলেণ্ড আৰু ফ্ৰান্স সংযোগ কৰে।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Indian and the Pacific",
-      "as": "ভাৰত আৰু প্ৰশান্ত"
+      "en": "The Strait of Malacca connects the Indian Ocean (through the Andaman Sea) with the Pacific Ocean (through the South China Sea).",
+      "as": "মালাক্কা প্ৰণালীয়ে ভাৰত মহাসাগৰক (আন্দামান সাগৰৰ জৰিয়তে) প্ৰশান্ত মহাসাগৰৰ সৈতে (দক্ষিণ চীন সাগৰৰ জৰিয়তে) সংযোগ কৰে।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The La Perouse Strait",
-      "as": "লা পেৰুজ প্ৰণালী"
+      "en": "The La Perouse Strait separates Japan's Hokkaido from Sakhalin Island in Russia.",
+      "as": "লা পেৰাউজ প্ৰণালীয়ে জাপানৰ হ'ক্কাইড'ক ৰাছিয়াৰ চাখালিন দ্বীপৰ পৰা পৃথক কৰে।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Aegean Sea and the Sea of Marmara",
-      "as": "এজিয়ান সাগৰ আৰু মাৰ্মাৰা সাগৰ"
+      "en": "The Dardanelles connects the Aegean Sea with the Sea of Marmara; the Sea of Marmara then leads to the Black Sea through the Bosphorus.",
+      "as": "ডাৰ্ডানেলেছে এজিয়ান সাগৰক মাৰ্মাৰা সাগৰৰ সৈতে সংযোগ কৰে; মাৰ্মাৰা সাগৰে তাৰপিছত বসফৰাছৰ জৰিয়তে কৃষ্ণ সাগৰলৈ লৈ যায়।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Drake Passage",
-      "as": "ড্ৰেক পেছেজ"
+      "en": "The Drake Passage lies between Cape Horn in South America and the South Shetland Islands of Antarctica and is about 800 km wide.",
+      "as": "ড্ৰেক পেছেজ দক্ষিণ আমেৰিকাৰ কেপ হৰ্ন আৰু এণ্টাৰ্কটিকাৰ দক্ষিণ চেটলেণ্ড দ্বীপপুঞ্জৰ মাজত অৱস্থিত আৰু প্ৰায় ৮০০ কিলোমিটাৰ বহল।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Strait of Magellan",
-      "as": "মেগেলান প্ৰণালী"
+      "en": "The Strait of Magellan is a winding natural passage south of mainland South America, joining the Atlantic and Pacific Oceans.",
+      "as": "মেগেলান প্ৰণালী দক্ষিণ আমেৰিকাৰ মূল ভূখণ্ডৰ দক্ষিণে থকা বেঁকা প্ৰাকৃতিক পথ, যি আটলাণ্টিক আৰু প্ৰশান্ত মহাসাগৰ সংযোগ কৰে।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "St George's Channel",
-      "as": "ছেইণ্ট জৰ্জ প্ৰণালী"
+      "en": "St George's Channel separates Wales in Great Britain from Ireland, between the Irish Sea and the Celtic Sea.",
+      "as": "ছেইণ্ট জৰ্জছ চেনেলে গ্ৰেট ব্ৰিটেইনৰ ৱেলছক আয়াৰলেণ্ডৰ পৰা পৃথক কৰে, আইৰিছ সাগৰ আৰু চেল্টিক সাগৰৰ মাজত।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Corinth Canal",
-      "as": "কৰিন্থ খাল"
+      "en": "The Corinth Canal cuts through the narrow Isthmus of Corinth, turning the Peloponnese peninsula into an island.",
+      "as": "কৰিন্থ খাল সংকীৰ্ণ কৰিন্থ স্থলসন্ধিৰ মাজেৰে খন্দা হৈছে, যাৰ ফলত পেল'পনীজ উপদ্বীপটো এটা দ্বীপত পৰিণত হৈছে।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Grand Canal of China",
-      "as": "চীনৰ মহাখাল"
+      "en": "The Grand Canal of China runs about 1,776 km from Beijing to Hangzhou and is the longest canal ever built by humans.",
+      "as": "চীনৰ মহাখাল বেইজিঙৰপৰা হাংঝৌলৈ প্ৰায় ১,৭৭৬ কিলোমিটাৰ বিস্তৃত আৰু মানুহে নিৰ্মাণ কৰা আটাইতকৈ দীঘল খাল।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Volga-Don Canal",
-      "as": "ভল্গা-ডন খাল"
+      "en": "The Volga-Don Canal links the Volga river with the Don river, letting ships pass between the Caspian Sea and the Black Sea.",
+      "as": "ভল্গা-দন খালে ভল্গা নদীক দন নদীৰ সৈতে সংযোগ কৰে, যাৰ ফলত জাহাজে কেছ্পিয়ান সাগৰ আৰু কৃষ্ণ সাগৰৰ মাজেৰে যাতায়াত কৰিব পাৰে।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The South China Sea",
-      "as": "দক্ষিণ চীন সাগৰ"
+      "en": "The South China Sea covers about 3.5 million sq km, making it the largest sea in the world after the five oceans.",
+      "as": "দক্ষিণ চীন সাগৰে প্ৰায় ৩.৫ নিযুত বৰ্গ কিলোমিটাৰ আগুৰি ধৰে, যাৰ বাবে পাঁচখন মহাসাগৰৰ পিছত এইটো পৃথিৱীৰ আটাইতকৈ ডাঙৰ সাগৰ।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Strait of Tartary",
-      "as": "টাৰ্টাৰী প্ৰণালী"
+      "en": "The Strait of Tartary separates Sakhalin Island from the Russian mainland, running between the Sea of Okhotsk and the Sea of Japan.",
+      "as": "তাৰ্টাৰী প্ৰণালীয়ে চাখালিন দ্বীপক ৰাছিয়াৰ মূল ভূখণ্ডৰ পৰা পৃথক কৰে, অ'খ'ত্স্ক সাগৰ আৰু জাপান সাগৰৰ মাজেৰে।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Denmark Strait",
-      "as": "ডেনমাৰ্ক প্ৰণালী"
+      "en": "The Denmark Strait separates Iceland from Greenland and links the Greenland Sea with the Atlantic Ocean.",
+      "as": "ডেনমাৰ্ক প্ৰণালীয়ে আইচলেণ্ডক গ্ৰীণলেণ্ডৰ পৰা পৃথক কৰে আৰু গ্ৰীণলেণ্ড সাগৰক আটলাণ্টিক মহাসাগৰৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Davis Strait",
-      "as": "ডেভিছ প্ৰণালী"
+      "en": "The Davis Strait separates Greenland from Baffin Island in Canada, linking Baffin Bay with the Labrador Sea.",
+      "as": "ডেভিছ প্ৰণালীয়ে গ্ৰীণলেণ্ডক কানাডাৰ বাফিন দ্বীপৰ পৰা পৃথক কৰে, আৰু বাফিন উপহ্ৰদক লেব্ৰাডৰ সাগৰৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Tasman Sea",
-      "as": "টাছমেন সাগৰ"
+      "en": "The Tasman Sea lies between Australia and New Zealand and is named after the Dutch explorer Abel Tasman.",
+      "as": "টাছমেন সাগৰ অষ্ট্ৰেলিয়া আৰু নিউজিলেণ্ডৰ মাজত অৱস্থিত আৰু ডাচ্ অভিযাত্ৰী এবেল টাছমেনৰ নামেৰে নামাকৰণ কৰা হৈছে।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Yellow Sea",
-      "as": "হালধীয়া সাগৰ"
+      "en": "The Yellow Sea lies between the Korean peninsula and China and gets its colour from the silt carried by the Yellow River.",
+      "as": "হালধীয়া সাগৰ কোৰিয়া উপদ্বীপ আৰু চীনৰ মাজত অৱস্থিত; হালধীয়া নদীয়ে কঢ়িয়াই অনা পলসিয়ে ইয়াক এই বৰণ দিয়ে।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Sargasso Sea",
-      "as": "ছাৰ্গাছ' সাগৰ"
+      "en": "The Sargasso Sea in the North Atlantic is bounded only by ocean currents, not by any land, and is named after its floating seaweed.",
+      "as": "উত্তৰ আটলাণ্টিকৰ ছাৰ্গাছ' সাগৰৰ সীমা কেৱল সাগৰীয় সোঁতে নিৰ্ধাৰণ কৰে, কোনো ভূখণ্ডই নহয়; ইয়াৰ ওপৰত উটুৱা শেলাইৰ পৰাই নামটো আহিছে।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Gulf of Mexico",
-      "as": "মেক্সিকো উপসাগৰ"
+      "en": "The Gulf of Mexico, bordered by the USA, Mexico and Cuba, covers about 1.5 million sq km and is the largest gulf in the world.",
+      "as": "মেক্সিকোৰ উপসাগৰ, যাক আমেৰিকা, মেক্সিকো আৰু কিউবাই আগুৰি আছে, প্ৰায় ১.৫ নিযুত বৰ্গ কিলোমিটাৰ বিস্তৃত আৰু পৃথিৱীৰ আটাইতকৈ ডাঙৰ উপসাগৰ।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Baffin Bay",
-      "as": "বাফিন উপহ্ৰদ"
+      "en": "Baffin Bay lies between Baffin Island in Canada and Greenland and is connected to the Atlantic by the Davis Strait.",
+      "as": "বাফিন উপহ্ৰদ কানাডাৰ বাফিন দ্বীপ আৰু গ্ৰীণলেণ্ডৰ মাজত অৱস্থিত আৰু ডেভিছ প্ৰণালীৰ জৰিয়তে আটলাণ্টিকৰ সৈতে সংযুক্ত।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Baltic Sea",
-      "as": "বাল্টিক সাগৰ"
+      "en": "The Baltic Sea is almost landlocked and receives heavy river water, so its salinity is only about 7 parts per thousand, far below ocean average.",
+      "as": "বাল্টিক সাগৰ প্ৰায় সম্পূৰ্ণৰূপে স্থলবেষ্টিত আৰু ইয়াত নদীৰ পানী বহুল পৰিমাণে পৰে; সেয়ে ইয়াৰ লৱণতা প্ৰতি হাজাৰত মাত্ৰ প্ৰায় ৭ অংশ, মহাসাগৰৰ গড়তকৈ বহু কম।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Gulf of Martaban",
-      "as": "মাৰ্টাবান উপসাগৰ"
+      "en": "The Gulf of Martaban is a large inlet of the Andaman Sea at the mouth of the Sittang and Salween rivers in southern Myanmar, east of the Bay of Bengal.",
+      "as": "মাৰ্টাবান উপসাগৰ দক্ষিণ ম্যানমাৰত ছিটাং আৰু ছালৱিন নদীৰ মুখত অৱস্থিত আন্দামান সাগৰৰ এটা ডাঙৰ উপসাগৰ, বংগ উপসাগৰৰ পূবে।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Mediterranean Sea",
-      "as": "ভূমধ্য সাগৰ"
+      "en": "The Mediterranean Sea touches about 22 countries across Europe, Africa and Asia, more than any other sea.",
+      "as": "ভূমধ্য সাগৰে ইউৰোপ, আফ্ৰিকা আৰু এছিয়াৰ প্ৰায় ২২ খন দেশ স্পৰ্শ কৰে, যি আন যিকোনো সাগৰতকৈ বেছি।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Persian Gulf",
-      "as": "পাৰস্য উপসাগৰ"
+      "en": "The Persian Gulf holds about half of the world's proven oil reserves, and Saudi Arabia, Iran, Kuwait and the UAE all export through it.",
+      "as": "পাৰ্চী উপসাগৰত পৃথিৱীৰ প্ৰমাণিত তেল ভাণ্ডাৰৰ প্ৰায় আধা আছে, আৰু ছৌদি আৰব, ইৰাণ, কুৱেইট আৰু আমাৰাতসকল ইয়াৰ জৰিয়তে তেল ৰপ্তানি কৰে।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Suez Canal",
-      "as": "চুৱেজ খাল"
+      "en": "The Suez Canal carries roughly 12 per cent of world trade and about 10 per cent of seaborne oil, as ships avoid the long route round Africa.",
+      "as": "চুৱেজ খালে পৃথিৱীৰ প্ৰায় ১২ শতাংশ বাণিজ্য আৰু সাগৰীয় তেলৰ প্ৰায় ১০ শতাংশ কঢ়িয়ায়, কাৰণ জাহাজে আফ্ৰিকাৰ চাৰিওফালে যোৱা দীঘল পথ বাদ দিয়ে।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Bay of Bengal",
-      "as": "বঙ্গোপসাগৰ"
+      "en": "The Bay of Bengal, covering about 2.2 million sq km, is the largest bay in the world and is fed by the Ganga and Brahmaputra.",
+      "as": "বংগ উপসাগৰে প্ৰায় ২.২ নিযুত বৰ্গ কিলোমিটাৰ আগুৰি ধৰে আৰু পৃথিৱীৰ আটাইতকৈ ডাঙৰ উপহ্ৰদ; ইয়াত গংগা আৰু ব্ৰহ্মপুত্ৰই পানী যোগায়।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Bay of Bengal",
-      "as": "বঙ্গোপসাগৰ"
+      "en": "The Bay of Bengal lies to the east of India and to the west of Myanmar, with Bangladesh at its northern head.",
+      "as": "বংগ উপসাগৰ ভাৰতৰ পূবে আৰু ম্যানমাৰৰ পশ্চিমে অৱস্থিত, আৰু ইয়াৰ উত্তৰ মূৰত বাংলাদেশ।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Arabian Sea",
-      "as": "আৰব সাগৰ"
+      "en": "The Arabian Sea lies between India and the Arabian peninsula and is a part of the northern Indian Ocean.",
+      "as": "আৰব সাগৰ ভাৰত আৰু আৰব উপদ্বীপৰ মাজত অৱস্থিত আৰু উত্তৰ ভাৰত মহাসাগৰৰ এটা অংশ।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Strait of Gibraltar",
-      "as": "জিব্ৰাল্টাৰ প্ৰণালী"
+      "en": "The Strait of Gibraltar is the only natural exit from the Mediterranean, so closing it would cut the sea off from the Atlantic.",
+      "as": "জিব্ৰাল্টৰ প্ৰণালী ভূমধ্য সাগৰৰ একমাত্ৰ প্ৰাকৃতিক বাট; সেয়ে ইয়াক বন্ধ কৰিলে সাগৰটো আটলাণ্টিকৰ পৰা সম্পূৰ্ণৰূপে বিচ্ছিন্ন হ'ব।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Lombok Strait",
-      "as": "লম্বক প্ৰণালী"
+      "en": "The Lombok Strait separates Bali from Lombok, and along with the Makassar Strait it marks the boundary of the biogeographic Wallace Line.",
+      "as": "লম্বক প্ৰণালীয়ে বালিক লম্বকৰ পৰা পৃথক কৰে, আৰু মাকাছাৰ প্ৰণালীৰ সৈতে ই জৈৱভৌগোলিক ৱালেছ ৰেখাৰ সীমা নিৰ্ধাৰণ কৰে।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Bosphorus",
-      "as": "ব'সফৰাছ"
+      "en": "The Bosphorus in Istanbul narrows to about 700 m, making it the narrowest strait used for international navigation.",
+      "as": "ইস্তানবুলৰ বসফৰাছ আটাইতকৈ সংকীৰ্ণ ঠাইত প্ৰায় ৭০০ মিটাৰ, যাৰ বাবে আন্তৰ্জাতিক নৌচলাচলত ব্যৱহৃত আটাইতকৈ সংকীৰ্ণ প্ৰণালী।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Caspian Sea",
-      "as": "কেছপিয়ান সাগৰ"
+      "en": "The Caspian Sea is the largest inland water body on Earth, covering about 371,000 sq km and bordered by Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan.",
+      "as": "কেছ্পিয়ান সাগৰ পৃথিৱীৰ আটাইতকৈ ডাঙৰ স্থলবেষ্টিত জলভাগ, প্ৰায় ৩,৭১,০০০ বৰ্গ কিলোমিটাৰ বিস্তৃত, আৰু ৰাছিয়া, কাজাখাস্তান, তুৰ্কমেনিস্তান, ইৰাণ আৰু আজাৰবাইজানৰ সীমা ইয়াৰ সৈতে লাগি আছে।"
     }
   }
 ]

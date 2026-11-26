@@ -25,8 +25,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 3,323 km",
-      "as": "প্ৰায় 3,323 কিলোমিটাৰ"
+      "en": "The India-Pakistan border is about 3,323 km long, including the Line of Control in Jammu and Kashmir.",
+      "as": "ভাৰত-পাকিস্তান সীমা প্ৰায় ৩,৩২৩ কিলোমিটাৰ দীঘল, য'ত জম্মু-কাশ্মীৰৰ নিয়ন্ত্ৰণ ৰেখাও ধৰা হয়।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 3,488 km",
-      "as": "প্ৰায় 3,488 কিলোমিটাৰ"
+      "en": "The India-China border is about 3,488 km long and runs through Ladakh, Himachal, Uttarakhand, Sikkim and Arunachal Pradesh.",
+      "as": "ভাৰত-চীন সীমা প্ৰায় ৩,৪৮৮ কিলোমিটাৰ দীঘল আৰু লাডাখ, হিমাচল, উত্তৰাখণ্ড, ছিক্কিম আৰু অৰুণাচল প্ৰদেশৰ মাজেৰে যায়।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 4,096 km",
-      "as": "প্ৰায় 4,096 কিলোমিটাৰ"
+      "en": "The India-Bangladesh border, about 4,096 km, is the longest border India shares with any neighbour.",
+      "as": "প্ৰায় ৪,০৯৬ কিলোমিটাৰৰ ভাৰত-বাংলাদেশ সীমা ভাৰতৰ যিকোনো চুবুৰীয়াৰ সৈতে আটাইতকৈ দীঘল সীমা।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ladakh",
-      "as": "লাডাখ"
+      "en": "Ladakh has the longest border with China, followed by Arunachal Pradesh.",
+      "as": "চীনৰ সৈতে আটাইতকৈ দীঘল সীমা লাডাখৰ, ইয়াৰ পিছত অৰুণাচল প্ৰদেশ।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Rajasthan",
-      "as": "ৰাজস্থান"
+      "en": "Rajasthan shares the longest border with Pakistan, about 1,170 km of the total.",
+      "as": "ৰাজস্থানৰ সৈতে পাকিস্তানৰ আটাইতকৈ দীঘল সীমা, মুঠৰ প্ৰায় ১,১৭০ কিলোমিটাৰ।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Five",
-      "as": "পাঁচটা"
+      "en": "Five Indian states border Bangladesh: West Bengal, Assam, Meghalaya, Tripura and Mizoram.",
+      "as": "পাঁচখন ভাৰতীয় ৰাজ্যই বাংলাদেশৰ সীমা স্পৰ্শ কৰে: পশ্চিম বংগ, অসম, মেঘালয়, ত্ৰিপুৰা আৰু মিজোৰাম।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Arunachal Pradesh",
-      "as": "অৰুণাচল প্ৰদেশ"
+      "en": "Arunachal Pradesh shares the longest border with Myanmar, followed by Nagaland and Manipur.",
+      "as": "ম্যানমাৰৰ সৈতে আটাইতকৈ দীঘল সীমা অৰুণাচল প্ৰদেশৰ, ইয়াৰ পিছত নাগালেণ্ড আৰু মণিপুৰ।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Four",
-      "as": "চাৰিটা"
+      "en": "Four Indian states border Myanmar: Arunachal Pradesh, Nagaland, Manipur and Mizoram.",
+      "as": "চাৰিখন ভাৰতীয় ৰাজ্যই ম্যানমাৰৰ সীমা স্পৰ্শ কৰে: অৰুণাচল প্ৰদেশ, নাগালেণ্ড, মণিপুৰ আৰু মিজোৰাম।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "India and Pakistan",
-      "as": "ভাৰত আৰু পাকিস্তান"
+      "en": "The Radcliffe Line was the boundary drawn to divide India and Pakistan at Partition.",
+      "as": "ৰেডক্লিফ ৰেখা বিভাজনৰ সময়ত ভাৰত আৰু পাকিস্তানক ভাগ কৰিবলৈ অঁকা সীমাৰেখা আছিল।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "1947",
-      "as": "১৯৪৭"
+      "en": "The Radcliffe Line was drawn in 1947 by the boundary commissions chaired by Sir Cyril Radcliffe.",
+      "as": "চাৰ চিৰিল ৰেডক্লিফৰ অধ্যক্ষতাত গঠিত সীমা আয়োগে ১৯৪৭ চনত ৰেডক্লিফ ৰেখা আঁকিছিল।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Sir Cyril Radcliffe",
-      "as": "ছাৰ চিৰিল ৰেডক্লিফ"
+      "en": "Sir Cyril Radcliffe, a British lawyer who had never visited India, chaired the boundary commission.",
+      "as": "ভাৰতলৈ কেতিয়াও অহা নহা ব্ৰিটিছ উকীল চাৰ চিৰিল ৰেডক্লিফ সীমা আয়োগৰ অধ্যক্ষ আছিল।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Afghanistan",
-      "as": "আফগানিস্তান"
+      "en": "The Durand Line separates Pakistan from Afghanistan and is about 2,640 km long.",
+      "as": "ডুৰাণ্ড ৰেখাই পাকিস্তানক আফগানিস্তানৰ পৰা পৃথক কৰে আৰু ই প্ৰায় ২,৬৪০ কিলোমিটাৰ দীঘল।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "1893",
-      "as": "১৮৯৩"
+      "en": "The Durand Line was demarcated in 1893 under an agreement between British India and the Afghan ruler.",
+      "as": "ব্ৰিটিছ ভাৰত আৰু আফগান শাসকৰ মাজৰ চুক্তিৰ অধীনত ১৮৯৩ চনত ডুৰাণ্ড ৰেখা নিৰ্ধাৰণ কৰা হৈছিল।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Sir Mortimer Durand",
-      "as": "ছাৰ মৰ্টিমাৰ ডুৰাণ্ড"
+      "en": "The line is named after Sir Mortimer Durand, the British Indian foreign secretary who negotiated it.",
+      "as": "এই ৰেখাৰ নাম চাৰ মৰ্টিমাৰ ডুৰাণ্ডৰ নামেৰে, যি ইয়াৰ বাবে আলোচনা চলোৱা ব্ৰিটিছ ভাৰতৰ বিদেশ সচিব আছিল।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 1,100 km",
-      "as": "প্ৰায় 1,100 কিলোমিটাৰ"
+      "en": "The McMahon Line runs about 1,100 km along the Himalayan crest from Bhutan to Myanmar.",
+      "as": "মেকমোহন ৰেখা ভূটানৰপৰা ম্যানমাৰলৈ হিমালয়ৰ শৃংগৰ কাষেৰে প্ৰায় ১,১০০ কিলোমিটাৰ বিস্তৃত।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Simla Convention of 1914",
-      "as": "১৯১৪ চনৰ ছিমলা সন্মিলন"
+      "en": "The McMahon Line was agreed at the Simla Convention of 1914 between British India and Tibet.",
+      "as": "ব্ৰিটিছ ভাৰত আৰু তিব্বতৰ মাজত ১৯১৪ চনৰ ছিমলা সন্মিলনত মেকমোহন ৰেখাৰ ওপৰত সন্মতি হৈছিল।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "India and Pakistan",
-      "as": "ভাৰত আৰু পাকিস্তান"
+      "en": "The Line of Control divides Indian and Pakistani administered areas of Jammu and Kashmir.",
+      "as": "নিয়ন্ত্ৰণ ৰেখাই জম্মু-কাশ্মীৰৰ ভাৰত আৰু পাকিস্তান প্ৰশাসিত অঞ্চলক বিভক্ত কৰে।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The 1971 Indo-Pak war",
-      "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধ"
+      "en": "The Line of Control was established after the 1971 Indo-Pak war, which created Bangladesh.",
+      "as": "১৯৭১ চনৰ ভাৰত-পাক যুদ্ধৰ পিছত নিয়ন্ত্ৰণ ৰেখা স্থাপিত হয়, যি যুদ্ধত বাংলাদেশৰ সৃষ্টি হৈছিল।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Simla Agreement",
-      "as": "ছিমলা চুক্তি"
+      "en": "The Simla Agreement of 1972 between India and Pakistan converted the ceasefire line into the Line of Control.",
+      "as": "১৯৭২ চনৰ ভাৰত-পাকিস্তান ছিমলা চুক্তিয়ে যুদ্ধবিৰতি ৰেখাক নিয়ন্ত্ৰণ ৰেখালৈ ৰূপান্তৰ কৰিছিল।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The de facto border between India and China",
-      "as": "ভাৰত আৰু চীনৰ মাজৰ প্ৰকৃত সীমা"
+      "en": "The Line of Actual Control is the de facto border between India and China, without a mutually agreed line on the ground.",
+      "as": "প্ৰকৃত নিয়ন্ত্ৰণ ৰেখা ভাৰত আৰু চীনৰ মাজৰ প্ৰকৃত সীমা, যদিও ভূমিত পাৰস্পৰিক সন্মত ৰেখা নাই।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The 1962 Sino-Indian war",
-      "as": "১৯৬২ চনৰ চীন-ভাৰত যুদ্ধ"
+      "en": "The Line of Actual Control came into being after the 1962 Sino-Indian war.",
+      "as": "১৯৬২ চনৰ চীন-ভাৰত যুদ্ধৰ পিছত প্ৰকৃত নিয়ন্ত্ৰণ ৰেখাৰ সৃষ্টি হয়।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The 49th Parallel",
-      "as": "৪৯তম সমান্তৰাল"
+      "en": "The 49th Parallel forms most of the USA-Canada border, running from the Lake of the Woods to the Pacific.",
+      "as": "৪৯ সংখ্যক সমান্তৰাল ৰেখাই আমেৰিকা-কানাডা সীমাৰ বেছিভাগ গঠন কৰে, লেক অফ দ্য উডছৰপৰা পেছিফিকলৈ।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The 42nd Parallel",
-      "as": "৪২তম সমান্তৰাল"
+      "en": "The 42nd Parallel forms part of the USA-Mexico border, though the Rio Grande marks most of it.",
+      "as": "৪২ সংখ্যক সমান্তৰাল ৰেখাই আমেৰিকা-মেক্সিক' সীমাৰ এটা অংশ গঠন কৰে, যদিও বেছিভাগ ৰিঅ' গ্ৰাণ্ডে চিহ্নিত কৰে।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 250 km",
-      "as": "প্ৰায় 250 কিলোমিটাৰ"
+      "en": "The Demilitarized Zone between North and South Korea is about 250 km long and 4 km wide.",
+      "as": "উত্তৰ আৰু দক্ষিণ কোৰিয়াৰ মাজৰ অসৈনিক অঞ্চল প্ৰায় ২৫০ কিলোমিটাৰ দীঘল আৰু ৪ কিলোমিটাৰ বহল।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The 22nd Parallel",
-      "as": "২২তম সমান্তৰাল"
+      "en": "The 22nd Parallel forms the straight border between Egypt and Sudan, drawn by the British in 1899.",
+      "as": "২২ সংখ্যক সমান্তৰাল ৰেখাই ইজিপ্ত আৰু ছুদানৰ সৰল সীমা গঠন কৰে, যি ব্ৰিটিছে ১৮৯৯ চনত আঁকিছিল।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The 141st meridian west",
-      "as": "১৪১তম পশ্চিম মধ্যৰেখা"
+      "en": "The 141st meridian west forms most of the border between Alaska and Canada's Yukon.",
+      "as": "১৪১ সংখ্যক পশ্চিম দ্ৰাঘিমা ৰেখাই আলাস্কা আৰু কানাডাৰ ইউকনৰ মাজৰ বেছিভাগ সীমা গঠন কৰে।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A plateau at the India-China-Bhutan trijunction",
-      "as": "ভাৰত-চীন-ভূটান ত্ৰিসন্ধিৰ এটা মালভূমি"
+      "en": "Doklam is a plateau at the trijunction of India, China and Bhutan, claimed by China though Bhutan regards it as its own.",
+      "as": "ড'কলাম ভাৰত, চীন আৰু ভূটানৰ ত্ৰিসন্ধি স্থলত অৱস্থিত এটা মালভূমি, যাক চীনে দাবী কৰে যদিও ভূটানে নিজৰ বুলি গণ্য কৰে।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A narrow strip of West Bengal connecting the north-east to the rest of India",
-      "as": "উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগী পশ্চিম বংগৰ সংকীৰ্ণ ভূমি"
+      "en": "The Chicken's Neck, or Siliguri Corridor, is a narrow strip of West Bengal that joins the north-east to the rest of India.",
+      "as": "চিকেনছ নেক বা ছিলিগুৰি কৰিডৰ পশ্চিম বংগৰ এটা সংকীৰ্ণ পটি, যি উত্তৰ-পূবক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 20 to 22 km",
-      "as": "প্ৰায় 20 ৰ পৰা 22 কিলোমিটাৰ"
+      "en": "At its narrowest the Siliguri Corridor is only about 20 to 22 km wide, with Nepal to the north and Bangladesh to the south.",
+      "as": "আটাইতকৈ সংকীৰ্ণ ঠাইত ছিলিগুৰি কৰিডৰ মাত্ৰ প্ৰায় ২০ ৰপৰা ২২ কিলোমিটাৰ বহল, উত্তৰে নেপাল আৰু দক্ষিণে বাংলাদেশ।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Germany and Poland",
-      "as": "জাৰ্মানী আৰু প'লেণ্ড"
+      "en": "The Oder-Neisse Line follows the Oder and Neisse rivers and forms the border between Germany and Poland since 1945.",
+      "as": "অ'ডাৰ-নাইছে ৰেখা অ'ডাৰ আৰু নাইছে নদীৰ কাষেৰে যায় আৰু ১৯৪৫ চনৰপৰা জাৰ্মানী আৰু প'লেণ্ডৰ সীমা গঠন কৰে।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Poland and Belarus-Ukraine",
-      "as": "প'লেণ্ড আৰু বেলাৰুছ-ইউক্ৰেইন"
+      "en": "The Curzon Line was proposed after the First World War as the eastern boundary of Poland and now separates Poland from Belarus and Ukraine.",
+      "as": "কাৰ্জন ৰেখা প্ৰথম বিশ্বযুদ্ধৰ পিছত প'লেণ্ডৰ পূব সীমা হিচাপে প্ৰস্তাৱ কৰা হৈছিল আৰু এতিয়া প'লেণ্ডক বেলাৰুছ আৰু ইউক্ৰেইনৰপৰা পৃথক কৰে।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "France",
-      "as": "ফ্ৰান্স"
+      "en": "The Maginot Line was a system of forts built by France along its border with Germany in the 1930s.",
+      "as": "মেজিন'ট ৰেখা ফ্ৰান্সে ১৯৩০ দশকত জাৰ্মানীৰ সৈতে থকা সীমাৰ কাষেৰে নিৰ্মাণ কৰা দুৰ্গৰ শৃংখলা।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Siegfried Line",
-      "as": "জিগফ্ৰাইড ৰেখা"
+      "en": "The Siegfried Line, or West Wall, was Germany's defensive line facing the Maginot Line.",
+      "as": "জিগফ্ৰাইড ৰেখা বা পশ্চিম প্ৰাচীৰ মেজিন'ট ৰেখাৰ বিপৰীতে থকা জাৰ্মানীৰ প্ৰতিৰক্ষা ৰেখা আছিল।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Finland",
-      "as": "ফিনলেণ্ড"
+      "en": "The Mannerheim Line was a defensive line built by Finland across the Karelian Isthmus against the Soviet Union.",
+      "as": "মানেৰহেইম ৰেখা ফিনলেণ্ডে ছ'ভিয়েট সংঘৰ বিৰুদ্ধে কেৰেলিয়ান যোজকত নিৰ্মাণ কৰা প্ৰতিৰক্ষা ৰেখা আছিল।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Greek Cypriots and Turkish Cypriots",
-      "as": "গ্ৰীক চাইপ্ৰিয়ট আৰু তুৰ্কী চাইপ্ৰিয়ট"
+      "en": "The Green Line of Cyprus divides the island between the Greek Cypriot south and the Turkish Cypriot north.",
+      "as": "ছাইপ্ৰাছৰ সেউজ ৰেখাই দ্বীপটোক দক্ষিণৰ গ্ৰীক ছাইপ্ৰিয়ট আৰু উত্তৰৰ তুৰ্কী ছাইপ্ৰিয়টৰ মাজত ভাগ কৰে।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Israel-Lebanon border drawn by the UN",
-      "as": "ৰাষ্ট্ৰসংঘই আঁকা ইজৰাইল-লেবানন সীমা"
+      "en": "The Blue Line is the border drawn by the United Nations between Israel and Lebanon after the Israeli withdrawal of 2000.",
+      "as": "নীলা ৰেখা ২০০০ চনৰ ইজৰাইলৰ প্ৰত্যাহাৰৰ পিছত ৰাষ্ট্ৰসংঘই ইজৰাইল আৰু লেবাননৰ মাজত আঁকা সীমাৰেখা।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The political barrier dividing Europe during the Cold War",
-      "as": "শীতল যুদ্ধৰ সময়ত ইউৰোপক বিভক্ত কৰা ৰাজনৈতিক প্ৰাচীৰ"
+      "en": "The Iron Curtain was the political and physical barrier that divided Soviet-controlled Eastern Europe from the West during the Cold War.",
+      "as": "লৌহ পৰ্দা শীতল যুদ্ধৰ সময়ত ছ'ভিয়েট নিয়ন্ত্ৰিত পূব ইউৰোপক পশ্চিমৰপৰা বিভক্ত কৰা ৰাজনৈতিক আৰু ভৌতিক বাধা আছিল।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Winston Churchill",
-      "as": "উইনষ্টন চাৰ্চিল"
+      "en": "Winston Churchill popularised the term Iron Curtain in his Fulton speech of March 1946.",
+      "as": "উইনষ্টন চাৰ্চিলে ১৯৪৬ চনৰ মাৰ্চত ফাল্টনৰ ভাষণত লৌহ পৰ্দা শব্দটো জনপ্ৰিয় কৰিছিল।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Berlin Wall",
-      "as": "বেৰলিন দেৱাল"
+      "en": "The Berlin Wall divided East and West Berlin from 1961 until it fell on 9 November 1989.",
+      "as": "বেৰ্লিন প্ৰাচীৰে ১৯৬১ চনৰপৰা ১৯৮৯ চনৰ ৯ নৱেম্বৰত পৰি যোৱালৈকে পূব আৰু পশ্চিম বেৰ্লিনক বিভক্ত কৰিছিল।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Hadrian's Wall",
-      "as": "হেড্ৰিয়ান দেৱাল"
+      "en": "Hadrian's Wall was built by the Romans across northern Britain in the second century AD as the empire's northern frontier.",
+      "as": "হেড্ৰিয়ানৰ প্ৰাচীৰ ৰোমানসকলে খ্ৰীষ্টীয় দ্বিতীয় শতিকাত সাম্ৰাজ্যৰ উত্তৰ সীমা হিচাপে উত্তৰ ব্ৰিটেইনৰ মাজেৰে নিৰ্মাণ কৰিছিল।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Offa's Dyke",
-      "as": "অফাৰ বান্ধ"
+      "en": "Offa's Dyke is a great earthwork built by the king of Mercia in the eighth century, marking the border between England and Wales.",
+      "as": "অফাৰ ডাইক অষ্টম শতিকাত মাৰ্চিয়াৰ ৰজাই নিৰ্মাণ কৰা এটা বৃহৎ মাটিৰ বান্ধ, যি ইংলেণ্ড আৰু ৱেলছৰ সীমা চিহ্নিত কৰিছিল।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The boundary between free and slave states in the USA",
-      "as": "আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ মাজৰ সীমা"
+      "en": "The Mason-Dixon Line was surveyed in the 1760s and later came to be seen as the boundary between free and slave states in the USA.",
+      "as": "মেছন-ডিক্সন ৰেখা ১৭৬০ দশকত জোখা হৈছিল আৰু পিছত আমেৰিকাত মুক্ত আৰু দাস ৰাজ্যৰ সীমা বুলি গণ্য হৈছিল।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Inner German Border",
-      "as": "আভ্যন্তৰীণ জাৰ্মান সীমা"
+      "en": "The Inner German Border was the 1,393 km frontier between East and West Germany from 1949 to 1990.",
+      "as": "আভ্যন্তৰীণ জাৰ্মান সীমা ১৯৪৯ ৰপৰা ১৯৯০ লৈ পূব আৰু পশ্চিম জাৰ্মানীৰ মাজৰ ১,৩৯৩ কিলোমিটাৰ সীমা আছিল।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "India and China",
-      "as": "ভাৰত আৰু চীন"
+      "en": "The McMahon Line is disputed between India and China, which rejects the Simla Convention of 1914.",
+      "as": "মেকমোহন ৰেখা ভাৰত আৰু চীনৰ মাজত বিবাদিত, কাৰণ চীনে ১৯১৪ চনৰ ছিমলা সন্মিলনক অস্বীকাৰ কৰে।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Four",
-      "as": "চাৰিটা"
+      "en": "Four Indian states border Bhutan: Assam, West Bengal, Sikkim and Arunachal Pradesh.",
+      "as": "চাৰিখন ভাৰতীয় ৰাজ্যই ভূটানৰ সীমা স্পৰ্শ কৰে: অসম, পশ্চিম বংগ, ছিক্কিম আৰু অৰুণাচল প্ৰদেশ।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Assam",
-      "as": "অসম"
+      "en": "Assam shares the longest border with Bhutan, about 267 km of the total 699 km.",
+      "as": "অসমৰ সৈতে ভূটানৰ আটাইতকৈ দীঘল সীমা, মুঠ ৬৯৯ কিলোমিটাৰৰ প্ৰায় ২৬৭ কিলোমিটাৰ।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Five",
-      "as": "পাঁচটা"
+      "en": "Five Indian states border Nepal: Uttarakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim.",
+      "as": "পাঁচখন ভাৰতীয় ৰাজ্যই নেপালৰ সীমা স্পৰ্শ কৰে: উত্তৰাখণ্ড, উত্তৰ প্ৰদেশ, বিহাৰ, পশ্চিম বংগ আৰু ছিক্কিম।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The USA-Canada border",
-      "as": "আমেৰিকা-কানাডা সীমা"
+      "en": "The USA-Canada border, about 8,891 km including Alaska, is the longest international border in the world.",
+      "as": "আলাস্কাক ধৰি প্ৰায় ৮,৮৯১ কিলোমিটাৰৰ আমেৰিকা-কানাডা সীমা পৃথিৱীৰ আটাইতকৈ দীঘল আন্তৰ্জাতিক সীমা।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 8,891 km",
-      "as": "প্ৰায় 8,891 কিলোমিটাৰ"
+      "en": "The USA-Canada border runs about 8,891 km, of which 2,477 km is the Alaska-Yukon boundary.",
+      "as": "আমেৰিকা-কানাডা সীমা প্ৰায় ৮,৮৯১ কিলোমিটাৰ, যাৰ ২,৪৭৭ কিলোমিটাৰ আলাস্কা-ইউকন সীমা।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Meghalaya",
-      "as": "মেঘালয়"
+      "en": "Meghalaya shares the shortest border with Bangladesh, about 443 km compared with West Bengal's 2,217 km.",
+      "as": "পশ্চিম বংগৰ ২,২১৭ কিলোমিটাৰৰ তুলনাত মেঘালয়ৰ সৈতে বাংলাদেশৰ আটাইতকৈ কম সীমা, প্ৰায় ৪৪৩ কিলোমিটাৰ।"
     }
   }
 ]

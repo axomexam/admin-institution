@@ -25,8 +25,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "6.5 °C per km",
-      "as": "প্ৰতি কিলোমিটাৰত 6.5 °C"
+      "en": "Temperature falls by about 6.5 °C for every kilometre of height gained in the troposphere.",
+      "as": "ট্ৰপ'স্ফিয়াৰত ওপৰলৈ যিমান যোৱা যায়, প্ৰতি কিলোমিটাৰত তাপমাত্ৰা প্ৰায় ৬.৫ °চে. কমি যায়।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Over the equator",
-      "as": "বিষুবৰেখাৰ ওপৰত"
+      "en": "The tropopause lies highest over the equator, at about 16–18 km, because the air there is heated most and expands the most.",
+      "as": "বিষুৱৰেখাৰ ওপৰত ট্ৰপ'পজ আটাইতকৈ ওপৰত, প্ৰায় ১৬–১৮ কিলোমিটাৰত থাকে, কাৰণ তাত বায়ু আটাইতকৈ বেছি গৰম হৈ সৰ্বাধিক বিস্তাৰ লাভ কৰে।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Ozone absorbs ultraviolet radiation",
-      "as": "অ'জনে অতিবেঙুনীয়া ৰশ্মি শোষণ কৰে"
+      "en": "Ozone in the stratosphere absorbs most of the Sun's ultraviolet rays, and that absorbed energy warms the air with height.",
+      "as": "ষ্ট্ৰেট'স্ফিয়াৰৰ অ'জ'নে সূৰ্যৰ অধিকাংশ অতি-বেঙুনী ৰশ্মি শোষণ কৰে, আৰু সেই শক্তিৰ বাবেই ওপৰলৈ যোৱাৰ লগে লগে বায়ু গৰম হয়।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "At the mesopause",
-      "as": "মেছ'পজত"
+      "en": "The coldest point of the atmosphere is the mesopause at about 85 km, where the temperature falls to about −90 °C.",
+      "as": "বায়ুমণ্ডলৰ আটাইতকৈ ঠাণ্ডা ঠাই হৈছে প্ৰায় ৮৫ কিলোমিটাৰ উচ্চতাত থকা মেছ'পজ, য'ত তাপমাত্ৰা প্ৰায় −৯০ °চে.লৈ নামে।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 1500 °C",
-      "as": "প্ৰায় 1500 °C"
+      "en": "The thermosphere can reach about 1500 °C, but the air there is so thin that a thermometer would record almost no heat.",
+      "as": "থাৰ্ম'স্ফিয়াৰৰ তাপমাত্ৰা প্ৰায় ১৫০০ °চে. পৰ্যন্ত হয়, কিন্তু তাত বায়ু ইমান পাতল যে থাৰ্ম'মিটাৰে প্ৰায় কোনো তাপ ধৰিব নোৱাৰে।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 500 km",
-      "as": "প্ৰায় 500 কিলোমিটাৰ"
+      "en": "The exosphere begins at about 500 km and fades gradually into space, with no clear upper limit.",
+      "as": "এক্স'স্ফিয়াৰ প্ৰায় ৫০০ কিলোমিটাৰ উচ্চতাত আৰম্ভ হয় আৰু ক্ৰমে মহাকাশলৈ মিলি যায়; ইয়াৰ কোনো স্পষ্ট ওপৰৰ সীমা নাই।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The lower atmosphere up to about 80 km where gases are evenly mixed",
-      "as": "প্ৰায় 80 কিলোমিটাৰ পৰ্যন্ত নিম্ন বায়ুমণ্ডল, য'ত গেছবোৰ সমানভাৱে মিহলি হৈ থাকে"
+      "en": "Up to about 80 km the gases of the atmosphere are thoroughly mixed and stay in the same proportion; this lower part is the homosphere.",
+      "as": "প্ৰায় ৮০ কিলোমিটাৰ পৰ্যন্ত বায়ুমণ্ডলৰ গেছবোৰ ভালদৰে মিহলি হৈ একে অনুপাততে থাকে; এই তলৰ অংশক হ'ম'স্ফিয়াৰ বোলে।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The upper atmosphere above 80 km where gases separate by weight",
-      "as": "80 কিলোমিটাৰৰ ওপৰৰ উচ্চ বায়ুমণ্ডল, য'ত গেছবোৰ ওজন অনুসৰি পৃথক হয়"
+      "en": "Above about 80 km gravity separates the gases by weight — lighter hydrogen and helium rise to the top; this layer is the heterosphere.",
+      "as": "প্ৰায় ৮০ কিলোমিটাৰৰ ওপৰত মহাকৰ্ষণে ওজন অনুসৰি গেছবোৰ পৃথক কৰে — পাতল হাইড্ৰজেন আৰু হিলিয়াম ওপৰলৈ যায়; এই স্তৰক হেটেৰ'স্ফিয়াৰ বোলে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Dobson Unit",
-      "as": "ডবছন একক"
+      "en": "Ozone is measured in Dobson Units, where 100 DU means a layer of ozone 1 mm thick at surface pressure.",
+      "as": "অ'জ'নক ডবছন এককত জোখা হয়; ১০০ ডবছন একক মানে ভূপৃষ্ঠৰ চাপত ১ মিলিমিটাৰ ডাঠ অ'জ'নৰ স্তৰ।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 300 Dobson Units",
-      "as": "প্ৰায় 300 ডবছন একক"
+      "en": "The ozone layer holds on average about 300 Dobson Units, which works out to a layer only about 3 mm thick at surface pressure.",
+      "as": "অ'জ'ন স্তৰত গড়ে প্ৰায় ৩০০ ডবছন একক থাকে, যি ভূপৃষ্ঠৰ চাপত মাত্ৰ প্ৰায় ৩ মিলিমিটাৰ ডাঠ স্তৰৰ সমান।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Nitrogen",
-      "as": "নাইট্ৰ'জেন"
+      "en": "Nitrogen makes up about 78 per cent of dry air by volume and is the largest single component of the atmosphere.",
+      "as": "শুকান বায়ুত আয়তন অনুসৰি প্ৰায় ৭৮ শতাংশ নাইট্ৰজেন থাকে, আৰু এইটো বায়ুমণ্ডলৰ আটাইতকৈ ডাঙৰ একক উপাদান।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "0.93 per cent",
-      "as": "0.93 শতাংশ"
+      "en": "Argon is a noble gas forming about 0.93 per cent of the atmosphere, the third most abundant gas after nitrogen and oxygen.",
+      "as": "আৰ্গন এটা নিষ্ক্ৰিয় গেছ যি বায়ুমণ্ডলৰ প্ৰায় ০.৯৩ শতাংশ গঠন কৰে; নাইট্ৰজেন আৰু অক্সিজেনৰ পিছত তৃতীয় সৰ্বাধিক গেছ।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Nitrogen and oxygen",
-      "as": "নাইট্ৰ'জেন আৰু অক্সিজেন"
+      "en": "Nitrogen (78 per cent) and oxygen (21 per cent) together account for about 99 per cent of dry air.",
+      "as": "নাইট্ৰজেন (৭৮ শতাংশ) আৰু অক্সিজেন (২১ শতাংশ) একেলগে শুকান বায়ুৰ প্ৰায় ৯৯ শতাংশ গঠন কৰে।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 8 km",
-      "as": "প্ৰায় 8 কিলোমিটাৰ"
+      "en": "Over the poles the cold, dense air does not expand much, so the troposphere is only about 8 km high there.",
+      "as": "মেৰুত ঠাণ্ডা আৰু ঘন বায়ু বেছি বিস্তাৰ নহয়, সেয়ে তাত ট্ৰপ'স্ফিয়াৰ মাত্ৰ প্ৰায় ৮ কিলোমিটাৰ ওখ।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Stratopause",
-      "as": "ষ্ট্ৰেট'পজ"
+      "en": "The boundary between the stratosphere and the mesosphere is the stratopause, at about 50 km.",
+      "as": "ষ্ট্ৰেট'স্ফিয়াৰ আৰু মেছ'স্ফিয়াৰৰ মাজৰ সীমাক ষ্ট্ৰেট'পজ বোলে, যি প্ৰায় ৫০ কিলোমিটাৰ উচ্চতাত।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The westerlies",
-      "as": "পশ্চিমীয়া বতাহ"
+      "en": "The westerlies blow out of the subtropical highs at 30° toward the subpolar lows at 60°, travelling from west to east.",
+      "as": "ৱেষ্টাৰলীবোৰে ৩০° অক্ষাংশৰ উপ-ক্ৰান্তীয় উচ্চ চাপৰপৰা ৬০° ৰ উপ-মেৰুৱা নিম্ন চাপলৈ পশ্চিমৰপৰা পূবলৈ বৈ যায়।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "30° and 60° in both hemispheres",
-      "as": "উভয় গোলাৰ্ধত 30° আৰু 60°"
+      "en": "The westerlies occupy the belt between 30° and 60° latitude in both the Northern and Southern Hemispheres.",
+      "as": "ৱেষ্টাৰলীবোৰে উত্তৰ আৰু দক্ষিণ দুয়ো গোলাৰ্ধতে ৩০° আৰু ৬০° অক্ষাংশৰ মাজৰ অঞ্চলত বৈ যায়।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Cold winds blowing from the polar high towards the subpolar low",
-      "as": "মেৰু উচ্চচাপৰ পৰা উপমেৰু নিম্নচাপলৈ বোৱা ঠাণ্ডা বতাহ"
+      "en": "Polar easterlies are cold winds that blow from the polar high pressure toward the subpolar low, arriving from the east.",
+      "as": "মেৰুৱা পূবীয়া বতাহ হৈছে মেৰুৰ উচ্চ চাপৰপৰা উপ-মেৰুৱা নিম্ন চাপলৈ বৈ যোৱা ঠাণ্ডা বতাহ, যি পূব দিশৰপৰা আহে।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The equatorial low pressure belt",
-      "as": "বিষুবীয় নিম্নচাপ বলয়"
+      "en": "The Inter-Tropical Convergence Zone is the equatorial low pressure belt where the trade winds of both hemispheres meet.",
+      "as": "আন্তঃক্ৰান্তীয় অভিসৰণ অঞ্চল (ITCZ) হৈছে বিষুৱীয় নিম্ন চাপৰ পট্টি, য'ত দুয়ো গোলাৰ্ধৰ বাণিজ্য বতাহ মিলিত হয়।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Because the sun's vertical rays shift north",
-      "as": "কাৰণ সূৰ্যৰ লম্ব ৰশ্মি উত্তৰলৈ সৰি যায়"
+      "en": "In July the Sun's vertical rays move north of the equator, so the ITCZ and the monsoon also shift northwards.",
+      "as": "জুলাই মাহত সূৰ্যৰ লম্ব ৰশ্মি বিষুৱৰেখাৰ উত্তৰলৈ যায়, সেয়ে ITCZ আৰু মৌচুমীও উত্তৰলৈ সৰি যায়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Hadley cell",
-      "as": "হেডলি কোষ"
+      "en": "The Hadley cell carries air rising at the equator, sinking at 30°, and returning along the surface as the trade winds.",
+      "as": "হেডলী কোষে বিষুৱৰেখাত উঠা বায়ু ৩০° ত নামি, পৃষ্ঠৰ ওপৰেৰে বাণিজ্য বতাহ হিচাপে ঘূৰি অহাৰ কাম কৰে।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Hadley, Ferrel and Polar cells",
-      "as": "হেডলি, ফেৰেল আৰু মেৰু কোষ"
+      "en": "The global circulation has three cells in each hemisphere: the Hadley, the Ferrel (mid-latitude) and the Polar cell.",
+      "as": "প্ৰতিটো গোলাৰ্ধত বিশ্ব পৰিসঞ্চৰণৰ তিনিটা কোষ আছে: হেডলী, ফেৰেল (মধ্যম অক্ষাংশ) আৰু মেৰুৱা কোষ।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A low level cross-equatorial jet that strengthens the Indian summer monsoon",
-      "as": "ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক শক্তিশালী কৰা নিম্নস্তৰৰ বিষুব-পাৰগামী প্ৰবাহ"
+      "en": "The Somali Jet is a strong low-level wind that crosses the equator and blows along the Somali coast, giving the Indian summer monsoon its burst.",
+      "as": "ছোমালী জেট এটা শক্তিশালী নিম্নস্তৰীয় বতাহ যি বিষুৱৰেখা পাৰ হৈ ছোমালী উপকূলৰ কাষেৰে বৈ যায় আৰু ভাৰতীয় গ্ৰীষ্মকালীন মৌচুমীক গতি দিয়ে।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "It acts as an elevated heat source that strengthens the monsoon",
-      "as": "ই এক উচ্চ তাপ-উৎস হিচাপে মৌচুমীক শক্তিশালী কৰে"
+      "en": "The Tibetan Plateau heats the air above it in summer and works as an elevated heat source that pulls the monsoon inward.",
+      "as": "তিব্বত মালভূমিয়ে গ্ৰীষ্মকালত ওপৰৰ বায়ুক গৰম কৰে আৰু এটা ওখ তাপ উৎস হিচাপে মৌচুমীক ভিতৰলৈ টানি আনে।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A spell when monsoon rainfall stops over most of India",
-      "as": "এনে সময় য'ত ভাৰতৰ বেছিভাগ অংশত মৌচুমী বৰষুণ বন্ধ হৈ যায়"
+      "en": "In a break monsoon the monsoon trough shifts to the Himalayan foothills, and rainfall stops over most of the plains for several days.",
+      "as": "ব্ৰেক মৌচুমীত মৌচুমী খাদ হিমালয়ৰ পাদদেশলৈ সৰি যায়, আৰু সমতলৰ বেছিভাগ ঠাইত কেইবাদিনলৈ বৰষুণ বন্ধ থাকে।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A high pressure cell in the southern Indian Ocean that drives cross-equatorial monsoon flow",
-      "as": "দক্ষিণ ভাৰত মহাসাগৰৰ উচ্চচাপ কোষ, যি বিষুব-পাৰগামী মৌচুমী প্ৰবাহ চলায়"
+      "en": "The Mascarene High is a high pressure cell near Madagascar that pushes moist air across the equator and drives the monsoon flow.",
+      "as": "মাছকাৰীন উচ্চ চাপ মাদাগাস্কাৰৰ ওচৰৰ এটা উচ্চ চাপৰ কোষ, যি আৰ্দ্ৰ বায়ু বিষুৱৰেখা পাৰ কৰাই মৌচুমী প্ৰবাহ চলায়।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Mistral",
-      "as": "মিষ্ট্ৰাল"
+      "en": "The Mistral is a cold, dry katabatic wind that rushes down the Rhone valley of France to the Mediterranean.",
+      "as": "মিছ্ট্ৰাল ফ্ৰান্সৰ ৰ'ন উপত্যকাৰে নামি ভূমধ্য সাগৰলৈ যোৱা ঠাণ্ডা আৰু শুকান কেটাবেটিক বতাহ।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Bora",
-      "as": "ব'ৰা"
+      "en": "The Bora is a cold, gusty katabatic wind that blows down the Dinaric Alps onto the Adriatic coast.",
+      "as": "বৰা ডিনাৰিক আল্পচৰপৰা নামি এড্ৰিয়াটিক উপকূললৈ যোৱা ঠাণ্ডা আৰু দোঁৱাই যোৱা কেটাবেটিক বতাহ।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Sirocco",
-      "as": "ছিৰকো"
+      "en": "The Sirocco is a hot, dry and dusty wind that blows from the Sahara northwards to the Mediterranean.",
+      "as": "ছিৰক্ক' ছাহাৰাৰপৰা উত্তৰলৈ ভূমধ্য সাগৰলৈ বৈ যোৱা গৰম, শুকান আৰু ধূলিময় বতাহ।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Harmattan",
-      "as": "হাৰ্মাটান"
+      "en": "The Harmattan is a dry, dusty wind of West Africa that blows south-west from the Sahara during winter.",
+      "as": "হাৰ্মাট্টান পশ্চিম আফ্ৰিকাৰ শুকান আৰু ধূলিময় বতাহ, যি শীতকালত ছাহাৰাৰপৰা দক্ষিণ-পশ্চিমলৈ বৈ যায়।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Berg wind",
-      "as": "বাৰ্গ বতাহ"
+      "en": "The Berg wind is a hot, dry wind that blows from the interior plateau of South Africa down to the coast.",
+      "as": "বাৰ্গ বতাহ দক্ষিণ আফ্ৰিকাৰ অন্তৰ্ভাগৰ মালভূমিৰপৰা উপকূললৈ বৈ যোৱা গৰম আৰু শুকান বতাহ।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Zonda",
-      "as": "জণ্ডা"
+      "en": "The Zonda is a warm, dry wind that descends the Andes in Argentina, similar to the foehn of the Alps.",
+      "as": "জণ্ডা আৰ্জেণ্টিনাত এণ্ডিজৰপৰা নামি অহা উষ্ণ আৰু শুকান বতাহ, আল্পচৰ ফ'ন বতাহৰ দৰে।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Santa Ana",
-      "as": "ছাণ্টা আনা"
+      "en": "The Santa Ana is a hot, dry wind that blows from the Californian interior toward the coast and raises fire risk.",
+      "as": "ছাণ্টা আনা কেলিফৰ্ণিয়াৰ অন্তৰ্ভাগৰপৰা উপকূললৈ বৈ যোৱা গৰম আৰু শুকান বতাহ, যি জুইৰ বিপদ বঢ়ায়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "At the equator",
-      "as": "বিষুবৰেখাত"
+      "en": "The Coriolis force depends on latitude and vanishes at the equator, where there is no rotation about the local vertical.",
+      "as": "ক'ৰিঅ'লিছ বল অক্ষাংশৰ ওপৰত নিৰ্ভৰশীল আৰু বিষুৱৰেখাত শূন্য হয়, কাৰণ তাত স্থানীয় লম্ব অক্ষৰ চাৰিওফালে ঘূৰ্ণন নাথাকে।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A wind that blows parallel to the isobars with pressure gradient balanced by the Coriolis force",
-      "as": "এনে বতাহ যি সমচাপ ৰেখাৰ সমান্তৰালভাৱে বয়, য'ত চাপ-প্ৰৱণতা কৰিঅ'লিছ বলৰ দ্বাৰা ভাৰসাম্যত থাকে"
+      "en": "A geostrophic wind blows parallel to the isobars, where the pressure gradient force is exactly balanced by the Coriolis force.",
+      "as": "জিঅ'ষ্ট্ৰফিক বতাহ আইছ'বাৰৰ সমান্তৰালভাৱে বৈ যায়, য'ত চাপ প্ৰৱণ বল আৰু ক'ৰিঅ'লিছ বল ঠিক সমান হয়।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "In the Northern Hemisphere, with your back to the wind, low pressure lies to your left",
-      "as": "উত্তৰ গোলাৰ্ধত বতাহলৈ পিঠি দি থিয় হ'লে নিম্নচাপ বাওঁফালে থাকে"
+      "en": "Buys Ballot's law says that in the Northern Hemisphere, if you stand with your back to the wind, low pressure is on your left.",
+      "as": "বুইছ বালটৰ নিয়ম অনুসৰি উত্তৰ গোলাৰ্ধত বতাহলৈ পিঠি দি থিয় হ'লে নিম্ন চাপ আপোনাৰ বাওঁফালে থাকে।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A high pressure system with winds diverging outwards",
-      "as": "বাহিৰলৈ অপসাৰী বতাহযুক্ত উচ্চচাপ পদ্ধতি"
+      "en": "An anticyclone is a high pressure system in which air subsides in the centre and winds blow outwards, bringing clear, settled weather.",
+      "as": "প্ৰতি-ঘূৰ্ণীবতাহ (anticyclone) এটা উচ্চ চাপৰ ব্যৱস্থা, য'ত কেন্দ্ৰত বায়ু তললৈ নামে আৰু বতাহ বাহিৰলৈ বৈ যায়; ইয়াৰ ফলত পৰিষ্কাৰ আৰু স্থিৰ বতৰ হয়।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Anticlockwise",
-      "as": "ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত"
+      "en": "In the Southern Hemisphere anticyclones rotate anticlockwise, because the Coriolis force deflects winds to the left there.",
+      "as": "দক্ষিণ গোলাৰ্ধত প্ৰতি-ঘূৰ্ণীবতাহে ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত ঘূৰে, কাৰণ তাত ক'ৰিঅ'লিছ বল বতাহক বাওঁফালে বেঁকা কৰে।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The intensity of hurricanes",
-      "as": "হাৰিকেনৰ তীব্ৰতা"
+      "en": "The Saffir-Simpson scale classifies hurricanes into five categories by wind speed and the damage they cause.",
+      "as": "ছাফিৰ-ছিম্পছন স্কেলে বতাহৰ গতি আৰু হোৱা ক্ষতি অনুসৰি হাৰিকেনক পাঁচটা শ্ৰেণীত ভাগ কৰে।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "222 km per hour and above",
-      "as": "প্ৰতি ঘণ্টাত 222 কিলোমিটাৰ আৰু তাতোধিক"
+      "en": "As per IMD, a super cyclonic storm has sustained winds of 222 km per hour or more, the highest category used in India.",
+      "as": "ভাৰতীয় বতৰ বিজ্ঞান বিভাগ অনুসৰি, ছুপাৰ ঘূৰ্ণীবতাহত বতাহৰ গতি ঘণ্টাত ২২২ কিলোমিটাৰ বা তাতোধিক হয়, যি ভাৰতত ব্যৱহৃত সৰ্বোচ্চ শ্ৰেণী।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The 1999 Odisha Super Cyclone",
-      "as": "১৯৯৯ চনৰ ওড়িশা চুপাৰ ঘূৰ্ণীবতাহ"
+      "en": "The 1999 Odisha Super Cyclone killed nearly 10,000 people and was the deadliest cyclone in India's recorded history.",
+      "as": "১৯৯৯ চনৰ উড়িষ্যা ছুপাৰ ঘূৰ্ণীবতাহত প্ৰায় ১০,০০০ লোকৰ মৃত্যু হৈছিল আৰু ভাৰতৰ লিপিবদ্ধ ইতিহাসত এইটো আটাইতকৈ ভয়ংকৰ ঘূৰ্ণীবতাহ আছিল।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The intensity of tornadoes",
-      "as": "টৰ্ণেড'ৰ তীব্ৰতা"
+      "en": "The Fujita scale, and its upgraded Enhanced Fujita scale, rates tornadoes from F0 to F5 by the damage they leave.",
+      "as": "ফুজিটা স্কেল আৰু ইয়াৰ উন্নত সংস্কৰণ এনহেন্সড ফুজিটা স্কেলে হোৱা ক্ষতি অনুসৰি টৰ্নেড'ক F0 ৰপৰা F5 লৈ শ্ৰেণীবদ্ধ কৰে।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A violently rotating column of air extending from a thunderstorm to the ground",
-      "as": "বজ্ৰধ্বনি-ধুমুহাৰ পৰা ভূমিলৈ বিস্তৃত হোৱা প্ৰচণ্ড ঘূৰ্ণনশীল বায়ুস্তম্ভ"
+      "en": "A tornado is a violently rotating column of air hanging from a cumulonimbus cloud down to the ground.",
+      "as": "টৰ্নেড' হৈছে কিউমুল'নিম্বাচ মেঘৰপৰা মাটিলৈ ওলমি থকা অতি দ্ৰুতগতিত ঘূৰি থকা বায়ুৰ স্তম্ভ।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A tornado-like vortex that forms over water",
-      "as": "পানীৰ ওপৰত সৃষ্টি হোৱা টৰ্ণেড'ৰ দৰে ঘূৰ্ণন"
+      "en": "A waterspout is a rotating column of air over water and is usually much weaker than a land tornado.",
+      "as": "ৱাটাৰস্পাউট পানীৰ ওপৰত সৃষ্টি হোৱা ঘূৰ্ণনশীল বায়ুৰ স্তম্ভ, যি সাধাৰণতে স্থলৰ টৰ্নেড'তকৈ বহু দুৰ্বল।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A line of severe thunderstorms that forms ahead of a cold front",
-      "as": "ঠাণ্ডা সম্মুখভাগৰ আগত সৃষ্টি হোৱা প্ৰচণ্ড বজ্ৰধ্বনি-ধুমুহাৰ শাৰী"
+      "en": "A squall line is a long line of severe thunderstorms that forms just ahead of a fast-moving cold front.",
+      "as": "স্কুৱাল লাইন হৈছে দ্ৰুতগতিত গৈ থকা শীতল সীমাৰেখাৰ ঠিক আগে আগে সৃষ্টি হোৱা তীব্ৰ বজ্ৰ-বৰ্ষণৰ দীঘলীয়া শাৰী।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "An east-west atmospheric circulation over the equatorial Pacific",
-      "as": "বিষুবীয় প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিম বায়ুমণ্ডলীয় পৰিসঞ্চৰণ"
+      "en": "The Walker circulation is an east-west loop over the Pacific in which air rises in the west near Indonesia and sinks in the east near South America.",
+      "as": "ৱাকাৰ পৰিসঞ্চৰণ প্ৰশান্ত মহাসাগৰৰ ওপৰত পূব-পশ্চিমমুখী এটা চক্ৰ, য'ত পশ্চিমে ইণ্ডোনেছিয়াৰ ওচৰত বায়ু ওপৰলৈ ওলাই যায় আৰু পূবে দক্ষিণ আমেৰিকাৰ ওচৰত নামি যায়।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The difference in sea surface temperature between the western and eastern Indian Ocean",
-      "as": "পশ্চিম আৰু পূব ভাৰত মহাসাগৰৰ মাজত সাগৰৰ পৃষ্ঠৰ উষ্ণতাৰ পাৰ্থক্য"
+      "en": "The Indian Ocean Dipole compares sea surface temperatures in the western and eastern Indian Ocean; a positive phase means a warmer west.",
+      "as": "ভাৰত মহাসাগৰ ডাইপ'লে পশ্চিম আৰু পূব ভাৰত মহাসাগৰৰ সাগৰপৃষ্ঠৰ তাপমাত্ৰা তুলনা কৰে; ধনাত্মক অৱস্থাত পশ্চিম অংশ উষ্ণতৰ হয়।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A seesaw of atmospheric pressure between Tahiti and Darwin",
-      "as": "টাহিটি আৰু ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন"
+      "en": "The Southern Oscillation is a see-saw of air pressure between Tahiti in the Pacific and Darwin in Australia; El Niño rides on one of its phases.",
+      "as": "দক্ষিণ দোলন প্ৰশান্ত মহাসাগৰৰ তাহিটি আৰু অষ্ট্ৰেলিয়াৰ ডাৰউইনৰ মাজত বায়ুচাপৰ দোলন; এল নিন' ইয়াৰ এটা পৰ্যায়ৰ সৈতে জড়িত।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Kalbaishakhi",
-      "as": "কলবৈশাখী"
+      "en": "Kalbaishakhi are violent pre-monsoon thunderstorms of Bengal and Assam that bring rain and strong squalls in April and May.",
+      "as": "কালবৈশাখী বংগ আৰু অসমৰ মৌচুমীৰ পূৰ্বৰ হিংস্ৰ বজ্ৰ-বৰ্ষণ, যি এপ্ৰিল আৰু মে' মাহত বৰষুণ আৰু তীব্ৰ দোঁৱা বতাহ কঢ়িয়াই আনে।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "An apparent force caused by the rotation of the Earth",
-      "as": "পৃথিৱীৰ ঘূৰ্ণনৰ ফলত সৃষ্টি হোৱা আপাত বল"
+      "en": "The Coriolis force is an apparent force caused by the Earth's rotation, which deflects moving air to the right in the Northern Hemisphere and to the left in the Southern.",
+      "as": "ক'ৰিঅ'লিছ বল পৃথিৱীৰ ঘূৰ্ণনৰ ফলত হোৱা এটা আপাত বল, যি উত্তৰ গোলাৰ্ধত চলি থকা বায়ুক সোঁফালে আৰু দক্ষিণ গোলাৰ্ধত বাওঁফালে বেঁকা কৰে।"
     }
   }
 ]

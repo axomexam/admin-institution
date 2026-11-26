@@ -25,8 +25,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is the largest producer of coal in the world, mining about half of global output.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ কয়লা উৎপাদনকাৰী দেশ, যি বিশ্ব উৎপাদনৰ প্ৰায় আধা খনন কৰে।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Australia.",
-      "as": "অষ্ট্ৰেলিয়া।"
+      "en": "Australia is the largest producer of iron ore in the world, mainly from the Pilbara region.",
+      "as": "অষ্ট্ৰেলিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ লো-আকৰ উৎপাদনকাৰী দেশ, মূলতঃ পিলবাৰা অঞ্চলৰপৰা।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "The USA is the largest producer of petroleum, thanks to shale oil from Texas and North Dakota.",
+      "as": "টেক্সাছ আৰু উত্তৰ ডাক'টাৰ শেল তেলৰ বাবে আমেৰিকা যুক্তৰাষ্ট্ৰ পৃথিৱীৰ আটাইতকৈ ডাঙৰ পেট্ৰ'লিয়াম উৎপাদনকাৰী।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Middle East (Persian Gulf).",
-      "as": "মধ্যপ্ৰাচ্য (পাৰ্চিয়ান উপসাগৰ)।"
+      "en": "The Middle East, especially the Persian Gulf, is the largest oil producing region, holding about half of world reserves.",
+      "as": "মধ্যপ্ৰাচ্য, বিশেষকৈ পাৰ্চী উপসাগৰ, আটাইতকৈ ডাঙৰ তেল উৎপাদন অঞ্চল, য'ত বিশ্বৰ প্ৰায় আধা ভাণ্ডাৰ আছে।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Venezuela.",
-      "as": "ভেনেজুৱেলা।"
+      "en": "Venezuela has the largest proven oil reserves in the world, mainly heavy oil of the Orinoco Belt.",
+      "as": "ভেনিজুৱেলাত পৃথিৱীৰ আটাইতকৈ বেছি প্ৰমাণিত তেল ভাণ্ডাৰ আছে, মূলতঃ অৰিন'ক' বেল্টৰ গধুৰ তেল।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Organization of the Petroleum Exporting Countries.",
-      "as": "পেট্ৰ'লিয়াম ৰপ্তানি কৰা দেশসমূহৰ সংস্থা।"
+      "en": "OPEC is the Organization of the Petroleum Exporting Countries, a group that coordinates the oil policies of member states.",
+      "as": "অ'পেক হৈছে তেল ৰপ্তানিকাৰী দেশসমূহৰ সংস্থা, যি সদস্য ৰাষ্ট্ৰৰ তেল নীতি সমন্বয় কৰে।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "In 1960.",
-      "as": "১৯৬০ চনত।"
+      "en": "OPEC was founded in 1960 at Baghdad by five countries: Iran, Iraq, Kuwait, Saudi Arabia and Venezuela.",
+      "as": "অ'পেক ১৯৬০ চনত বাগদাদত পাঁচখন দেশ — ইৰাণ, ইৰাক, কুৱেইট, ছৌদি আৰব আৰু ভেনিজুৱেলা —ই প্ৰতিষ্ঠা কৰিছিল।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "In Vienna, Austria.",
-      "as": "অষ্ট্ৰিয়াৰ ভিয়েনাত।"
+      "en": "OPEC has its headquarters in Vienna, Austria, where its member states meet to set production quotas.",
+      "as": "অ'পেকৰ মুখ্য কাৰ্যালয় অষ্ট্ৰিয়াৰ ভিয়েনাত, য'ত সদস্য ৰাষ্ট্ৰই উৎপাদন কোটা নিৰ্ধাৰণ কৰিবলৈ মিলিত হয়।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "The USA is the largest producer of natural gas in the world, followed by Russia.",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ পৃথিৱীৰ আটাইতকৈ ডাঙৰ প্ৰাকৃতিক গেছ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ৰাছিয়া।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is the largest producer of gold in the world, followed by Australia and Russia.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ সোণ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত অষ্ট্ৰেলিয়া আৰু ৰাছিয়া।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mexico.",
-      "as": "মেক্সিকো।"
+      "en": "Mexico produces about 5,600 tonnes of silver a year, with the Fresnillo mine among the world's largest.",
+      "as": "মেক্সিক'ই বছৰি প্ৰায় ৫,৬০০ টন ৰূপ উৎপাদন কৰে, য'ত ফ্ৰেছে‍নিল' খনি পৃথিৱীৰ আটাইতকৈ ডাঙৰবোৰৰ এটা।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Australia.",
-      "as": "অষ্ট্ৰেলিয়া।"
+      "en": "Australia is the largest producer of bauxite, the ore of aluminium, mainly from Queensland.",
+      "as": "অষ্ট্ৰেলিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ বক্সাইট (এলুমিনিয়ামৰ আকৰ) উৎপাদনকাৰী দেশ, মূলতঃ কুইন্সলেণ্ডৰপৰা।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Chile.",
-      "as": "চিলি।"
+      "en": "Chile is the largest producer of copper in the world, with the Escondida mine the biggest single source.",
+      "as": "চিলি পৃথিৱীৰ আটাইতকৈ ডাঙৰ তাম উৎপাদনকাৰী দেশ, য'ত এছকণ্ডিডা খনি আটাইতকৈ ডাঙৰ একক উৎস।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Russia.",
-      "as": "ৰাছিয়া।"
+      "en": "Russia is the largest producer of diamond by volume, mainly from the Yakutia mines.",
+      "as": "ৰাছিয়া আয়তন অনুসৰি আটাইতকৈ ডাঙৰ হীৰা উৎপাদনকাৰী দেশ, মূলতঃ য়াকুটিয়াৰ খনিৰপৰা।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "South Africa.",
-      "as": "দক্ষিণ আফ্ৰিকা।"
+      "en": "South Africa holds about 70 per cent of the world's manganese reserves and mines most of it in the Northern Cape.",
+      "as": "দক্ষিণ আফ্ৰিকাত বিশ্বৰ প্ৰায় ৭০ শতাংশ মেংগানিজ ভাণ্ডাৰ আছে আৰু ইয়াৰ বেছিভাগ উত্তৰ কেপত খনন কৰা হয়।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Kazakhstan.",
-      "as": "কাজাখস্তান।"
+      "en": "Kazakhstan mines uranium by in-situ leaching, which is cheaper and less damaging than conventional shaft mining.",
+      "as": "কাজাখাস্তানে ইন-ছিটু লিচিং পদ্ধতিৰে ইউৰেনিয়াম খনন কৰে, যি সাধাৰণ খাদ খননতকৈ সস্তা আৰু কম ক্ষতিকাৰক।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Persian Gulf region of the Middle East.",
-      "as": "মধ্যপ্ৰাচ্যৰ পাৰ্চিয়ান উপসাগৰ অঞ্চল।"
+      "en": "The world's oil belt is the Persian Gulf region of the Middle East, where about half of proven reserves lie.",
+      "as": "পৃথিৱীৰ তেল পট্টি মধ্যপ্ৰাচ্যৰ পাৰ্চী উপসাগৰ অঞ্চল, য'ত প্ৰায় আধা প্ৰমাণিত ভাণ্ডাৰ আছে।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Suez Canal route connecting Europe and Asia.",
-      "as": "ইউৰোপ আৰু এছিয়া সংযোগী চুৱেজ খাল পথ।"
+      "en": "The Suez Canal route between Europe and Asia is the world's most important sea route, saving ships the trip round Africa.",
+      "as": "ইউৰোপ আৰু এছিয়াৰ মাজৰ চুৱেজ খাল পথ পৃথিৱীৰ আটাইতকৈ গুৰুত্বপূৰ্ণ সাগৰীয় পথ, যি জাহাজক আফ্ৰিকাৰ চাৰিওফালে যোৱাৰ পৰা বচায়।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Panama route.",
-      "as": "পানামা পথ।"
+      "en": "The Panama route connects the Atlantic with the Pacific through the Panama Canal, saving the long trip round South America.",
+      "as": "পানামা পথে পানামা খালৰ জৰিয়তে আটলাণ্টিকক প্ৰশান্ত মহাসাগৰৰ সৈতে সংযোগ কৰে আৰু দক্ষিণ আমেৰিকাৰ চাৰিওফালে যোৱা দীঘল যাত্ৰা বচায়।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The North Atlantic route.",
-      "as": "উত্তৰ আটলাণ্টিক পথ।"
+      "en": "The North Atlantic route between Europe and North America is the busiest sea route, carrying the heaviest industrial trade.",
+      "as": "ইউৰোপ আৰু উত্তৰ আমেৰিকাৰ মাজৰ উত্তৰ আটলাণ্টিক পথ আটাইতকৈ ব্যস্ত সাগৰীয় পথ, যি সৰ্বাধিক ঔদ্যোগিক বাণিজ্য কঢ়িয়ায়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The sea route around the Cape of Good Hope.",
-      "as": "গুড হোপ কেপৰ চৌপাশে অহা সাগৰীয় পথ।"
+      "en": "The Cape route runs around the Cape of Good Hope at the southern tip of Africa, used by very large ships that cannot use the Suez Canal.",
+      "as": "কেপ পথ আফ্ৰিকাৰ দক্ষিণ মূৰৰ কেপ অফ গুড হোপৰ চাৰিওফালে যায়, যি চুৱেজ খাল ব্যৱহাৰ কৰিব নোৱাৰা অতি ডাঙৰ জাহাজে ব্যৱহাৰ কৰে।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Shanghai port of China.",
-      "as": "চীনৰ ছাংহাই বন্দৰ।"
+      "en": "Shanghai in China is the world's busiest port by container throughput, handling over 47 million TEU a year.",
+      "as": "চীনৰ ছাংহাই কণ্টেইনাৰ চলাচল অনুসৰি পৃথিৱীৰ আটাইতকৈ ব্যস্ত বন্দৰ, যি বছৰি ৪৭ নিযুত TEU তকৈ অধিক সামলায়।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The King Abdullah Port of Saudi Arabia.",
-      "as": "চৌদি আৰবৰ কিং আব্দুল্লাহ বন্দৰ।"
+      "en": "King Abdullah Port in Saudi Arabia is the largest port in the world by area, spread over about 17 sq km.",
+      "as": "ছৌদি আৰবৰ কিং আব্দুল্লাহ বন্দৰ আয়তন অনুসৰি পৃথিৱীৰ আটাইতকৈ ডাঙৰ বন্দৰ, যি প্ৰায় ১৭ বৰ্গ কিলোমিটাৰত বিস্তৃত।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The strategic strait connecting the Persian Gulf with the Gulf of Oman.",
-      "as": "পাৰ্চিয়ান উপসাগৰ আৰু ওমান উপসাগৰ সংযোগী কৌশলগত প্ৰণালী।"
+      "en": "The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman and lies between Iran and Oman.",
+      "as": "হৰমুজ প্ৰণালীয়ে পাৰ্চী উপসাগৰক ওমান উপসাগৰৰ সৈতে সংযোগ কৰে আৰু ইৰাণ আৰু ওমানৰ মাজত অৱস্থিত।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 20% of the world's oil passes through it.",
-      "as": "বিশ্বৰ প্ৰায় ২০% তেল ইয়াৰ মাজেৰে যায়।"
+      "en": "About 20 per cent of the world's oil passes through the Strait of Hormuz, making it the most important oil chokepoint.",
+      "as": "পৃথিৱীৰ প্ৰায় ২০ শতাংশ তেল হৰমুজ প্ৰণালীৰ মাজেৰে যায়, সেয়ে ই আটাইতকৈ গুৰুত্বপূৰ্ণ তেল সংকীৰ্ণ পথ।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is the largest oil importing country in the world, buying over 11 million barrels a day.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ তেল আমদানিকাৰী দেশ, যি দিনে ১.১ কোটি বেৰেলতকৈ অধিক কিনে।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The sea route through the Arctic Ocean, made easier by global warming.",
-      "as": "আৰ্কটিক মহাসাগৰৰ মাজেৰে অহা সাগৰীয় পথ, গ্ল'বেল ৱাৰ্মিঙে সহজ কৰিছে।"
+      "en": "The Arctic route is the sea lane through the Arctic Ocean, which global warming has made navigable for more months each year.",
+      "as": "আৰ্কটিক পথ আৰ্কটিক মহাসাগৰৰ মাজেৰে যোৱা সাগৰীয় পথ, যাক গোলকীয় উষ্ণতাই বছৰি অধিক মাহ চলাচলযোগ্য কৰি তুলিছে।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China smelts about half of the world's tin, and Indonesia and Myanmar supply much of the ore.",
+      "as": "চীনে বিশ্বৰ প্ৰায় আধা টিন গলায়, আৰু ইণ্ডোনেছিয়া তথা ম্যানমাৰে বেছিভাগ আকৰ যোগায়।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China refines over 40 per cent of the world's zinc, largely for its galvanising and steel industry.",
+      "as": "চীনে বিশ্বৰ ৪০ শতাংশতকৈ অধিক জিংক শোধন কৰে, মূলতঃ ইয়াৰ গেলভানাইজিং আৰু ষ্টীল উদ্যোগৰ বাবে।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The ancient trade route connecting China with Europe.",
-      "as": "চীন আৰু ইউৰোপ সংযোগী প্ৰাচীন বাণিজ্য পথ।"
+      "en": "The Silk Road was the ancient overland trade route that carried silk, spices and ideas between China and Europe.",
+      "as": "চিল্ক ৰোড হৈছে প্ৰাচীন স্থলপথৰ বাণিজ্য পথ, যি চীন আৰু ইউৰোপৰ মাজত ৰেচম, মচলা আৰু ধাৰণা কঢ়িয়াইছিল।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Anthracite.",
-      "as": "এন্থ্ৰাচাইট।"
+      "en": "Anthracite is the best quality coal, with the highest carbon content (over 86 per cent) and the least smoke.",
+      "as": "এন্থ্ৰাচাইট আটাইতকৈ উন্নত মানৰ কয়লা, য'ত সৰ্বাধিক কাৰ্বন (৮৬ শতাংশতকৈ অধিক) আৰু আটাইতকৈ কম ধোঁৱা থাকে।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Peat.",
-      "as": "পিট।"
+      "en": "Peat is the lowest grade of coal, partly decayed plant matter with low carbon and high moisture.",
+      "as": "পিট আটাইতকৈ নিম্ন শ্ৰেণীৰ কয়লা, যি আংশিকভাৱে পচা উদ্ভিদ পদাৰ্থ, কম কাৰ্বন আৰু বেছি আৰ্দ্ৰতাৰ সৈতে।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "The USA has the largest coal reserves in the world, followed by Russia and Australia.",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰত পৃথিৱীৰ আটাইতকৈ বেছি কয়লা ভাণ্ডাৰ আছে, ইয়াৰ পিছত ৰাছিয়া আৰু অষ্ট্ৰেলিয়া।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Magnetite.",
-      "as": "মেগনেটাইট।"
+      "en": "Magnetite has the highest iron content of the common ores, up to about 72 per cent iron.",
+      "as": "সাধাৰণ আকৰবোৰৰ ভিতৰত মেগনেটাইটত আটাইতকৈ বেছি লো থাকে, প্ৰায় ৭২ শতাংশ পৰ্যন্ত।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Australia.",
-      "as": "অষ্ট্ৰেলিয়া।"
+      "en": "Australia has the largest iron ore reserves in the world, mainly in the Hamersley range of Western Australia.",
+      "as": "অষ্ট্ৰেলিয়াত পৃথিৱীৰ আটাইতকৈ বেছি লো-আকৰ ভাণ্ডাৰ আছে, মূলতঃ পশ্চিম অষ্ট্ৰেলিয়াৰ হেমাৰ্ছলী পৰ্বতমালাত।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Russia.",
-      "as": "ৰাছিয়া।"
+      "en": "Russia has the largest natural gas reserves in the world, ahead of Iran and Qatar.",
+      "as": "ৰাছিয়াত পৃথিৱীৰ আটাইতকৈ বেছি প্ৰাকৃতিক গেছ ভাণ্ডাৰ আছে, ইৰাণ আৰু কাটাৰৰ আগত।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Jamnagar refinery of India.",
-      "as": "ভাৰতৰ জামনগৰ শোধনাগাৰ।"
+      "en": "The Jamnagar refinery of Reliance in Gujarat, with about 1.24 million barrels a day capacity, is the largest refinery in the world.",
+      "as": "গুজৰাটত ৰিলায়েন্সৰ জামনগৰ শোধনাগাৰ, দিনে প্ৰায় ১.২৪ নিযুত বেৰেল ক্ষমতাৰ সৈতে, পৃথিৱীৰ আটাইতকৈ ডাঙৰ শোধনাগাৰ।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Chile.",
-      "as": "চিলি।"
+      "en": "Chile has the largest lithium reserves in the world, in the salt flats of the Atacama desert.",
+      "as": "চিলিত পৃথিৱীৰ আটাইতকৈ বেছি লিথিয়াম ভাণ্ডাৰ আছে, আটাকামা মৰুভূমিৰ লৱণ সমতলত।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Democratic Republic of the Congo.",
-      "as": "কংগো গণৰাজ্য।"
+      "en": "The Democratic Republic of the Congo produces the most cobalt in the world, needed for batteries.",
+      "as": "কংগ' গণৰাজ্য পৃথিৱীত আটাইতকৈ বেছি ক'বাল্ট উৎপাদন কৰে, যি বেটাৰিৰ বাবে প্ৰয়োজন।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China produces the most rare earth minerals in the world, which are used in magnets, electronics and motors.",
+      "as": "চীন পৃথিৱীত আটাইতকৈ বেছি বিৰল মৃত্তিকা খনিজ উৎপাদন কৰে, যি চুম্বক, ইলেক্ট্ৰনিক্স আৰু মটৰত ব্যৱহাৰ হয়।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "India.",
-      "as": "ভাৰত।"
+      "en": "India has the largest thorium reserves in the world, in the monazite sands of its southern coast.",
+      "as": "ভাৰতত পৃথিৱীৰ আটাইতকৈ বেছি থ'ৰিয়াম ভাণ্ডাৰ আছে, ইয়াৰ দক্ষিণ উপকূলৰ ম'নাজাইট বালিত।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Monazite sand.",
-      "as": "ম'নাজাইট বালি।"
+      "en": "Monazite sand, found on the Kerala and Odisha coasts, is the main source of thorium in India.",
+      "as": "কেৰালা আৰু ওড়িশা উপকূলত পোৱা ম'নাজাইট বালি ভাৰতত থ'ৰিয়ামৰ মূল উৎস।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Liquefied natural gas.",
-      "as": "তৰল প্ৰাকৃতিক গেছ।"
+      "en": "LNG is liquefied natural gas, natural gas cooled to about −162 °C so that it shrinks in volume and can be shipped.",
+      "as": "LNG হৈছে তৰল প্ৰাকৃতিক গেছ, প্ৰায় −১৬২ °C লৈ ঠাণ্ডা কৰা প্ৰাকৃতিক গেছ, যাৰ ফলত আয়তন কমি জাহাজেৰে পঠিয়াব পৰা যায়।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Natural gas trapped in shale rock.",
-      "as": "শ্বেল শিলাত আৱদ্ধ প্ৰাকৃতিক গেছ।"
+      "en": "Shale gas is natural gas trapped within shale rock and extracted by hydraulic fracturing.",
+      "as": "শেল গেছ হৈছে শেল শিলৰ ভিতৰত আবদ্ধ প্ৰাকৃতিক গেছ, যি হাইড্ৰলিক ফ্ৰেকচাৰিংৰ জৰিয়তে উলিওৱা হয়।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Strait of Malacca.",
-      "as": "মালাক্কা প্ৰণালী।"
+      "en": "The Strait of Malacca is the busiest chokepoint for world trade, carrying about a quarter of traded goods.",
+      "as": "মালাক্কা প্ৰণালী বিশ্ব বাণিজ্যৰ আটাইতকৈ ব্যস্ত সংকীৰ্ণ পথ, যি প্ৰায় এক-চতুৰ্থাংশ বাণিজ্যিক সামগ্ৰী কঢ়িয়ায়।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Suez Canal.",
-      "as": "ছুয়েজ খাল।"
+      "en": "The container ship Ever Given blocked the Suez Canal in March 2021 for six days, holding up trade worth billions.",
+      "as": "কণ্টেইনাৰ জাহাজ এভাৰ গিভেনে ২০২১ চনৰ মাৰ্চত ছয় দিন চুৱেজ খাল বন্ধ ৰাখিছিল, যাৰ ফলত কোটি কোটি টকাৰ বাণিজ্য আটক হৈছিল।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Northwest Passage.",
-      "as": "উত্তৰ-পশ্চিম পথ।"
+      "en": "The Northwest Passage is the Arctic sea route along the north coast of Canada and Alaska, connecting the Atlantic and Pacific.",
+      "as": "উত্তৰ-পশ্চিম পথ কানাডা আৰু আলাস্কাৰ উত্তৰ উপকূলৰ কাষেৰে যোৱা আৰ্কটিক সাগৰীয় পথ, যি আটলাণ্টিক আৰু প্ৰশান্ত সংযোগ কৰে।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Northeast Passage.",
-      "as": "উত্তৰ-পূব পথ।"
+      "en": "The Northeast Passage, or Northern Sea Route, runs along Russia's Arctic coast between Europe and Asia.",
+      "as": "উত্তৰ-পূব পথ বা উত্তৰীয় সাগৰীয় পথ ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে ইউৰোপ আৰু এছিয়াৰ মাজেৰে যায়।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "South Africa.",
-      "as": "দক্ষিণ আফ্ৰিকা।"
+      "en": "South Africa has the deepest gold mine in the world, the Mponeng mine, which goes about 4 km underground.",
+      "as": "দক্ষিণ আফ্ৰিকাত পৃথিৱীৰ আটাইতকৈ গভীৰ সোণৰ খনি আছে, এম্প'নেং খনি, যি প্ৰায় ৪ কিলোমিটাৰ ভূগৰ্ভলৈ যায়।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Indonesia.",
-      "as": "ইণ্ডোনেছিয়া।"
+      "en": "Indonesia is the largest producer of nickel in the world, mainly from Sulawesi.",
+      "as": "ইণ্ডোনেছিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ নিকেল উৎপাদনকাৰী দেশ, মূলতঃ ছুলাৱেছিৰপৰা।"
     }
   }
 ]

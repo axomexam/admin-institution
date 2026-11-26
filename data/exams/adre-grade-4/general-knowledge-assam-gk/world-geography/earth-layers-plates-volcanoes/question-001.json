@@ -25,8 +25,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The crust, the mantle and the core.",
-      "as": "ভূত্বক, আচ্ছাদনী আৰু কেৰ্নেল (কোৰ)।"
+      "en": "The Earth has three main layers: the crust, the mantle and the core, and the core itself splits into an outer and an inner part.",
+      "as": "পৃথিৱীৰ তিনিটা মূল স্তৰ আছে: ভূত্বক, মেণ্টল আৰু ক'ৰ; ক'ৰ নিজেই বাহ্যিক আৰু অন্তৰ্নিহিত অংশত বিভক্ত।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The crust.",
-      "as": "ভূত্বক।"
+      "en": "The crust is the outermost, thinnest rocky shell of the Earth, on which we live and from which the continents and oceans are formed.",
+      "as": "ভূত্বক পৃথিৱীৰ আটাইতকৈ বাহিৰৰ আৰু আটাইতকৈ পাতল শিলৰ আৱৰণ, য'ত আমি বাস কৰো আৰু যাৰপৰা মহাদেশ আৰু মহাসাগৰ গঠিত।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 35 kilometres.",
-      "as": "প্ৰায় ৩৫ কিলোমিটাৰ।"
+      "en": "The continental crust averages about 35 km thick, and it reaches about 70 km under young fold mountains like the Himalaya.",
+      "as": "মহাদেশীয় ভূত্বকৰ গড় ডাঠ প্ৰায় ৩৫ কিলোমিটাৰ, আৰু হিমালয়ৰ দৰে নতুন ভাঁজ পৰ্বতৰ তলত ই প্ৰায় ৭০ কিলোমিটাৰ পৰ্যন্ত হয়।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 5 kilometres.",
-      "as": "প্ৰায় ৫ কিলোমিটাৰ।"
+      "en": "The oceanic crust is only about 5 km thick on average, because it forms quickly at ridges and is dense basalt.",
+      "as": "সাগৰীয় ভূত্বকৰ গড় ডাঠ মাত্ৰ প্ৰায় ৫ কিলোমিটাৰ, কাৰণ ই শৃংগত সোনকালে গঠন হয় আৰু ঘন বেছাল্ট।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The mantle.",
-      "as": "আচ্ছাদনী।"
+      "en": "The mantle is the thickest layer of the Earth, making up about 84 per cent of its volume.",
+      "as": "মেণ্টল পৃথিৱীৰ আটাইতকৈ ডাঠ স্তৰ, যি ইয়াৰ প্ৰায় ৮৪ শতাংশ আয়তন গঠন কৰে।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 2,900 kilometres.",
-      "as": "প্ৰায় ২,৯০০ কিলোমিটাৰ।"
+      "en": "The mantle is about 2,900 km thick, extending from the base of the crust down to the core.",
+      "as": "মেণ্টল প্ৰায় ২,৯০০ কিলোমিটাৰ ডাঠ, যি ভূত্বকৰ তলসীমাৰপৰা ক'ৰলৈকে বিস্তৃত।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The inner core.",
-      "as": "অন্তৰ্ কেৰ্নেল।"
+      "en": "The inner core is the innermost layer, a solid ball of iron and nickel at the very centre of the Earth.",
+      "as": "অন্তৰ্নিহিত ক'ৰ আটাইতকৈ ভিতৰৰ স্তৰ, যি পৃথিৱীৰ ঠিক কেন্দ্ৰত লো আৰু নিকেলৰ এটা কঠিন গোলক।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Solid iron and nickel.",
-      "as": "কঠিন লোহা আৰু নিকেল।"
+      "en": "The inner core is made of solid iron and nickel; the enormous pressure there keeps it solid despite temperatures above 5,000 °C.",
+      "as": "অন্তৰ্নিহিত ক'ৰ কঠিন লো আৰু নিকেলেৰে গঠিত; ৫,০০০ °চে.ৰ ওপৰৰ তাপমাত্ৰাতো তাত থকা প্ৰচণ্ড চাপে ইয়াক কঠিন ৰাখে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 6,371 kilometres.",
-      "as": "প্ৰায় ৬,৩৭১ কিলোমিটাৰ।"
+      "en": "The Earth's radius is about 6,371 km, measured from the centre to the surface at the equator.",
+      "as": "পৃথিৱীৰ ব্যাসাৰ্ধ প্ৰায় ৬,৩৭১ কিলোমিটাৰ, কেন্দ্ৰৰপৰা বিষুৱৰেখাৰ পৃষ্ঠলৈ জোখা।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 5,000 to 6,000 degrees Celsius.",
-      "as": "প্ৰায় ৫,০০০ৰ পৰা ৬,০০০ ডিগ্ৰী চেলছিয়াছ।"
+      "en": "The core is about 5,000 to 6,000 degrees Celsius, roughly as hot as the surface of the Sun.",
+      "as": "ক'ৰৰ তাপমাত্ৰা প্ৰায় ৫,০০০ ৰপৰা ৬,০০০ ডিগ্ৰী ছেলছিয়াছ, প্ৰায় সূৰ্যৰ পৃষ্ঠৰ সমান গৰম।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The solid outer part of the Earth, including the crust and the upper mantle.",
-      "as": "ভূত্বক আৰু ওপৰৰ আচ্ছাদনী সহ পৃথিৱীৰ কঠিন বাহ্যিক অংশ।"
+      "en": "The lithosphere is the solid outer shell of the Earth, made of the crust and the rigid uppermost mantle, and it is broken into plates.",
+      "as": "লিথ'স্ফিয়াৰ পৃথিৱীৰ কঠিন বাহিৰৰ খোলা, যি ভূত্বক আৰু মেণ্টলৰ কঠিন সৰ্বোচ্চ অংশৰে গঠিত আৰু প্লেটত বিভক্ত।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The semi-molten layer of the upper mantle on which the plates move.",
-      "as": "প্লেটসমূহ চলাচল কৰা ওপৰৰ আচ্ছাদনীৰ অৰ্দ্ধ-তৰল স্তৰ।"
+      "en": "The asthenosphere is the soft, semi-molten layer of the upper mantle just below the lithosphere, on which the plates glide.",
+      "as": "এছ্থেন'স্ফিয়াৰ লিথ'স্ফিয়াৰৰ ঠিক তলত থকা ওপৰৰ মেণ্টলৰ নৰম আৰু আধা-গলিত স্তৰ, যাৰ ওপৰেৰে প্লেটবোৰ পিছলি যায়।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Alfred Wegener, in 1912.",
-      "as": "আলফ্ৰেড ৱেগেনেৰ, ১৯১২ চনত।"
+      "en": "Alfred Wegener proposed the theory of continental drift in 1912, suggesting the continents once formed a single landmass and drifted apart.",
+      "as": "আলফ্ৰেড ৱেগেনাৰে ১৯১২ চনত মহাদেশীয় প্ৰবাহ তত্ত্ব আগবঢ়াইছিল, য'ত কৈছিল যে মহাদেশবোৰ কেতিয়াবা এটা ভূখণ্ড আছিল আৰু পিছত আঁতৰি গৈছে।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The supercontinent that existed about 200 million years ago.",
-      "as": "প্ৰায় ২০০ মিলিয়ন বছৰ আগে অস্তিত্ব থকা মহা-মহাদেশ।"
+      "en": "Pangaea was the supercontinent that joined almost all the land of the Earth about 250 million years ago and began splitting about 200 million years ago.",
+      "as": "পেনজিয়া হৈছে প্ৰায় ২৫০ নিযুত বছৰ আগতে পৃথিৱীৰ প্ৰায় সকলো ভূখণ্ড সংযোগ কৰা মহাদেশ, যি প্ৰায় ২০০ নিযুত বছৰ আগতে ভাঙিবলৈ আৰম্ভ কৰিছিল।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Seven major plates.",
-      "as": "সাতখন মুখ্য প্লেট।"
+      "en": "There are seven major tectonic plates: Pacific, North American, Eurasian, African, South American, Indo-Australian and Antarctic.",
+      "as": "সাতটা মূল টেকটনিক প্লেট আছে: পেছিফিক, উত্তৰ আমেৰিকান, ইউৰেছিয়ান, আফ্ৰিকান, দক্ষিণ আমেৰিকান, ইণ্ড'-অষ্ট্ৰেলিয়ান আৰু এণ্টাৰ্কটিক।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Pacific plate.",
-      "as": "প্ৰশান্ত মহাসাগৰীয় প্লেট।"
+      "en": "The Pacific plate is the largest tectonic plate, covering about 103 million sq km of the ocean floor.",
+      "as": "পেছিফিক প্লেট আটাইতকৈ ডাঙৰ টেকটনিক প্লেট, যি সাগৰতলৰ প্ৰায় ১০.৩ কোটি বৰ্গ কিলোমিটাৰ আগুৰি ধৰে।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The belt of volcanoes and earthquakes around the Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰৰ চৌপাশে আগ্নেয়গিৰি আৰু ভূমিকম্পৰ অঞ্চল।"
+      "en": "The Ring of Fire is a horseshoe-shaped belt around the Pacific where subduction causes most of the world's volcanoes and earthquakes.",
+      "as": "অগ্নি বৃত্ত পেছিফিকৰ চাৰিওফালে ঘোঁৰাৰ নালৰ দৰে পট্টি, য'ত চাবডাকছনৰ বাবে পৃথিৱীৰ বেছিভাগ আগ্নেয়গিৰি আৰু ভূমিকম্প হয়।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Plates collide, forming mountains, and causing earthquakes.",
-      "as": "প্লেট সংঘৰ্ষ হয়, পৰ্বত গঠন হয় আৰু ভূমিকম্প হয়।"
+      "en": "At convergent boundaries plates collide; the denser plate subducts, and the collision raises fold mountains and causes earthquakes.",
+      "as": "অভিসৰণশীল সীমাত প্লেটবোৰ সংঘৰ্ষ হয়; ঘনতৰ প্লেট তললৈ সোমাই যায়, আৰু সংঘৰ্ষই ভাঁজ পৰ্বত তোলে আৰু ভূমিকম্প ঘটায়।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Plates move apart, forming new crust and mid-oceanic ridges.",
-      "as": "প্লেট পৃথক হয়, নতুন ভূত্বক আৰু মধ্য-মহাসাগৰীয় শিখৰ গঠন হয়।"
+      "en": "At divergent boundaries plates move apart, magma rises to fill the gap, and new oceanic crust forms along mid-oceanic ridges.",
+      "as": "বিকিৰণশীল সীমাত প্লেটবোৰ আঁতৰি যায়, মেগমা উঠি ফাঁক ভৰ্তি কৰে, আৰু মধ্য-সাগৰীয় শৃংগৰ কাষেৰে নতুন সাগৰীয় ভূত্বক গঠন হয়।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "An opening in the Earth's crust through which magma erupts.",
-      "as": "যি মাজেৰে মেগমা ওলাই আহে সেই ভূত্বকৰ মুখ।"
+      "en": "A volcano is an opening in the crust through which magma, ash and gases escape from below.",
+      "as": "আগ্নেয়গিৰি ভূত্বকৰ এটা ছিদ্ৰ, যাৰে মেগমা, ছাই আৰু গেছ তলৰপৰা ওলাই যায়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Lava.",
-      "as": "লাভা।"
+      "en": "Magma is called lava once it reaches the surface, and lava cools to form extrusive igneous rock.",
+      "as": "মেগমা পৃষ্ঠত ওলোৱাৰ পিছত লাভা বোলা হয়, আৰু লাভা ঠাণ্ডা হৈ বাহিৰ্গামী আগ্নেয় শিল গঠন কৰে।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Active, dormant and extinct.",
-      "as": "সক্ৰিয়, নিদ্ৰিত আৰু লুপ্ত।"
+      "en": "Volcanoes are classed as active if they erupt regularly, dormant if quiet but not dead, and extinct if they will not erupt again.",
+      "as": "আগ্নেয়গিৰিক সক্ৰিয় বোলা হয় যদি নিয়মিতভাৱে বিষ্ফোৰণ ঘটায়, সুপ্ত যদি শান্ত কিন্তু মৃত নহয়, আৰু মৃত যদি পুনৰ বিষ্ফোৰণ নঘটে।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A broad volcano formed by low-viscosity lava, like Mauna Loa.",
-      "as": "কম সান্দহ লাভাৰে গঠিত বহল আগ্নেয়গিৰি, মাউনা লোৱা দৰে।"
+      "en": "A shield volcano is broad and gently sloping, built from runny low-viscosity lava, as with Mauna Loa in Hawaii.",
+      "as": "স্তৰ আগ্নেয়গিৰি বহল আৰু লাহে লাহে হেলনীয়া, যি পাতল কম-সান্দ্ৰতাৰ লাভাৰে গঠিত, যেনে হাৱাইৰ মাউনা লোৱা।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A tall cone-shaped volcano made of layers of lava and ash.",
-      "as": "লাভা আৰু ছাইৰ স্তৰে গঠিত ওখ শংকু আকৃতিৰ আগ্নেয়গিৰি।"
+      "en": "A stratovolcano is a tall cone of alternating lava and ash layers, built by explosive eruptions of thick magma.",
+      "as": "স্তৰতল আগ্নেয়গিৰি লাভা আৰু ছাইৰ স্তৰ পাল পাতি গঠিত ওখ শঙ্কু, যি ঘন মেগমাৰ বিষ্ফোৰণে গঢ় দিয়ে।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mauna Loa in Hawaii.",
-      "as": "হাৱাইত অৱস্থিত মাউনা লোৱা।"
+      "en": "Mauna Loa in Hawaii is the largest active volcano in the world, rising about 4,169 m above sea level and far more from the sea floor.",
+      "as": "হাৱাইৰ মাউনা লোৱা পৃথিৱীৰ আটাইতকৈ ডাঙৰ সক্ৰিয় আগ্নেয়গিৰি, যি সাগৰপৃষ্ঠৰপৰা প্ৰায় ৪,১৬৯ মিটাৰ ওখ আৰু সাগৰতলৰপৰা বহু বেছি।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The highest active volcano of Japan, about 3,776 metres.",
-      "as": "জাপানৰ সৰ্বোচ্চ সক্ৰিয় আগ্নেয়গিৰি, প্ৰায় ৩,৭৭৬ মিটাৰ।"
+      "en": "Mount Fuji is Japan's highest peak at 3,776 m and its most famous active stratovolcano.",
+      "as": "মাউণ্ট ফুজি ৩,৭৭৬ মিটাৰ উচ্চতাৰ জাপানৰ সৰ্বোচ্চ শৃংগ আৰু ইয়াৰ আটাইতকৈ বিখ্যাত সক্ৰিয় স্তৰতল আগ্নেয়গিৰি।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Nevado Ojos del Salado, in the Andes.",
-      "as": "এণ্ডেছত অৱস্থিত নেভাডো অ'হ'ছ দেল চালাডো।"
+      "en": "Nevado Ojos del Salado on the Chile-Argentina border, at about 6,893 m, is the highest volcano in the world.",
+      "as": "চিলি-আৰ্জেণ্টিনা সীমাত প্ৰায় ৬,৮৯৩ মিটাৰ উচ্চতাৰ নেভাড' অ'হছ দেল ছালাড' পৃথিৱীৰ আটাইতকৈ ওখ আগ্নেয়গিৰি।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "An underwater mountain range formed at the divergent boundaries.",
-      "as": "অপসাৰী সীমান্তত গঠিত পানীৰ তলৰ পৰ্বতমালা।"
+      "en": "A mid-oceanic ridge is an underwater mountain range where plates pull apart and new crust is created by rising magma.",
+      "as": "মধ্য-সাগৰীয় শৃংগ হৈছে সাগৰতলৰ পৰ্বতমালা, য'ত প্লেটবোৰ আঁতৰি যায় আৰু উঠি অহা মেগমাই নতুন ভূত্বক সৃষ্টি কৰে।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The mid-oceanic ridge system (about 65,000 km), led by the Andes on land.",
-      "as": "মধ্য-মহাসাগৰীয় শিখৰ ব্যৱস্থা (প্ৰায় ৬৫,০০০ কিলোমিটাৰ), স্থলত এণ্ডেছ আগবঢ়াইছে।"
+      "en": "The mid-oceanic ridge system, about 65,000 km long, is the longest mountain range in the world; the Andes is the longest on land.",
+      "as": "প্ৰায় ৬৫,০০০ কিলোমিটাৰ দীঘল মধ্য-সাগৰীয় শৃংগ প্ৰণালী পৃথিৱীৰ আটাইতকৈ দীঘল পৰ্বতমালা; স্থলত আটাইতকৈ দীঘল হৈছে এণ্ডিজ।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The theory that the Earth's lithosphere is divided into moving plates.",
-      "as": "পৃথিৱীৰ লিথোস্ফিয়াৰ গতিশীল প্লেটত বিভক্ত হোৱা তত্ত্ব।"
+      "en": "Plate tectonics holds that the lithosphere is broken into plates that move over the asthenosphere, and their interactions explain earthquakes, volcanoes and mountain building.",
+      "as": "প্লেট টেকটনিকৰ মতে লিথ'স্ফিয়াৰ প্লেটত বিভক্ত আৰু সেইবোৰ এছ্থেন'স্ফিয়াৰৰ ওপৰত গতি কৰে; সেইবোৰৰ ক্ৰিয়া-প্ৰতিক্ৰিয়াই ভূমিকম্প, আগ্নেয়গিৰি আৰু পৰ্বতজন্ম ব্যাখ্যা কৰে।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Mohorovicic discontinuity.",
-      "as": "মহোৰোভিচিক অসংগতি।"
+      "en": "The Mohorovicic discontinuity, or Moho, is the boundary between the crust and the mantle, where seismic wave speed jumps.",
+      "as": "ম'হ'ৰ'ভিচিছ অসাতত্য বা ম'হ' ভূত্বক আৰু মেণ্টলৰ মাজৰ সীমা, য'ত ভূকম্পীয় তৰংগৰ গতি হঠাতে বাঢ়ে।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Gutenberg discontinuity.",
-      "as": "গুটেনবাৰ্গ অসংগতি।"
+      "en": "The Gutenberg discontinuity at about 2,900 km separates the mantle from the core and is where S-waves disappear.",
+      "as": "প্ৰায় ২,৯০০ কিলোমিটাৰ গভীৰত থকা গুটেনবাৰ্গ অসাতত্যে মেণ্টলক ক'ৰৰপৰা পৃথক কৰে আৰু তাতেই S-তৰংগ হেৰাই যায়।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The primary (P) waves.",
-      "as": "প্ৰাথমিক (P) তৰংগ।"
+      "en": "Primary or P-waves are the fastest earthquake waves, arriving first and passing through both solids and liquids.",
+      "as": "প্ৰাথমিক বা P-তৰংগ আটাইতকৈ দ্ৰুত ভূকম্পীয় তৰংগ, যি প্ৰথমে আহে আৰু কঠিন তথা তৰল দুয়োটাৰ মাজেৰে যায়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The secondary (S) waves.",
-      "as": "গৌণ (S) তৰংগ।"
+      "en": "Secondary or S-waves cannot pass through liquids, and this is how scientists proved the outer core is liquid.",
+      "as": "দ্বিতীয় বা S-তৰংগে তৰলৰ মাজেৰে যাব নোৱাৰে, আৰু এইদৰেই বিজ্ঞানীসকলে বাহ্যিক ক'ৰ তৰল বুলি প্ৰমাণ কৰিছিল।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A fixed plume of magma rising through the mantle.",
-      "as": "মেন্টলৰ মাজেৰে ওপৰলৈ উঠা মেগমাৰ স্থিৰ স্তম্ভ।"
+      "en": "A hot spot is a fixed plume of hot mantle rock that melts through the plate above it and builds a chain of volcanoes as the plate moves.",
+      "as": "হট স্পট হৈছে মেণ্টলৰ গৰম শিলৰ এটা স্থিৰ প্লুম, যি ওপৰৰ প্লেট গলাই দিয়ে আৰু প্লেট গতি কৰাৰ লগে লগে আগ্নেয়গিৰিৰ শৃংখলা গঢ়ে।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Hawaiian islands.",
-      "as": "হাৱাই দ্বীপপুঞ্জ।"
+      "en": "The Hawaiian islands form a chain because the Pacific plate has moved over a fixed hot spot, leaving older islands further north-west.",
+      "as": "হাৱাই দ্বীপপুঞ্জ এটা শৃংখলা গঠন কৰে, কাৰণ পেছিফিক প্লেট এটা স্থিৰ হট স্পটৰ ওপৰেৰে গতি কৰিছে আৰু পুৰণি দ্বীপবোৰ উত্তৰ-পশ্চিমে এৰি গৈছে।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A large depression formed by the collapse of a volcano.",
-      "as": "আগ্নেয়গিৰি ধ্বংস হোৱাৰ ফলত সৃষ্টি হোৱা ডাঙৰ খাদ।"
+      "en": "A caldera is a large basin-shaped depression formed when a volcano's magma chamber empties and the ground above collapses.",
+      "as": "কেলডেৰা হৈছে আগ্নেয়গিৰিৰ মেগমা কোঠালি খালী হৈ ওপৰৰ ভূমি ধসি যোৱাৰ ফলত গঠিত ডাঙৰ বাচনৰ দৰে খাদ।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A hot spring that throws out water and steam at intervals.",
-      "as": "সময়ৰ অন্তৰালত পানী আৰু ভাপ বাহিৰ কৰা উষ্ণ ঝৰণা।"
+      "en": "A geyser is a hot spring that periodically shoots out a column of hot water and steam, as in Yellowstone or Iceland.",
+      "as": "গাইছাৰ এটা তপত ঝৰণা, যি সময়ে সময়ে তপত পানী আৰু ভাপৰ স্তম্ভ ওপৰলৈ নিক্ষেপ কৰে, যেনে য়েল'ষ্ট'ন বা আইচলেণ্ডত।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mount Vesuvius.",
-      "as": "মাউণ্ট ভেছুভিয়াছ।"
+      "en": "Mount Vesuvius in Italy buried the Roman cities of Pompeii and Herculaneum in AD 79.",
+      "as": "ইটালীৰ মাউণ্ট ভেছুভিয়াছে খ্ৰীষ্টীয় ৭৯ চনত ৰোমান নগৰী পম্পেই আৰু হাৰ্কুলেনিয়ামক পুতি পেলাইছিল।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Kilauea.",
-      "as": "কিলাউৱা।"
+      "en": "Kilauea on the Big Island of Hawaii is the most active volcano in the world, erupting almost continuously since 1983.",
+      "as": "হাৱাইৰ ডাঙৰ দ্বীপৰ কিলাউৱা পৃথিৱীৰ আটাইতকৈ সক্ৰিয় আগ্নেয়গিৰি, যি ১৯৮৩ চনৰপৰা প্ৰায় একেৰাহে বিষ্ফোৰণ ঘটাই আছে।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The basaltic lava plateau of western India.",
-      "as": "পশ্চিম ভাৰতৰ বেছাল্ট লাভাৰ মালভূমি।"
+      "en": "The Deccan Traps are a vast basaltic lava plateau of western India, formed by huge eruptions about 66 million years ago.",
+      "as": "দাক্ষিণাত্যৰ ট্ৰেপ পশ্চিম ভাৰতৰ এটা বিশাল বেছাল্টিক লাভা মালভূমি, যি প্ৰায় ৬৬ নিযুত বছৰ আগতে হোৱা বৃহৎ বিষ্ফোৰণেৰে গঠিত।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The region where one plate sinks beneath another.",
-      "as": "য'ত এখন প্লেট আন এখনৰ তললৈ নামি যায়।"
+      "en": "A subduction zone is where one plate sinks beneath another into the mantle, producing trenches, earthquakes and volcanic arcs.",
+      "as": "চাবডাকছন অঞ্চল হৈছে য'ত এখন প্লেট আন এখনৰ তলত মেণ্টললৈ সোমাই যায়, যাৰ ফলত ট্ৰেঞ্চ, ভূমিকম্প আৰু আগ্নেয় শৃংখলৰ সৃষ্টি হয়।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Harry Hess.",
-      "as": "হেৰি হেছ।"
+      "en": "Harry Hess proposed the theory of sea-floor spreading in 1960, showing that new crust forms at ridges and moves away on both sides.",
+      "as": "হেৰী হেছে ১৯৬০ চনত সাগৰতল বিস্তাৰ তত্ত্ব আগবঢ়াইছিল, য'ত দেখুৱাইছিল যে শৃংগত নতুন ভূত্বক গঠন হৈ দুয়োকাষে আঁতৰি যায়।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A transform fault in California.",
-      "as": "কেলিফৰ্ণিয়াত থকা ৰূপান্তৰ ফল্ট।"
+      "en": "The San Andreas Fault is a transform fault in California where the Pacific and North American plates slide past each other.",
+      "as": "ছান আন্দ্ৰিয়াছ ফল্ট কেলিফৰ্ণিয়াৰ এটা ৰূপান্তৰ ফল্ট, য'ত পেছিফিক আৰু উত্তৰ আমেৰিকান প্লেটে পাৰস্পৰিকভাৱে পিছলি যায়।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "An upward fold of rock layers.",
-      "as": "শিলাস্তৰৰ ওপৰমুৱা ভাঁজ।"
+      "en": "An anticline is an upward-arching fold of rock layers, with the oldest rocks in the core of the fold.",
+      "as": "এণ্টিক্লাইন হৈছে শিলৰ স্তৰ ওপৰলৈ বেঁকা হোৱা ভাঁজ, যাৰ ভাঁজৰ কেন্দ্ৰত আটাইতকৈ পুৰণি শিল থাকে।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A downward fold of rock layers.",
-      "as": "শিলাস্তৰৰ তলমুৱা ভাঁজ।"
+      "en": "A syncline is a downward-trough fold of rock layers, with the youngest rocks in the centre.",
+      "as": "ছিংক্লাইন হৈছে শিলৰ স্তৰ তললৈ বেঁকা হোৱা ভাঁজ, যাৰ কেন্দ্ৰত আটাইতকৈ নতুন শিল থাকে।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 75 per cent of the world's volcanoes.",
-      "as": "বিশ্বৰ প্ৰায় ৭৫ শতাংশ আগ্নেয়গিৰি।"
+      "en": "The Ring of Fire contains about 75 per cent of the world's volcanoes and is where most of the largest earthquakes occur.",
+      "as": "অগ্নি বৃত্তত পৃথিৱীৰ প্ৰায় ৭৫ শতাংশ আগ্নেয়গিৰি আছে আৰু আটাইতকৈ ডাঙৰ ভূমিকম্পবোৰ ইয়াতেই হয়।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Olympus Mons on Mars.",
-      "as": "মংগল গ্ৰহৰ অলিম্পাছ মনছ।"
+      "en": "Olympus Mons on Mars, about 22 km high, is the largest volcano in the solar system.",
+      "as": "মঙ্গল গ্ৰহৰ অলিম্পাছ মনছ প্ৰায় ২২ কিলোমিটাৰ ওখ আৰু সৌৰজগতৰ আটাইতকৈ ডাঙৰ আগ্নেয়গিৰি।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A plateau formed by repeated lava flows.",
-      "as": "পুনৰ পুনৰ লাভা প্ৰবাহৰ দ্বাৰা গঠিত মালভূমি।"
+      "en": "A lava plateau is a broad flat upland built up by many layers of fluid lava spreading over a large area.",
+      "as": "লাভা মালভূমি হৈছে বিশাল অঞ্চলত বহু স্তৰ তৰল লাভা বিয়পি জমা হোৱাৰ ফলত গঠিত বহল সমতল উচ্চভূমি।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The inclined zone of earthquakes in a subduction zone.",
-      "as": "সাবডাক্ছন অঞ্চলত ভূমিকম্পৰ ঢাল খোৱা মণ্ডল।"
+      "en": "The Benioff zone is the inclined band of earthquake foci that follows a subducting slab down into the mantle.",
+      "as": "বেনিঅ'ফ অঞ্চল হৈছে সোমাই যোৱা প্লেটৰ সৈতে মেণ্টললৈকে অনুসৰণ কৰা ভূমিকম্প কেন্দ্ৰৰ হেলনীয়া পট্টি।"
     }
   }
 ]

@@ -25,8 +25,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Granite",
-      "as": "গ্ৰেনাইট"
+      "en": "Granite is a light, silica-rich rock, and the continental crust is largely built of it, which is why continents stand higher than ocean floors.",
+      "as": "গ্ৰেনাইট এটা পাতল আৰু ছিলিকা-সমৃদ্ধ শিল; মহাদেশীয় ভূত্বকৰ বেছিভাগ এই শিলেৰে গঠিত, সেয়ে মহাদেশবোৰ সাগৰতলীতকৈ ওখ হৈ থকা দেখা যায়।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Basalt",
-      "as": "বেছল্ট"
+      "en": "Basalt is a dark, dense, iron-rich volcanic rock, and the oceanic crust is mostly made of it.",
+      "as": "বেছাল্ট এটা গাঢ়, ঘন আৰু লো-সমৃদ্ধ আগ্নেয় শিল; সাগৰীয় ভূত্বকৰ বেছিভাগ এই শিলেৰে গঠিত।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The boundary between the crust and the mantle",
-      "as": "ভূত্বক আৰু মেণ্টলৰ সীমা"
+      "en": "The Mohorovicic discontinuity, or Moho, is the boundary where seismic wave speeds jump suddenly, marking the bottom of the crust.",
+      "as": "ম'হ'ৰ'ভিচিছ অসাতত্য বা ম'হ' হৈছে সেই সীমা য'ত ভূকম্পীয় তৰংগৰ গতি হঠাতে সলনি হয় আৰু ভূত্বকৰ তলসীমা চিহ্নিত কৰে।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The boundary between the mantle and the core",
-      "as": "মেণ্টল আৰু কেন্দ্ৰৰ সীমা"
+      "en": "The Gutenberg discontinuity at about 2900 km marks the boundary between the mantle and the core, where S-waves vanish.",
+      "as": "প্ৰায় ২৯০০ কিলোমিটাৰ গভীৰত থকা গুটেনবাৰ্গ অসাতত্য মেণ্টল আৰু ক'ৰৰ মাজৰ সীমা চিহ্নিত কৰে, য'ত S-তৰংগ বন্ধ হৈ যায়।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 2900 km",
-      "as": "প্ৰায় 2900 কিলোমিটাৰ"
+      "en": "The outer core begins at about 2900 km below the surface and is a layer of liquid iron and nickel.",
+      "as": "বাহ্যিক ক'ৰ ভূপৃষ্ঠৰপৰা প্ৰায় ২৯০০ কিলোমিটাৰ তলত আৰম্ভ হয় আৰু ই তৰল লো আৰু নিকেলৰ স্তৰ।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 5150 km",
-      "as": "প্ৰায় 5150 কিলোমিটাৰ"
+      "en": "The inner core begins at about 5150 km and is a solid ball of iron and nickel despite the extreme heat.",
+      "as": "অন্তৰ্নিহিত ক'ৰ প্ৰায় ৫১৫০ কিলোমিটাৰ গভীৰত আৰম্ভ হয় আৰু অতি বেছি তাপৰ মাজতো ই লো আৰু নিকেলৰ কঠিন গোলক।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "S-waves cannot pass through it",
-      "as": "S-তৰংগই ইয়াৰ মাজেৰে যাব নোৱাৰে"
+      "en": "S-waves, or shear waves, cannot travel through liquids, and their disappearance beyond 2900 km proved the outer core is liquid.",
+      "as": "S-তৰংগ বা শিয়াৰ তৰংগে তৰল পদাৰ্থৰ মাজেৰে যাব নোৱাৰে; ২৯০০ কিলোমিটাৰৰ সিপাৰে সেই তৰংগ হেৰাই যোৱাটোৱে বাহ্যিক ক'ৰ তৰল বুলি প্ৰমাণ কৰে।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The outer core",
-      "as": "বহিঃ কেন্দ্ৰ"
+      "en": "The motion of liquid iron in the outer core acts like a dynamo and produces the Earth's magnetic field.",
+      "as": "বাহ্যিক ক'ৰৰ তৰল লোৰ গতিয়ে ডাইনাম'ৰ দৰে কাম কৰি পৃথিৱীৰ চুম্বক ক্ষেত্ৰ সৃষ্টি কৰে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The rate at which temperature rises with depth inside the Earth",
-      "as": "পৃথিৱীৰ ভিতৰত গভীৰতাৰ লগে লগে উষ্ণতা বৃদ্ধিৰ হাৰ"
+      "en": "The geothermal gradient is the rate at which temperature rises as you go deeper, roughly 25 °C per km in the crust.",
+      "as": "ভূ-তাপীয় নতি হৈছে গভীৰলৈ যোৱাৰ লগে লগে তাপমাত্ৰা বঢ়াৰ হাৰ; ভূত্বকত ই প্ৰায় প্ৰতি কিলোমিটাৰত ২৫ °চে.।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Radioactive decay of isotopes",
-      "as": "সমস্থানিকৰ তেজস্ক্ৰীয় ক্ষয়"
+      "en": "Most of the Earth's internal heat comes from the radioactive decay of uranium, thorium and potassium isotopes in the mantle.",
+      "as": "পৃথিৱীৰ অন্তৰ্ভাগৰ বেছিভাগ তাপ মেণ্টলত থকা ইউৰেনিয়াম, থ'ৰিয়াম আৰু পটাছিয়ামৰ সমস্থানিকৰ তেজস্ক্ৰিয় ক্ষয়ৰপৰা আহে।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The state of gravitational balance between the crust and the mantle",
-      "as": "ভূত্বক আৰু মেণ্টলৰ মাজত মহাকৰ্ষণীয় ভাৰসাম্যৰ অৱস্থা"
+      "en": "Isostasy is the gravitational balance in which lighter crust floats on the denser mantle, rising or sinking until the weights are equal.",
+      "as": "আইছ'ষ্টেছে হৈছে মহাকৰ্ষণীয় ভাৰসাম্য, য'ত পাতল ভূত্বক ঘন মেণ্টলৰ ওপৰত ওপঙি থাকে আৰু ওজন সমান নোহোৱালৈকে ওপৰলৈ উঠে বা তললৈ নামে।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The crust and the uppermost rigid part of the mantle",
-      "as": "ভূত্বক আৰু মেণ্টলৰ আটাইতকৈ ওপৰৰ কঠিন অংশ"
+      "en": "The lithosphere consists of the crust together with the uppermost rigid part of the mantle, and it is broken into plates.",
+      "as": "লিথ'স্ফিয়াৰ ভূত্বক আৰু মেণ্টলৰ সৰ্বোচ্চ কঠিন অংশৰে গঠিত, আৰু ই প্লেটত বিভক্ত।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 100 km",
-      "as": "প্ৰায় 100 কিলোমিটাৰ"
+      "en": "The lithosphere is on average about 100 km thick, though it is thinner under the oceans and thicker under old continents.",
+      "as": "লিথ'স্ফিয়াৰ গড়ে প্ৰায় ১০০ কিলোমিটাৰ ডাঠ, যদিও সাগৰৰ তলত ই পাতল আৰু পুৰণি মহাদেশৰ তলত ডাঠ।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The partly molten layer of the mantle below the lithosphere",
-      "as": "শিলামণ্ডলৰ তলত থকা মেণ্টলৰ আংশিকভাৱে গলিত স্তৰ"
+      "en": "The asthenosphere is the soft, partly molten layer of the mantle just below the lithosphere, over which the plates glide.",
+      "as": "এছ্থেন'স্ফিয়াৰ লিথ'স্ফিয়াৰৰ ঠিক তলত থকা মেণ্টলৰ নৰম আৰু আংশিক গলিত স্তৰ, যাৰ ওপৰেৰে প্লেটবোৰ পিছলি যায়।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "1912",
-      "as": "১৯১২"
+      "en": "Alfred Wegener proposed the theory of continental drift in 1912, arguing that the continents had once been joined.",
+      "as": "আলফ্ৰেড ৱেগেনাৰে ১৯১২ চনত মহাদেশীয় প্ৰবাহ তত্ত্ব আগবঢ়াইছিল, য'ত কৈছিল যে মহাদেশবোৰ কেতিয়াবা লগ হৈ আছিল।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Rodinia",
-      "as": "ৰ'ডিনিয়া"
+      "en": "Rodinia was the supercontinent that assembled about 1,100 million years ago and later broke up, long before Pangaea.",
+      "as": "ৰ'ডিনিয়া হৈছে প্ৰায় ১,১০০ নিযুত বছৰ আগতে গঠিত হোৱা মহাদেশ, যি পেনজিয়াৰ বহু আগতেই ভাঙি গৈছিল।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Laurasia and Gondwana",
-      "as": "লৰেছিয়া আৰু গণ্ডোৱানা"
+      "en": "Pangaea split about 200 million years ago into Laurasia in the north and Gondwana in the south.",
+      "as": "পেনজিয়া প্ৰায় ২০০ নিযুত বছৰ আগতে উত্তৰৰ লৰেছিয়া আৰু দক্ষিণৰ গণ্ডোৱানাত বিভক্ত হয়।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Indian Ocean",
-      "as": "ভাৰত মহাসাগৰ"
+      "en": "As Gondwana broke up, the Indian plate moved north and the Indian Ocean opened up behind it.",
+      "as": "গণ্ডোৱানা ভাঙি যোৱাৰ লগে লগে ভাৰতীয় প্লেট উত্তৰলৈ গতি কৰে আৰু ইয়াৰ পিছফালে ভাৰত মহাসাগৰ মুকলি হয়।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Philippine Sea Plate",
-      "as": "ফিলিপাইন সাগৰীয় পাত"
+      "en": "The Philippine Sea Plate is the largest of the minor plates, at about 5.5 million sq km.",
+      "as": "ফিলিপাইন সাগৰ প্লেট সৰু প্লেটবোৰৰ ভিতৰত আটাইতকৈ ডাঙৰ, প্ৰায় ৫.৫ নিযুত বৰ্গ কিলোমিটাৰ।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A boundary where two plates slide past each other",
-      "as": "য'ত দুখন পাত ইখনৰ সিপিঠিয়ে পিছলি যায়"
+      "en": "At a transform boundary two plates slide past each other horizontally, and crust is neither created nor destroyed.",
+      "as": "ৰূপান্তৰ সীমাত দুটা প্লেটে পাৰস্পৰিকভাৱে কাষেৰে পিছলি যায়, আৰু তাত ভূত্বক সৃষ্টি বা ধ্বংস কোনোটোৱেই নহয়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A transform boundary",
-      "as": "ৰূপান্তৰক সীমা"
+      "en": "The San Andreas Fault in California is a classic transform boundary where the Pacific Plate slides past the North American Plate.",
+      "as": "কেলিফৰ্ণিয়াৰ ছান আন্দ্ৰিয়াছ ফল্ট এটা প্ৰকৃত ৰূপান্তৰ সীমা, য'ত পেছিফিক প্লেটে উত্তৰ আমেৰিকান প্লেটৰ কাষেৰে পিছলি যায়।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The inclined zone of earthquake foci in a subducting slab",
-      "as": "অৱক্ষেপণশীল প্লেটত ভূমিকম্পৰ উৎসৰ ঢাল খোৱা ক্ষেত্ৰ"
+      "en": "The Benioff zone is the inclined band of earthquake foci that follows a subducting slab deep into the mantle.",
+      "as": "বেনিঅ'ফ অঞ্চল হৈছে গভীৰলৈ মেণ্টলত সোমাই যোৱা প্লেটৰ সৈতে অনুসৰণ কৰা ভূমিকম্প কেন্দ্ৰৰ হেলনীয়া পট্টি।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 700 km",
-      "as": "প্ৰায় 700 কিলোমিটাৰ"
+      "en": "Earthquakes in a subduction zone reach a maximum depth of about 700 km, below which the slab is too hot and soft to fracture.",
+      "as": "চাবডাকছন অঞ্চলত ভূমিকম্পৰ সৰ্বোচ্চ গভীৰতা প্ৰায় ৭০০ কিলোমিটাৰ; তাৰ তলত প্লেট অতি গৰম আৰু নৰম হৈ ফাটিব নোৱাৰে।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A deep earthquake occurring within a subducting slab",
-      "as": "অৱক্ষেপণশীল প্লেটৰ ভিতৰত হোৱা গভীৰ ভূমিকম্প"
+      "en": "A Wadati-Benioff earthquake is a deep earthquake that occurs inside a cold subducting slab rather than in ordinary crust.",
+      "as": "ৱাদাটি-বেনিঅ'ফ ভূমিকম্প হৈছে চাবডাক্ট হৈ যোৱা ঠাণ্ডা প্লেটৰ ভিতৰত ঘটা গভীৰ ভূমিকম্প, সাধাৰণ ভূত্বকত নহয়।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Rhyolitic magma",
-      "as": "ৰাইঅ'লাইটিক মেগমা"
+      "en": "Rhyolitic magma is thick, sticky and rich in silica, so gases cannot escape easily and the eruption is violent.",
+      "as": "ৰাইঅ'লিটিক মেগমা ঘন, আঠাযুক্ত আৰু ছিলিকা-সমৃদ্ধ; সেয়ে গেছ সহজে বাহিৰ হ'ব নোৱাৰে আৰু বিষ্ফোৰণ অতি হিংস্ৰ হয়।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Basaltic magma",
-      "as": "বেছল্টিক মেগমা"
+      "en": "Basaltic magma is runny and low in silica, so gases escape quietly and eruptions are usually gentle lava flows.",
+      "as": "বেছাল্টিক মেগমা পাতল আৰু কম ছিলিকা-যুক্ত; সেয়ে গেছ শান্তভাৱে ওলাই যায় আৰু বিষ্ফোৰণ সাধাৰণতে লাহে লাহে লাভা প্ৰবাহ হিচাপে হয়।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About two-thirds",
-      "as": "প্ৰায় তিনিভাগৰ দুভাগ"
+      "en": "About two-thirds of the world's active volcanoes ring the Pacific Ocean in the zone known as the Ring of Fire.",
+      "as": "পৃথিৱীৰ প্ৰায় দুই-তৃতীয়াংশ সক্ৰিয় আগ্নেয়গিৰি পেছিফিক মহাসাগৰৰ চাৰিওফালে 'অগ্নি বৃত্ত' নামৰ অঞ্চলত আছে।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Magma is molten rock below the surface; lava is molten rock at the surface",
-      "as": "মেগমা ভূগৰ্ভস্থ গলিত শিলা; লাভা ভূপৃষ্ঠৰ গলিত শিলা"
+      "en": "Magma is molten rock while it is still underground; the same molten rock is called lava once it reaches the surface.",
+      "as": "মেগমা হৈছে ভূগৰ্ভত থকা গলিত শিল; সেই একেই গলিত শিল ওপৰত ওলোৱাৰ পিছত লাভা বোলা হয়।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A fast-moving cloud of hot gas and volcanic ash",
-      "as": "গৰম গেছ আৰু আগ্নেয় ছাইৰ দ্ৰুতগামী ডাৱৰ"
+      "en": "A pyroclastic flow is a fast avalanche of hot gas, ash and rock that races down a volcano at hundreds of kilometres per hour.",
+      "as": "পাইৰ'ক্লাষ্টিক প্ৰবাহ হৈছে গৰম গেছ, ছাই আৰু শিলৰ দ্ৰুত ধস, যি ঘণ্টাত শ শ কিলোমিটাৰ গতিত আগ্নেয়গিৰিৰপৰা নামি যায়।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A mudflow of volcanic ash and water",
-      "as": "আগ্নেয় ছাই আৰু পানীৰ বোকা-প্ৰবাহ"
+      "en": "A lahar is a mudflow of volcanic ash mixed with water, often triggered by rain on fresh ash or by melting snow.",
+      "as": "লাহাৰ হৈছে জলমিশ্ৰিত আগ্নেয় ছাইৰ বোকা প্ৰবাহ, যি প্ৰায়ে নতুন ছাইত বৰষুণ পৰা বা বৰফ গলাৰ ফলত হয়।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "To measure the relative size of volcanic eruptions",
-      "as": "আগ্নেয় অগ্ন্যুৎপাতৰ তুলনামূলক আকাৰ জুখিবলৈ"
+      "en": "The Volcanic Explosivity Index ranks eruptions from 0 to 8 by the volume of material thrown out and the height of the ash column.",
+      "as": "আগ্নেয় বিস্ফোৰণ সূচকে ওলাই যোৱা পদাৰ্থৰ পৰিমাণ আৰু ছাইৰ স্তম্ভৰ উচ্চতা অনুসৰি বিষ্ফোৰণক ০ ৰপৰা ৮ লৈ শ্ৰেণীবদ্ধ কৰে।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Novarupta in Alaska",
-      "as": "আলাস্কাৰ ন'ভাৰাপ্টা"
+      "en": "Novarupta in Alaska erupted in 1912 with a VEI of 6, the largest volcanic eruption of the twentieth century.",
+      "as": "আলাস্কাৰ ন'ভাৰাপ্টাই ১৯১২ চনত VEI ৬ ৰ সৈতে বিষ্ফোৰণ ঘটাইছিল, যি বিংশ শতিকাৰ আটাইতকৈ ডাঙৰ আগ্নেয় বিষ্ফোৰণ আছিল।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "It is subducting beneath the Okhotsk Plate",
-      "as": "ই অখটস্ক পাতৰ তলত অৱক্ষেপণ কৰি আছে"
+      "en": "At the Japan Trench the dense Pacific Plate dives beneath the Okhotsk Plate, producing deep earthquakes and tsunamis.",
+      "as": "জাপান ট্ৰেঞ্চত ঘন পেছিফিক প্লেট অ'খ'ত্স্ক প্লেটৰ তললৈ সোমাই যায়, যাৰ ফলত গভীৰ ভূমিকম্প আৰু ছুনামি হয়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Nazca Plate",
-      "as": "নাজকা পাত"
+      "en": "The Nazca Plate is subducting beneath the South American Plate, raising the Andes and forming the Peru-Chile Trench.",
+      "as": "নাজকা প্লেট দক্ষিণ আমেৰিকান প্লেটৰ তললৈ সোমাই আছে, যাৰ ফলত এণ্ডিজ পৰ্বত ওপৰলৈ উঠিছে আৰু পেৰু-চিলি ট্ৰেঞ্চ সৃষ্টি হৈছে।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Indian Plate",
-      "as": "ভাৰতীয় পাত"
+      "en": "The Indian Plate is subducting beneath the Eurasian Plate, and this collision is still pushing up the Himalaya.",
+      "as": "ভাৰতীয় প্লেট ইউৰেছিয়ান প্লেটৰ তললৈ সোমাই আছে, আৰু এই সংঘৰ্ষই আজিও হিমালয়ক ওপৰলৈ ঠেলি আছে।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 5 cm",
-      "as": "প্ৰায় 5 ছেণ্টিমিটাৰ"
+      "en": "The Indian Plate moves north at about 5 cm a year, roughly the rate at which fingernails grow.",
+      "as": "ভাৰতীয় প্লেট বছৰি প্ৰায় ৫ চে.মি. উত্তৰলৈ গতি কৰে, যি প্ৰায় নখ বঢ়াৰ হাৰৰ সমান।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Aravalli orogeny",
-      "as": "আৰাৱলী পৰ্বত-গঠন"
+      "en": "The Aravalli range is one of the world's oldest fold mountains, formed during the Aravalli orogeny about 2,000 million years ago.",
+      "as": "আৰাৱল্লী পৰ্বতমালা পৃথিৱীৰ আটাইতকৈ পুৰণি ভাঁজ পৰ্বতবোৰৰ এটা, যি প্ৰায় ২,০০০ নিযুত বছৰ আগতে আৰাৱল্লী পৰ্বতজন্মত গঠিত হৈছিল।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A fragment of oceanic crust preserved on land",
-      "as": "স্থলভাগত সংৰক্ষিত মহাসাগৰীয় ভূত্বকৰ টুকুৰা"
+      "en": "An ophiolite is a slice of oceanic crust and upper mantle pushed up onto land and preserved there by plate collision.",
+      "as": "অফিঅ'লাইট হৈছে সাগৰীয় ভূত্বক আৰু ওপৰৰ মেণ্টলৰ এটা অংশ, যি প্লেট সংঘৰ্ষৰ ফলত স্থললৈ ঠেলি উঠাই তাত সংৰক্ষিত হৈ আছে।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The P-wave",
-      "as": "P-তৰংগ"
+      "en": "The P-wave is the fastest seismic wave and so the first to reach a seismograph, travelling through solids and liquids.",
+      "as": "P-তৰংগ আটাইতকৈ দ্ৰুত ভূকম্পীয় তৰংগ, সেয়ে ছিছম'গ্ৰাফত আটাইতকৈ আগে পায়; ই কঠিন আৰু তৰল দুয়োটাৰ মাজেৰে যায়।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Surface waves",
-      "as": "পৃষ্ঠ তৰংগ"
+      "en": "Surface waves travel along the ground and, although slower than body waves, they cause the strongest shaking and most damage.",
+      "as": "পৃষ্ঠ তৰংগ মাটিৰ ওপৰেৰে যায় আৰু অন্তৰ্ভাগৰ তৰংগতকৈ লেহে হলেও সৰ্বাধিক কম্পন আৰু ক্ষতি কৰে।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A region where no direct seismic waves are recorded",
-      "as": "এনে অঞ্চল য'ত প্ৰত্যক্ষ ভূকম্পীয় তৰংগ ৰেকৰ্ড নহয়"
+      "en": "A seismic shadow zone is a band where no direct P- or S-waves arrive, and it revealed the size of the Earth's core.",
+      "as": "ভূকম্পীয় ছাঁ অঞ্চল হৈছে এনে এটা পট্টি য'ত কোনো প্ৰত্যক্ষ P বা S তৰংগ নাপায়; ইয়াৰপৰাই পৃথিৱীৰ ক'ৰৰ আকাৰ ধৰা পৰিছিল।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Zone V",
-      "as": "মণ্ডল V"
+      "en": "Zone V is the most severe earthquake zone in India, covering the north-east, Kashmir, Kutch and the Andaman islands.",
+      "as": "ভাৰতৰ ভূকম্পীয় মণ্ডলত পঞ্চম অঞ্চল আটাইতকৈ বিপদজনক, য'ত উত্তৰ-পূব, কাশ্মীৰ, কচ্ছ আৰু আন্দামান দ্বীপপুঞ্জ পৰে।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Four",
-      "as": "চাৰিটা"
+      "en": "The Indian seismic zoning map divides the country into four zones, numbered II to V, in increasing order of risk.",
+      "as": "ভাৰতীয় ভূকম্পীয় মণ্ডল মানচিত্ৰই দেশখনক বিপদৰ ক্ৰমবৰ্ধমান অনুসৰি ২ ৰপৰা ৫ নম্বৰলৈ চাৰিটা অঞ্চলত ভাগ কৰিছে।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "An instrument that records the motion of the ground",
-      "as": "ভূমিৰ কম্পন ৰেকৰ্ড কৰা যন্ত্ৰ"
+      "en": "A seismograph records ground motion, and the trace it draws is a seismogram.",
+      "as": "ছিছম'গ্ৰাফে মাটিৰ কম্পন লিখি ৰাখে, আৰু ই যি ৰেখা আঁকে তাক ছিছম'গ্ৰাম বোলে।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "How stored strain energy is released as an earthquake",
-      "as": "সঞ্চিত বিকৃতি শক্তি কেনেকৈ ভূমিকম্প হিচাপে মুক্ত হয়"
+      "en": "The elastic rebound theory explains that rock bends and stores strain until it snaps, and the sudden snap releases the energy as an earthquake.",
+      "as": "ইলাষ্টিক ৰিবাউণ্ড তত্ত্বই বুজায় যে শিল বেঁকা হৈ শক্তি সাঁচি ৰাখে, আৰু হঠাতে ফাটি যোৱাৰ লগে লগে সেই শক্তি ভূমিকম্প হিচাপে মুকলি হয়।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A smaller earthquake that precedes a larger one",
-      "as": "ডাঙৰ ভূমিকম্পৰ আগত হোৱা সৰু ভূমিকম্প"
+      "en": "A foreshock is a smaller earthquake that comes before the main shock, and it is often the first warning of a larger event.",
+      "as": "ফ'ৰশ্বক হৈছে মূল কম্পনৰ আগে আগে অহা সৰু ভূমিকম্প, যি প্ৰায়ে ডাঙৰ কম্পনৰ প্ৰথম সকীয়নি হয়।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Magnitude measures energy released; intensity measures effects at a place",
-      "as": "প্ৰাবল্যই মুক্ত শক্তি জুখে; তীব্ৰতাই কোনো স্থানত হোৱা প্ৰভাৱ জুখে"
+      "en": "Magnitude is a single number for the energy released at the focus; intensity describes how strongly the shaking was felt at a given place.",
+      "as": "মেগনিটিউড হৈছে কেন্দ্ৰত মুকলি হোৱা শক্তিৰ এটা সংখ্যা; তীব্ৰতা (intensity)এ কোনো নিৰ্দিষ্ট স্থানত কম্পন কিমান জোৰে অনুভূত হ'ল তাক বুজায়।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Modified Mercalli scale",
-      "as": "পৰিৱৰ্তিত মাৰ্কেলি স্কেল"
+      "en": "India uses the Modified Mercalli scale, running from I to XII, to describe earthquake intensity by observed effects.",
+      "as": "ভাৰতে পৰ্যবেক্ষিত প্ৰভাৱ অনুসৰি ভূমিকম্পৰ তীব্ৰতা বুজাবলৈ ১ ৰপৰা ১২ পৰ্যন্ত ম'ডিফাইড মাৰ্কেলী স্কেল ব্যৱহাৰ কৰে।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 700 to 800 km per hour",
-      "as": "প্ৰতি ঘণ্টাত প্ৰায় 700 ৰ পৰা 800 কিলোমিটাৰ"
+      "en": "In the deep ocean a tsunami travels at about 700 to 800 km per hour, as fast as a jet airliner.",
+      "as": "গভীৰ সাগৰত ছুনামি ঘণ্টাত প্ৰায় ৭০০ ৰপৰা ৮০০ কিলোমিটাৰ গতিত চলে, জেট বিমানৰ সমান দ্ৰুত।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 35 km",
-      "as": "প্ৰায় 35 কিলোমিটাৰ"
+      "en": "The continental crust is about 35 km thick on average, far thicker than the 5 to 7 km oceanic crust.",
+      "as": "মহাদেশীয় ভূত্বক গড়ে প্ৰায় ৩৫ কিলোমিটাৰ ডাঠ, যি ৫ ৰপৰা ৭ কিলোমিটাৰৰ সাগৰীয় ভূত্বকতকৈ বহু ডাঠ।"
     }
   }
 ]

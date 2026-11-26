@@ -25,8 +25,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China is the largest coal producing country in the world, mining about half of the world's coal.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ কয়লা উৎপাদনকাৰী দেশ, যি বিশ্বৰ প্ৰায় আধা কয়লা খনন কৰে।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "USA",
-      "as": "আমেৰিকা"
+      "en": "The USA holds the largest proven coal reserves in the world, ahead of Russia and Australia.",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰত পৃথিৱীৰ আটাইতকৈ বেছি প্ৰমাণিত কয়লা ভাণ্ডাৰ আছে, ৰাছিয়া আৰু অষ্ট্ৰেলিয়াৰ আগত।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "India",
-      "as": "ভাৰত"
+      "en": "India is the second largest coal producer in the world, after China.",
+      "as": "চীনৰ পিছত ভাৰত পৃথিৱীৰ দ্বিতীয় আটাইতকৈ ডাঙৰ কয়লা উৎপাদনকাৰী দেশ।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Jharia",
-      "as": "ঝাৰিয়া"
+      "en": "Jharia in Jharkhand is the largest coalfield of India and is famous for its high-grade coking coal.",
+      "as": "ঝাৰখণ্ডৰ ঝাৰিয়া ভাৰতৰ আটাইতকৈ ডাঙৰ কয়লা খনি অঞ্চল আৰু উচ্চ মানৰ ক'কিং কয়লাৰ বাবে জনাজাত।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Australia",
-      "as": "অষ্ট্ৰেলিয়া"
+      "en": "Australia is the largest producer of iron ore in the world, mainly from the Pilbara region of Western Australia.",
+      "as": "অষ্ট্ৰেলিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ লো-আকৰ উৎপাদনকাৰী দেশ, মূলতঃ পশ্চিম অষ্ট্ৰেলিয়াৰ পিলবাৰা অঞ্চলৰপৰা।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Australia",
-      "as": "অষ্ট্ৰেলিয়া"
+      "en": "Australia is also the largest exporter of iron ore, supplying most of China's imports.",
+      "as": "অষ্ট্ৰেলিয়া লো-আকৰৰ আটাইতকৈ ডাঙৰ ৰপ্তানিকাৰীও, যি চীনৰ বেছিভাগ আমদানি যোগায়।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Bauxite",
-      "as": "বক্সাইট"
+      "en": "Bauxite is the ore from which alumina and then aluminium metal are extracted.",
+      "as": "বক্সাইট হৈছে সেই আকৰ, যাৰপৰা এলুমিনা আৰু তাৰপিছত এলুমিনিয়াম ধাতু উলিওৱা হয়।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Haematite",
-      "as": "হিমেটাইট"
+      "en": "Haematite is the most important ore of iron, containing up to about 70 per cent iron.",
+      "as": "হেমাটাইট লোৰ আটাইতকৈ গুৰুত্বপূৰ্ণ আকৰ, য'ত প্ৰায় ৭০ শতাংশ পৰ্যন্ত লো থাকে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Limestone",
-      "as": "চূণশিলা"
+      "en": "Limestone is the main raw material for cement and is also used in making steel and glass.",
+      "as": "চূণশিলা চিমেণ্টৰ মূল কেঁচামাল আৰু ইয়াক ষ্টীল আৰু কাঁচ বনোৱাতো ব্যৱহাৰ কৰা হয়।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Venezuela",
-      "as": "ভেনিজুৱেলা"
+      "en": "Venezuela holds the largest proven oil reserves in the world, mainly the heavy oil of the Orinoco Belt.",
+      "as": "ভেনিজুৱেলাত পৃথিৱীৰ আটাইতকৈ বেছি প্ৰমাণিত তেল ভাণ্ডাৰ আছে, মূলতঃ অৰিন'ক' বেল্টৰ গধুৰ তেল।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Russia",
-      "as": "ৰাছিয়া"
+      "en": "Russia holds the largest proven natural gas reserves in the world, ahead of Iran and Qatar.",
+      "as": "ৰাছিয়াত পৃথিৱীৰ আটাইতকৈ বেছি প্ৰমাণিত প্ৰাকৃতিক গেছ ভাণ্ডাৰ আছে, ইৰাণ আৰু কাটাৰৰ আগত।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mica",
-      "as": "অভ্ৰ"
+      "en": "Mica is a mineral that splits into thin flexible sheets and is used as an insulator in electrical equipment.",
+      "as": "অভ্ৰক এটা খনিজ, যি পাতল আৰু নমনীয় পাতেৰে ফালি যায় আৰু বৈদ্যুতিক সঁজুলিত অন্তৰোধক হিচাপে ব্যৱহাৰ হয়।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Gypsum",
-      "as": "জিপছাম"
+      "en": "Gypsum is heated to make plaster of Paris, used for casts, mouldings and wall plaster.",
+      "as": "জিপছাম গৰম কৰি প্লাষ্টাৰ অফ পেৰিছ বনোৱা হয়, যি প্লাষ্টাৰ, ছাঁচ আৰু বেৰৰ প্লাষ্টাৰত ব্যৱহাৰ হয়।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Andhra Pradesh",
-      "as": "অন্ধ্ৰ প্ৰদেশ"
+      "en": "Andhra Pradesh, especially the Nellore belt, is the largest producer of mica in India.",
+      "as": "অন্ধ্ৰপ্ৰদেশ, বিশেষকৈ নেল্লুৰ পট্টি, ভাৰতৰ আটাইতকৈ ডাঙৰ অভ্ৰক উৎপাদনকাৰী অঞ্চল।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Chile",
-      "as": "চিলি"
+      "en": "Chile is the largest producer of copper in the world, with the Escondida mine being the biggest single source.",
+      "as": "চিলি পৃথিৱীৰ আটাইতকৈ ডাঙৰ তাম উৎপাদনকাৰী দেশ, য'ত এছকণ্ডিডা খনিয়ে আটাইতকৈ ডাঙৰ একক উৎস।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Australia",
-      "as": "অষ্ট্ৰেলিয়া"
+      "en": "Australia is the largest producer of bauxite in the world, mainly from Queensland and Western Australia.",
+      "as": "অষ্ট্ৰেলিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ বক্সাইট উৎপাদনকাৰী দেশ, মূলতঃ কুইন্সলেণ্ড আৰু পশ্চিম অষ্ট্ৰেলিয়াৰপৰা।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Guinea",
-      "as": "গিনি"
+      "en": "Guinea in West Africa holds the largest bauxite reserves in the world.",
+      "as": "পশ্চিম আফ্ৰিকাৰ গিনিত পৃথিৱীৰ আটাইতকৈ বেছি বক্সাইট ভাণ্ডাৰ আছে।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Rajasthan",
-      "as": "ৰাজস্থান"
+      "en": "Rajasthan is the largest producer of limestone in India, followed by Madhya Pradesh and Andhra Pradesh.",
+      "as": "ৰাজস্থান ভাৰতৰ আটাইতকৈ ডাঙৰ চূণশিলা উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত মধ্য প্ৰদেশ আৰু অন্ধ্ৰপ্ৰদেশ।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mumbai High",
-      "as": "মুম্বাই হাই"
+      "en": "Mumbai High, an offshore field about 176 km from Mumbai, is the largest oil field of India.",
+      "as": "মুম্বাইৰপৰা প্ৰায় ১৭৬ কিলোমিটাৰ দূৰত থকা সাগৰীয় ক্ষেত্ৰ মুম্বাই হাই ভাৰতৰ আটাইতকৈ ডাঙৰ তেল ক্ষেত্ৰ।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "OPEC",
-      "as": "OPEC"
+      "en": "OPEC, the Organisation of the Petroleum Exporting Countries, sets production quotas that shape the benchmark price of crude.",
+      "as": "অ'পেক (তেল ৰপ্তানিকাৰী দেশসমূহৰ সংস্থা) য়ে উৎপাদনৰ কোটা নিৰ্ধাৰণ কৰে, যি অশোধিত তেলৰ নমুনা দাম গঢ় দিয়ে।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Australia",
-      "as": "অষ্ট্ৰেলিয়া"
+      "en": "Australia produces the most lithium in the world, mainly from the hard-rock mines of Western Australia.",
+      "as": "অষ্ট্ৰেলিয়া পৃথিৱীত আটাইতকৈ বেছি লিথিয়াম উৎপাদন কৰে, মূলতঃ পশ্চিম অষ্ট্ৰেলিয়াৰ কঠিন শিলাৰ খনিৰপৰা।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Monazite sands",
-      "as": "ম'নাজাইট বালি"
+      "en": "Monazite sands of the Kerala coast are the main source of thorium in India.",
+      "as": "কেৰালাৰ উপকূলৰ ম'নাজাইট বালি ভাৰতত থ'ৰিয়ামৰ মূল উৎস।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Jharkhand",
-      "as": "ঝাৰখণ্ড"
+      "en": "Jharkhand is the largest producer of coal in India, followed by Chhattisgarh and Odisha.",
+      "as": "ঝাৰখণ্ড ভাৰতৰ আটাইতকৈ ডাঙৰ কয়লা উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত ছত্তীশগড় আৰু ওড়িশা।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Odisha",
-      "as": "ওড়িশা"
+      "en": "Odisha is the largest producer of iron ore in India, mainly from the Keonjhar and Sundargarh belts.",
+      "as": "ওড়িশা ভাৰতৰ আটাইতকৈ ডাঙৰ লো-আকৰ উৎপাদনকাৰী ৰাজ্য, মূলতঃ কিয়'নঝাৰ আৰু সুন্দৰগড় পট্টিৰপৰা।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Rajasthan",
-      "as": "ৰাজস্থান"
+      "en": "Rajasthan is the largest producer of crude petroleum in India, mainly onshore from the Barmer area.",
+      "as": "ৰাজস্থান ভাৰতৰ আটাইতকৈ ডাঙৰ অশোধিত তেল উৎপাদনকাৰী ৰাজ্য, মূলতঃ বালমেৰ অঞ্চলৰ স্থলপৃষ্ঠৰপৰা।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Assam",
-      "as": "অসম"
+      "en": "Assam is the largest producer of natural gas in India, mainly from the Upper Assam fields.",
+      "as": "অসম ভাৰতৰ আটাইতকৈ ডাঙৰ প্ৰাকৃতিক গেছ উৎপাদনকাৰী ৰাজ্য, মূলতঃ উচ্চ অসমৰ ক্ষেত্ৰবোৰৰপৰা।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Iran and Oman",
-      "as": "ইৰাণ আৰু ওমান"
+      "en": "The Strait of Hormuz lies between Iran on the north and Oman (Musandam) on the south.",
+      "as": "হৰমুজ প্ৰণালী উত্তৰে ইৰাণ আৰু দক্ষিণে ওমান (মুছান্দাম) ৰ মাজত অৱস্থিত।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Suez Canal",
-      "as": "চুৱেজ খাল"
+      "en": "The container ship Ever Given ran aground in the Suez Canal in March 2021 and blocked the canal for six days.",
+      "as": "কণ্টেইনাৰ জাহাজ এভাৰ গিভেন ২০২১ চনৰ মাৰ্চত চুৱেজ খালত আঁৰি বালিত উঠি গৈছিল আৰু ছয় দিন খালটো বন্ধ কৰি ৰাখিছিল।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 193 km",
-      "as": "প্ৰায় 193 কিলোমিটাৰ"
+      "en": "The Suez Canal is about 193 km long after the 2015 expansion, which added a parallel 35 km section.",
+      "as": "২০১৫ চনৰ বিস্তাৰৰ পিছত চুৱেজ খাল প্ৰায় ১৯৩ কিলোমিটাৰ দীঘল, য'ত ৩৫ কিলোমিটাৰৰ সমান্তৰাল অংশ যোগ হৈছিল।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Suez Canal",
-      "as": "চুৱেজ খাল"
+      "en": "The Suez Canal has no locks, because both the Mediterranean and the Red Sea are at nearly the same level.",
+      "as": "চুৱেজ খালত কোনো লক নাই, কাৰণ ভূমধ্য সাগৰ আৰু ৰঙা সাগৰ প্ৰায় একে সমতলত আছে।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Panama Canal",
-      "as": "পানামা খাল"
+      "en": "The Panama Canal uses a system of locks and Gatun Lake to lift ships about 26 m over the continental divide.",
+      "as": "পানামা খালে লক আৰু গেটুন হ্ৰদৰ ব্যৱস্থা ব্যৱহাৰ কৰি জাহাজক মহাদেশীয় উচ্চভূমিৰ ওপৰেৰে প্ৰায় ২৬ মিটাৰ ওপৰলৈ তোলে।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Panama",
-      "as": "পানামা"
+      "en": "The Panama Canal lies in Panama, which took full control of it at the end of 1999.",
+      "as": "পানামা খাল পানামাত অৱস্থিত, যি ১৯৯৯ চনৰ শেষত ইয়াৰ সম্পূৰ্ণ নিয়ন্ত্ৰণ লাভ কৰে।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Strait of Malacca",
-      "as": "মালাকা প্ৰণালী"
+      "en": "The Strait of Malacca is the busiest shipping lane by tonnage, carrying about a quarter of the world's traded goods.",
+      "as": "মালাক্কা প্ৰণালী টনেজ অনুসৰি আটাইতকৈ ব্যস্ত জাহাজ পথ, যি বিশ্বৰ প্ৰায় এক-চতুৰ্থাংশ বাণিজ্যিক সামগ্ৰী কঢ়িয়ায়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Malay Peninsula and Sumatra",
-      "as": "মালয় উপদ্বীপ আৰু ছুমাত্ৰা"
+      "en": "The Strait of Malacca separates the Malay Peninsula on the east from the Indonesian island of Sumatra on the west.",
+      "as": "মালাক্কা প্ৰণালীয়ে পূবে মালয় উপদ্বীপক পশ্চিমে ইণ্ডোনেছিয়াৰ সুমাত্ৰা দ্বীপৰপৰা পৃথক কৰে।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Shanghai",
-      "as": "ছাংহাই"
+      "en": "Shanghai is the largest container port in the world, handling over 47 million TEU a year.",
+      "as": "ছাংহাই পৃথিৱীৰ আটাইতকৈ ডাঙৰ কণ্টেইনাৰ বন্দৰ, যি বছৰি ৪৭ নিযুত TEU তকৈ অধিক সামলায়।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Rotterdam",
-      "as": "ৰটাৰ্ডাম"
+      "en": "Rotterdam is the largest port in Europe and handles the largest cargo volume of any European port.",
+      "as": "ৰটাৰডেম ইউৰোপৰ আটাইতকৈ ডাঙৰ বন্দৰ আৰু ইউৰোপৰ যিকোনো বন্দৰতকৈ বেছি সামগ্ৰীৰ পৰিমাণ সামলায়।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mundra",
-      "as": "মুন্দ্ৰা"
+      "en": "Mundra in Gujarat is the largest port of India by cargo volume, handling over 150 million tonnes a year.",
+      "as": "গুজৰাটৰ মুন্দ্ৰা সামগ্ৰীৰ পৰিমাণ অনুসৰি ভাৰতৰ আটাইতকৈ ডাঙৰ বন্দৰ, যি বছৰি ১৫০ নিযুত টনতকৈ অধিক সামলায়।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A shipping route along Russia's Arctic coast",
-      "as": "ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ"
+      "en": "The Northern Sea Route is a shipping lane along Russia's Arctic coast that shortens the route between Europe and East Asia.",
+      "as": "উত্তৰীয় সাগৰীয় পথ ৰাছিয়াৰ আৰ্কটিক উপকূলৰ কাষেৰে যোৱা জাহাজ পথ, যি ইউৰোপ আৰু পূব এছিয়াৰ মাজৰ দূৰত্ব কমায়।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China is the largest importer of crude oil in the world, buying over 11 million barrels a day.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ অশোধিত তেল আমদানিকাৰী দেশ, যি দিনে ১১ নিযুত বেৰেলতকৈ অধিক কিনে।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Qatar",
-      "as": "কাটাৰ"
+      "en": "Qatar is the largest exporter of LNG in the world, followed by Australia.",
+      "as": "কাটাৰ পৃথিৱীৰ আটাইতকৈ ডাঙৰ তৰল প্ৰাকৃতিক গেছ (LNG) ৰপ্তানিকাৰী দেশ, ইয়াৰ পিছত অষ্ট্ৰেলিয়া।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Jamnagar in India",
-      "as": "ভাৰতৰ জামনগৰ"
+      "en": "The Jamnagar refinery of Reliance in Gujarat, with a capacity of about 1.24 million barrels a day, is the largest oil refinery in the world.",
+      "as": "গুজৰাটত ৰিলায়েন্সৰ জামনগৰ শোধনাগাৰ, দিনে প্ৰায় ১.২৪ নিযুত বেৰেল ক্ষমতাৰ সৈতে, পৃথিৱীৰ আটাইতকৈ ডাঙৰ তেল শোধনাগাৰ।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Strait of Hormuz",
-      "as": "হৰমুজ প্ৰণালী"
+      "en": "The Strait of Hormuz is the main chokepoint for world oil trade, with about a fifth of global oil passing through it.",
+      "as": "হৰমুজ প্ৰণালী বিশ্বৰ তেল বাণিজ্যৰ মূল সংকীৰ্ণ পথ, যাৰ মাজেৰে বিশ্বৰ প্ৰায় এক-পঞ্চমাংশ তেল যায়।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "South Africa",
-      "as": "দক্ষিণ আফ্ৰিকা"
+      "en": "South Africa is the largest producer of manganese in the world, mainly from the Kalahari deposits.",
+      "as": "দক্ষিণ আফ্ৰিকা পৃথিৱীৰ আটাইতকৈ ডাঙৰ মেংগানিজ উৎপাদনকাৰী দেশ, মূলতঃ কালাহাৰী ভাণ্ডাৰৰপৰা।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Kazakhstan",
-      "as": "কাজাখাস্তান"
+      "en": "Kazakhstan is the largest producer of uranium in the world, supplying about 40 per cent of global output.",
+      "as": "কাজাখাস্তান পৃথিৱীৰ আটাইতকৈ ডাঙৰ ইউৰেনিয়াম উৎপাদনকাৰী দেশ, যি বিশ্ব উৎপাদনৰ প্ৰায় ৪০ শতাংশ যোগায়।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mexico",
-      "as": "মেক্সিকো"
+      "en": "Mexico is the largest producer of silver in the world, followed by China and Peru.",
+      "as": "মেক্সিক' পৃথিৱীৰ আটাইতকৈ ডাঙৰ ৰূপ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত চীন আৰু পেৰু।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Panama Canal",
-      "as": "পানামা খাল"
+      "en": "The Panama Canal links the Atlantic and Pacific Oceans through the narrow waist of Central America.",
+      "as": "পানামা খালে মধ্য আমেৰিকাৰ সংকীৰ্ণ অংশৰ মাজেৰে আটলাণ্টিক আৰু প্ৰশান্ত মহাসাগৰ সংযোগ কৰে।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Cape of Good Hope",
-      "as": "গুড হোপ কেপ"
+      "en": "The Cape of Good Hope is at the south-western tip of Africa, near Cape Town, and marks the old route to the East.",
+      "as": "কেপ অফ গুড হোপ আফ্ৰিকাৰ দক্ষিণ-পশ্চিম মূৰত, কেপ টাউনৰ ওচৰত অৱস্থিত, আৰু পূবলৈ যোৱা পুৰণি পথ চিহ্নিত কৰে।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Dardanelles-Bosphorus route",
-      "as": "দাৰ্দানেলছ-ব'সফৰাছ পথ"
+      "en": "The Dardanelles and Bosphorus straits link the Mediterranean (via the Aegean) with the Black Sea.",
+      "as": "ডাৰ্ডানেলছ আৰু বসফৰাছ প্ৰণালীয়ে ভূমধ্য সাগৰক (এজিয়ানৰ জৰিয়তে) কৃষ্ণ সাগৰৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China is the largest producer of tin in the world, followed by Indonesia and Myanmar.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ টিন উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ইণ্ডোনেছিয়া আৰু ম্যানমাৰ।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China is the largest producer of zinc in the world, followed by Peru and Australia.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ জিংক উৎপাদনকাৰী দেশ, ইয়াৰ পিছত পেৰু আৰু অষ্ট্ৰেলিয়া।"
     }
   }
 ]

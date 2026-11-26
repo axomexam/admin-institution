@@ -25,8 +25,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Large areas covered with grasses, where rainfall is moderate.",
-      "as": "মধ্যম বৰষুণ থকা, ঘাঁহেৰে আৱৰা বৃহৎ অঞ্চল।"
+      "en": "Grasslands are large open areas covered mainly with grasses, found where rainfall is moderate — too low for forests but enough for grass.",
+      "as": "ঘাঁহনি হৈছে ঘাঁহেৰে ঢাকি থকা বিশাল মুকলি অঞ্চল, যি মধ্যমীয়া বৰষুণৰ ঠাইত পোৱা যায় — বনৰ বাবে অতি কম কিন্তু ঘাঁহৰ বাবে যথেষ্ট।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Prairies.",
-      "as": "প্ৰেৰিজ।"
+      "en": "The temperate grasslands of North America are called the Prairies, stretching from Canada to the US Midwest.",
+      "as": "উত্তৰ আমেৰিকাৰ নাতিশীতোষ্ণ ঘাঁহনিক প্ৰেইৰি বোলে, যি কানাডাৰপৰা আমেৰিকাৰ মধ্য-পশ্চিমলৈ বিস্তৃত।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Pampas.",
-      "as": "পাম্পাছ।"
+      "en": "The temperate grasslands of South America are the Pampas, centred on the fertile plains of Argentina.",
+      "as": "দক্ষিণ আমেৰিকাৰ নাতিশীতোষ্ণ ঘাঁহনি হৈছে পাম্পাছ, যাৰ কেন্দ্ৰ আৰ্জেণ্টিনাৰ উৰ্বৰ সমতল।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Steppes.",
-      "as": "ষ্টেপছ।"
+      "en": "The temperate grasslands of Eurasia are the Steppes, running from Ukraine across Russia to Central Asia.",
+      "as": "ইউৰেছিয়াৰ নাতিশীতোষ্ণ ঘাঁহনি হৈছে ষ্টেপ, যি ইউক্ৰেইনৰপৰা ৰাছিয়া জুৰি মধ্য এছিয়ালৈ বিস্তৃত।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Downs.",
-      "as": "ডাউনছ।"
+      "en": "The temperate grasslands of Australia are called the Downs, on the western slopes of the eastern highlands.",
+      "as": "অষ্ট্ৰেলিয়াৰ নাতিশীতোষ্ণ ঘাঁহনিক ডাউনছ বোলে, যি পূব উচ্চভূমিৰ পশ্চিম ঢালত অৱস্থিত।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Savanna.",
-      "as": "চাভানা।"
+      "en": "The tropical grasslands of Africa are the Savanna, with scattered trees and tall grasses.",
+      "as": "আফ্ৰিকাৰ ক্ৰান্তীয় ঘাঁহনি হৈছে চাভানা, য'ত বিক্ষিপ্ত গছ আৰু ওখ ঘাঁহ থাকে।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Campos and the Llanos.",
-      "as": "কাম্প'ছ আৰু ল্লান'ছ।"
+      "en": "The tropical grasslands of South America are the Campos of Brazil and the Llanos of Venezuela and Colombia.",
+      "as": "দক্ষিণ আমেৰিকাৰ ক্ৰান্তীয় ঘাঁহনি হৈছে ব্ৰাজিলৰ কেম্প'ছ আৰু ভেনিজুৱেলা-কলম্বিয়াৰ ইয়ান'ছ।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The savanna of the Deccan plateau.",
-      "as": "ডেক্কান মালভূমিৰ চাভানা।"
+      "en": "The Deccan plateau of India has a tropical savanna of scattered trees and grasses, shaped by the monsoon.",
+      "as": "ভাৰতৰ দাক্ষিণাত্য মালভূমিত মৌচুমীয়ে গঢ় দিয়া বিক্ষিপ্ত গছ আৰু ঘাঁহৰ ক্ৰান্তীয় চাভানা আছে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A semi-arid climate of the temperate grasslands.",
-      "as": "নাতিশীতোষ্ণ তৃণভূমিৰ অৰ্ধ-শুষ্ক জলবায়ু।"
+      "en": "The steppe climate is a semi-arid continental climate with cold winters, hot summers and low rainfall of 25 to 50 cm.",
+      "as": "ষ্টেপ জলবায়ু এটা আধা-শুকান মহাদেশীয় জলবায়ু, য'ত ঠাণ্ডা শীত, গৰম গ্ৰীষ্ম আৰু ২৫ ৰপৰা ৫০ চে.মি. কম বৰষুণ হয়।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Eurasian Steppe.",
-      "as": "ইউৰাছিয়ান ষ্টেপ।"
+      "en": "The Eurasian Steppe, running about 8,000 km from Hungary to Manchuria, is the largest temperate grassland in the world.",
+      "as": "হাংগেৰীৰপৰা মাঞ্চুৰিয়ালৈ প্ৰায় ৮,০০০ কিলোমিটাৰ বিস্তৃত ইউৰেছিয়ান ষ্টেপ পৃথিৱীৰ আটাইতকৈ ডাঙৰ নাতিশীতোষ্ণ ঘাঁহনি।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The temperate grasslands of the Prairies, the Steppes and the Pampas.",
-      "as": "প্ৰেৰিজ, ষ্টেপছ আৰু পাম্পাছৰ নাতিশীতোষ্ণ তৃণভূমি।"
+      "en": "The wheat belt of the world runs through the temperate grasslands — the Prairies, the Steppes and the Pampas.",
+      "as": "পৃথিৱীৰ ঘেঁহু পট্টি নাতিশীতোষ্ণ ঘাঁহনিৰ মাজেৰে যায় — প্ৰেইৰি, ষ্টেপ আৰু পাম্পাছ।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is the largest producer of wheat in the world, followed by India and Russia.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ ঘেঁহু উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভাৰত আৰু ৰাছিয়া।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is also the largest producer of rice in the world, followed by India.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ ধান উৎপাদনকাৰী দেশো, ইয়াৰ পিছত ভাৰত।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Mekong delta and the Indo-Gangetic plains.",
-      "as": "মেকং বদ্বীপ আৰু ইন্দো-গংগা সমভূমি।"
+      "en": "The rice bowls of the world are the Mekong delta of Vietnam and the Indo-Gangetic plains of South Asia, where rice is grown intensively.",
+      "as": "পৃথিৱীৰ ভাতৰ বাতি হৈছে ভিয়েটনামৰ মেকং ব-দ্বীপ আৰু দক্ষিণ এছিয়াৰ সিন্ধু-গংগা সমতল, য'ত ধান নিবিড়ভাৱে কৰা হয়।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is the largest producer of cotton in the world, followed by India and the USA.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ কপাহ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভাৰত আৰু আমেৰিকা।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "China.",
-      "as": "চীন।"
+      "en": "China is the largest producer of tea in the world, followed by India and Kenya.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভাৰত আৰু কেনিয়া।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Brazil.",
-      "as": "ব্ৰাজিল।"
+      "en": "Brazil produces about a third of the world's coffee, and the state of Minas Gerais alone grows more than most countries.",
+      "as": "ব্ৰাজিলে বিশ্বৰ প্ৰায় এক-তৃতীয়াংশ কফি উৎপাদন কৰে, আৰু অকলশৰে মিনাছ জেৰাইছ ৰাজ্যই বেছিভাগ দেশতকৈ বেছি উৎপাদন কৰে।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Brazil.",
-      "as": "ব্ৰাজিল।"
+      "en": "Brazil is the largest producer of sugarcane in the world, followed by India and China.",
+      "as": "ব্ৰাজিল পৃথিৱীৰ আটাইতকৈ ডাঙৰ কুঁহিয়াৰ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভাৰত আৰু চীন।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Corn Belt of the USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ কৰ্ণ বেল্ট।"
+      "en": "The maize belt of the world is the Corn Belt of the American Midwest, centred on Iowa and Illinois.",
+      "as": "পৃথিৱীৰ মাকৈ পট্টি আমেৰিকাৰ মধ্য-পশ্চিমৰ কৰ্ণ বেল্ট, যাৰ কেন্দ্ৰ আয়'ৱা আৰু ইলিনয়ছ।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A country highly dependent on banana exports, like in Central America.",
-      "as": "কলা ৰপ্তানিৰ ওপৰত নিৰ্ভৰশীল দেশ, মধ্য আমেৰিকাৰ দৰে।"
+      "en": "A banana republic is a small country whose economy depends almost entirely on banana exports, a term used for Central American states.",
+      "as": "বনানা ৰিপাব্লিক হৈছে এনে সৰু দেশ যাৰ অৰ্থনীতি প্ৰায় সম্পূৰ্ণৰূপে বনানা ৰপ্তানিৰ ওপৰত নিৰ্ভৰশীল; মধ্য আমেৰিকাৰ ৰাষ্ট্ৰবোৰৰ বাবে এই শব্দ ব্যৱহাৰ হয়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The USA.",
-      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ।"
+      "en": "The USA grows about 35 per cent of the world's maize, mostly in Iowa, Illinois and Nebraska.",
+      "as": "আমেৰিকাই বিশ্বৰ প্ৰায় ৩৫ শতাংশ মাকৈ উৎপাদন কৰে, মূলতঃ আয়'ৱা, ইলিনয়ছ আৰু নেব্ৰাস্কাত।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The cultivation of a single crop over a large area.",
-      "as": "বৃহৎ অঞ্চলত এটা মাথোঁ শস্য খেতি।"
+      "en": "Monoculture is the practice of growing a single crop over a large area year after year, which raises pest and soil risks.",
+      "as": "ম'ন'কালচাৰ হৈছে বছৰৰ পিছত বছৰ ধৰি বিশাল অঞ্চলত এটা শস্য কৰা পদ্ধতি, যাৰ ফলত পোক আৰু মাটিৰ বিপদ বাঢ়ে।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Large-scale cultivation of a single cash crop, like tea, coffee and rubber.",
-      "as": "চাহ, কফি আৰু ৰবাৰৰ দৰে এটা নগদ শস্যৰ বৃহৎ পৰিসৰৰ খেতি।"
+      "en": "Plantation agriculture is large-scale cultivation of a single cash crop such as tea, coffee, rubber or sugarcane, usually for export.",
+      "as": "বাগান কৃষি হৈছে চাহ, কফি, ৰবৰ বা কুঁহিয়াৰৰ দৰে এটা নগদ শস্যৰ বৃহৎ পৰিসৰত খেতি, সাধাৰণতে ৰপ্তানিৰ বাবে।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Thailand.",
-      "as": "থাইলেণ্ড।"
+      "en": "Thailand supplies about a third of the world's natural rubber, mostly from smallholdings in the southern peninsula.",
+      "as": "থাইলেণ্ডে বিশ্বৰ প্ৰায় এক-তৃতীয়াংশ প্ৰাকৃতিক ৰবৰ যোগায়, মূলতঃ দক্ষিণ উপদ্বীপৰ সৰু খেতিৰপৰা।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A farming method where the forest is cut and burnt for cultivation.",
-      "as": "খেতিৰ বাবে বন কাটি পুৰি খেতি কৰা পদ্ধতি।"
+      "en": "Slash and burn agriculture is a method in which forest is cut and burnt, the ash fertilises the field, and the plot is abandoned after a few years.",
+      "as": "কাটি-পুৰি খেতিত বন কাটি জ্বলোৱা হয়, ছাইয়ে পথাৰক সাৰ দিয়ে, আৰু কেইবাবছৰৰ পিছত পথাৰটো এৰি দিয়া হয়।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Jhum cultivation.",
-      "as": "ঝুম খেতি।"
+      "en": "Jhum cultivation is the shifting cultivation practised in the hills of North-East India, including Assam, Meghalaya and Nagaland.",
+      "as": "ঝুম খেতি উত্তৰ-পূব ভাৰতৰ পাহাৰত, অসম, মেঘালয় আৰু নাগালেণ্ডকে ধৰি, কৰা স্থানান্তৰিত খেতি।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "India.",
-      "as": "ভাৰত।"
+      "en": "India grows about a quarter of the world's pulses, led by Madhya Pradesh, Rajasthan and Maharashtra.",
+      "as": "ভাৰতে বিশ্বৰ প্ৰায় এক-চতুৰ্থাংশ ডাইলজাতীয় শস্য উৎপাদন কৰে, য'ত মধ্য প্ৰদেশ, ৰাজস্থান আৰু মহাৰাষ্ট্ৰ আগত।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The temperate regions of Europe, New Zealand and the USA.",
-      "as": "ইউৰোপ, নিউজিলেণ্ড আৰু আমেৰিকাৰ নাতিশীতোষ্ণ অঞ্চল।"
+      "en": "The world's dairy belts lie in the cool temperate regions of north-west Europe, New Zealand and the north-eastern USA.",
+      "as": "পৃথিৱীৰ গাখীৰ পট্টি উত্তৰ-পশ্চিম ইউৰোপ, নিউজিলেণ্ড আৰু উত্তৰ-পূব আমেৰিকাৰ শীতল নাতিশীতোষ্ণ অঞ্চলত অৱস্থিত।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "India.",
-      "as": "ভাৰত।"
+      "en": "India is the largest producer of milk in the world, followed by the USA and Pakistan.",
+      "as": "ভাৰত পৃথিৱীৰ আটাইতকৈ ডাঙৰ গাখীৰ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত আমেৰিকা আৰু পাকিস্তান।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The increase in food production using high-yielding varieties and fertilisers.",
-      "as": "উচ্চ ফলনশীল প্ৰজাতি আৰু সাৰ ব্যৱহাৰেৰে খাদ্য উৎপাদন বৃদ্ধি।"
+      "en": "The Green Revolution was the big rise in food production in the 1960s from high-yielding varieties, fertilisers and irrigation.",
+      "as": "সেউজ বিপ্লৱ হৈছে ১৯৬০ দশকত উচ্চ উৎপাদনশীল জাত, সাৰ আৰু জলসিঞ্চনৰ জৰিয়তে খাদ্য উৎপাদনত হোৱা বৃহৎ বৃদ্ধি।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The chernozem soil.",
-      "as": "চাৰ্ন'জেম মাটি।"
+      "en": "Chernozem, the black earth, is the characteristic soil of the Steppes, rich in humus and excellent for wheat.",
+      "as": "চাৰ্ন'জেম, অৰ্থাৎ ক'লা মাটি, ষ্টেপৰ বৈশিষ্ট্যপূৰ্ণ মাটি, যি হিউমাছত চহকী আৰু ঘেঁহুৰ বাবে উত্তম।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Australian Downs.",
-      "as": "অষ্ট্ৰেলিয়াৰ ডাউনছ।"
+      "en": "The Australian Downs are famous for merino sheep, which produce fine wool.",
+      "as": "অষ্ট্ৰেলিয়ান ডাউনছ মেৰিন' মেৰ পোৱালিৰ বাবে জনাজাত, যি সূক্ষ্ম ঊণ উৎপাদন কৰে।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Veld.",
-      "as": "ভেল্ড।"
+      "en": "The temperate grasslands of South Africa are the Veld, on the interior plateau.",
+      "as": "দক্ষিণ আফ্ৰিকাৰ নাতিশীতোষ্ণ ঘাঁহনি হৈছে ভেল্ড, যি অন্তৰ্ভাগৰ মালভূমিত অৱস্থিত।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Puszta.",
-      "as": "পুছটা।"
+      "en": "The temperate grasslands of Hungary are called the Puszta, part of the wider Eurasian steppe.",
+      "as": "হাংগেৰীৰ নাতিশীতোষ্ণ ঘাঁহনিক পুষ্টা বোলে, যি বৃহত্তৰ ইউৰেশিয়ান ষ্টেপৰ অংশ।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Farming over large areas with low labour input.",
-      "as": "কম শ্ৰমেৰে বহল অঞ্চলত কৰা কৃষি।"
+      "en": "Extensive farming means using large areas of land with relatively little labour and capital per hectare, as in the Prairies.",
+      "as": "বিস্তৃত খেতি মানে প্ৰতি হেক্টৰত তুলনামূলকভাৱে কম শ্ৰম আৰু মূলধন ব্যৱহাৰ কৰি বিশাল ভূমি ব্যৱহাৰ কৰা, যেনে প্ৰেইৰিত।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Growing vegetables for nearby city markets.",
-      "as": "ওচৰৰ চহৰৰ বজাৰৰ বাবে পাচলি খেতি কৰা।"
+      "en": "Truck farming is growing vegetables and fruit close to cities to supply their markets fresh.",
+      "as": "ট্ৰাক খেতি হৈছে নগৰৰ ওচৰত পাচলি আৰু ফল উৎপাদন কৰি সতেজ অৱস্থাত নগৰৰ বজাৰলৈ যোগান ধৰা।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The cultivation of fruits, vegetables and flowers.",
-      "as": "ফল, পাচলি আৰু ফুলৰ খেতি।"
+      "en": "Horticulture is the cultivation of fruits, vegetables and flowers, an intensive form of farming.",
+      "as": "উদ্যান-কৃষি হৈছে ফল, পাচলি আৰু ফুলৰ খেতি, যি কৃষিৰ এটা নিবিড় ৰূপ।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The rearing of silkworms for silk.",
-      "as": "ৰেশমৰ বাবে ৰেচম পোকা পালন।"
+      "en": "Sericulture is the rearing of silkworms to produce raw silk.",
+      "as": "ৰেচম পালন হৈছে কেঁচা ৰেচম উৎপাদনৰ বাবে ৰেচম পোকা পালন।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The rearing of bees for honey.",
-      "as": "মৌৰ বাবে মৌমাখি পালন।"
+      "en": "Apiculture is the rearing of honey bees for honey and beeswax, and it also helps pollinate crops.",
+      "as": "মৌ পালন হৈছে মৌ আৰু মমৰ বাবে মৌ মাখি পালন, আৰু ই শস্যৰ পৰাগযোগতো সহায় কৰে।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The cultivation of grapes.",
-      "as": "আঙুৰৰ খেতি।"
+      "en": "Viticulture is the cultivation of grapes, especially for wine making.",
+      "as": "দ্ৰাক্ষা খেতি হৈছে আঙুৰৰ খেতি, বিশেষকৈ মদ বনোৱাৰ বাবে।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Growing different crops in sequence on the same field.",
-      "as": "একে পথাৰত ক্ৰমে বেলেগ বেলেগ শস্য কৰা।"
+      "en": "Crop rotation means growing different crops in sequence on the same field to maintain soil fertility and break pest cycles.",
+      "as": "শস্য পৰ্যায়ক্ৰম মানে মাটিৰ উৰ্বৰতা ৰক্ষা আৰু পোকৰ চক্ৰ ভাঙিবলৈ এখন পথাৰত ক্ৰমে বিভিন্ন শস্য কৰা।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Farming without irrigation in low-rainfall areas.",
-      "as": "কম বৰষুণৰ অঞ্চলত জলসিঞ্চন নোহোৱাকৈ কৰা কৃষি।"
+      "en": "Dry farming is growing crops in low-rainfall areas without irrigation, using moisture-saving practices.",
+      "as": "শুকান খেতি হৈছে কম বৰষুণৰ অঞ্চলত জলসিঞ্চন নোহোৱাকৈ, আৰ্দ্ৰতা ৰক্ষা কৰা পদ্ধতি ব্যৱহাৰ কৰি শস্য কৰা।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Cutting step-like fields on hill slopes.",
-      "as": "পাহাৰৰ ঢালত খটখটিয়া আকৃতিৰ পথাৰ কাটি কৰা খেতি।"
+      "en": "Terrace farming is cutting step-like fields into hill slopes to grow crops and reduce soil erosion.",
+      "as": "চাতাল খেতি হৈছে পাহাৰৰ ঢালত খাপ খাপ পথাৰ কাটি শস্য কৰা আৰু মাটিৰ ক্ষয় কমোৱা পদ্ধতি।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Ploughing along the contours of a slope.",
-      "as": "ঢালৰ সমোন্নতি ৰেখাৰ লগে লগে হাল বোৱা।"
+      "en": "Contour ploughing means ploughing along the contour lines of a slope so that furrows trap water and slow runoff.",
+      "as": "সমোচ্চ ৰেখাৰ হাল বোৱা মানে ঢালৰ সমোচ্চ ৰেখাৰ কাষেৰে হাল বোৱা, যাৰ ফলত খাদে পানী ৰাখে আৰু পৃষ্ঠ প্ৰবাহ লেহে হয়।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "M. S. Swaminathan.",
-      "as": "এম. এছ. স্বামীনাথন।"
+      "en": "M. S. Swaminathan led the Green Revolution in India through high-yielding wheat and rice varieties.",
+      "as": "এম. এছ. স্বামীনাথনে উচ্চ উৎপাদনশীল ঘেঁহু আৰু ধানৰ জাতৰ জৰিয়তে ভাৰতত সেউজ বিপ্লৱৰ নেতৃত্ব দিছিল।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Verghese Kurien.",
-      "as": "ভাৰ্গিছ কুৰিয়ান।"
+      "en": "Verghese Kurien led the White Revolution in India through Operation Flood and the Amul cooperative model.",
+      "as": "ভাৰ্গীছ কুৰিয়ানে অপাৰেছন ফ্লাড আৰু আমুল সমবায় আৰ্হিৰ জৰিয়তে ভাৰতত শ্বেত বিপ্লৱৰ নেতৃত্ব দিছিল।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Fish production.",
-      "as": "মাছ উৎপাদন।"
+      "en": "The Blue Revolution refers to the growth in fish and aquaculture production.",
+      "as": "নীলা বিপ্লৱে মাছ আৰু জলজ পালনৰ উৎপাদন বৃদ্ধিক বুজায়।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Oilseed production.",
-      "as": "তেলবীজ উৎপাদন।"
+      "en": "The Yellow Revolution refers to the growth in oilseed production, especially mustard and sunflower.",
+      "as": "হালধীয়া বিপ্লৱে তৈলবীজ, বিশেষকৈ সৰিয়হ আৰু সূৰ্যমুখী, উৎপাদনৰ বৃদ্ধিক বুজায়।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Access to enough safe and nutritious food for all.",
-      "as": "সকলোৰে বাবে পৰ্যাপ্ত, সুৰক্ষিত আৰু পুষ্টিকৰ খাদ্যৰ উপলব্ধতা।"
+      "en": "Food security means that all people, at all times, have physical and economic access to enough safe and nutritious food.",
+      "as": "খাদ্য সুৰক্ষা মানে সকলো মানুহে, সকলো সময়তে, যথেষ্ট নিৰাপদ আৰু পুষ্টিকৰ খাদ্যৰ ভৌতিক আৰু আৰ্থিক সুযোগ পোৱা।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Growing trees together with crops on the same land.",
-      "as": "একে মাটিত শস্যৰ লগতে গছ ৰোৱা।"
+      "en": "Agroforestry is growing trees together with crops or livestock on the same land, which improves soil and income.",
+      "as": "কৃষি-বনানী হৈছে একেখন ভূমিত গছৰ লগতে শস্য বা পশুপালন কৰা, যাৰ ফলত মাটি আৰু আয় উন্নত হয়।"
     }
   }
 ]

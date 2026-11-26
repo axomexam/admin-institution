@@ -25,8 +25,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Fold mountain",
-      "as": "ভাঁজ পৰ্বত"
+      "en": "A fold mountain forms when compressional forces squeeze crustal rocks into folds, as in the Himalaya and the Alps.",
+      "as": "ভাঁজ পৰ্বত তেতিয়া গঠন হয় যেতিয়া সংকোচনশীল বলে ভূত্বকৰ শিলবোৰক ভাঁজলৈ ঠেলি দিয়ে, যেনে হিমালয় আৰু আল্পচত।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "8,849 m",
-      "as": "৮,৮৪৯ মিটাৰ"
+      "en": "Mount Everest, on the Nepal–Tibet border, is 8,849 m high and is the highest point on Earth.",
+      "as": "নেপাল-তিব্বত সীমাত থকা মাউণ্ট এভাৰেষ্ট ৮,৮৪৯ মিটাৰ ওখ আৰু পৃথিৱীৰ আটাইতকৈ ওখ বিন্দু।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "K2",
-      "as": "কে-২"
+      "en": "K2, in the Karakoram range, is 8,611 m high and second only to Everest.",
+      "as": "কাৰাকোৰাম পৰ্বতমালাত থকা K2 ৰ উচ্চতা ৮,৬১১ মিটাৰ, এভাৰেষ্টৰ পিছত দ্বিতীয়।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Arma Konda",
-      "as": "অৰ্মা কোণ্ডা"
+      "en": "Arma Konda in Andhra Pradesh, at about 1,680 m, is the highest peak of the Eastern Ghats.",
+      "as": "অন্ধ্ৰপ্ৰদেশৰ আৰ্মা কোণ্ডা প্ৰায় ১,৬৮০ মিটাৰ ওখ আৰু পূব ঘাটৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Anai Mudi",
-      "as": "আনাই মুদি"
+      "en": "Anai Mudi in Kerala, at 2,695 m, is the highest peak of the Western Ghats.",
+      "as": "কেৰালাৰ আনাই মুডি ২,৬৯৫ মিটাৰ ওখ আৰু পশ্চিম ঘাটৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Doddabetta",
-      "as": "দ'দাবেট্টা"
+      "en": "Doddabetta, at 2,637 m, is the highest peak of the Nilgiri hills in Tamil Nadu.",
+      "as": "ড'ডাবেট্টা ২,৬৩৭ মিটাৰ ওখ আৰু তামিলনাডুৰ নীলগিৰি পাহাৰৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Kanchenjunga",
-      "as": "কাঞ্চনজঙ্ঘা"
+      "en": "Kanchenjunga, at 8,586 m on the Sikkim–Nepal border, is the highest mountain peak in India.",
+      "as": "ছিক্কিম-নেপাল সীমাত থকা কাঞ্চনজঙ্ঘা ৮,৫৮৬ মিটাৰ ওখ আৰু ভাৰতৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Nanda Devi",
-      "as": "নন্দা দেৱী"
+      "en": "Nanda Devi in Uttarakhand, at 7,816 m, is the highest peak lying entirely inside India.",
+      "as": "উত্তৰাখণ্ডৰ নন্দা দেৱী ৭,৮১৬ মিটাৰ ওখ আৰু সম্পূৰ্ণৰূপে ভাৰতৰ ভিতৰত থকা সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Faulting that raises a block between two faults",
-      "as": "দুটা ফল্টৰ মাজৰ খণ্ড ওপৰলৈ উঠাৰ ফলত"
+      "en": "A block mountain, or horst, is a raised block left standing between two faults while the land on either side sinks.",
+      "as": "ব্লক পৰ্বত বা হৰ্ষ্ট হৈছে দুটা ফল্টৰ মাজত ওপৰলৈ উঠি থকা অংশ, য'ত দুয়োকাষৰ ভূমি তললৈ নামি যায়।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Vosges",
-      "as": "ভ'জেছ"
+      "en": "The Vosges in France and the Black Forest in Germany are classic block mountains formed along the Rhine rift.",
+      "as": "ফ্ৰান্সৰ ভ'জ আৰু জাৰ্মানীৰ ক'লা বন মহাকাষ (block) পৰ্বতৰ প্ৰকৃত উদাহৰণ, যি ৰাইন উপত্যকাৰ ফল্টৰ কাষেৰে গঠিত।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Mid-Atlantic Ridge",
-      "as": "মধ্য-এটলাণ্টিক শৈলশিৰি"
+      "en": "The Mid-Atlantic Ridge runs about 16,000 km down the Atlantic and is the longest mountain range on the ocean floor.",
+      "as": "মধ্য-আটলাণ্টিক ৰিজ আটলাণ্টিকৰ মাজেৰে প্ৰায় ১৬,০০০ কিলোমিটাৰ বিস্তৃত আৰু সাগৰতলৰ আটাইতকৈ দীঘল পৰ্বতমালা।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 6,000 m",
-      "as": "প্ৰায় ৬,০০০ মিটাৰ"
+      "en": "The Himalaya averages about 6,000 m in height, with many peaks above 7,000 m.",
+      "as": "হিমালয়ৰ গড় উচ্চতা প্ৰায় ৬,০০০ মিটাৰ, আৰু ইয়াৰ বহু শৃংগ ৭,০০০ মিটাৰতকৈ ওখ।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Himalaya",
-      "as": "হিমালয়"
+      "en": "The Himalaya is the youngest fold mountain range, still rising as the Indian Plate pushes into the Eurasian Plate.",
+      "as": "হিমালয় আটাইতকৈ নতুন ভাঁজ পৰ্বতমালা, যি ভাৰতীয় প্লেটে ইউৰেছিয়ান প্লেটলৈ ঠেলি থকাৰ বাবে আজিও ওপৰলৈ উঠি আছে।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Aravalli",
-      "as": "আৰাৱলী"
+      "en": "The Aravalli in Rajasthan is the oldest fold mountain range in India, dating back about 2,000 million years.",
+      "as": "ৰাজস্থানৰ আৰাৱল্লী ভাৰতৰ আটাইতকৈ পুৰণি ভাঁজ পৰ্বতমালা, যি প্ৰায় ২,০০০ নিযুত বছৰ পুৰণি।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A gently sloping rock surface at the foot of a mountain",
-      "as": "পৰ্বতৰ গুৰিত থকা লেহুকা ঢালযুক্ত শিলাময় পৃষ্ঠ"
+      "en": "A pediment is the gently sloping rock-cut surface that spreads out at the foot of a mountain in a desert.",
+      "as": "পেডিমেণ্ট হৈছে মৰুভূমিত পৰ্বতৰ পাদদেশত বিস্তৃত হৈ থকা লাহে লাহে হেলনীয়া শিলেৰে গঠিত পৃষ্ঠ।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A temporary shallow lake in a desert basin",
-      "as": "মৰুভূমিৰ অৱবাহিকাত অস্থায়ী অগভীৰ হ্ৰদ"
+      "en": "A playa is a shallow, temporary lake that forms in a desert basin after rain and soon dries up, leaving salt.",
+      "as": "প্লায়া হৈছে মৰুভূমিৰ খাদত বৰষুণৰ পিছত হোৱা অগভীৰ অস্থায়ী হ্ৰদ, যি সোনকালে শুকাই লৱণ এৰি যায়।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A crescent-shaped sand dune",
-      "as": "অৰ্ধচন্দ্ৰাকৃতিৰ বালিৰ দুবৈত"
+      "en": "A barchan is a crescent-shaped sand dune with its horns pointing downwind, formed where sand supply is limited.",
+      "as": "বাৰ্চান হৈছে অৰ্ধচন্দ্ৰাকৃতিৰ বালিৰ ঢিপ, যাৰ শিং দুটা বতাহৰ দিশলৈ মেলানি থাকে আৰু সীমিত বালিৰ যোগানত গঠন হয়।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Wind-blown fine silt deposited as soil",
-      "as": "বতাহে কঢ়িয়াই অনা সূক্ষ্ম পলস, যি মাটি হিচাপে জমা হয়"
+      "en": "Loess is fine wind-blown silt that settles far from the desert and forms rich, fertile soil, as in northern China.",
+      "as": "ল'ছ হৈছে বতাহে কঢ়িয়াই অনা অতি সূক্ষ্ম পলস, যি মৰুভূমিৰপৰা বহু দূৰত জমা হৈ উৰ্বৰ মাটি গঠন কৰে, যেনে উত্তৰ চীনত।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Gobi",
-      "as": "গ'বি"
+      "en": "The Gobi, covering about 1.3 million sq km across Mongolia and northern China, is the largest desert in Asia.",
+      "as": "মঙ্গোলিয়া আৰু উত্তৰ চীন জুৰি প্ৰায় ১.৩ নিযুত বৰ্গ কিলোমিটাৰ বিস্তৃত গ'বি এছিয়াৰ আটাইতকৈ ডাঙৰ মৰুভূমি।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Atacama",
-      "as": "আটাকামা"
+      "en": "The Atacama lies in a rain shadow between the Andes and the Pacific coast of Chile and Peru.",
+      "as": "আটাকামা এণ্ডিজ আৰু চিলি-পেৰুৰ পেছিফিক উপকূলৰ মাজৰ বৰষুণ-ছাঁ অঞ্চলত অৱস্থিত।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Atacama",
-      "as": "আটাকামা"
+      "en": "The Atacama is the driest desert in the world, with some weather stations recording no rain for decades.",
+      "as": "আটাকামা পৃথিৱীৰ আটাইতকৈ শুকান মৰুভূমি; কিছুমান বতৰ কেন্দ্ৰত দশক ধৰি বৰষুণ হোৱা নাই।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Antarctica",
-      "as": "এণ্টাৰ্কটিকা"
+      "en": "Antarctica is the largest desert in the world by area, since a desert is defined by very low precipitation.",
+      "as": "মৰুভূমিৰ সংজ্ঞা অতি কম বৰ্ষণৰ ওপৰত আধাৰিত; সেয়ে আয়তন অনুসৰি এণ্টাৰ্কটিকা পৃথিৱীৰ আটাইতকৈ ডাঙৰ মৰুভূমি।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Sahara",
-      "as": "চাহাৰা"
+      "en": "The Sahara, covering about 9.2 million sq km across North Africa, is the largest hot desert in the world.",
+      "as": "উত্তৰ আফ্ৰিকাত প্ৰায় ৯.২ নিযুত বৰ্গ কিলোমিটাৰ বিস্তৃত ছাহাৰা পৃথিৱীৰ আটাইতকৈ ডাঙৰ উষ্ণ মৰুভূমি।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Gobi",
-      "as": "গ'বি"
+      "en": "The Gobi stretches across southern Mongolia and the Inner Mongolia region of China.",
+      "as": "গ'বি দক্ষিণ মঙ্গোলিয়া আৰু চীনৰ অন্তৰ মঙ্গোলিয়া অঞ্চল জুৰি বিস্তৃত।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Madagascar",
-      "as": "মাদাগাস্কাৰ"
+      "en": "Madagascar, at about 587,000 sq km, is the largest island in the Indian Ocean and the fourth largest in the world.",
+      "as": "প্ৰায় ৫,৮৭,০০০ বৰ্গ কিলোমিটাৰৰ মাদাগাস্কাৰ ভাৰত মহাসাগৰৰ আটাইতকৈ ডাঙৰ আৰু পৃথিৱীৰ চতুৰ্থ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Sri Lanka",
-      "as": "শ্ৰীলংকা"
+      "en": "Sri Lanka lies south of India across the Palk Strait and the Gulf of Mannar.",
+      "as": "শ্ৰীলংকা পাল্ক প্ৰণালী আৰু মন্নাৰ উপসাগৰ পাৰ কৰি ভাৰতৰ দক্ষিণে অৱস্থিত।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Andaman and Nicobar",
-      "as": "আন্দামান আৰু নিকোবৰ"
+      "en": "The Andaman and Nicobar Islands form the largest island group of India, stretching about 800 km in the Bay of Bengal.",
+      "as": "আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ ভাৰতৰ আটাইতকৈ ডাঙৰ দ্বীপ সমূহ, যি বংগ উপসাগৰত প্ৰায় ৮০০ কিলোমিটাৰ বিস্তৃত।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Majuli",
-      "as": "মাজুলী"
+      "en": "Majuli in the Brahmaputra is the largest river island in the world, though erosion has shrunk it over the years.",
+      "as": "ব্ৰহ্মপুত্ৰৰ মাজুলী পৃথিৱীৰ আটাইতকৈ ডাঙৰ নদী দ্বীপ, যদিও বছৰ বছৰ ধৰি ক্ষয়ই ইয়াক সৰু কৰি তুলিছে।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Indonesia",
-      "as": "ইণ্ডোনেছিয়া"
+      "en": "Indonesia, with over 17,000 islands, is the largest archipelago in the world.",
+      "as": "১৭,০০০ তকৈ অধিক দ্বীপৰ সৈতে ইণ্ডোনেছিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ দ্বীপপুঞ্জ।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A ring-shaped coral reef enclosing a lagoon",
-      "as": "লেগুনক বেৰি থকা আঙুঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ"
+      "en": "An atoll is a ring-shaped coral reef that encloses a shallow lagoon, usually built on a sunken volcano.",
+      "as": "এটল হৈছে বৃত্তাকৃতিৰ প্ৰৱাল প্ৰাচীৰ, যি এটা অগভীৰ লেগুন বেৰি ধৰে আৰু সাধাৰণতে ডুব যোৱা আগ্নেয়গিৰিৰ ওপৰত গঠিত হয়।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Maldives",
-      "as": "মালদ্বীপ"
+      "en": "The Maldives consists of about 1,200 coral islands grouped into 26 atolls, with almost no land above 2 m.",
+      "as": "মালদ্বীপ প্ৰায় ১,২০০ প্ৰৱাল দ্বীপেৰে গঠিত, যি ২৬ টা এটলত বিভক্ত; ইয়াৰ প্ৰায় কোনো ভূমি ২ মিটাৰতকৈ ওখ নহয়।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The point inside the Earth where the earthquake originates",
-      "as": "পৃথিৱীৰ ভিতৰত য'ত ভূমিকম্পৰ উৎপত্তি হয় সেই বিন্দু"
+      "en": "The focus, or hypocentre, is the point inside the Earth where the rock first ruptures and the earthquake begins.",
+      "as": "কেন্দ্ৰ বা হাইপ'ছেণ্টাৰ হৈছে পৃথিৱীৰ ভিতৰৰ সেই বিন্দু, য'ত শিল প্ৰথমে ফাটি ভূমিকম্প আৰম্ভ হয়।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The point on the surface directly above the focus",
-      "as": "কেন্দ্ৰৰ ঠিক ওপৰত অৱস্থিত পৃষ্ঠৰ বিন্দু"
+      "en": "The epicentre is the point on the surface directly above the focus and is usually where the shaking is strongest.",
+      "as": "এপিচেণ্টাৰ হৈছে কেন্দ্ৰৰ ঠিক ওপৰত থকা ভূপৃষ্ঠৰ বিন্দু, আৰু সাধাৰণতে তাতে কম্পন আটাইতকৈ জোৰে অনুভূত হয়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "About 700 km",
-      "as": "প্ৰায় ৭০০ কিলোমিটাৰ"
+      "en": "Earthquakes within subducting slabs reach about 700 km depth; deeper than that the rock is too hot to fracture.",
+      "as": "সোমাই যোৱা প্লেটৰ ভিতৰত ভূমিকম্প প্ৰায় ৭০০ কিলোমিটাৰ গভীৰতালৈকে হয়; তাৰ তলত শিল অতি গৰম হৈ ফাটিব নোৱাৰে।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A segment of a fault that has not ruptured for a long time",
-      "as": "ফল্টৰ এনে অংশ, যি বহু সময় ধৰি ফাটি যোৱা নাই"
+      "en": "A seismic gap is a stretch of an active fault that has stayed quiet for long and is therefore likely to break soon.",
+      "as": "ভূকম্পীয় ফাঁক হৈছে সক্ৰিয় ফল্টৰ এনে এটা অংশ, যি বহু দিন ধৰি শান্ত হৈ আছে আৰু সেয়ে সোনকালে ফাটি যোৱাৰ সম্ভাৱনা বেছি।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The 1556 Shaanxi earthquake",
-      "as": "১৫৫৬ চনৰ ছাঅানছি ভূমিকম্প"
+      "en": "The 1556 Shaanxi earthquake in China killed about 830,000 people, the highest death toll of any earthquake on record.",
+      "as": "১৫৫৬ চনৰ চীনৰ ছাঞ্চি ভূমিকম্পত প্ৰায় ৮,৩০,০০০ লোকৰ মৃত্যু হৈছিল, যি ইতিহাসত আটাইতকৈ বেছি মৃত্যুৰ সংখ্যা।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 9.1",
-      "as": "প্ৰায় ৯.১"
+      "en": "The 2004 Indian Ocean earthquake off Sumatra had a magnitude of about 9.1 and triggered a tsunami across the ocean.",
+      "as": "২০০৪ চনত সুমাত্ৰাৰ ওচৰত হোৱা ভাৰত মহাসাগৰীয় ভূমিকম্পৰ মেগনিটিউড প্ৰায় ৯.১ আছিল আৰু ই সমগ্ৰ মহাসাগৰজুৰি ছুনামিৰ সৃষ্টি কৰিছিল।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Indonesia",
-      "as": "ইণ্ডোনেছিয়া"
+      "en": "Indonesia, closest to the epicentre off Sumatra, suffered the greatest loss in the 2004 tsunami, with over 1,60,000 deaths.",
+      "as": "সুমাত্ৰাৰ ওচৰৰ এপিচেণ্টাৰৰ আটাইতকৈ ওচৰত থকা ইণ্ডোনেছিয়াই ২০০৪ চনৰ ছুনামিত সৰ্বাধিক ক্ষতি সহিছিল, ১,৬০,০০০ তকৈ অধিক লোকৰ মৃত্যু হৈছিল।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Subduction zones with frequent earthquakes and volcanoes",
-      "as": "সঘন ভূমিকম্প আৰু আগ্নেয়গিৰিযুক্ত অৱক্ষেপণ ক্ষেত্ৰ"
+      "en": "The Pacific Ring of Fire is a belt of subduction zones, which is why it has most of the world's earthquakes and volcanoes.",
+      "as": "পেছিফিক অগ্নি বৃত্ত চাবডাকছন অঞ্চলৰ এটা পট্টি; সেয়ে ইয়াত পৃথিৱীৰ বেছিভাগ ভূমিকম্প আৰু আগ্নেয়গিৰি আছে।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A steep slope formed where the ground has moved along a fault",
-      "as": "ফল্টৰ কাষেৰে ভূমি স্থানান্তৰিত হৈ সৃষ্টি হোৱা খাড়া ঢাল"
+      "en": "A fault scarp is a small steep cliff formed where one block of ground has slipped vertically along a fault.",
+      "as": "ফল্ট স্কাৰ্প হৈছে সৰু খাড়া হেঁচা, যি ফল্টৰ কাষেৰে মাটিৰ এটা অংশ উলম্বভাৱে পিছলি যোৱাৰ ফলত গঠন হয়।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Nathu La",
-      "as": "নাথু লা"
+      "en": "Nathu La, at 4,310 m on the Sikkim–Tibet border, is a historic trade pass between India and Tibet.",
+      "as": "ছিক্কিম-তিব্বত সীমাত ৪,৩১০ মিটাৰ উচ্চতাত থকা নাথু লা ভাৰত আৰু তিব্বতৰ মাজৰ ঐতিহাসিক বাণিজ্য পথ।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Zoji La",
-      "as": "জোজিলা"
+      "en": "Zoji La, at 3,528 m, connects the Kashmir valley with Ladakh across the Zaskar range.",
+      "as": "৩,৫২৮ মিটাৰ উচ্চতাত থকা জোজি লাই জাস্কাৰ পৰ্বতমালা পাৰ কৰি কাশ্মীৰ উপত্যকাক লাডাখৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Khardung La",
-      "as": "খাৰডুং লা"
+      "en": "Khardung La in Ladakh, at about 5,359 m, is often described as the highest motorable mountain pass in the world.",
+      "as": "লাডাখত প্ৰায় ৫,৩৫৯ মিটাৰ উচ্চতাত থকা খাৰডুং লাক প্ৰায়ে পৃথিৱীৰ আটাইতকৈ ওখ মটৰ চলাচলযোগ্য পৰ্বতীয়া পথ বুলি কোৱা হয়।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "An isolated residual hill rising from a plain",
-      "as": "সমতলৰ পৰা উঠি থকা বিচ্ছিন্ন অৱশিষ্ট পাহাৰ"
+      "en": "An inselberg is an isolated residual hill of hard rock standing above a flat plain, common in dry savanna country.",
+      "as": "ইনছেলবাৰ্গ হৈছে সমতল ভূমিৰ ওপৰত থিয় হৈ থকা কঠিন শিলৰ এটা অকলশৰীয়া অৱশিষ্ট পাহাৰ, যি শুকান চাভানা অঞ্চলত সাধাৰণ।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "K2",
-      "as": "কে-২"
+      "en": "K2, at 8,611 m in the Karakoram range, is the highest peak of that range and the second highest in the world.",
+      "as": "কাৰাকোৰাম পৰ্বতমালাত ৮,৬১১ মিটাৰ উচ্চতাত থকা K2 সেই মালাৰ সৰ্বোচ্চ শৃংগ আৰু পৃথিৱীৰ দ্বিতীয় সৰ্বোচ্চ।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Borneo",
-      "as": "বৰ্ণিঅ'"
+      "en": "Borneo, the third largest island in the world, is shared by Indonesia (Kalimantan), Malaysia (Sabah and Sarawak) and Brunei.",
+      "as": "পৃথিৱীৰ তৃতীয় ডাঙৰ দ্বীপ বৰ্নিঅ' ইণ্ডোনেছিয়া (কলিমণ্টান), মালয়েছিয়া (ছাবা আৰু ছাৰাৱাক) আৰু ব্ৰুনাইৰ মাজত ভাগ কৰা হৈছে।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Tsugaru Strait",
-      "as": "ছুগাৰু প্ৰণালী"
+      "en": "The Tsugaru Strait separates Japan's Honshu from Hokkaido and links the Sea of Japan with the Pacific.",
+      "as": "ত্ছুগাৰু প্ৰণালীয়ে জাপানৰ হ'নশুক হ'ক্কাইড'ৰ পৰা পৃথক কৰে আৰু জাপান সাগৰক পেছিফিকৰ সৈতে সংযোগ কৰে।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Zealand",
-      "as": "জিলেণ্ড"
+      "en": "Zealand, the island on which Copenhagen stands, is the largest island of Denmark.",
+      "as": "ক'পেনহেগেন য'ত অৱস্থিত সেই জিলেণ্ড দ্বীপ ডেনমাৰ্কৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Sicily",
-      "as": "ছিচিলি"
+      "en": "Sicily, the largest island in the Mediterranean, lies between Italy and Tunisia and is separated from Italy by the Strait of Messina.",
+      "as": "ভূমধ্য সাগৰৰ আটাইতকৈ ডাঙৰ দ্বীপ ছিচিলি ইটালী আৰু টিউনিছিয়াৰ মাজত অৱস্থিত আৰু মেছিনা প্ৰণালীয়ে ইয়াক ইটালীৰপৰা পৃথক কৰে।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Puerto Rico",
-      "as": "পুৱেৰ্ট' ৰিক'"
+      "en": "Puerto Rico, about 9,100 sq km, is the smallest island of the Greater Antilles group.",
+      "as": "প্ৰায় ৯,১০০ বৰ্গ কিলোমিটাৰৰ পুৱেৰ্ত' ৰিক' গ্ৰেটাৰ এণ্টিলিছ গোটৰ আটাইতকৈ সৰু দ্বীপ।"
     }
   }
 ]

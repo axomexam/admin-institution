@@ -25,8 +25,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Fold, block and volcanic mountains.",
-      "as": "ভাঁজ, খণ্ড আৰু আগ্নেয় পৰ্বত।"
+      "en": "The three main types of mountains are fold mountains, formed by compression; block mountains, formed by faulting; and volcanic mountains, formed by eruptions.",
+      "as": "পৰ্বতৰ তিনিটা মূল প্ৰকাৰ: ভাঁজ পৰ্বত, যি সংকোচনত গঠন হয়; মহাকাষ পৰ্বত, যি ফল্টত গঠন হয়; আৰু আগ্নেয় পৰ্বত, যি বিষ্ফোৰণত গঠন হয়।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Andes of South America.",
-      "as": "দক্ষিণ আমেৰিকাৰ এণ্ডেছ।"
+      "en": "The Andes in South America, running about 7,000 km along the western edge of the continent, is the longest mountain range on land.",
+      "as": "দক্ষিণ আমেৰিকাৰ এণ্ডিজ, মহাদেশখনৰ পশ্চিম কাষেৰে প্ৰায় ৭,০০০ কিলোমিটাৰ বিস্তৃত, স্থলত আটাইতকৈ দীঘল পৰ্বতমালা।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 7,000 kilometres.",
-      "as": "প্ৰায় ৭,০০০ কিলোমিটাৰ।"
+      "en": "The Andes stretches about 7,000 km from Venezuela in the north to Tierra del Fuego in the south, crossing seven countries.",
+      "as": "এণ্ডিজ উত্তৰে ভেনিজুৱেলাৰপৰা দক্ষিণে টিয়েৰা দেল ফুৱেগ'লৈ প্ৰায় ৭,০০০ কিলোমিটাৰ বিস্তৃত আৰু সাতখন দেশ অতিক্ৰম কৰে।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Himalayas.",
-      "as": "হিমালয়।"
+      "en": "The Himalaya is the highest mountain range in the world, with many peaks above 8,000 m.",
+      "as": "হিমালয় পৃথিৱীৰ আটাইতকৈ ওখ পৰ্বতমালা, যাৰ বহু শৃংগ ৮,০০০ মিটাৰতকৈ ওখ।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mount Everest, at 8,848 metres.",
-      "as": "মাউণ্ট এভাৰেষ্ট, ৮,৮৪৮ মিটাৰ।"
+      "en": "Mount Everest, at 8,848 m (8,849 m as remeasured), is the highest mountain peak in the world.",
+      "as": "মাউণ্ট এভাৰেষ্ট ৮,৮৪৮ মিটাৰ (পুনৰ মাপত ৮,৮৪৯ মিটাৰ) উচ্চতাৰ পৃথিৱীৰ সৰ্বোচ্চ পৰ্বত শৃংগ।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mount Kilimanjaro, at 5,895 metres.",
-      "as": "মাউণ্ট কিলিমাঞ্জাৰো, ৫,৮৯৫ মিটাৰ।"
+      "en": "Mount Kilimanjaro in Tanzania, at 5,895 m, is the highest peak of Africa and the highest free-standing mountain in the world.",
+      "as": "তাঞ্জানিয়াৰ মাউণ্ট কিলিমাঞ্জাৰ' ৫,৮৯৫ মিটাৰ ওখ, আফ্ৰিকাৰ সৰ্বোচ্চ শৃংগ আৰু পৃথিৱীৰ আটাইতকৈ ওখ অকলশৰীয়া পৰ্বত।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mount Denali (McKinley), at 6,190 metres.",
-      "as": "মাউণ্ট ডেনালি (মেকিনলে), ৬,১৯০ মিটাৰ।"
+      "en": "Mount Denali (formerly McKinley) in Alaska, at 6,190 m, is the highest peak of North America.",
+      "as": "আলাস্কাৰ মাউণ্ট ডেনালি (পূৰ্বে মেককিনলি) ৬,১৯০ মিটাৰ ওখ আৰু উত্তৰ আমেৰিকাৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Aconcagua, at 6,961 metres.",
-      "as": "আকনকাগুয়া, ৬,৯৬১ মিটাৰ।"
+      "en": "Aconcagua in the Argentine Andes, at 6,961 m, is the highest peak of South America and of the whole Americas.",
+      "as": "আৰ্জেণ্টিনাৰ এণ্ডিজত থকা এক'নকাগুৱা ৬,৯৬১ মিটাৰ ওখ আৰু দক্ষিণ আমেৰিকা তথা সমগ্ৰ আমেৰিকাৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mount Kosciuszko, at 2,228 metres.",
-      "as": "মাউণ্ট কচিয়ুস্কো, ২,২২৮ মিটাৰ।"
+      "en": "Mount Kosciuszko in the Australian Alps, at 2,228 m, is the highest peak of mainland Australia.",
+      "as": "অষ্ট্ৰেলিয়ান আল্পচৰ মাউণ্ট ক'ছিয়াছক' ২,২২৮ মিটাৰ ওখ আৰু অষ্ট্ৰেলিয়াৰ মূল ভূখণ্ডৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mount Elbrus, at 5,642 metres.",
-      "as": "মাউণ্ট এলব্ৰাছ, ৫,৬৪২ মিটাৰ।"
+      "en": "Mount Elbrus in the Caucasus, at 5,642 m, is the highest peak of Europe.",
+      "as": "ককেছাছৰ মাউণ্ট এলব্ৰাছ ৫,৬৪২ মিটাৰ ওখ আৰু ইউৰোপৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mount Vinson, at 4,892 metres.",
-      "as": "মাউণ্ট ভিনছন, ৪,৮৯২ মিটাৰ।"
+      "en": "Mount Vinson in the Ellsworth Mountains, at 4,892 m, is the highest peak of Antarctica.",
+      "as": "এলছৱৰ্থ পৰ্বতমালাৰ মাউণ্ট ভিনছন ৪,৮৯২ মিটাৰ ওখ আৰু এণ্টাৰ্কটিকাৰ সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "An area with very low rainfall, less than 25 cm per year.",
-      "as": "অতি কম বৰষুণ থকা অঞ্চল, বছৰি ২৫ চেমিতকৈও কম।"
+      "en": "A desert is a region that receives less than 25 cm of rainfall a year, which is too little for most plants to grow.",
+      "as": "মৰুভূমি হৈছে এনে অঞ্চল য'ত বছৰি ২৫ চে.মি.তকৈ কম বৰষুণ হয়, যি বেছিভাগ গছৰ বাবে অতি কম।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Sahara desert of Africa.",
-      "as": "আফ্ৰিকা মহাদেশৰ চাহাৰা মৰুভূমি।"
+      "en": "The Sahara in North Africa, covering about 9 million sq km, is the largest hot desert in the world.",
+      "as": "উত্তৰ আফ্ৰিকাৰ ছাহাৰা প্ৰায় ৯ নিযুত বৰ্গ কিলোমিটাৰ বিস্তৃত আৰু পৃথিৱীৰ আটাইতকৈ ডাঙৰ উষ্ণ মৰুভূমি।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 9 million square kilometres.",
-      "as": "প্ৰায় ৯ মিলিয়ন বৰ্গ কিলোমিটাৰ।"
+      "en": "The Sahara covers about 9 million sq km, roughly the size of the United States, across eleven countries.",
+      "as": "ছাহাৰাই প্ৰায় ৯ নিযুত বৰ্গ কিলোমিটাৰ আগুৰি ধৰে, প্ৰায় আমেৰিকা যুক্তৰাষ্ট্ৰৰ সমান, এঘাৰখন দেশজুৰি।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Antarctic desert.",
-      "as": "এণ্টাৰ্কটিক মৰুভূমি।"
+      "en": "The Antarctic desert is the largest cold desert in the world, because it receives very little precipitation.",
+      "as": "এণ্টাৰ্কটিক মৰুভূমি পৃথিৱীৰ আটাইতকৈ ডাঙৰ শীতল মৰুভূমি, কাৰণ তাত অতি কম বৰ্ষণ হয়।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Gobi desert.",
-      "as": "গোবি মৰুভূমি।"
+      "en": "The Gobi, stretching across Mongolia and northern China, is the largest desert in Asia.",
+      "as": "মঙ্গোলিয়া আৰু উত্তৰ চীন জুৰি বিস্তৃত গ'বি এছিয়াৰ আটাইতকৈ ডাঙৰ মৰুভূমি।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Thar desert of Rajasthan.",
-      "as": "ৰাজস্থানৰ থৰ মৰুভূমি।"
+      "en": "The Thar desert of Rajasthan, covering about 2,00,000 sq km, is the largest desert in India.",
+      "as": "ৰাজস্থানৰ থৰ মৰুভূমি প্ৰায় ২,০০,০০০ বৰ্গ কিলোমিটাৰ বিস্তৃত আৰু ভাৰতৰ আটাইতকৈ ডাঙৰ মৰুভূমি।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Greenland.",
-      "as": "গ্ৰীনলেণ্ড।"
+      "en": "Greenland, covering about 21,66,000 sq km, is the largest island in the world.",
+      "as": "প্ৰায় ২১,৬৬,০০০ বৰ্গ কিলোমিটাৰৰ গ্ৰীণলেণ্ড পৃথিৱীৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Borneo.",
-      "as": "বৰ্নিঅ'।"
+      "en": "Borneo, shared by Indonesia, Malaysia and Brunei, is the largest island in Asia.",
+      "as": "ইণ্ডোনেছিয়া, মালয়েছিয়া আৰু ব্ৰুনাইৰ মাজত ভগা বৰ্নিঅ' এছিয়াৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "New Guinea.",
-      "as": "নিউ গিনি।"
+      "en": "New Guinea, covering about 7,85,000 sq km, is the second largest island in the world after Greenland.",
+      "as": "প্ৰায় ৭,৮৫,০০০ বৰ্গ কিলোমিটাৰৰ নিউগিনি গ্ৰীণলেণ্ডৰ পিছত পৃথিৱীৰ দ্বিতীয় আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Middle Andaman island.",
-      "as": "মিডল আন্দামান দ্বীপ।"
+      "en": "Middle Andaman island, about 1,536 sq km, is the largest island of India.",
+      "as": "মাজু আন্দামান দ্বীপ প্ৰায় ১,৫৩৬ বৰ্গ কিলোমিটাৰ আৰু ভাৰতৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Indonesia.",
-      "as": "ইণ্ডোনেছিয়া।"
+      "en": "Indonesia stretches across about 5,000 km and its 17,000 islands include Sumatra, Java, Borneo and New Guinea's western half.",
+      "as": "ইণ্ডোনেছিয়া প্ৰায় ৫,০০০ কিলোমিটাৰ বিস্তৃত আৰু ইয়াৰ ১৭,০০০ দ্বীপত সুমাত্ৰা, জাভা, বৰ্নিঅ' আৰু নিউগিনিৰ পশ্চিম অংশ আছে।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The shaking of the Earth's surface due to the movement of the tectonic plates.",
-      "as": "টেক্টনিক প্লেট চলাচলৰ বাবে পৃথিৱী পৃষ্ঠৰ কঁপণ।"
+      "en": "An earthquake is the shaking of the Earth's surface caused by the sudden release of energy as tectonic plates move and rocks break.",
+      "as": "ভূমিকম্প হৈছে টেকটনিক প্লেট গতি কৰি শিল ফাটি যোৱাৰ ফলত হঠাতে শক্তি মুকলি হোৱাৰ বাবে পৃথিৱীৰ পৃষ্ঠ কম্পিত হোৱা।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The seismograph.",
-      "as": "ছেইজম'গ্ৰাফ।"
+      "en": "A seismograph is the instrument that records the motion of the ground during an earthquake as a seismogram.",
+      "as": "ছিছম'গ্ৰাফ হৈছে ভূমিকম্পৰ সময়ত মাটিৰ কম্পন ছিছম'গ্ৰাম হিচাপে লিখি ৰখা যন্ত্ৰ।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Richter scale.",
-      "as": "ৰিখটাৰ স্কেল।"
+      "en": "The Richter scale measures earthquake magnitude on a logarithmic base-10 scale, so each whole number means about 31 times more energy.",
+      "as": "ৰিখটাৰ স্কেলে ১০ ভিত্তিক লগাৰিদম স্কেলত ভূমিকম্পৰ মেগনিটিউড জোখে; সেয়ে প্ৰতিটো পূৰ্ণ সংখ্যাই প্ৰায় ৩১ গুণ বেছি শক্তি বুজায়।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The focus (hypocentre).",
-      "as": "ফোকাছ (হাইপ'চেণ্টাৰ)।"
+      "en": "The focus, or hypocentre, is the point inside the Earth where the earthquake rupture begins.",
+      "as": "কেন্দ্ৰ বা হাইপ'ছেণ্টাৰ হৈছে পৃথিৱীৰ ভিতৰৰ সেই বিন্দু, য'ত ভূমিকম্পৰ ফাটনি আৰম্ভ হয়।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The epicentre.",
-      "as": "অধিকেন্দ্ৰ।"
+      "en": "The epicentre is the point on the ground directly above the focus, and it usually has the strongest shaking.",
+      "as": "এপিচেণ্টাৰ হৈছে কেন্দ্ৰৰ ঠিক ওপৰত থকা ভূমিৰ বিন্দু, আৰু সাধাৰণতে তাতেই কম্পন আটাইতকৈ জোৰে হয়।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The North-Eastern region (Zone V).",
-      "as": "উত্তৰ-পূব অঞ্চল (জ'ন ৫)।"
+      "en": "India's North-Eastern region falls in Zone V, the highest seismic risk zone, because of the collision of the Indian and Eurasian plates.",
+      "as": "ভাৰতৰ উত্তৰ-পূব অঞ্চল পঞ্চম মণ্ডলত পৰে, যি সৰ্বোচ্চ ভূকম্পীয় বিপদৰ মণ্ডল, কাৰণ ভাৰতীয় আৰু ইউৰেছিয়ান প্লেটৰ সংঘৰ্ষ হয়।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A series of giant ocean waves caused by an underwater earthquake.",
-      "as": "পানীৰ তলৰ ভূমিকম্পৰ বাবে হোৱা বৃহৎ মহাসাগৰীয় ঢৌ।"
+      "en": "A tsunami is a series of long ocean waves generated by an underwater earthquake, landslide or volcanic eruption.",
+      "as": "ছুনামি হৈছে সাগৰতলৰ ভূমিকম্প, ভূমিস্খলন বা আগ্নেয় বিষ্ফোৰণৰ ফলত সৃষ্টি হোৱা দীঘল সাগৰীয় ঢৌৰ শৃংখলা।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A logarithmic scale used to measure the magnitude of earthquakes.",
-      "as": "ভূমিকম্পৰ মাত্ৰা জুখিবলৈ ব্যৱহৃত লগাৰিদমিক স্কেল।"
+      "en": "The Richter scale is a logarithmic scale, so a magnitude 7 quake releases about 31 times the energy of a magnitude 6 quake.",
+      "as": "ৰিখটাৰ স্কেল লগাৰিদমিক; সেয়ে ৭ মেগনিটিউডৰ ভূমিকম্পই ৬ মেগনিটিউডতকৈ প্ৰায় ৩১ গুণ বেছি শক্তি মুকলি কৰে।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Aravalli range.",
-      "as": "আৰাৱলী পৰ্বতমালা।"
+      "en": "The Aravalli range of Rajasthan is among the oldest fold mountains in the world, formed about 2,000 million years ago.",
+      "as": "ৰাজস্থানৰ আৰাৱল্লী পৰ্বতমালা পৃথিৱীৰ আটাইতকৈ পুৰণি ভাঁজ পৰ্বতবোৰৰ এটা, যি প্ৰায় ২,০০০ নিযুত বছৰ আগতে গঠিত।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Vosges and the Black Forest.",
-      "as": "ভ'জেছ আৰু কৃষ্ণ অৰণ্য।"
+      "en": "The Vosges in France and the Black Forest in Germany were raised as block mountains along the faults of the Rhine rift.",
+      "as": "ফ্ৰান্সৰ ভ'জ আৰু জাৰ্মানীৰ ক'লা বন ৰাইন উপত্যকাৰ ফল্টৰ কাষেৰে মহাকাষ পৰ্বত হিচাপে ওপৰলৈ উঠিছিল।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A block of land uplifted between two faults.",
-      "as": "দুটা ফল্টৰ মাজত ওপৰলৈ উঠা ভূখণ্ডৰ খণ্ড।"
+      "en": "A horst is a block of land that has been pushed up between two parallel faults, forming a block mountain.",
+      "as": "হৰ্ষ্ট হৈছে দুটা সমান্তৰাল ফল্টৰ মাজত ওপৰলৈ ঠেলি দিয়া ভূমিখণ্ড, যি মহাকাষ পৰ্বত গঠন কৰে।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A block of land sunk between two faults.",
-      "as": "দুটা ফল্টৰ মাজত তললৈ বহি যোৱা ভূখণ্ডৰ খণ্ড।"
+      "en": "A graben is a block of land that has sunk between two faults, forming a rift valley.",
+      "as": "গ্ৰাবেন হৈছে দুটা ফল্টৰ মাজত তললৈ নামি যোৱা ভূমিখণ্ড, যি ফাট উপত্যকা গঠন কৰে।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The East African Rift Valley.",
-      "as": "পূব আফ্ৰিকাৰ চিৰি উপত্যকা।"
+      "en": "The East African Rift Valley, about 6,400 km long, is the largest rift valley in the world.",
+      "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ দীঘল পূব আফ্ৰিকাৰ ফাট উপত্যকা পৃথিৱীৰ আটাইতকৈ ডাঙৰ ফাট উপত্যকা।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Tibetan plateau.",
-      "as": "তিব্বত মালভূমি।"
+      "en": "The Tibetan plateau, averaging over 4,500 m high, is the highest and largest plateau in the world.",
+      "as": "গড়ে ৪,৫০০ মিটাৰতকৈ ওখ তিব্বত মালভূমি পৃথিৱীৰ আটাইতকৈ ওখ আৰু ডাঙৰ মালভূমি।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "K2, at 8,611 metres.",
-      "as": "কে২, ৮,৬১১ মিটাৰ।"
+      "en": "K2 is the hardest of the eight-thousanders to climb, with no easy route and a fatality rate far above Everest's.",
+      "as": "K2 আঠ-হাজাৰীয় শৃংগবোৰৰ ভিতৰত আৰোহণ কৰিবলৈ আটাইতকৈ কঠিন, যাৰ কোনো সহজ পথ নাই আৰু মৃত্যুৰ হাৰ এভাৰেষ্টতকৈ বহু বেছি।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Kangchenjunga, at 8,586 metres.",
-      "as": "কাঞ্চনজংঘা, ৮,৫৮৬ মিটাৰ।"
+      "en": "Kangchenjunga, at 8,586 m on the Sikkim-Nepal border, is the third highest peak in the world.",
+      "as": "ছিক্কিম-নেপাল সীমাত ৮,৫৮৬ মিটাৰ উচ্চতাৰ কাঞ্চনজঙ্ঘা পৃথিৱীৰ তৃতীয় সৰ্বোচ্চ শৃংগ।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mauna Kea in Hawaii.",
-      "as": "হাৱাইৰ মাউনা কিয়া।"
+      "en": "Mauna Kea in Hawaii rises about 10,210 m from its base on the ocean floor, making it the tallest mountain from base to summit.",
+      "as": "হাৱাইৰ মাউনা কেৱা সাগৰতলৰ পাদদেশৰপৰা প্ৰায় ১০,২১০ মিটাৰ ওপৰলৈ উঠে, সেয়ে পাদদেশৰপৰা শিখৰলৈ ই আটাইতকৈ ওখ পৰ্বত।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Atacama desert.",
-      "as": "আটাকামা মৰুভূমি।"
+      "en": "The Atacama desert of Chile is the driest desert in the world, with some places receiving no rain for decades.",
+      "as": "চিলিৰ আটাকামা মৰুভূমি পৃথিৱীৰ আটাইতকৈ শুকান মৰুভূমি, য'ত কিছুমান ঠাইত দশক ধৰি বৰষুণ হোৱা নাই।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Antarctic desert.",
-      "as": "এণ্টাৰ্কটিক মৰুভূমি।"
+      "en": "Antarctica is the largest desert in the world by area, because a desert is defined by very low precipitation.",
+      "as": "মৰুভূমিৰ সংজ্ঞা অতি কম বৰ্ষণৰ ওপৰত আধাৰিত; সেয়ে আয়তন অনুসৰি এণ্টাৰ্কটিকা পৃথিৱীৰ আটাইতকৈ ডাঙৰ মৰুভূমি।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Great Victoria desert.",
-      "as": "গ্ৰেট ভিক্টোৰিয়া মৰুভূমি।"
+      "en": "The Great Victoria desert, covering about 3,48,750 sq km, is the largest desert in Australia.",
+      "as": "প্ৰায় ৩,৪৮,৭৫০ বৰ্গ কিলোমিটাৰৰ গ্ৰেট ভিক্টোৰিয়া মৰুভূমি অষ্ট্ৰেলিয়াৰ আটাইতকৈ ডাঙৰ মৰুভূমি।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Great Britain.",
-      "as": "গ্ৰেট ব্ৰিটেইন।"
+      "en": "Great Britain, covering about 2,09,331 sq km, is the largest island in Europe.",
+      "as": "প্ৰায় ২,০৯,৩৩১ বৰ্গ কিলোমিটাৰৰ গ্ৰেট ব্ৰিটেইন ইউৰোপৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Baffin Island.",
-      "as": "বাফিন দ্বীপ।"
+      "en": "Baffin Island in Nunavut, covering about 5,07,451 sq km, is the largest island of Canada.",
+      "as": "নুনাভুটৰ বাফিন দ্বীপ প্ৰায় ৫,০৭,৪৫১ বৰ্গ কিলোমিটাৰ আৰু কানাডাৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Honshu.",
-      "as": "হংচু।"
+      "en": "Honshu, on which Tokyo and Osaka stand, is the largest island of Japan.",
+      "as": "ট'কিঅ' আৰু ओছাকা য'ত অৱস্থিত সেই হ'নশু জাপানৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Mercalli scale.",
-      "as": "মাৰ্কেলি স্কেল।"
+      "en": "The Mercalli scale, running from I to XII, measures earthquake intensity by the observed damage and human reaction at a place.",
+      "as": "মাৰ্কেলী স্কেল, যি ১ ৰপৰা ১২ পৰ্যন্ত, পৰ্যবেক্ষিত ক্ষতি আৰু মানুহৰ প্ৰতিক্ৰিয়াৰ দ্বাৰা কোনো স্থানত ভূমিকম্পৰ তীব্ৰতা জোখে।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A smaller earthquake after the main shock.",
-      "as": "মূল কম্পনৰ পিছত হোৱা সৰু ভূমিকম্প।"
+      "en": "An aftershock is a smaller earthquake that follows the main shock, as the crust settles into its new position.",
+      "as": "আফটাৰশ্বক হৈছে মূল কম্পনৰ পিছত অহা সৰু ভূমিকম্প, যি ভূত্বক নতুন অৱস্থানত স্থিৰ হোৱাৰ লগে লগে ঘটে।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Indian Ocean earthquake off Sumatra.",
-      "as": "ছুমাত্ৰাৰ ওচৰৰ হিন্দ মহাসাগৰীয় ভূমিকম্প।"
+      "en": "The 2004 tsunami was caused by the Indian Ocean earthquake off the coast of Sumatra, which had a magnitude of about 9.1.",
+      "as": "২০০৪ চনৰ ছুনামি সুমাত্ৰা উপকূলৰ ওচৰত হোৱা ভাৰত মহাসাগৰীয় ভূমিকম্পৰ ফলত হৈছিল, যাৰ মেগনিটিউড প্ৰায় ৯.১ আছিল।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Japan.",
-      "as": "জাপান।"
+      "en": "Japan suffered the 2011 Tohoku tsunami, which damaged the Fukushima Daiichi nuclear plant.",
+      "as": "জাপানে ২০১১ চনৰ ট'হ'কু ছুনামিৰ সন্মুখীন হৈছিল, যি ফুকুছিমা দাইচি পাৰমাণৱিক কেন্দ্ৰৰ ক্ষতি কৰিছিল।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The modern scale that replaced the Richter scale.",
-      "as": "ৰিখটাৰ স্কেলৰ ঠাইত ব্যৱহৃত আধুনিক স্কেল।"
+      "en": "The moment magnitude scale replaced the Richter scale because it measures the total energy released more accurately for large quakes.",
+      "as": "ম'মেণ্ট মেগনিটিউড স্কেলে ৰিখটাৰ স্কেলক প্ৰতিস্থাপিত কৰিছে, কাৰণ ই ডাঙৰ ভূমিকম্পৰ বাবে মুকলি হোৱা মুঠ শক্তি অধিক সঠিকভাৱে জোখে।"
     }
   }
 ]

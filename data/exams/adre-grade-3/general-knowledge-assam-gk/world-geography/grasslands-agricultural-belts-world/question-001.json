@@ -25,8 +25,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Steppe",
-      "as": "ষ্টেপ"
+      "en": "Steppe is the Russian word for the vast, treeless temperate grassland that stretches across Ukraine, Russia and Central Asia.",
+      "as": "ষ্টেপ হৈছে ৰাছিয়ান শব্দ, যি ইউক্ৰেইন, ৰাছিয়া আৰু মধ্য এছিয়া জুৰি বিস্তৃত বিশাল গছ-নথকা নাতিশীতোষ্ণ ঘাঁহনিক বুজায়।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Chernozem",
-      "as": "চাৰ্ন'জেম"
+      "en": "Chernozem is the deep black soil of the Ukrainian steppe, rich in humus and among the most fertile soils in the world.",
+      "as": "ছাৰ্ন'জেম ইউক্ৰেইনৰ ষ্টেপৰ গভীৰ ক'লা মাটি, যি হিউমাছত চহকী আৰু পৃথিৱীৰ আটাইতকৈ উৰ্বৰ মাটিবোৰৰ এটা।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Black earth",
-      "as": "ক'লা মাটি"
+      "en": "Chernozem is Russian for black earth, named for its dark colour from accumulated humus.",
+      "as": "ছাৰ্ন'জেম ৰাছিয়ান ভাষাত 'ক'লা মাটি' অৰ্থ দিয়ে; জমা হোৱা হিউমাছৰ বাবে ইয়াৰ গাঢ় ক'লা বৰণৰপৰা এই নাম পাইছে।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Prairie",
-      "as": "প্ৰেইৰি"
+      "en": "The Prairie, the temperate grassland of the North American interior, is the main wheat granary of the continent.",
+      "as": "উত্তৰ আমেৰিকাৰ অন্তৰ্ভাগৰ নাতিশীতোষ্ণ ঘাঁহনি প্ৰেইৰি মহাদেশখনৰ মূল ঘেঁহু ভাণ্ডাৰ।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Pampas",
-      "as": "পাম্পাছ"
+      "en": "The Pampas, the treeless grassland around Buenos Aires, is famous for cattle rearing and wheat growing in Argentina.",
+      "as": "বুৱেনছ আয়াৰছৰ চাৰিওফালৰ গছ-নথকা ঘাঁহনি পাম্পাছ আৰ্জেণ্টিনাত গৰু-ম'হ পোহা আৰু ঘেঁহু খেতিৰ বাবে জনাজাত।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The temperate grassland of the interior plateau",
-      "as": "অভ্যন্তৰীণ মালভূমিৰ নাতিশীতোষ্ণ তৃণভূমি"
+      "en": "The Veld is the temperate grassland of the South African interior plateau, a name also used for similar land in Zimbabwe.",
+      "as": "ভেল্ড দক্ষিণ আফ্ৰিকাৰ অন্তৰ্ভাগৰ মালভূমিৰ নাতিশীতোষ্ণ ঘাঁহনি; জিম্বাবুৱেতো একেধৰণৰ ভূমিক এই নামেৰে কোৱা হয়।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The wheat belt of the Great Plains",
-      "as": "মহান সমভূমিৰ ঘেঁহু বলয়"
+      "en": "The wheat belt of the Great Plains, which stretches from Texas to North Dakota, is called the Bread Basket of the USA.",
+      "as": "টেক্সাছৰপৰা উত্তৰ ডাক'টালৈ বিস্তৃত গ্ৰেট প্লেইনছৰ ঘেঁহু পট্টিক আমেৰিকাৰ 'ৰুটীৰ ঝুৰী' বুলি কোৱা হয়।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Russia",
-      "as": "ৰাছিয়া"
+      "en": "Russia is the largest wheat exporter in the world, shipping well over 40 million tonnes a year.",
+      "as": "ৰাছিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ ঘেঁহু ৰপ্তানিকাৰী দেশ, যি বছৰি ৪০ নিযুত টনতকৈ অধিক ৰপ্তানি কৰে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "India",
-      "as": "ভাৰত"
+      "en": "India is the largest rice exporter in the world, though China produces more rice overall.",
+      "as": "ভাৰত পৃথিৱীৰ আটাইতকৈ ডাঙৰ চাউল ৰপ্তানিকাৰী দেশ, যদিও সামগ্ৰিকভাৱে চীনে বেছি চাউল উৎপাদন কৰে।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Indonesia",
-      "as": "ইণ্ডোনেছিয়া"
+      "en": "Indonesia is the largest producer of palm oil in the world, with Malaysia a close second.",
+      "as": "ইণ্ডোনেছিয়া পৃথিৱীৰ আটাইতকৈ ডাঙৰ পাম তেল উৎপাদনকাৰী দেশ, মালয়েছিয়া ইয়াৰ ঠিক পিছত দ্বিতীয়।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The maize growing region of the Midwest",
-      "as": "মধ্য-পশ্চিমৰ মাকৈ উৎপাদন অঞ্চল"
+      "en": "The Corn Belt is the maize growing region of the American Midwest, centred on Iowa, Illinois and Nebraska.",
+      "as": "কৰ্ণ বেল্ট আমেৰিকাৰ মধ্য-পশ্চিমৰ মাকৈ খেতিৰ অঞ্চল, যাৰ কেন্দ্ৰ আয়'ৱা, ইলিনয়ছ আৰু নেব্ৰাস্কাত।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Slash and burn agriculture",
-      "as": "কাটি-পুৰি খেতি"
+      "en": "Shifting cultivation is also called slash and burn agriculture, because the forest is cut and burnt before sowing.",
+      "as": "স্থানান্তৰিত খেতিক ছ্লেশ এণ্ড বাৰ্ন বা 'কাটি-পুৰি' খেতিও কোৱা হয়, কাৰণ বন কাটি জুই দিয়াৰ পিছত সিঁচা হয়।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Shifting cultivation practised in North-East India",
-      "as": "উত্তৰ-পূব ভাৰতত প্ৰচলিত স্থানান্তৰিত খেতি"
+      "en": "Jhum is the name for shifting cultivation practised in the hills of North-East India.",
+      "as": "ঝুম হৈছে উত্তৰ-পূব ভাৰতৰ পাহাৰত কৰা স্থানান্তৰিত খেতিৰ স্থানীয় নাম।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Coniferous forests of the cold temperate zone",
-      "as": "শীতল নাতিশীতোষ্ণ মণ্ডলৰ ক'নিফাৰাছ অৰণ্য"
+      "en": "Podzol is an ash-grey leached soil found under the coniferous forests of the cold temperate and boreal zones.",
+      "as": "পডজল এটা ছাই-ধূসৰ নিকষিত মাটি, যি শীতল নাতিশীতোষ্ণ আৰু বৰিয়েল অঞ্চলৰ চিৰসেউজ বনৰ তলত পোৱা যায়।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "M. S. Swaminathan",
-      "as": "এম এছ স্বামীনাথন"
+      "en": "M. S. Swaminathan is known as the father of the Green Revolution in India for his work on high-yielding wheat and rice.",
+      "as": "উচ্চ উৎপাদনশীল ঘেঁহু আৰু ধানৰ ওপৰত কৰা কামৰ বাবে এম. এছ. স্বামীনাথনক ভাৰতত সেউজ বিপ্লৱৰ জনক বুলি কোৱা হয়।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Norman Borlaug",
-      "as": "নৰ্মান বাৰ্লাগ"
+      "en": "Norman Borlaug, who bred dwarf high-yielding wheat, is known as the father of the Green Revolution worldwide.",
+      "as": "বাওনা আৰু উচ্চ উৎপাদনশীল ঘেঁহুৰ জাত সৃষ্টি কৰা নৰ্মান বৰ্লগক বিশ্বজুৰি সেউজ বিপ্লৱৰ জনক বুলি কোৱা হয়।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Milk production",
-      "as": "গাখীৰ উৎপাদন"
+      "en": "The White Revolution in India refers to the big rise in milk production brought about by Operation Flood.",
+      "as": "ভাৰতত শ্বেত বিপ্লৱে অপাৰেছন ফ্লাডৰ জৰিয়তে গাখীৰ উৎপাদনত হোৱা বৃহৎ বৃদ্ধিক বুজায়।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Verghese Kurien",
-      "as": "ভাৰ্গীজ কুৰিয়েন"
+      "en": "Verghese Kurien, of Amul and the Anand pattern, is regarded as the chief architect of Operation Flood.",
+      "as": "আমুল আৰু আনন্দ আৰ্হিৰ ভাৰ্গীছ কুৰিয়ানক অপাৰেছন ফ্লাডৰ প্ৰধান স্থপতি বুলি গণ্য কৰা হয়।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Potato production",
-      "as": "আলু উৎপাদন"
+      "en": "The Round Revolution refers to the growth in potato production, launched to raise yields of the potato crop.",
+      "as": "ৰাউণ্ড বিপ্লৱে আলুৰ উৎপাদন বৃদ্ধিক বুজায়, যি আলু শস্যৰ উৎপাদন বঢ়োৱাৰ বাবে আৰম্ভ কৰা হৈছিল।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Leather and cocoa production",
-      "as": "চামৰা আৰু ক'ক' উৎপাদন"
+      "en": "The Brown Revolution refers to leather and cocoa production, and is sometimes also used for non-conventional energy.",
+      "as": "ব্ৰাউন বিপ্লৱে চামৰা আৰু ক'ক' উৎপাদনক বুজায়; কেতিয়াবা অচল পৰম্পৰাগত শক্তিৰ বাবেও এই শব্দ ব্যৱহাৰ হয়।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Verghese Kurien",
-      "as": "ভাৰ্গীজ কুৰিয়েন"
+      "en": "Verghese Kurien, the founder of Amul, is also called the father of the White Revolution in India.",
+      "as": "আমুলৰ প্ৰতিষ্ঠাতা ভাৰ্গীছ কুৰিয়ানক ভাৰতত শ্বেত বিপ্লৱৰ জনকো বোলা হয়।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Horticulture and honey production",
-      "as": "উদ্যানপালন আৰু মৌ-পালন"
+      "en": "The Golden Revolution refers to horticulture, and is also used for honey production.",
+      "as": "গ'ল্ডেন বিপ্লৱে উদ্যান-কৃষিক বুজায়, আৰু মৌ পালনৰ বাবেও এই শব্দ ব্যৱহাৰ হয়।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Prawn and onion production",
-      "as": "মিছা মাছ আৰু পিয়াঁজ উৎপাদন"
+      "en": "The Pink Revolution refers to prawn (shrimp) production and, in some usage, to onion production.",
+      "as": "পিংক বিপ্লৱে চিংৰা উৎপাদনক বুজায়, আৰু কিছু ব্যৱহাৰত পিঁয়াজ উৎপাদনকো বুজায়।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Egg and poultry production",
-      "as": "কণী আৰু পক্ষীপালন উৎপাদন"
+      "en": "The Silver Revolution refers to egg and poultry production, and it followed the White Revolution's success in dairying.",
+      "as": "ৰূপালী বিপ্লৱে কণী আৰু পোহনীয়া চৰাই পালনৰ উৎপাদনক বুজায়, আৰু ই গাখীৰৰ ক্ষেত্ৰত শ্বেত বিপ্লৱৰ সফলতাৰ পিছত আহিছিল।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China leads the world in silk production, followed by India, which is the second largest producer.",
+      "as": "চীন পৃথিৱীত ৰেচম উৎপাদনত আগত, আৰু ইয়াৰ পিছতেই দ্বিতীয় সৰ্ববৃহৎ উৎপাদনকাৰী ভাৰত আছে।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Assam",
-      "as": "অসম"
+      "en": "Assam is the largest tea producing state in India, growing about half of the country's tea.",
+      "as": "অসম ভাৰতৰ আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী ৰাজ্য, যি দেশৰ প্ৰায় আধা চাহ উৎপাদন কৰে।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Rice",
-      "as": "ধান"
+      "en": "The Rice Bowl of India refers to the fertile delta and coastal regions where rice is the main crop, especially coastal Andhra and the Ganga delta.",
+      "as": "ভাৰতৰ 'ভাতৰ বাতি' বুলি ক'লে ধান প্ৰধান শস্য হোৱা উৰ্বৰ ব-দ্বীপ আৰু উপকূলীয় অঞ্চলক বুজায়, বিশেষকৈ উপকূলীয় অন্ধ্ৰ আৰু গংগা ব-দ্বীপ।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Jute",
-      "as": "পাট"
+      "en": "Jute is called the Golden Fibre of India because of its golden colour and its importance in the eastern economy.",
+      "as": "পাটক ইয়াৰ সোণালী বৰণ আৰু পূব ভাৰতৰ অৰ্থনীতিত থকা গুৰুত্বৰ বাবে ভাৰতৰ 'সোণালী আঁহ' বুলি কোৱা হয়।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "West Bengal",
-      "as": "পশ্চিম বংগ"
+      "en": "West Bengal is the largest producer of jute in India, followed by Bihar and Assam.",
+      "as": "পশ্চিম বংগ ভাৰতৰ আটাইতকৈ ডাঙৰ পাট উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত বিহাৰ আৰু অসম।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Shifting from grain farming to other crops and allied activities",
-      "as": "শস্য খেতিৰ পৰা অন্য শস্য আৰু সহায়ক কাৰ্যলৈ যোৱা"
+      "en": "Agricultural diversification means moving from grain farming to other crops such as vegetables and fruit, and to allied activities like dairy and poultry.",
+      "as": "কৃষি বৈচিত্ৰ্যকৰণ মানে ধান-ঘেঁহুৰ খেতিৰপৰা পাচলি, ফল-মূল আদিৰ লগতে গাখীৰ আৰু পোহনীয়া চৰাই পালনৰ দৰে সহায়ক কামলৈ গতি কৰা।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Farming under an agreement to supply produce to a buyer",
-      "as": "ক্ৰেতাক উৎপাদন যোগান ধৰাৰ চুক্তিৰ অধীনত খেতি"
+      "en": "Contract farming is growing crops under a written agreement to supply the produce to a buyer at a fixed price.",
+      "as": "চুক্তি খেতি হৈছে লিখিত চুক্তিৰ অধীনত শস্য উৎপাদন কৰি নিৰ্দিষ্ট দামত ক্ৰেতাক যোগান ধৰা।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Using sensors and data to manage inputs precisely",
-      "as": "ইনপুট সূক্ষ্মভাৱে পৰিচালনা কৰিবলৈ চেন্সৰ আৰু তথ্য ব্যৱহাৰ"
+      "en": "Precision farming uses sensors, GPS and data to apply water, fertiliser and pesticide exactly where and when needed.",
+      "as": "প্ৰেছিছন খেতিয়ে চেন্সৰ, জিপিএছ আৰু তথ্য ব্যৱহাৰ কৰি পানী, সাৰ আৰু কীটনাশক ঠিক য'ত আৰু যেতিয়া প্ৰয়োজন তাতে প্ৰয়োগ কৰে।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Farming without synthetic fertilisers and pesticides",
-      "as": "কৃত্ৰিম সাৰ আৰু কীটনাশক নোহোৱাকৈ খেতি"
+      "en": "Organic farming avoids synthetic fertilisers and pesticides and relies on compost, manure and biological pest control.",
+      "as": "জৈৱিক খেতিয়ে কৃত্ৰিম সাৰ আৰু কীটনাশক বৰ্জন কৰে আৰু কম্প'ষ্ট, গোবৰ আৰু জৈৱিক পোক-নিয়ন্ত্ৰণৰ ওপৰত নিৰ্ভৰ কৰে।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Sowing crops without ploughing the field",
-      "as": "পথাৰ হাল নবহাকৈ শস্য ৰোৱা"
+      "en": "Zero tillage means sowing the seed directly into unploughed soil, which saves fuel, time and soil moisture.",
+      "as": "শূন্য হাল বাই খেতি মানে চহ কৰা নোহোৱা মাটিত পোনপটীয়াকৈ বীজ সিঁচা, যাৰ ফলত ইন্ধন, সময় আৰু মাটিৰ আৰ্দ্ৰতা ৰক্ষা পায়।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Conserving and managing water and land within a drainage basin",
-      "as": "নিষ্কাশন অৱবাহিকাৰ ভিতৰত পানী আৰু মাটি সংৰক্ষণ আৰু পৰিচালনা"
+      "en": "Watershed management means conserving soil and water within a drainage basin through bunds, check dams and plantation.",
+      "as": "জলাধাৰ ব্যৱস্থাপনা মানে বান্ধ, চেক ডেম আৰু গছ ৰোপণৰ জৰিয়তে এটা নিষ্কাশন অববাহিকাৰ ভিতৰত মাটি আৰু পানী সংৰক্ষণ কৰা।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The number of crops grown on a field in a year",
-      "as": "এখন পথাৰত বছৰত খেতি কৰা শস্যৰ সংখ্যা"
+      "en": "Crop intensity is the number of crops raised on the same field in one year, expressed as a percentage of the cropped area.",
+      "as": "শস্যৰ তীব্ৰতা হৈছে এখন পথাৰত এটা বছৰত কৰা শস্যৰ সংখ্যা, যি খেতিৰ কালিৰ শতাংশ হিচাপে প্ৰকাশ কৰা হয়।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Uttar Pradesh",
-      "as": "উত্তৰ প্ৰদেশ"
+      "en": "Uttar Pradesh is the largest producer of wheat in India, followed by Madhya Pradesh and Punjab.",
+      "as": "উত্তৰ প্ৰদেশ ভাৰতৰ আটাইতকৈ ডাঙৰ ঘেঁহু উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত মধ্য প্ৰদেশ আৰু পঞ্জাব।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "West Bengal",
-      "as": "পশ্চিম বংগ"
+      "en": "West Bengal is the largest producer of rice in India, followed by Uttar Pradesh and Punjab.",
+      "as": "পশ্চিম বংগ ভাৰতৰ আটাইতকৈ ডাঙৰ ধান উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত উত্তৰ প্ৰদেশ আৰু পঞ্জাব।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Gujarat",
-      "as": "গুজৰাট"
+      "en": "Gujarat is the largest producer of cotton in India, followed by Maharashtra.",
+      "as": "গুজৰাট ভাৰতৰ আটাইতকৈ ডাঙৰ কপাহ উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত মহাৰাষ্ট্ৰ।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Uttar Pradesh",
-      "as": "উত্তৰ প্ৰদেশ"
+      "en": "Uttar Pradesh is the largest producer of sugarcane in India, followed by Maharashtra.",
+      "as": "উত্তৰ প্ৰদেশ ভাৰতৰ আটাইতকৈ ডাঙৰ কুঁহিয়াৰ উৎপাদনকাৰী ৰাজ্য, ইয়াৰ পিছত মহাৰাষ্ট্ৰ।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Australian Downs",
-      "as": "অষ্ট্ৰেলিয়ান ডাউনছ"
+      "en": "The Australian Downs, the rolling grassland of the eastern highlands, support the largest sheep flock in Australia.",
+      "as": "পূব উচ্চভূমিৰ ঢৌৱাল ঘাঁহনি অষ্ট্ৰেলিয়ান ডাউনছে অষ্ট্ৰেলিয়াৰ আটাইতকৈ ডাঙৰ মেৰ পোৱালিৰ জাক পোহে।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China has the largest sheep population in the world, followed by India and Australia.",
+      "as": "চীন পৃথিৱীত আটাইতকৈ বেছি মেৰ পোৱালি আছে, ইয়াৰ পিছত ভাৰত আৰু অষ্ট্ৰেলিয়া।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Great Lakes",
-      "as": "মহান হ্ৰদসমূহ"
+      "en": "The American dairy belt lies around the Great Lakes, in Wisconsin, Minnesota, New York and nearby states.",
+      "as": "আমেৰিকাৰ গাখীৰ পট্টি গ্ৰেট লেকছৰ চাৰিওফালে ৱিস্কনছিন, মিনেছ'টা, নিউয়ৰ্ক আৰু ওচৰৰ ৰাজ্যত অৱস্থিত।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "USA",
-      "as": "আমেৰিকা"
+      "en": "The USA is the largest producer of maize in the world, growing about a third of the world crop.",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ পৃথিৱীৰ আটাইতকৈ ডাঙৰ মাকৈ উৎপাদনকাৰী দেশ, যি বিশ্বৰ প্ৰায় এক-তৃতীয়াংশ উৎপাদন কৰে।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "India",
-      "as": "ভাৰত"
+      "en": "India is the largest producer of milk in the world, ahead of the USA and Pakistan.",
+      "as": "ভাৰত পৃথিৱীৰ আটাইতকৈ ডাঙৰ গাখীৰ উৎপাদনকাৰী দেশ, আমেৰিকা আৰু পাকিস্তানৰ আগত।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "India",
-      "as": "ভাৰত"
+      "en": "India is the largest producer of pulses in the world, growing about a quarter of the world crop.",
+      "as": "ভাৰত পৃথিৱীৰ আটাইতকৈ ডাঙৰ ডাইলজাতীয় শস্য উৎপাদনকাৰী দেশ, যি বিশ্বৰ প্ৰায় এক-চতুৰ্থাংশ উৎপাদন কৰে।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "China",
-      "as": "চীন"
+      "en": "China is the largest producer of tea in the world, followed by India.",
+      "as": "চীন পৃথিৱীৰ আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভাৰত।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Brazil",
-      "as": "ব্ৰাজিল"
+      "en": "Brazil is the largest producer of coffee in the world, followed by Vietnam and Colombia.",
+      "as": "ব্ৰাজিল পৃথিৱীৰ আটাইতকৈ ডাঙৰ কফি উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভিয়েটনাম আৰু কলম্বিয়া।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Brazil",
-      "as": "ব্ৰাজিল"
+      "en": "Brazil is the largest producer of sugarcane in the world, followed by India.",
+      "as": "ব্ৰাজিল পৃথিৱীৰ আটাইতকৈ ডাঙৰ কুঁহিয়াৰ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ভাৰত।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Thailand",
-      "as": "থাইলেণ্ড"
+      "en": "Thailand is the largest producer of natural rubber in the world, followed by Indonesia.",
+      "as": "থাইলেণ্ড পৃথিৱীৰ আটাইতকৈ ডাঙৰ প্ৰাকৃতিক ৰবৰ উৎপাদনকাৰী দেশ, ইয়াৰ পিছত ইণ্ডোনেছিয়া।"
     }
   }
 ]

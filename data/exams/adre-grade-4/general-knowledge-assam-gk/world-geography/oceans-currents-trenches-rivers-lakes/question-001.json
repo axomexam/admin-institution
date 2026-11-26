@@ -25,8 +25,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Five oceans.",
-      "as": "পাঁচখন মহাসাগৰ।"
+      "en": "The world has five oceans: Pacific, Atlantic, Indian, Southern (Antarctic) and Arctic.",
+      "as": "পৃথিৱীত পাঁচখন মহাসাগৰ আছে: প্ৰশান্ত, আটলাণ্টিক, ভাৰত, দক্ষিণ (এণ্টাৰ্কটিক) আৰু আৰ্কটিক।"
     }
   },
   {
@@ -55,8 +55,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰ।"
+      "en": "The Pacific Ocean is the largest ocean, covering about one-third of the Earth's surface.",
+      "as": "প্ৰশান্ত মহাসাগৰ আটাইতকৈ ডাঙৰ মহাসাগৰ, যি পৃথিৱীৰ পৃষ্ঠৰ প্ৰায় এক-তৃতীয়াংশ আগুৰি ধৰে।"
     }
   },
   {
@@ -85,8 +85,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 165 million square kilometres.",
-      "as": "প্ৰায় ১৬৫ মিলিয়ন বৰ্গ কিলোমিটাৰ।"
+      "en": "The Pacific covers about 165 million sq km, larger than all the land area of the Earth put together.",
+      "as": "প্ৰশান্ত মহাসাগৰে প্ৰায় ১৬.৫ কোটি বৰ্গ কিলোমিটাৰ আগুৰি ধৰে, যি পৃথিৱীৰ সকলো স্থলভাগ একেলগে লোৱাতকৈও ডাঙৰ।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Atlantic Ocean.",
-      "as": "আটলাণ্টিক মহাসাগৰ।"
+      "en": "The Atlantic Ocean is the second largest ocean, separating the Americas from Europe and Africa.",
+      "as": "আটলাণ্টিক মহাসাগৰ দ্বিতীয় আটাইতকৈ ডাঙৰ মহাসাগৰ, যি আমেৰিকাক ইউৰোপ আৰু আফ্ৰিকাৰপৰা পৃথক কৰে।"
     }
   },
   {
@@ -145,8 +145,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Indian Ocean.",
-      "as": "ভাৰত মহাসাগৰ।"
+      "en": "The Indian Ocean is the third largest ocean, lying between Africa, Asia and Australia.",
+      "as": "ভাৰত মহাসাগৰ তৃতীয় আটাইতকৈ ডাঙৰ মহাসাগৰ, যি আফ্ৰিকা, এছিয়া আৰু অষ্ট্ৰেলিয়াৰ মাজত অৱস্থিত।"
     }
   },
   {
@@ -175,8 +175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Arctic Ocean.",
-      "as": "আৰ্কটিক মহাসাগৰ।"
+      "en": "The Arctic Ocean is the smallest and shallowest ocean, lying around the North Pole.",
+      "as": "আৰ্কটিক মহাসাগৰ আটাইতকৈ সৰু আৰু অগভীৰ মহাসাগৰ, যি উত্তৰ মেৰুৰ চাৰিওফালে অৱস্থিত।"
     }
   },
   {
@@ -205,8 +205,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰ।"
+      "en": "The Pacific is also the deepest ocean, containing the Mariana Trench.",
+      "as": "প্ৰশান্ত মহাসাগৰ আটাইতকৈ গভীৰ মহাসাগৰো, য'ত মাৰিয়ানা ট্ৰেঞ্চ আছে।"
     }
   },
   {
@@ -235,8 +235,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Mariana Trench in the Pacific Ocean.",
-      "as": "প্ৰশান্ত মহাসাগৰত অৱস্থিত মাৰিয়ানা খাদ।"
+      "en": "The Mariana Trench in the western Pacific, near Guam, holds the deepest point of the world's oceans.",
+      "as": "গুৱামৰ ওচৰত পশ্চিম পেছিফিকৰ মাৰিয়ানা ট্ৰেঞ্চত পৃথিৱীৰ মহাসাগৰৰ আটাইতকৈ গভীৰ বিন্দু আছে।"
     }
   },
   {
@@ -265,8 +265,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 10,994 metres.",
-      "as": "প্ৰায় ১০,৯৯৪ মিটাৰ।"
+      "en": "The Mariana Trench reaches about 10,994 m at its deepest, deeper than Mount Everest is tall.",
+      "as": "মাৰিয়ানা ট্ৰেঞ্চৰ সৰ্বোচ্চ গভীৰতা প্ৰায় ১০,৯৯৪ মিটাৰ, যি মাউণ্ট এভাৰেষ্টৰ উচ্চতাতকৈও বেছি।"
     }
   },
   {
@@ -295,8 +295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The deepest point of the Mariana Trench.",
-      "as": "মাৰিয়ানা খাদৰ গভীৰতম বিন্দু।"
+      "en": "The Challenger Deep is the deepest point of the Mariana Trench, at about 10,935 m.",
+      "as": "চেলেঞ্জাৰ ডিপ মাৰিয়ানা ট্ৰেঞ্চৰ আটাইতকৈ গভীৰ বিন্দু, প্ৰায় ১০,৯৩৫ মিটাৰ।"
     }
   },
   {
@@ -325,8 +325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Java (Sunda) Trench.",
-      "as": "জাভা (ছুণ্ডা) খাদ।"
+      "en": "The Java, or Sunda, Trench off Indonesia, about 7,290 m deep, is the deepest trench of the Indian Ocean.",
+      "as": "ইণ্ডোনেছিয়াৰ উপকূলত প্ৰায় ৭,২৯০ মিটাৰ গভীৰ জাভা বা ছুণ্ডা ট্ৰেঞ্চ ভাৰত মহাসাগৰৰ আটাইতকৈ গভীৰ ট্ৰেঞ্চ।"
     }
   },
   {
@@ -355,8 +355,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The continuous movement of ocean water in a definite direction.",
-      "as": "নিৰ্দিষ্ট দিশত মহাসাগৰীয় পানীৰ অবিৰত গতি।"
+      "en": "An ocean current is the continuous, directed movement of ocean water driven by winds, temperature and salinity differences.",
+      "as": "সাগৰীয় সোঁত হৈছে বতাহ, তাপমাত্ৰা আৰু লৱণতাৰ পাৰ্থক্যৰ দ্বাৰা চলিত সাগৰীয় পানীৰ একেৰাহে নিৰ্দিষ্ট দিশত গতি।"
     }
   },
   {
@@ -385,8 +385,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Gulf Stream.",
-      "as": "গাল্ফ ষ্ট্ৰিম।"
+      "en": "The Gulf Stream is the largest warm current, carrying warm water from the Gulf of Mexico across the North Atlantic.",
+      "as": "গাল্ফ ষ্ট্ৰীম আটাইতকৈ ডাঙৰ উষ্ণ সোঁত, যি মেক্সিকোৰ উপসাগৰৰপৰা উত্তৰ আটলাণ্টিকজুৰি উষ্ণ পানী কঢ়িয়ায়।"
     }
   },
   {
@@ -415,8 +415,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The West Wind Drift (Antarctic Circumpolar).",
-      "as": "ৱেষ্ট ৱিণ্ড ড্ৰিফ্ট (এণ্টাৰ্কটিক ছিৰকামপোলাৰ)।"
+      "en": "The West Wind Drift, or Antarctic Circumpolar Current, is the largest cold current, flowing right around Antarctica.",
+      "as": "পশ্চিম বতাহৰ প্ৰবাহ বা এণ্টাৰ্কটিক ছাৰ্কাম্প'লাৰ সোঁত আটাইতকৈ ডাঙৰ শীতল সোঁত, যি এণ্টাৰ্কটিকাৰ চাৰিওফালে বৈ যায়।"
     }
   },
   {
@@ -445,8 +445,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Indian Ocean monsoon currents and the El Nino effect.",
-      "as": "ভাৰত মহাসাগৰীয় মৌচুমী স্ৰোত আৰু এল নিনো প্ৰভাৱ।"
+      "en": "India's climate is influenced by the Indian Ocean monsoon currents, and El Nino years often weaken the monsoon.",
+      "as": "ভাৰতৰ জলবায়ু ভাৰত মহাসাগৰৰ মৌচুমী সোঁতৰ দ্বাৰা প্ৰভাৱিত, আৰু এল নিন'ৰ বছৰবোৰত মৌচুমী প্ৰায়ে দুৰ্বল হয়।"
     }
   },
   {
@@ -475,8 +475,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Nile river of Africa.",
-      "as": "আফ্ৰিকা মহাদেশৰ নীল নদী।"
+      "en": "The Nile in Africa, about 6,650 km long, is generally regarded as the longest river in the world.",
+      "as": "আফ্ৰিকাৰ নীল নদী প্ৰায় ৬,৬৫০ কিলোমিটাৰ দীঘল আৰু সাধাৰণতে পৃথিৱীৰ আটাইতকৈ দীঘল নদী বুলি গণ্য কৰা হয়।"
     }
   },
   {
@@ -505,8 +505,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "About 6,650 kilometres.",
-      "as": "প্ৰায় ৬,৬৫০ কিলোমিটাৰ।"
+      "en": "The Nile runs about 6,650 km from Lake Victoria and the Ethiopian highlands north to the Mediterranean Sea.",
+      "as": "নীল নদী বৈকাল হ্ৰদ আৰু ইথিওপিয়াৰ উচ্চভূমিৰপৰা উত্তৰলৈ ভূমধ্য সাগৰলৈ প্ৰায় ৬,৬৫০ কিলোমিটাৰ বৈ যায়।"
     }
   },
   {
@@ -535,8 +535,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Amazon river of South America.",
-      "as": "দক্ষিণ আমেৰিকাৰ আমাজন নদী।"
+      "en": "The Amazon is the largest river by discharge, releasing about 2,09,000 cubic metres of water every second.",
+      "as": "আমাজন প্ৰবাহৰ পৰিমাণত আটাইতকৈ ডাঙৰ নদী, যি প্ৰতি ছেকেণ্ডত প্ৰায় ২,০৯,০০০ ঘন মিটাৰ পানী উলিয়াই দিয়ে।"
     }
   },
   {
@@ -565,8 +565,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Amazon basin.",
-      "as": "আমাজন অৱবাহিকা।"
+      "en": "The Amazon basin, covering about 7 million sq km, is the largest river basin in the world.",
+      "as": "প্ৰায় ৭ নিযুত বৰ্গ কিলোমিটাৰ বিস্তৃত আমাজন অববাহিকা পৃথিৱীৰ আটাইতকৈ ডাঙৰ নদী অববাহিকা।"
     }
   },
   {
@@ -595,8 +595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Amazon river.",
-      "as": "আমাজন নদী।"
+      "en": "The Amazon, about 6,400 km long, is the longest river in South America.",
+      "as": "প্ৰায় ৬,৪০০ কিলোমিটাৰ দীঘল আমাজন দক্ষিণ আমেৰিকাৰ আটাইতকৈ দীঘল নদী।"
     }
   },
   {
@@ -625,8 +625,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Yangtze river of China.",
-      "as": "চীনৰ য়াংটজে নদী।"
+      "en": "The Yangtze, about 6,300 km long, is the longest river in Asia.",
+      "as": "প্ৰায় ৬,৩০০ কিলোমিটাৰ দীঘল ইয়াংৎজি এছিয়াৰ আটাইতকৈ দীঘল নদী।"
     }
   },
   {
@@ -655,8 +655,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Volga river of Russia.",
-      "as": "ৰাছিয়াৰ ভলগা নদী।"
+      "en": "The Volga, about 3,530 km long, is the longest river in Europe and drains into the Caspian Sea.",
+      "as": "প্ৰায় ৩,৫৩০ কিলোমিটাৰ দীঘল ভল্গা ইউৰোপৰ আটাইতকৈ দীঘল নদী আৰু ই কেছ্পিয়ান সাগৰত পৰে।"
     }
   },
   {
@@ -685,8 +685,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Mississippi-Missouri river system.",
-      "as": "মিচিছিপি-মিচোৰী নদী ব্যৱস্থা।"
+      "en": "The Mississippi-Missouri system, about 6,275 km long, is the longest river system in North America.",
+      "as": "প্ৰায় ৬,২৭৫ কিলোমিটাৰ দীঘল মিছিছিপি-মিছৌৰী প্ৰণালী উত্তৰ আমেৰিকাৰ আটাইতকৈ দীঘল নদী প্ৰণালী।"
     }
   },
   {
@@ -715,8 +715,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Caspian Sea.",
-      "as": "কাস্পিয়ান সাগৰ।"
+      "en": "The Caspian Sea, about 371,000 sq km, is the largest lake in the world, though it is salt water.",
+      "as": "প্ৰায় ৩,৭১,০০০ বৰ্গ কিলোমিটাৰৰ কেছ্পিয়ান সাগৰ পৃথিৱীৰ আটাইতকৈ ডাঙৰ হ্ৰদ, যদিও ইয়াৰ পানী লৱণীয়।"
     }
   },
   {
@@ -745,8 +745,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Lake Superior in North America.",
-      "as": "উত্তৰ আমেৰিকাত অৱস্থিত চুপিৰিয়ৰ হ্ৰদ।"
+      "en": "Lake Superior, about 82,000 sq km, is the largest freshwater lake in the world by area.",
+      "as": "প্ৰায় ৮২,০০০ বৰ্গ কিলোমিটাৰৰ ছুপিৰিয়ৰ হ্ৰদ আয়তন অনুসৰি পৃথিৱীৰ আটাইতকৈ ডাঙৰ মিঠা পানীৰ হ্ৰদ।"
     }
   },
   {
@@ -775,8 +775,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Lake Baikal in Russia.",
-      "as": "ৰাছিয়াৰ বাইকাল হ্ৰদ।"
+      "en": "Lake Baikal is about 1,642 m deep and is so old and isolated that it holds over 2,000 species found nowhere else.",
+      "as": "বৈকাল হ্ৰদ প্ৰায় ১,৬৪২ মিটাৰ গভীৰ আৰু ই ইমান পুৰণি তথা বিচ্ছিন্ন যে ইয়াত ২,০০০ তকৈ অধিক এনে প্ৰজাতি আছে যি আন ক'তো নাই।"
     }
   },
   {
@@ -805,8 +805,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "About 1,642 metres.",
-      "as": "প্ৰায় ১,৬৪২ মিটাৰ।"
+      "en": "Lake Baikal reaches about 1,642 m depth and holds about one-fifth of the world's unfrozen fresh surface water.",
+      "as": "বৈকাল হ্ৰদৰ গভীৰতা প্ৰায় ১,৬৪২ মিটাৰ আৰু ইয়াত পৃথিৱীৰ বৰফ নোহোৱা পৃষ্ঠৰ মিঠা পানীৰ প্ৰায় এক-পঞ্চমাংশ আছে।"
     }
   },
   {
@@ -835,8 +835,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Lake Titicaca, in the Andes (about 3,812 metres).",
-      "as": "এণ্ডেছত অৱস্থিত টিটিকাকা হ্ৰদ (প্ৰায় ৩,৮১২ মিটাৰ)।"
+      "en": "Lake Titicaca, at about 3,812 m in the Andes, is the highest large navigable lake in the world.",
+      "as": "এণ্ডিজত প্ৰায় ৩,৮১২ মিটাৰ উচ্চতাত থকা টিটিকাকা হ্ৰদ পৃথিৱীৰ আটাইতকৈ ওখ ডাঙৰ নৌচলাচলযোগ্য হ্ৰদ।"
     }
   },
   {
@@ -865,8 +865,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Lake Victoria.",
-      "as": "ভিক্টোৰিয়া হ্ৰদ।"
+      "en": "Lake Victoria, about 68,800 sq km, is the largest lake in Africa and the source of the White Nile.",
+      "as": "প্ৰায় ৬৮,৮০০ বৰ্গ কিলোমিটাৰৰ ভিক্টোৰিয়া হ্ৰদ আফ্ৰিকাৰ আটাইতকৈ ডাঙৰ হ্ৰদ আৰু শ্বেত নীল নদীৰ উৎস।"
     }
   },
   {
@@ -895,8 +895,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The White Nile and the Blue Nile.",
-      "as": "হোৱাইট নাইল আৰু ব্লু নাইল।"
+      "en": "The Nile has two main sources: the White Nile from Lake Victoria and the Blue Nile from Lake Tana in Ethiopia.",
+      "as": "নীল নদীৰ দুটা মূল উৎস আছে: বৈকাল হ্ৰদৰপৰা শ্বেত নীল আৰু ইথিওপিয়াৰ টানা হ্ৰদৰপৰা নীল নদী।"
     }
   },
   {
@@ -925,8 +925,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The shallow submerged edge of a continent.",
-      "as": "মহাদেশৰ পানীত ডুব যোৱা অগভীৰ কিনাৰ।"
+      "en": "The continental shelf is the shallow, gently sloping submerged edge of a continent, usually less than 200 m deep.",
+      "as": "মহাদেশীয় সোপান হৈছে মহাদেশৰ এটা অগভীৰ আৰু লাহে লাহে হেলনীয়া নিমজ্জিত কাষ, সাধাৰণতে ২০০ মিটাৰতকৈ কম গভীৰ।"
     }
   },
   {
@@ -955,8 +955,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "About 35 parts per thousand.",
-      "as": "প্ৰতি হাজাৰত প্ৰায় ৩৫ ভাগ।"
+      "en": "Normal sea water has a salinity of about 35 parts per thousand, that is about 3.5 per cent dissolved salt.",
+      "as": "সাধাৰণ সাগৰীয় পানীৰ লৱণতা প্ৰতি হাজাৰত প্ৰায় ৩৫ অংশ, অৰ্থাৎ প্ৰায় ৩.৫ শতাংশ দ্ৰৱীভূত লৱণ।"
     }
   },
   {
@@ -985,8 +985,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "It has no outlet and loses water only by evaporation.",
-      "as": "ইয়াৰ পৰা পানী ওলাই যোৱাৰ পথ নাই, কেৱল বাষ্পীভৱনৰ দ্বাৰা পানী কমে।"
+      "en": "The Dead Sea has no outlet, so water leaves only by evaporation and the dissolved salts keep concentrating.",
+      "as": "মৃত সাগৰৰ কোনো বাট নাই; সেয়ে পানী কেৱল বাষ্পীভৱনৰ জৰিয়তে যায় আৰু দ্ৰৱীভূত লৱণ ক্ৰমে ঘনীভূত হয়।"
     }
   },
   {
@@ -1015,8 +1015,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The gravitational pull of the moon and the sun.",
-      "as": "চন্দ্ৰ আৰু সূৰ্যৰ মহাকৰ্ষণ শক্তিৰ বাবে।"
+      "en": "Tides are caused mainly by the gravitational pull of the moon, with a smaller contribution from the sun.",
+      "as": "জোৱাৰ-ভাটা মূলতঃ চন্দ্ৰৰ মহাকৰ্ষণীয় টানৰ ফলত হয়, সূৰ্যৰ অৰিহণা ইয়াতকৈ কম।"
     }
   },
   {
@@ -1045,8 +1045,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The highest tide at new moon and full moon.",
-      "as": "অমাৱস্যা আৰু পূৰ্ণিমাত হোৱা সৰ্বাধিক ওখ জোৱাৰ।"
+      "en": "A spring tide is the highest tide, occurring at new moon and full moon when the sun, moon and earth line up.",
+      "as": "স্প্ৰিং জোৱাৰ আটাইতকৈ ওখ জোৱাৰ, যি অমা আৰু পূৰ্ণিমাত হয়, যেতিয়া সূৰ্য, চন্দ্ৰ আৰু পৃথিৱী একে ৰেখাত থাকে।"
     }
   },
   {
@@ -1075,8 +1075,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The lowest tide at the quarter moons.",
-      "as": "চন্দ্ৰৰ প্ৰথম আৰু তৃতীয় পক্ষত হোৱা সৰ্বনিম্ন জোৱাৰ।"
+      "en": "A neap tide is the lowest tide, occurring at the first and third quarters of the moon when the sun and moon pull at right angles.",
+      "as": "নিপ জোৱাৰ আটাইতকৈ কম জোৱাৰ, যি চন্দ্ৰৰ প্ৰথম আৰু তৃতীয় পক্ষত হয়, যেতিয়া সূৰ্য আৰু চন্দ্ৰই সমকোণত টানে।"
     }
   },
   {
@@ -1105,8 +1105,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Bay of Fundy.",
-      "as": "ফাণ্ডি উপসাগৰ।"
+      "en": "The tidal range in the Bay of Fundy can reach 16 m, the greatest in the world, because of its funnel shape and resonance.",
+      "as": "ফাণ্ডী উপহ্ৰদৰ জোৱাৰৰ পাৰ্থক্য ১৬ মিটাৰ পৰ্যন্ত হ'ব পাৰে, যি পৃথিৱীত সৰ্বাধিক, কাৰণ ইয়াৰ চিৰিঙৰ আকাৰ আৰু অনুনাদ।"
     }
   },
   {
@@ -1135,8 +1135,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A ring-shaped coral reef around a lagoon.",
-      "as": "উপহ্ৰদৰ চাৰিওফালে থকা আঙঠি আকৃতিৰ প্ৰবাল প্ৰাচীৰ।"
+      "en": "An atoll is a ring-shaped coral reef that encloses a shallow lagoon, usually growing on a sunken volcanic island.",
+      "as": "এটল হৈছে বৃত্তাকৃতিৰ প্ৰৱাল প্ৰাচীৰ, যি এটা অগভীৰ লেগুন বেৰি ধৰে আৰু সাধাৰণতে ডুব যোৱা আগ্নেয় দ্বীপৰ ওপৰত বাঢ়ে।"
     }
   },
   {
@@ -1165,8 +1165,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Great Barrier Reef.",
-      "as": "গ্ৰেট বেৰিয়াৰ ৰীফ।"
+      "en": "The Great Barrier Reef off Queensland, about 2,300 km long, is the largest coral reef system in the world.",
+      "as": "কুইন্সলেণ্ডৰ উপকূলত প্ৰায় ২,৩০০ কিলোমিটাৰ দীঘল গ্ৰেট বেৰিয়াৰ ৰিফ পৃথিৱীৰ আটাইতকৈ ডাঙৰ প্ৰৱাল প্ৰাচীৰ প্ৰণালী।"
     }
   },
   {
@@ -1195,8 +1195,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The rise of cold nutrient-rich water to the surface.",
-      "as": "পুষ্টিকৰ ঠাণ্ডা পানী ওপৰলৈ উঠি অহা প্ৰক্ৰিয়া।"
+      "en": "Upwelling is the rise of cold, nutrient-rich water from the deep ocean to the surface, which supports rich fisheries.",
+      "as": "আপৱেলিং হৈছে গভীৰ সাগৰৰপৰা শীতল আৰু পুষ্টি-সমৃদ্ধ পানী পৃষ্ঠলৈ উঠা, যি সমৃদ্ধ মাছ ধৰা অঞ্চলক পুষ্টি যোগায়।"
     }
   },
   {
@@ -1225,8 +1225,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The abnormal cooling of the eastern Pacific Ocean.",
-      "as": "পূব প্ৰশান্ত মহাসাগৰৰ অস্বাভাৱিক শীতলতা বৃদ্ধি।"
+      "en": "La Nina is the abnormal cooling of the eastern Pacific Ocean and usually brings a stronger monsoon to India.",
+      "as": "লা নিনা পূব পেছিফিক মহাসাগৰৰ অস্বাভাৱিক শীতলতা আৰু ই সাধাৰণতে ভাৰতলৈ শক্তিশালী মৌচুমী আনে।"
     }
   },
   {
@@ -1255,8 +1255,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Puerto Rico Trench.",
-      "as": "পুৱেৰ্টো ৰিকো খাদ।"
+      "en": "The Puerto Rico Trench in the Atlantic, about 8,376 m deep, is the deepest trench of the Atlantic Ocean.",
+      "as": "আটলাণ্টিকৰ প্ৰায় ৮,৩৭৬ মিটাৰ গভীৰ পুৱেৰ্ত' ৰিক' ট্ৰেঞ্চ আটলাণ্টিক মহাসাগৰৰ আটাইতকৈ গভীৰ ট্ৰেঞ্চ।"
     }
   },
   {
@@ -1285,8 +1285,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Tonga Trench.",
-      "as": "টংগা খাদ।"
+      "en": "The Tonga Trench in the South Pacific, about 10,882 m deep, is the second deepest trench in the world.",
+      "as": "দক্ষিণ পেছিফিকৰ প্ৰায় ১০,৮৮২ মিটাৰ গভীৰ টংগা ট্ৰেঞ্চ পৃথিৱীৰ দ্বিতীয় আটাইতকৈ গভীৰ ট্ৰেঞ্চ।"
     }
   },
   {
@@ -1315,8 +1315,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The Ganga-Brahmaputra delta.",
-      "as": "গংগা-ব্ৰহ্মপুত্ৰৰ ব-দ্বীপ।"
+      "en": "The Ganga-Brahmaputra delta is also the world's most densely populated delta, home to over 100 million people.",
+      "as": "গংগা-ব্ৰহ্মপুত্ৰ ব-দ্বীপ পৃথিৱীৰ আটাইতকৈ ঘন জনবসতিপূৰ্ণ ব-দ্বীপও, য'ত ১০ কোটিৰো অধিক লোকৰ বাস।"
     }
   },
   {
@@ -1345,8 +1345,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Lake Tanganyika.",
-      "as": "টাংগানিকা হ্ৰদ।"
+      "en": "Lake Tanganyika is about 1,470 m deep and, like Baikal, is an ancient rift lake with many unique fish species.",
+      "as": "তাংগানিকা হ্ৰদ প্ৰায় ১,৪৭০ মিটাৰ গভীৰ আৰু বৈকালৰ দৰেই ই এটা প্ৰাচীন ফাট হ্ৰদ, য'ত বহু অনন্য মাছৰ প্ৰজাতি আছে।"
     }
   },
   {
@@ -1375,8 +1375,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Aral Sea.",
-      "as": "আৰল সাগৰ।"
+      "en": "The Aral Sea has shrunk drastically because the Amu Darya and Syr Darya were diverted for cotton irrigation.",
+      "as": "কপাহ খেতিৰ জলসিঞ্চনৰ বাবে অমু দৰিয়া আৰু ছিৰ দৰিয়া ঘূৰাই দিয়াৰ বাবে আৰল সাগৰ ভয়ংকৰভাৱে সৰু হৈ গৈছে।"
     }
   },
   {
@@ -1405,8 +1405,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Angel Falls.",
-      "as": "এঞ্জেল জলপ্ৰপাত।"
+      "en": "Angel Falls in Venezuela, with a single drop of 979 m, is the highest waterfall in the world.",
+      "as": "ভেনিজুৱেলাৰ এঞ্জেল জলপ্ৰপাতৰ এটা একক পতন ৯৭৯ মিটাৰ, যি পৃথিৱীৰ আটাইতকৈ ওখ জলপ্ৰপাত।"
     }
   },
   {
@@ -1435,8 +1435,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A flat-topped submarine mountain.",
-      "as": "চেপেটা শিখৰৰ সাগৰতলীৰ পৰ্বত।"
+      "en": "A guyot is a flat-topped submarine mountain, an old volcano whose top has been eroded by waves and then submerged.",
+      "as": "গায়'ট হৈছে সমতল শিখৰৰ সাগৰতলৰ পৰ্বত, এটা পুৰণি আগ্নেয়গিৰি যাৰ ওপৰ অংশ ঢৌৱে ক্ষয় কৰি পিছত ডুব গৈছে।"
     }
   },
   {
@@ -1465,8 +1465,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "The Gulf Stream.",
-      "as": "গাল্ফ ষ্ট্ৰিম।"
+      "en": "The Gulf Stream keeps the ports of north-west Europe, such as those of Norway and Britain, ice-free in winter.",
+      "as": "গাল্ফ ষ্ট্ৰীমে উত্তৰ-পশ্চিম ইউৰোপৰ বন্দৰ, যেনে নৰৱে আৰু ব্ৰিটেইনৰ, শীতকালত বৰফমুক্ত ৰাখে।"
     }
   },
   {
@@ -1495,8 +1495,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The Labrador Current.",
-      "as": "লাব্ৰাডৰ সোঁত।"
+      "en": "The cold Labrador Current meets the warm Gulf Stream at the Grand Banks, and the mixing produces thick fog.",
+      "as": "শীতল লেব্ৰাডৰ সোঁত গ্ৰেণ্ড বেংকছত উষ্ণ গাল্ফ ষ্ট্ৰীমৰ সৈতে মিলে, আৰু মিলনে ঘন কুঁৱলী সৃষ্টি কৰে।"
     }
   }
 ]
